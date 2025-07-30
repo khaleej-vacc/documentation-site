@@ -14,7 +14,10 @@ Tower Controller (OBBI_TWR) is responsible for all aerodrome movements on runway
 
 # **4.2 Airspace Diagram**
 
-
+<p style="text-align: left; font-style: italic;">
+Table 4.2.2. - Airspace Diagram
+</p>
+![A-DIAGRAM](https://media.discordapp.net/attachments/1291061494360051712/1400113048248782979/CTR.png?ex=688b7463&is=688a22e3&hm=aaac8212e40db714ebb0bafc271369469b2c23ba90bf291978c77dbb9f6e3c0a&=&format=webp&quality=lossless)
 
 # 4.2.1 Area of Responsibility 
 Bahrain has only one Tower position (**OBBI_TWR**) and is responsibile for all Aerodrome movemements. Refer to the figure below to view the designated Area of Responsibility. 
@@ -30,7 +33,7 @@ Table 4.2.3. - AOR 12L
 ![12L AOR](https://media.discordapp.net/attachments/1291061494360051712/1400092476190097422/AOR12L.png?ex=688b613a&is=688a0fba&hm=e0665ecd93e18a4763542545a06375b1651f9edc48432757ffa474099c5ac47f&=&format=webp&quality=lossless&width=1872&height=714)
 
 ### 4.2.4 Preferential Runway Configuration
-In Bahrain International Airport, the preferential runway is 30R for departure and arrival. In conditions of slack winds, 30s operation is preferred up to a tailwind component of 5kts. Else, 12L configuration should be applied. 
+In Bahrain International Airport, the preferential runway is 30R for departure and arrival. 30s operation is preferred up to a tailwind component of 5kts. Else, 12L configuration should be applied. 
 
 
 !!! tip "References to Use"
@@ -53,10 +56,7 @@ Table 4.3.2. - Departure points
 |        30R       |        A5, A8, A7, A5, B1.       |
 |        12L      |        A3, A2, A1, B1.       |
 
-#4.3.3 Take-off Clearances 
-- One of the main responsibilities of a Tower Controller is to issue proper takeoff clearances. 
-- Take offs shall be separated on departure in compliance with standard IFR departure separation minima.
-- Succeeding aircraft with the same Bahrain FIR exit point shall be separated by a minimum of two minutes.
+#4.3.3 Take-off/Landing Clearances 
 
 ### 4.3.4 Takeoff Headings 
 
@@ -81,7 +81,7 @@ Table 4.3.2. - Departure points
 - In your takeoff clearance, you must ensure all departure headings are given based on their given route which you can find in the departure list 'T/O HDG' section. 
 
 ### 4.3.6. IFR handoff procedure
-IFR departures shall be handed off to the appropriate departure controller when passing an altitude of **800ft**
+IFR departures shall be handed off to the appropriate departure controller when passing an altitude of **800ft.**
 
 ### 4.3.7 **Stopping a departure**
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
@@ -97,4 +97,49 @@ Example:
 > Controller: "FDB687, HOLD POSITION, cancel take-off, I say again cancel take-off, aircraft entering the runway."
 
 
-# 4.4 Arrival Procedures
+### 4.3.8 Landing Phraseology 
+
+ >Pilot: "UAE30Y 10 miles out runway 30R, established ILS 30R."
+
+ - Pilot has reported 10 miles away from the localiser, (10DME). You must ensure the runway is unoccupied by any other traffic prior to giving a landing clearance. 
+
+> Controller: **"UAE30Y, surface winds (calm) runway 30R cleared to land.**
+
+
+---
+
+# 4.4 Seperation Requirements 
+###4.4.1 General 
+At Bahrain, the Tower Controller is responsible to ensure adequate seperation is maintained for both Departures and Arrivals. 
+
+###4.4.2 Take-off Seperation Requirements
+> - All departures in Bahrain are seperated every **two minutes** irrespective of their aircraft type.
+> - ICAO Seperation (in terms of wake turbulence) must enforced in Bahrain at all times. 
+
+###4.4.3 Speed Control
+A Tower controller may be able to seperate traffic on the localiser through utilising tactical speed control. Refer to the example below to note down the phraseology. As a reminder, ICAO seperation should be enforced. To reference, search the ICAO seperation minima chart. 
+
+!!!tip "When can you utilise proper speed control?"
+    - To ensure the preceeding aircraft vacates the runway in time and to remove unnecesary pressure, you may ask the pilot to reduce to final approach speed. 
+    - By instructing pilots to reduce to their final approach speed, this should increase the seperation on the localiser. 
+
+> **Controller**: "GFA510 Bahrain Tower, continue approach runway 30R, reduce to final approach speed. 
+
+!!!do "Do Note"
+    Bahrain Approach/Radar may place speed restrictions to ensure seperation in the TMA prior to entering the localiser. Once traffic has been transferred to you, it is **your responsibility** to maintain the seperation until the traffic passes the runway threshold. 
+
+###4.4.4 Go around procedure
+- A go around may be issued/conducted by the Tower Controller or Pilot. As a Tower Controller, if at any time seperation is lost and the landing is unsuitable based on the aforementioned criteria, it is your responsibility to issue a missed approach. 
+- The go around **must** be coordinated with the TMA controller with a reasoning. 
+
+> **Controller:** Go around, I say again, go around acknowledge.
+
+> **Pilot:** Go around. 
+
+> **Controller:** Fly runway heading, climb altitude 2500ft. Contact Bahrain Approach 127.850. 
+
+ Go arounds should be avoided at all times, however, you hold the responsibility to make correct decisions. 
+
+ ---
+
+ # 4.5 VFR Procedures
