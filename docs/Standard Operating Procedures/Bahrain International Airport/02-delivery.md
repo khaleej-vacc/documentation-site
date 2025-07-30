@@ -7,7 +7,7 @@ title: Bahrain Delivery [OBBI_DEL]
 !!!node "Covering"
     This section details all the necessary and required Standard Operating Procedures for **Delivery** Operations at **Bahrain International Airport (OBBI)**
 
-# 1. General Provisions 
+# 1. Bahrain Delivery
 Bahrain Delivery (OBBI_DEL) is responsible for validating flight plans and issuing IFR/VFR clearances to departing aircraft. This includes thoroughly reviewing the filed route by the pilot, ensuring the correct altitude or flight level (FL) has been filed in accordance with their direction of flight and issuing the crew with a clearance in accordance with the departures procedures laid out at Bahrain International Airport (OBBI). In the event a pilot incorrectly files a flight plan (FPL) it will be the responsibility of the delivery controller to rectify the flight plan (FPL) in coordination with the pilot prior to allowing the aircraft to depart. 
 
 # 2. Departure Clearance
