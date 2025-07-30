@@ -19,9 +19,17 @@ Tower Controller (OBBI_TWR) is responsible for all aerodrome movements on runway
 # 4.2.1 Area of Responsibility 
 Bahrain has only one Tower position (**OBBI_TWR**) and is responsibile for all Aerodrome movemements. Refer to the figure below to view the designated Area of Responsibility. 
 
+<p style="text-align: center; font-style: italic;">
+Table 4.2.2. - AOR 30R
+</p>
 ![30R AOR](https://media.discordapp.net/attachments/1291061494360051712/1400089018108088320/AOR30R1.png?ex=688b5e02&is=688a0c82&hm=262e6a1dfdffe435fd0472a6cb152395a6a4ec0fe83c5e3d6e21fcd206596d0a&=&format=webp&quality=lossless&width=1872&height=714)
 
-### 4.2.2 Preferential Runway Configuration
+<p style="text-align: center; font-style: italic;">
+Table 4.2.3. - AOR 12L
+</p>
+![12L AOR](https://media.discordapp.net/attachments/1291061494360051712/1400092476190097422/AOR12L.png?ex=688b613a&is=688a0fba&hm=e0665ecd93e18a4763542545a06375b1651f9edc48432757ffa474099c5ac47f&=&format=webp&quality=lossless&width=1872&height=714)
+
+### 4.2.4 Preferential Runway Configuration
 In Bahrain International Airport, the preferential runway is 30R for departure and arrival. In conditions of slack winds, 30s operation is preferred up to a tailwind component of 5kts. Else, 12L configuration should be applied. 
 
 
