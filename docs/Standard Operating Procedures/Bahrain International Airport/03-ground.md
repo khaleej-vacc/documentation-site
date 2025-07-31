@@ -10,10 +10,14 @@ title: Bahrain Ground [OBBI_GND]
 # 1. General Provisions
 Bahrain Ground is responsible for managing aircraft movements on the ground within the airports operational area, excluding runways. The Ground (SMC) controller provides pushback and taxi instructions for departing aircraft to their assigned runway holding point, while arriving aircraft are given taxi instructions from the arrival runway to their designated stand. 
 
+----------
+
 # 2. Designated Areas of Responsibility
 **Bahrain International Airport (OBBI)** feautures one primary Ground Movement Control Position (SMC). It's primary role is to ensure safe movement and efficent movement of aircraft on the ground. 
 
 INSERT IMAGE HERE
+
+----------
 
 # 3. Procedures 
 The below procedures are in place to ensure SMC controllers are all trained to a sufficent standard and to ensure consistent operations between controllers and to pilots operating in and out of Bahrain International Airport. 

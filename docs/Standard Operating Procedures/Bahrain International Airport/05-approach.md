@@ -10,6 +10,8 @@ title: Bahrain Approach [OBBI_APP]
 
 **Bahrain Approach (APP)** is responsible for providing surveillance based seperation services for arriving and departing aircraft within the Bahrain **Terminal Maneuvering Area (TMA)**. The APP Controller is also responsible for ensuring safe and efficent flow of arriving, departing and transiting aircraft within it's airspace.
 
+----------
+
 # 2. Airspace 
 The **Bahrain Terminal Maneuvering Area (TMA)** is an airspace with split classifications that reaches a maximum of FL170, its lateral boundaries include the Kingdom of Bahrain and the surrounding waters and borders. 
 
@@ -53,6 +55,8 @@ The **Bahrain Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of
 |               **P42**              |      GND- UNLTD     |   Permanent  |
 |               **R66**              |     GND - UNLTD     |   Permanent  |
 
+----------
+
 # 3. ATS Positions 
 
 The following are the ATS Positions relevant to the **Bahrain Approach** Controller (APP). 
@@ -66,3 +70,7 @@ The following are the ATS Positions relevant to the **Bahrain Approach** Control
 |    Bahrain Radar   |     OBBB_1_CTR     |        ACC       |    127.525    |
 |     Doha Control   |     OTDF_1_CTR     |       ACC N      |    135.725    |
 |   Jeddah Control   |     OEJD_1_CTR     |       ACC 1      |    126.500    |
+
+----------
+
+# 4. Designated Areas of Responsibility
