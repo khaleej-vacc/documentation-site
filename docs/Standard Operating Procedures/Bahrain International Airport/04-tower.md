@@ -16,21 +16,21 @@ Bahrain Tower (TWR) is responsible for all aerodrome movements on runways and th
 **Bahrain International Airport** feautures one Tower Position (**TWR**), please find the below diagrams which outlines the desiginated areas of responsibility.
 
 <p style="text-align: center; font-style: italic;">
-Table 4.2.2. - AOR 30R
+Table 2.0.1. - AOR 30R
 </p>
 ![30R AOR](https://media.discordapp.net/attachments/1291061494360051712/1400089018108088320/AOR30R1.png?ex=688b5e02&is=688a0c82&hm=262e6a1dfdffe435fd0472a6cb152395a6a4ec0fe83c5e3d6e21fcd206596d0a&=&format=webp&quality=lossless&width=1872&height=714)
 
 <p style="text-align: center; font-style: italic;">
-Table 4.2.3. - AOR 12L
+Table 2.0.2. - AOR 12L
 </p>
 ![12L AOR](https://media.discordapp.net/attachments/1291061494360051712/1400092476190097422/AOR12L.png?ex=688b613a&is=688a0fba&hm=e0665ecd93e18a4763542545a06375b1651f9edc48432757ffa474099c5ac47f&=&format=webp&quality=lossless&width=1872&height=714)
 
 ## 2.1 Airspace
 **Bahrain International Airport (OBBI)** Control Zone (CTR) is Class D Airspace and is centered around the aerodrome. It's vertical limits are SFC to 2500ft.
-
-**INSERT IMAGE**
-
-----------
+<p style="text-align: center; font-style: italic;">
+Table 2.1.1. - Bahrain Control Zone (CTR)
+</p>
+![CTR](https://cdn.discordapp.com/attachments/1326913429503742025/1400247738708525156/NEW.png?ex=688bf1d4&is=688aa054&hm=2ca65f9943f330619b0a28b338de6d91a7133a8cb88bc36c30fa0201a664fe09&)
 
 # 3. Runway Configurations
 

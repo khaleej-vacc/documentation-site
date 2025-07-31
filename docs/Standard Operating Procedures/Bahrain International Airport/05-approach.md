@@ -23,7 +23,10 @@ The airspace is in the **Bahrain Terminal Maneuvering Area (TMA)** doesn't allow
 | Terminal Maneuvering Area |  Bahrain TMA |     C     |    4500ft - FL150   |    OBBI_APP    |
 | Terminal Maneuvering Area |  Bahrain TMA |     A     |    FL150 - FL170    |    OBBI_APP    |
 
-**INSERT IMAGE**
+<p style="text-align: center; font-style: italic;">
+Table 2.0.1. - Bahrain Terminal Maneuvering Area (TMA)
+</p>
+![TMA](https://cdn.discordapp.com/attachments/1326913429503742025/1400164553337081907/TMA2.png?ex=688ba45b&is=688a52db&hm=bd200477465305020843971d5cf67a0a0ddfa8455793e04ecb45a83dafe896e3&)
 
 ## 2.1 Transition Altitude and Level
 The transition altitude and level in Bahrain is consistent with the Gulf Region. 
@@ -41,9 +44,10 @@ Both Isa and Sakhir Airbase are military airfields to which we do not provide AT
 
 ## 2.3 Surrounding Airspace 
 The **Bahrain Terminal Maneuvering Area (TMA)** is surrounded by both Saudi Arabia to the West and Qatar to the South. As APP Controller in Bahrain you have to work closely with the adjacent controlling units to ensure safe and efficent operations within the TMA. 
-
-**INSERT IMAGE**
-
+<p style="text-align: center; font-style: italic;">
+Table 2.3.1. - Surrounding Airspace
+</p>
+![SA](https://cdn.discordapp.com/attachments/1326913429503742025/1400250005528252587/app-sur-l.png?ex=688bf3f0&is=688aa270&hm=9a56595f5734ae8926083ea63b935591f8dc28579170bc18fbdee9617af5a044&)
 ## 2.4 Restricted Airspace
 The **Bahrain Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of Airspace which must not be encroached at any time unless given approval by the APP Controller for operations in/out of **Isa Airbase (OBBS)** or **Sakhir Airbase (OBKH)**. 
 
@@ -64,6 +68,7 @@ The following are the ATS Positions relevant to the **Bahrain Approach** Control
 | **Radio Callsign** | **Logon Callsign** | **Abbreviation** | **Frequency** |
 |:------------------:|:------------------:|:----------------:|:-------------:|
 |    Bahrain Tower   |      OBBI_TWR      |        TWR       |    118.500    |
+|   Dammam Approach  |      OEDF_L_APP    |       APP L      |    126.100    |
 |   Dammam Approach  |      OEDF_APP      |       APP 1      |    126.300    |
 |     Doha Radar     |     DOH_R1_APP     |       RDR N      |    121.100    |
 |    Bahrain Radar   |     OBBB_CL_CTR    |        ACC       |    122.300    |
