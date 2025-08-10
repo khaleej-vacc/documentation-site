@@ -168,6 +168,17 @@ When the aircraft reports ready for engine start up they will be transferred to 
 ### 2.3.2 VFR Departures Leaving the Control Zone (CTR)
 For pilots filing VFR Flight Plans (FPLs) to leave the **Bahrain Control Zone (CTR)**, again the DLV Controller must coordinate this promptly with the TWR Controller, who will coordinate with the APP Controller as to whether they can both accept the aircraft in their respective airspace. The TWR Controller will be responsible for providing the DLV Controller with a **Visual Reporting Point (VRP)** to be cleared via depending on the aircrafts filed routing or direction of flight. Once approved, the **DLV Controller** will issue a clearance to the aircraft. 
 
+#### 2.3.2.1 VFR Zone Entry/Exit Points
+
+| **Identifier** |  **Name**  | **Radial & DME from BHR VOR/DME** |     **Coordinates**    |
+|:--------------:|:----------:|:---------------------------------:|:----------------------:|
+|       N1       | November 1 |         020 Degrees / 6nm         | 262059.85N  504157.35E |
+|       N2       | November 2 |         350 Degrees / 2nm         |  261729.13N 503902.73E |
+|        E       |    Echo    |         160 Degrees / 6nm         |  260945.38N 504116.75E |
+|       S1       |  Sierra 1  |         230 Degrees / 4nm         |  261304.73N 503546.62E |
+|       S2       |  Sierra 2  |        270 Degrees / 1.5nm        |  261533.39N 503738.75E |
+|        W       |   Whiskey  |        270 Degrees / 7.5nm        |  261553.19N 503059.68E |
+
 ***VFR Zone Exit Clearance Example***
 
 > **DLV Controller:** _**"A9C-ZZ, You are cleared to exit the Control Zone, via Whiskey VRP, not above altitude 2500ft VFR, Squawk 7001"**_
