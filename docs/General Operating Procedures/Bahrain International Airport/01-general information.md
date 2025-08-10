@@ -20,7 +20,7 @@ title: General Information
 | Runway | Dimensions  | True Bearing | Elevation |
 |--------|-------------|--------------|-----------|
 | 30R    | 3964M x 60M | 300          | 8ft       |
-| 12L    | 3964 x 60M  | 120          | 8ft       |
+| 12L    | 3964M x 60M | 120          | 8ft       |
 
 # Declared Distances
 | Runway | TORA (M) | TODA (M) | ASDA (M) | LDA (M) |
@@ -35,7 +35,7 @@ Airspaces
 
 |         Airspace Type         |   Airspace  | Class | Vertical Limits | Controller |
 |:-----------------------------:|:-----------:|:-----:|:---------------:|------------|
-|        **Bahrain CTR**        | Bahrain CTR |   D   |   SFC - 2500ft  |  OBBI_TWR  |
+|        **Control Zone**       | Bahrain CTR |   D   |   SFC - 2500ft  |  OBBI_TWR  |
 | **Terminal Maneuvering Area** | Bahrain TMA |   D   | 1000ft - 4500ft |  OBBI_APP  |
 | **Terminal Maneuvering Area** | Bahrain TMA |   C   |  4500ft - FL150 |  OBBI_APP  |
 | **Terminal Maneuvering Area** | Bahrain TMA |   A   |  FL150 - FL170  |  OBBI_APP  |
@@ -49,13 +49,3 @@ Airspaces
 |  **Bahrain Ground**  |      OBBI_GND      |        SMC       |       121.850       |
 |   **Bahrain Tower**  |      OBBI_TWR      |        TWR       |       118.500       |
 | **Bahrain Approach** |      OBBI_APP      |        APP       |       127.850       |
-
-# SOP Ammendments Records
-
-| **SOP Type** | **Revision** | **Changes** | **Prepared By** | **Approved By** |
-|:------------:|:------------:|:-----------:|:---------------:|-----------------|
-|              |              |             |                 |                 |
-|              |              |             |                 |                 |
-|              |              |             |                 |                 |
-|              |              |             |                 |                 |
-|              |              |             |                 |                 |
