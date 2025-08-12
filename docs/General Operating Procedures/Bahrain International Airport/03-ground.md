@@ -1,7 +1,7 @@
 ---
 title: Bahrain Ground [OBBI_GND]
-toc_min_heading_level: 1
-toc_max_heading_level: 10
+toc_min_heading_level: 2
+toc_max_heading_level: 5
 ---
 
 # **Bahrain Ground [OBBI_GND]**
