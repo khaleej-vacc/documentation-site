@@ -1,5 +1,7 @@
 ---
 title: Bahrain Ground [OBBI_GND]
+toc_min_heading_level: 1
+toc_max_heading_level: 10
 ---
 
 # **Bahrain Ground [OBBI_GND]**
@@ -8,7 +10,7 @@ title: Bahrain Ground [OBBI_GND]
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
-|   Version 1  |         TBA        | Initial Publication |
+|   Version 1  |       13AUG25      | Initial Publication |
 
 ----
 

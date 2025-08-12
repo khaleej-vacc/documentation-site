@@ -8,7 +8,7 @@ title: Kuwait Delivery [OKKK_DEL]
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
-|   Version 1  |         TBA        | Initial Publication |
+|   Version 1  |       13AUG25      | Initial Publication |
 
 ----
 
