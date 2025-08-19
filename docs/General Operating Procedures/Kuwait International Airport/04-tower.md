@@ -1,5 +1,7 @@
 ---
 title: Kuwait Tower [OKKK_TWR]
+toc_min_heading_level: 2
+toc_max_heading_level: 5
 ---
 
 # Kuwait Tower [OKKK_TWR]
@@ -8,7 +10,7 @@ title: Kuwait Tower [OKKK_TWR]
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
-|   Version 1  |         TBA        | Initial Publication |
+|   Version 1  |       13AUG25      | Initial Publication |
 
 ----
 
