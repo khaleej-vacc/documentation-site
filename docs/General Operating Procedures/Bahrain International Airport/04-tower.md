@@ -33,7 +33,7 @@ Below you can find a top down view of the **Bahrain Control Zone**.
 ## 3.1 Runway Selection 
 At **Bahrain International Airport (OBBI)**, the preferential runway is 30R for departure and arrival which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then runway 12L should be used for arrivals and departures.
 
-!!! tip "References to Use" 
+!!! tip "References to use!" 
     - You can always refernece real world sources! However, this should NEVER become a reliance. 
     
     - All Controllers should bare the ability to read weather and make an assessment on what the active runway in use should be.
@@ -48,7 +48,7 @@ Aircraft can be re-issued with a departure clearance.
 ## 3.2 Line Up Procedures 
 The **TWR Controller** must issue clear and precise instructions when issuing aircraft with an instruction to line up on the active runway. There should be no delay and must include the following information: 
 
-- The Correct Runway Designator.
+- The correct runway designator.
 - The Holding Point at which the aircraft is to enter the runway by. 
 - Any relevant traffic information. 
 
@@ -64,7 +64,7 @@ Example:
 > **TWR Controller:** _**"GFA087, behind the landing Qatar Airbus A320, 3 mile final, line up and wait RWY30R via A9, behind"**_ 
 
 !!!node "Vitally Important" 
-    The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic
+    The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic.
 
 ### 3.2.2 Conditional Line Up Clearance (Departing Traffic) 
 The **TWR Controller** can also issue a conditional line up clearance for traffic waiting to depart behind a departing aircraft ahead of him. Again, this must be done efficently and precisly to prevent any runway incursions or misunderstanding. 
@@ -96,14 +96,14 @@ Aircraft should only be given take off clearance once the runway is clear of obs
 
 Example: 
 
-> **TWR Controller:** _**"GFA023, After Departure Fly Heading 345 Degrees, Surface Wind 300 Degrees at 12 knots, Runway 30R, Cleared for takeoff"**_
+> **TWR Controller:** _**"GFA023, after departure fly heading 345 degrees, surface wind 300 Degrees at 12 knots, Runway 30R, cleared for takeoff"**_
 
 ### 3.3.3 Handing Off 
 Once the aircraft has taken off and a postive rate of climb can be seen **(typically passing 800ft)** they should be informed to contact the **Approach Controller** with their passing altitude. 
 
 Example: 
 
-> **TWR Controller:** _**"GFA023, report your passing altitude to Bahrain Approach 127.850, Goodbye"**_
+> **TWR Controller:** _**"GFA023, contact Bahrain Approach 127.850, goodbye."**_
 
 ### 3.3.4 Wake Separation 
 Time based separation is utilised at Bahrain to ensure separation between various wake turbulence catergories is maintained. 
@@ -147,7 +147,9 @@ For an aircraft that has not yet begun the take off roll the following phraseolo
 
 Example:
 
-> **TWR Controller:** _**"FDB687, hold position, cancel take off, I say again, cancel take off due runway incursion"**_
+> **TWR Controller:** _**"FDB687, hold position, cancel take off, I say again cancel take-off due to vehicle on the runway."**_
+
+---
 
 ## 3.4 Arrival Procedures 
 The **TWR Controller** is responsible for issuing traffic landing clearance. They must ensure that separation is maintained on the approach between all aircraft and that all arriving aircraft have a clear unobstructed runway with an issued clearance no later than 2nm from touchdown. 
@@ -156,12 +158,12 @@ The **TWR Controller** is responsible for issuing traffic landing clearance. The
 
 Example:
 
-> **TWR Controller:** _**"BCS555, Surface Winds 300 Degrees at 10 knots, Runway 30R, Cleared to land"**_
+> **TWR Controller:** _**"BCS555, surface winds 300 Degrees at 10 knots, Runway 30R, cleared to land"**_
 
 #### 3.4.1.1 Late Landing Clearance 
 In the event traffic may be issued a late landing clearance due to traffic departing ahead of them or vacating slowly they can be issued a late landing clearance, however, the landing traffic must be issued a landing clearance no later than 2nm from touchdown. 
 
-> **TWR Controller:** _**"BCS555, Expect late landing clearance, one to vacate ahead"**_
+> **TWR Controller:** _**"BCS555, expect late landing clearance, one to vacate ahead"**_
 
 ### 3.4.2 Preferred Exit Points
 In order to ensure minimum runway occupancy time pilots are expected to vacate the active runway by the taxiways. 
@@ -187,13 +189,13 @@ The SMC Controller (if online) has the responsibility to ensure all aircraft on 
 
 Example: 
 
-> **TWR Controller:** _**"BCS555, Welcome to Bahrain, left turn on taxiway Alpha, hold short of taxiway Sierra, Contact Bahrain Ground 121.850"**_
+> **TWR Controller:** _**"BCS555, welcome to Bahrain, left turn on taxiway Alpha, hold short of taxiway Sierra, contact Bahrain Ground 121.850"**_
 
 ### 3.4.4 Separation Requirements 
 Within the **Bahrain Control Zone (CTR)** the TWR Controller is responsible for ensuring adequate separation exists between all traffic, this includes vertically and laterally to ensure safe and efficient operation. 
 
 #### 3.4.4.1 Longitudinal Separation (Lateral) 
-Aircraft arriving into Bahrain on the final approach to RWY12L/30R must be separated by at least 3nm. 
+Aircraft arriving into Bahrain on the final approach to RWY12L/30R must be separated by a minimum of 3nm. 
 
 #### 3.4.4.2 Speed Control 
 Though the **TWR Controller** is not able to issue aircraft with a measurement of speed they can advise aircraft to reduce to their minimum final approach speed if separation on the approach is starting to look like it may not work.

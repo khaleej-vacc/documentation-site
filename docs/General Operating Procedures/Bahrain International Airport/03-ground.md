@@ -22,7 +22,7 @@ In the absence of the DLV Controller the SMC Controller will take on those roles
 ---
 
 <p align="center">
-  <strong>AREA OF RESPONSIBILITY</strong><br>
+  <strong>1.1 - AREA OF RESPONSIBILITY</strong><br>
 </p>
 ![Fail to load Image.](img/AOR30R.png)
 
@@ -36,7 +36,7 @@ The **SMC Controller** is responsible for providing departing aircraft with a pu
 
 Example:
 
-> **SMC Controller:** _**"GFA250, Stand 22, push and start approved facing west on on Taxiway Zulu, QNH1022"**_
+> **SMC Controller:** _**"GFA250, stand 22, push and start approved facing west on on Taxiway Zulu, QNH1022"**_
 
 Once the push back clearance has been issued the **SMC Controller** should ensure they update the tag to provide all controllers with additional situational awareness. 
 
@@ -47,7 +47,7 @@ In some cases you may have an inbound aircraft taxiing to a stand on the apron w
 
 Example:
 
-> **SMC Controller:** _**"GFA250, behind the Emirates Airbus A350 taxiing from your right to left, Stand 22, push and start is approved facing west on Taxiway Zulu, QNH1022"**_
+> **SMC Controller:** _**"GFA250, behind the Emirates Airbus A350 taxiing from your right to left, Stand 22, push and start is approved facing west on Taxiway Zulu, QNH 1022."**_
 
 ### 2.1.2 Simulataneous Pushback Operations
 **Simulataneous Pushback Operations** can be conducted at Bahrain. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
