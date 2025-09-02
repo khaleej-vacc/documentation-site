@@ -30,7 +30,7 @@ It is the responsibility of the **DLV Controller** to issue clearances to depart
 - Stand Number
 - Aircraft Type
 - Current ATIS Information Code they are in receipt of
-- Current QNH as reported in the ATIS. 
+
 
 The DLV Controller should ensure that both the **aircraft stand number and aircraft type** are confirmed by the pilot prior to issuing them with a departure clearance. Any departure clearance issued should be valid against the RouteChecker with a flight level that is **appropiate for the direction of flight**. 
 
@@ -44,7 +44,7 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **DLV Controller:** _**"JZR101, You are cleared to Bahrain, via the BOXIK4E Departure, climb initially altitude 4000ft, squawk 4212"**_
+> **DLV Controller:** **"JZR101, cleared to Bahrain, via the BOXIK4E Departure, climb initially altitude 4000ft, squawk 4212"**
 
 !!!node "Departure Runway?"
     It is not a requirement for the DLV Controller to issue the departure runway in the IFR Clearance, it is expected the pilot has correctly listened to the D-ATIS
@@ -53,16 +53,18 @@ The DLV Controller **must** obtain a full and correct read back of the departure
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"JZR101, Negative. You are cleared to Bahrain via the BOXIK4E Departure, climb initially altitude 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"JZR101, Negative. Cleared to Bahrain via the BOXIK4E Departure, climb initially altitude 4000ft, squawk 4212"**_
 
 !!!node "Be Paitent and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
 
-Once the pilot has correctly read back the clearance, if the pilot did not provide the Current ATIS Letter and/or QNH on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
+Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter, you must provide it.
 
-> **DLV Controller:** _**"JZR101, Read Back is correct, Information Alpha is current, QNH 1001"**_
+> **DLV Controller:** _**"JZR101, read back is correct, Information Alpha is current, report fully ready for push and start."**_
 
-When the aircraft has reported ready for push and start they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.** 
+When the aircraft has reported ready for push and start they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and is squawking his assigned transpoder code.** 
+
+> **DLV Controller:** **JZR101, hold position, contact Kuwait Ground 121.700.**
 
 ### 2.1.1 Datalink Clearances (DCL)
 Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DLV Controller. This service can only be provided to pilots whom's aircraft has sufficent systems installed such as ACARS to send and receive text messages from a controlling unit. 
@@ -147,22 +149,25 @@ Once **Kuwait Delivery (DLV)** has recieved confirmation from the TWR controller
 
 ***VFR Circuit Clearance Example***
 
-> **DLV Controller:** _**"9K-VFR, You are cleared right hand visual circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
+> **DLV Controller:** _**"9K-VFR, cleared right hand visual circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"9K-VFR, Negative. You are cleared, right hand visual circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
+> **DLV Controller:** _**"9K-VFR, Negative. Cleared right hand visual circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
 
 !!!node "Be Paitent and Assist"
     If you are required to challenge a pilot for a correct readback, readback it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
 
-Once the pilot has correctly read back the clearance, if the pilot did not provide the Current ATIS Letter and/or QNH on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
+Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS Letter, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **DLV Controller:** _**"9-FR, Read Back is correct, Information Alpha is current, QNH 1001"**_
+> **DLV Controller:** _**"9-FR, read back correct, Information Alpha is current, report ready for startup."**_
 
-When the aircraft reports ready for engine start up they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.**
+When the pilot requests startup, ensure he has set the correct transponder code. If he is squawking the assigned code, switch them to GND or any facility higher. 
+
+> **DLV Controller:** _**"9-FR, hold position, contact Kuwait Ground 121.700."**_
+
 
 !!!node "Callsign Shortening" 
     After initial contact has been made and established with the aircraft, you can shorten the callsign from 9K-VFR to 9-FR, read as Niner - Foxtrot - Romeo. This is to reduce frequency congestion.
