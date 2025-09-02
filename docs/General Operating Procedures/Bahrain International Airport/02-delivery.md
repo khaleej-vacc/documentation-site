@@ -15,23 +15,23 @@ toc_max_heading_level: 5
 ----
 
 # Chapter 1. Position Overview 
-**Bahrain Delivery (DLV)** provides aircraft with a full departure clearance and is responsible for passing the local QNH as well as verifying the aircraft type of the departing aircraft. DLV Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct initial heading after departure, temporary altitude and assigned squawk code. 
+**Bahrain Delivery (DLV)** provides aircraft with a departure clearance and is responsible for passing the ATIS (Automatic Terminal Information Service) to the pilot. DLV Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct initial heading after departure, the initial altitude and assigned squawk code. 
 
-Once clearance has been issued and readback correctly from the pilot the DLV controller will transfer the aircraft to the SMC controller when they report they are ready for pushback and start. During busy periods the SMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures. 
+Once clearance has been issued and readback correctly from the pilot the DLV controller will transfer the aircraft to the SMC controller when they report they are ready for pushback and start. During busy periods the SMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
 
 ----
 
 # Chapter 2. GEN | General Operating Procedures 
 
 ## 2.1 Issuing IFR Clearances 
-It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. Pilots are expected to report the following information on initial contact with the **DLV Controller** when requesting clearance. 
+It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. You might expect the following information to be passed from the pilot tot he **DLV Controller** on initial contact.
 
-- Stand Number
-- Aircraft Type
-- Current ATIS Information Code they are in receipt of
+- Stand Number.
+- Aircraft Type.
+- Current ATIS Information Code they are in receipt of.
 - Current QNH as reported in the ATIS. 
 
-The DLV Controller should ensure that both the **aircraft stand number and aircraft type** are confirmed by the pilot prior to issuing them with a departure clearance. Any departure clearance issued should be valid against the RouteChecker with a flight level that is **appropiate for the direction of flight**. 
+----
 
 An **IFR Clearance** should have the following information in this order: 
 
@@ -44,28 +44,28 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **DLV Controller:** _**"GFA178, You are cleared to Dubai via the N697 Airway to SODAK, after departure fly heading 345 degrees, initial altitude 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, cleared to Dubai via the N697 Airway to SODAK, after departure fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"GFA178, Negative. You are cleared to Dubai via the N697 Airway to SODAK, after departure fly heading 345 degrees, initial altitude 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, Negative. Cleared to Dubai via the N697 Airway to SODAK, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
 
 !!!node "Be Paitent and Assist"
-    If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
+    If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
 
-Once the pilot has correctly read back the clearance, if the pilot did not provide the Current ATIS Letter and/or QNH on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
+Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **DLV Controller:** _**"GFA178, Read Back is correct, Information Alpha is current, QNH 1001"**_
+> **DLV Controller:** _**"GFA178, read back is correct, information Alpha is current, report when ready for push and start."**_
 
-When the aircraft has reported ready for push and start they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.** 
+When the aircraft has reported ready for push and start they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter.** 
 
 ### 2.1.1 Airway Clearances
 Due to the lack of Standard Instrument Departures out of Bahrain all aircraft should provided with an airway clearance followed by an initial heading to fly after departure. 
 The initial heading that the aircraft is given is based on their direction of flight (see Section 2.2 Departure Procedures) however the initial heading is to take them in the direction of the airway they have filed from the **BHR VHF Omnidirectional Range (VOR)**. 
 
-The BHR VOR is located on the approach path to RWY30R prior to the threshold, this VOR has multiple airways associated to it, pilots will typically file a Flightplan (FPL) which starts at BHR then an airway to take them into en-route environment. 
+The BHR VOR is located on the approach path to RWY30R prior to the threshold, this VOR has multiple airways associated to it, pilots will typically file a flightplan (FPL) which starts at BHR then an airway to take them into en-route environment. 
 
 So an aircraft with the following route string **BHR A453 DAVUS** would be cleared to their destination via the A453 Airway to DAVUS. 
 
@@ -84,12 +84,12 @@ If a pilot calls on frequency before you have the chance to send the **private m
 You can use tools such as SimBrief to provide pilots with valid routings. **Khaleej vACC** actively ensures routes are updated in SimBrief for pilots to use. 
 
 ### 2.1.4 Filed Flight Levels 
-**Bahrain Delivery (DLV)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If Pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
+**Bahrain Delivery (DLV)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
 
 Bahrain utilises the Semi-Circular Rule. Flights flying Westbound should file **Even** levels and flights flying Eastbound should file **Odd** levels. 
 
 ### 2.1.5 Flight Level Capping 
-Multiple destinations across the Gulf Region have level capped routings due to operational reasons. The DLV Controller shall ensure adherence to the below table, it is the responsibility of the DLV Controller to ensure aircraft have filed a correct level in the their flight plan prior to issuing a clearance. If an incorrect level has been filed the DLV Controller shall inform the pilot that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routings. 
+Multiple destinations across the Gulf Region have level capped routings due to operational reasons. The DLV Controller shall ensure adherence to the below table, it is the responsibility of the DLV Controller to ensure aircraft have filed a correct level in the their flight plan prior to issuing a clearance. If an incorrect level has been filed the DLV Controller shall inform the pilot (through private message/on frequency) that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routings. 
 
 | **Destination** | **Max Altitude / Flight Level** |
 |:---------------:|:-------------------------------:|
@@ -105,7 +105,7 @@ When A-CDM procedures are active (typically during busy events), pilots must rep
 
 The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
 
-Please note TOBTs are only issued during certain events, this will outlined to via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event.
+Please note TOBTs are only issued during certain events, this will outlined to via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event. You are required to tell the appropriate member of staff if you're not familiar with A-CDM procedures. 
 
 ## 2.2 Departure Procedures
 Bahrain does not have any published Standard Instrument Departures (SIDs). Instead, Delivery will assign an initial heading to departing aircraft. 
@@ -147,22 +147,13 @@ Once **Bahrain Delivery (DLV)** has recieved confirmation from the TWR controlle
 
 ***VFR Circuit Clearance Example***
 
-> **DLV Controller:** _**"A9C-ZZ, You are cleared right hand visual circuits, RWY30R not above altitude 1000ft, VFR, squawk 7001"**_
+> **DLV Controller:** _**"A9C-ZZ, cleared right hand circuits, RWY30R not above altitude 1000ft, VFR, squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
-***Challenge Example***
+Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **DLV Controller:** _**"A9C-ZZ, Negative. You are cleared, right hand visual circuits, RWY30R, not above altitude 1000ft, VFR, squawk 7001"**_
-
-!!!node "Be Paitent and Assist"
-    If you are required to challenge a pilot for a correct readback, readback it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
-
-Once the pilot has correctly read back the clearance, if the pilot did not provide the Current ATIS Letter and/or QNH on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
-
-> **DLV Controller:** _**"A-ZZ, Read Back is correct, Information Alpha is current, QNH 1001"**_
-
-When the aircraft reports ready for engine start up they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.**
+> **DLV Controller:** _**"A-ZZ, read back is correct, information Alpha is current, QNH 1001"**_
 
 !!!node "Callsign Shortening" 
     After initial contact has been made and established with the aircraft, you can shorten the callsign from A9C-ZZ to A-ZZ, read as Alpha - Zulu - Zulu. This is to reduce frequency congestion.
@@ -183,7 +174,7 @@ For pilots filing VFR Flight Plans (FPLs) to leave the **Bahrain Control Zone (C
 
 ***VFR Zone Exit Clearance Example***
 
-> **DLV Controller:** _**"A9C-ZZ, You are cleared to exit the Control Zone, via Whiskey VRP, not above altitude 2500ft VFR, Squawk 7001"**_
+> **DLV Controller:** _**"A9C-ZZ, cleared to exit the Bahrain Control Zone, via Whiskey VRP, not above altitude 2500ft VFR, Squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
