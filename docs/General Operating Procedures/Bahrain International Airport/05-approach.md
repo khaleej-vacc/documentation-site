@@ -59,10 +59,10 @@ Both Isa and Sakhir Airbase are military airfields to which we do not provide AT
 
 ### 2.3 Surrounding Airspace 
 The **Bahrain Terminal Maneuvering Area (TMA)** is surrounded by both Saudi Arabia to the West and Qatar to the South. As APP Controller in Bahrain you have to work closely with the adjacent controlling units to ensure safe and efficent operations within the TMA. 
-<p style="text-align: center; font-style: italic;">
-Table 2.3.1. - Surrounding Airspace
+
+<p style="text-align: left; font-style: italic;">
+![Bahrain Surrounding](img/SA.png)
 </p>
-![Bahrain Surrounding](img/SA.png){.center}
 
 ---
 
