@@ -3,15 +3,15 @@ title: Introduction
 sidebar_position: 1
 ---
 
-# Welcome To Khaleej vACC's General Operating Procedures.
+# Welcome To Khaleej vACC's Standard Operating Procedures.
 
 ## Introduction 
-You have made it to the home of Khaleej vACC's General Operating Procedures.
+You have made it to the home of Khaleej vACC's Standard Operating Procedures.
 
-Here you can find the General Operating Procedures (GOPs) for all airfields covered within **Khaleej vACC**. 
+Here you can find the Standard Operating Procedures (GOPs) for all airfields covered within **Khaleej vACC**. 
 
 ## Where to start? 
-Our General Operating Procedures are split into airports, **Kuwait (OKKK/KWI)** and **Bahrain (OBBI/BAH)**, within each airports General Operating Procedures you can find the specific sections for each position at controlled at that specific airport. 
+Our Standard Operating Procedures are split into airports, **Kuwait (OKKK/KWI)** and **Bahrain (OBBI/BAH)**, within each airports Standard Operating Procedures you can find the specific sections for each position at controlled at that specific airport. 
 
 - Delivery 
 - Ground
@@ -20,16 +20,16 @@ Our General Operating Procedures are split into airports, **Kuwait (OKKK/KWI)** 
 - Center 
 
 Please take your time to review the relevant sections, you can utilise the 'search' function in the top right to find any specific subjects. 
-For controllers starting a training programme within **Khaleej vACC** you should study thoroughly the relevant **General Operating Procedures (GOPs)** to the position you are training on. 
+For controllers starting a training programme within **Khaleej vACC** you should study thoroughly the relevant **Standard Operating Procedures (SOPs)** to the position you are training on. 
 
 ## Purpose 
-The purpose for the outlined **General Operating Procedures (GOPs)** found on this documentation site are to improve standards of controlling within the **Khaleej vACC**. 
+The purpose for the outlined **Standard Operating Procedures (SOPs)** found on this documentation site are to improve standards of controlling within the **Khaleej vACC**. 
 We want to ensure all controllers, residents or visitors are controlling to a high standard on the VATSIM Network whilst having a defined procedures to follow. 
 
-All controllers are expected to control within the **Khaleej vACC** in accordance with the **General Operating Procedures (GOPs)** found on this website. 
+All controllers are expected to control within the **Khaleej vACC** in accordance with the **Standard Operating Procedures (SOPs)** found on this website. 
 
 ## Validity of Documents 
-It is the responsibility of the **Khaleej vACC ATC Training Department** to ensure the validity of information within the **General Operating Procedures (GOPs)** are maintained. 
+It is the responsibility of the **Khaleej vACC ATC Training Department** to ensure the validity of information within the **Standard Operating Procedures (SOPs)** are maintained. 
 
 ## Reporting Errors 
 If you find any errors in any of the content on this documentation site, please report it to the ATC Training Department.

@@ -21,7 +21,7 @@ Once clearance has been issued and readback correctly from the pilot the DLV con
 
 ----
 
-## Chapter 2. GEN | General Operating Procedures 
+## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Issuing IFR Clearances 
 It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. Pilots are expected to report the following information on initial contact with the **DLV Controller** when requesting clearance. 

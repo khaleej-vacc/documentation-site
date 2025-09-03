@@ -21,7 +21,7 @@ In the absence of the DLV Controller the GMC Controller will take on those roles
 
 ----
 
-## Chapter 2. GEN | General Operating Procedures 
+## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Pushback Clearance 
 The **GMC Controller** is responsible for providing departing aircraft with a push back clearance. Prior to issuing a push back clearance the aircraft would have correctly set their assigned squawk code. Push back clearance must include the stand number of the aircraft being given clearance. This is method is to ensure other nearby aircraft are aware of the movement from the stand onto a live taxiway. 
@@ -189,7 +189,7 @@ If the taxi route for a departing aircraft is not clear you can give them a cond
 
 > **GMC Controller:** _**"MSR621, taxi via W17 and W14 hold short of Taxiway W1, give way to the Kuwaiti Boeing 777 at W1."**_
 
-Once the route has cleared then they can be given the remainder of their taxi instructions as per normal general operating procedures outlined in Chapter 2.2
+Once the route has cleared then they can be given the remainder of their taxi instructions as per normal standard operating procedures outlined in Chapter 2.2
 
 #### 2.2.5.2 Conditional Arrival Taxi Instructions 
 Like before, if an arriving aircraft does not have a clear route to their stand after vacating the runway a conditional clearance can be issued to ensure smooth flow of traffic in and out of the airfield. 

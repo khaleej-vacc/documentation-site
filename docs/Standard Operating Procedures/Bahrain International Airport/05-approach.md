@@ -15,7 +15,7 @@ toc_max_heading_level: 6
 ----
 
 ## Chapter 1. Position Overview 
-**Bahrain Approach (APP)** is responsible for providing approach radar control services to aircraft departing, arriving or transiting the **Bahrain Terminal Maneuvering Area (TMA)**. It is also the responsibility of the approach controller to ensure aircraft are separated in accordance with the General Operating Procedures outlined in this document, ensure a safe and efficent flow of traffic in and out of the airports covered within the TMA.
+**Bahrain Approach (APP)** is responsible for providing approach radar control services to aircraft departing, arriving or transiting the **Bahrain Terminal Maneuvering Area (TMA)**. It is also the responsibility of the approach controller to ensure aircraft are separated in accordance with the Standard Operating Procedures outlined in this document, ensure a safe and efficent flow of traffic in and out of the airports covered within the TMA.
 
 **Bahrain Approach (APP)** shall provide surveillance based radar services to all aircraft operating within it's vertical and lateral boundaries to ensure safe separation between aircraft is maintained at all times.
 
@@ -90,7 +90,7 @@ Bahrain Approach shall provide surveillance based radar control services to airc
 
 ----
 
-# Chapter 3. GEN | General Operating Procedures 
+# Chapter 3. GEN | Standard Operating Procedures 
 
 ### 3.1 Separation Requirements 
 
