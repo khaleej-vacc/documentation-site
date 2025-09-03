@@ -1,12 +1,12 @@
 ---
-title: Kuwait Tower [OKKK_TWR]
+title: "Kuwait Tower [OKKK_TWR]"
 toc_min_heading_level: 2
-toc_max_heading_level: 5
+toc_max_heading_level: 6
 ---
 
-# Kuwait Tower [OKKK_TWR]
+## Kuwait Tower [OKKK_TWR]
 
-# Amendment History
+### Amendment History
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
@@ -14,21 +14,21 @@ toc_max_heading_level: 5
 
 ----
 
-# Chapter 1. Position Overview 
+## Chapter 1. Position Overview 
 **Kuwait Tower (TWR)** controls movement of aircraft on the runway and holding at all runway holding points. In addition to this the **TWR Controller** also has the responsibility of all aircraft within the **Class D Kuwait Control Zone** and shall ensure separation within the **Control Zone (CTR)** between IFR traffic is maintained for flights arriving and departing Bahrain. Traffic Information is provided between IFR and VFR Flights as well as VFR to IFR Flights within the **Control Zone (CTR)**
 
 The **TWR Controller** is responsible for selecting the active runways for arrivals and departures at Kuwait and holds full authority over the runway.
 
 ----
 
-# Chapter 2. Airspace 
+## Chapter 2. Airspace 
 The **Kuwait Control Zone (CTR)** is **Class D Airspace** from the Ground up to 2000ft Mean Sea Level (MSL). The **TWR Controller** is responsible for ensuring all traffic within the Control Zone are separated. This will typically include all IFR Flights departing and arriving as well as VFR Flights operating within the Control Zone or entering and exiting. 
 
 ----
 
-# Chapter 3. GEN | General Operating Procedures
+## Chapter 3. GEN | General Operating Procedures
 
-## 3.1 Runway Selection 
+### 3.1 Runway Selection 
 At **Kuwait International Airport (OBBI)**, the preferential runway is 33R for arrivals and 33L for departures which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then the 15s should be used for arrivals and departures. If the 15s have to be utilised then 15L is the favoured departure runway and 15R is used for arrivals. 
 
 !!! tip "References to Use" 
@@ -36,14 +36,14 @@ At **Kuwait International Airport (OBBI)**, the preferential runway is 33R for a
     
     - All Controllers should bare the ability to read weather and make an assessment on what the active runway in use should be.
 
-### 3.1.1 Runway Change
+#### 3.1.1 Runway Change
 If the **TWR Controller** deems it necessary to change the active runway due to a change in wind direction this should be coordinated with all controllers above and below as this changes departure and arrival clearances. 
 This should not be done suddenly, it must be carefully coordinated. The **Approach Controller** and **Tower Controller** will carefully select which aircraft is the last aircraft to land prior to the runway change.
 
 This process is the same with the **DLV or GMC Controller** if an aircraft is already taxing to the active runway prior to runway change it may be less disruptive to allow the aircraft to depart if they can accept the tailwind. 
 Aircraft can be re-issued with a departure clearance. 
 
-## 3.2 Line Up Procedures 
+### 3.2 Line Up Procedures 
 The **TWR Controller** must issue clear and precise instructions when issuing aircraft with an instruction to line up on the active runway. There should be no delay and must include the following information: 
 
 - The Correct Runway Designator.
@@ -54,7 +54,7 @@ Example:
 
 > **TWR Controller:** _**"KAC501, via Loop line up and wait RWY33L"**_ 
 
-### 3.2.1 Conditional Line Up Clearance (Landing Traffic)
+#### 3.2.1 Conditional Line Up Clearance (Landing Traffic)
 The **TWR Controller** may issue a conditional line up clearance in order to maximise movements and runway efficency. This must be done efficently and precisely. 
 
 Example:
@@ -64,7 +64,7 @@ Example:
 !!!node "Vitally Important" 
     The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic
 
-### 3.2.2 Conditional Line Up Clearance (Departing Traffic) 
+#### 3.2.2 Conditional Line Up Clearance (Departing Traffic) 
 The **TWR Controller** can also issue a conditional line up clearance for traffic waiting to depart behind a departing aircraft ahead of him. Again, this must be done efficently and precisly to prevent any runway incursions or misunderstanding. 
 
 Example:
@@ -74,9 +74,9 @@ Example:
 !!!node "Company Traffic" 
     The use of the word company traffic in clearances can be used if the traffic related to the instruction is of the same company that is receiving the clearance
 
-## 3.3 Take Off Procedures 
+### 3.3 Take Off Procedures 
 
-### 3.3.1 Standard Instrument Departures (SIDs) 
+#### 3.3.1 Standard Instrument Departures (SIDs) 
 All departures from Kuwait will be assigned a **Standard Instrument Departure (SID)** when they recieve their departure clearance, they are assigned based on the first waypoint in their flight plan and/or direction of flight. The purpose of SIDs are to ehance safety, predictability and efficiently guide traffic from their initial departure phase to the en-route traffic environment. 
 
 All SIDs in Kuwait are RNAV1 (Area Navigation) which means aircraft must be able to maintain a total system error of no more than 1 nautical mile (NM) for 95% of the flight time. This enhances safety, and accuracy of the departure routing an aircraft should fly. 
@@ -101,21 +101,21 @@ All SIDs in Kuwait are RNAV1 (Area Navigation) which means aircraft must be able
 
 The initial climb for all departures for aircraft assigned a **Standard Instrument Departure (SID)** is 4000ft. 
 
-### 3.3.2 Take Off Clearances 
+#### 3.3.2 Take Off Clearances 
 Aircraft should only be given take off clearance once the runway is clear of obstructions and separation between any previously departed aircraft has been achieved. 
 
 Example: 
 
 > **TWR Controller:** _**"KAC393, Surface Wind 300 Degrees at 12 knots, Runway 33L, Cleared for takeoff"**_
 
-### 3.3.3 Handing Off 
+#### 3.3.3 Handing Off 
 Once the aircraft has taken off and a postive rate of climb can be seen **(typically passing 800ft)** they should be informed to contact the **Approach Controller** with their passing altitude. 
 
 Example: 
 
 > **TWR Controller:** _**"KAC393, report your passing altitude to Kuwait Approach 124.800, Goodbye"**_
 
-### 3.3.4 Wake Separation 
+#### 3.3.4 Wake Separation 
 Time based separation is utilised at Kuwait to ensure separation between various wake turbulence catergories is maintained. 
 The **TWR Controller** is responsible for ensuring the seperation system is enforced. 
 
@@ -142,7 +142,7 @@ It is the responsibility of the controller to check the Flight Plan (FPL) if the
 |          Medium         |            |         Super         |        3 min        |           4 min          |
 |          Light          |            |         Super         |        3 min        |           4 min          |
 
-### 3.3.5 Stopping a Departure
+#### 3.3.5 Stopping a Departure
 In the event you are required to stop a departure after take off clearance has been issued you need to act fast. This can be to prevent a potential collision as a result of a runway incursion or due to a go around which is now in the flight path of the departing aircraft. 
 
 The instruction must be issued early enough so that the departing aircraft does not reach it's "V1" (maximum speed at which a rejected takeoff can be initiated). 
@@ -159,10 +159,10 @@ Example:
 
 > **TWR Controller:** _**"FDB687, hold position, cancel take off, I say again, cancel take off due runway incursion"**_
 
-## 3.4 Arrival Procedures 
+### 3.4 Arrival Procedures 
 The **TWR Controller** is responsible for issuing traffic landing clearance. They must ensure that separation is maintained on the approach between all aircraft and that all arriving aircraft have a clear unobstructed runway with an issued clearance no later than 2nm from touchdown. 
 
-### 3.4.1 Landing Clearance
+#### 3.4.1 Landing Clearance
 
 Example:
 
@@ -173,7 +173,7 @@ In the event traffic may be issued a late landing clearance due to traffic depar
 
 > **TWR Controller:** _**"JZR1144, Expect late landing clearance, one to vacate ahead"**_
 
-### 3.4.2 Preferred Exit Points
+#### 3.4.2 Preferred Exit Points
 In order to ensure minimum runway occupancy time pilots are expected to vacate the active runway by the taxiways. 
 
 | **Runway** | **Exit Points** |
@@ -183,7 +183,7 @@ In order to ensure minimum runway occupancy time pilots are expected to vacate t
 |     15R    |   W2            |
 |     15L    |   E2            |
 
-### 3.4.3 Vacating Traffic
+#### 3.4.3 Vacating Traffic
 Traffic vacating the active runway shall not be immediately transfered to the GMC Controller, it is the responsibility of the TWR Controller to issue an initial taxi clearance onto taxiway W1 or E1 to ensure the runway is not obstructed by aircraft stopping at the holding point and then waiting for an instruction from the GMC controller. 
 
 The aim is to ensure the runway is kept clear to allow smooth and efficent flow of traffic in and out of **Kuwait International Airport (OKKK)**. 
@@ -196,7 +196,7 @@ Example:
 
 > **TWR Controller:** _**"IAW1017, Welcome to Kuwait, left turn on taxiway W1, hold short of taxiway W4, Contact Kuwait Ground 121.700"**_
 
-### 3.4.4 Separation Requirements 
+#### 3.4.4 Separation Requirements 
 Within the **Kuwait Control Zone (CTR)** the TWR Controller is responsible for ensuring adequate separation exists between all traffic, this includes vertically and laterally to ensure safe and efficient operation. 
 
 #### 3.4.4.1 Longitudinal Separation (Lateral) 
@@ -221,7 +221,7 @@ Aircraft must also be suitable separated in accordance with their Wake Turbulenc
 |        Medium (M)       |            |          A380          |              7nm              |
 |        Light (L)        |            |          A380          |              8nm              |
 
-### 3.4.5 Go Around Procedures
+#### 3.4.5 Go Around Procedures
 It is the responsibility of the **TWR Controller** to issue **Go Around Instructions** if the controller observes a loss of separation on the final approach or an obstruction on the runway that will not clear before the arriving aircraft meets the 2nm clearance issued critera. 
 
 Example:
@@ -235,14 +235,14 @@ Once the aircraft has acknowledged the go around, the TWR Controller shall issue
 !!!node "Coordination" 
     If a go around instruction has been issued, the Approach Controller should be notified immediately once the aircraft has been given instructions. 
 
-## 3.5 VFR Procedures 
+### 3.5 VFR Procedures 
 
 - VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace. 
 - VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
 - **Kuwait Tower (TWR)** and **Kuwait Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Control Area** if traffic levels permit.
 - All Traffic shall be cleared to operate up to 1000ft within the Control Zone. 
 
-### 3.5.1 Visual Reporting Points (VRPs)
+#### 3.5.1 Visual Reporting Points (VRPs)
 **Visual Reporting Points (VRPs)** are specific geographical locations used in aviation to assist pilots in navigation and communication with air traffic control. These points help pilots maintain situational awareness and provide reference points for reporting their position during flight. 
 
 Kuwait has a number of **Visual Reporting Points (VRPs)** which you can see below. 
@@ -254,7 +254,7 @@ Kuwait has a number of **Visual Reporting Points (VRPs)** which you can see belo
 |   VFR F East   |   Mishrif Fairground   |        075 Degrees / 5.0nm        | 291607.33N 480249.03E |
 |   VFR U West   | Alshedadiya University |        245 Degrees / 3.2nm        | 291524.08N 475359.15E |
 
-### 3.5.2 VFR Departure Routes Procedures
+#### 3.5.2 VFR Departure Routes Procedures
 
 VFR Flights Departing the **Kuwait Control Zone** should be assigned one of the below VFR Departure Routes. 
 

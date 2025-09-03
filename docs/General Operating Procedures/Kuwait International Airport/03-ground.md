@@ -1,12 +1,12 @@
 ---
-title: Kuwait Ground [OKKK_GND]
+title: "Kuwait Ground [OKKK_GND]"
 toc_min_heading_level: 2
-toc_max_heading_level: 5
+toc_max_heading_level: 6
 ---
 
-# Kuwait Ground [OKKK_GND]
+## Kuwait Ground [OKKK_GND]
 
-# Amendment History
+### Amendment History
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
@@ -14,16 +14,16 @@ toc_max_heading_level: 5
 
 ----
 
-# Chapter 1. Position Overview 
+## Chapter 1. Position Overview 
 **Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropiate apron. 
 
 In the absence of the DLV Controller the GMC Controller will take on those roles and responsibilities.
 
 ----
 
-# Chapter 2. GEN | General Operating Procedures 
+## Chapter 2. GEN | General Operating Procedures 
 
-## 2.1 Pushback Clearance 
+### 2.1 Pushback Clearance 
 The **GMC Controller** is responsible for providing departing aircraft with a push back clearance. Prior to issuing a push back clearance the aircraft would have correctly set their assigned squawk code. Push back clearance must include the stand number of the aircraft being given clearance. This is method is to ensure other nearby aircraft are aware of the movement from the stand onto a live taxiway. 
 
 Example:
@@ -34,20 +34,20 @@ Once the push back clearance has been issued the **GMC Controller** should ensur
 
 Pushback Clearances must only be issued when it is safe to do so and the area into which the aircraft has been cleared to push to is clear of all obstructions.
 
-### 2.1.1 Conditional Pushback Clearance 
+#### 2.1.1 Conditional Pushback Clearance 
 In some cases you may have an inbound aircraft taxiing to a stand on the apron which passes behind the aircraft on stand requesting push back and start. In order to ensure a constant flow of traffic the **GMC Controller** can provide the aircraft requesting push back and start with a **Conditional Pushback Clearance**. 
 
 Example:
 
 > **GMC Controller:** _**"OMA647, behind the Jazeera Airbus A320 Neo passing from your right to left, Stand 4, push and start is approved facing south on Taxiway W17."**_
 
-### 2.1.2 Simulataneous Pushback Operations
+#### 2.1.2 Simulataneous Pushback Operations
 **Simulataneous Pushback Operations** can be conducted at Bahrain. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
 If aircraft are on adjacent stands and both requesting push back and start it is best practice to have each aircraft push in opposite directions to ensure no ground collision will take place. 
 
-## 2.2 Taxi Procedures 
+### 2.2 Taxi Procedures 
 
-### 2.2.1 Departure Taxi Procedures 
+#### 2.2.1 Departure Taxi Procedures 
 Once an aircraft has sucessfully completed their push back and start they will request taxi to the departing runway. It is the responsibility of the **GMC Controller** to provide that aircraft with a safe and efficent taxi instruction from the apron to the departure runway holding point. 
 
 #### 2.2.1.1 33L Departure Configuration
@@ -120,7 +120,7 @@ Once approaching W1 and the traffic situation is clear
 
 > **GMC Controller:** _**"JZR263, continue taxi via W1 holding point RWY15R"**_ 
 
-### 2.2.2 Intersection Departures
+#### 2.2.2 Intersection Departures
 Intersection Departures can be utilised when the pilot requests it specifically. The GMC Controller is not allowed to to instruct an intersection departure to a pilot without it being requested. 
 
 | **Runway** | **Intersection** |
@@ -131,7 +131,7 @@ Intersection Departures can be utilised when the pilot requests it specifically.
 
 There are no intersections departures available from RWY15L. 
 
-### 2.2.3 West Side Apron (Cargo City) 
+#### 2.2.3 West Side Apron (Cargo City) 
 Aircraft parked on the Cargo City Apron will typically be required to cross the active runway for departure unless RWY15R is active for departures or RWY33L is active for arrivals. Aircraft should be taxiied to M14 or M15 for crossing then transferred to the TWR Controller for runway crossing. Once they have successfully crossed the runway they will be handed back the **GMC Controller** to recieve taxi instructions to the departure runway. 
 
 Example:
@@ -144,7 +144,7 @@ Once the aircraft has reached the designated holding point for runway crossing t
 
 Once the **TWR Controller** has sucessfully got the aircraft across the active runway they will be handed back to the **GMC Controller** who will then taxi them to the appropiate runway holding point.
 
-### 2.2.4 Arrival Taxi Procedures 
+#### 2.2.4 Arrival Taxi Procedures 
 
 | **Runway** | **Preferred Vacate Point** |
 |:----------:|:--------------------------:|
@@ -181,7 +181,7 @@ Aircraft landing on RWY15L will be expected to vacate the runway at E2, TWR will
 
 Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
 
-### 2.2.5 Conditional Taxi Instructions 
+#### 2.2.5 Conditional Taxi Instructions 
 In some cases aircraft may require a **Conditional Taxi Instruction** in order to facilitate for other movements on the ground and to ensure the safe movement of aircraft. 
 
 #### 2.2.5.1 Conditional Departure Taxi Instructions 
@@ -197,7 +197,7 @@ If issuing a conditional arrival taxi instruction you can provide the aircraft w
 
 > **GMC Controller:** _**"KAC418, Expect Stand 72 taxi via E9, W14, hold short of Taxiway W1, give way to the company Airbus A320 Neo at W1."**_
 
-## 2.3 Low Visibility Procedures (LVPs)
+### 2.3 Low Visibility Procedures (LVPs)
 At Bahrain International Airport RWY12L and RWY30R are approved for CAT II operations in the event of LVPs. 
 
 Low Visibility Procedures will be declared when the RVR falls below 550m or visibility falls below 800m or ceiling below 200ft. 
@@ -214,7 +214,7 @@ During LVPs, intersection departures are not authorised for all runways.
 |   RWY33R   |    Loop 1 / Loop 2   |
 |   RWY33L   |      W5 / Loop       |
 
-## 2.4 Stand Allocation
+### 2.4 Stand Allocation
 
 
 |     **Apron**     | **Stand Numbers** |            **Airlines**           |
