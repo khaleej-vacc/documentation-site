@@ -1,12 +1,12 @@
 ---
-title: Bahrain Ground [OBBI_GND]
+title: "Bahrain Ground [OBBI_GND]"
 toc_min_heading_level: 2
-toc_max_heading_level: 5
+toc_max_heading_level: 6
 ---
 
-# **Bahrain Ground [OBBI_GND]**
+## **Bahrain Ground [OBBI_GND]**
 
-# Amendment History
+### Amendment History
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
@@ -14,7 +14,7 @@ toc_max_heading_level: 5
 
 ----
 
-# Chapter 1. Position Overview 
+## Chapter 1. Position Overview 
 **Bahrain Ground (SMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The SMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropiate apron. 
 
 In the absence of the DLV Controller the SMC Controller will take on those roles and responsibilities.
@@ -29,9 +29,9 @@ In the absence of the DLV Controller the SMC Controller will take on those roles
 
 ----
 
-# Chapter 2. GEN | General Operating Procedures 
+## Chapter 2. GEN | General Operating Procedures 
 
-## 2.1 Pushback Clearance 
+### 2.1 Pushback Clearance 
 The **SMC Controller** is responsible for providing departing aircraft with a push back clearance. Prior to issuing a push back clearance the aircraft would have correctly set their assigned squawk code. Push back clearance must include the stand number of the aircraft being given clearance. This is method is to ensure other nearby aircraft are aware of the movement from the stand onto a live taxiway. The **QNH must be provided** on the pushback clearance as well. 
 
 Example:
@@ -42,23 +42,23 @@ Once the push back clearance has been issued the **SMC Controller** should ensur
 
 Pushback clearances must only be issued when it is safe to do so and the area into which the aircraft has been cleared to push to is clear of all obstructions. 
 
-### 2.1.1 Conditional Pushback Clearance 
+#### 2.1.1 Conditional Pushback Clearance 
 In some cases you may have an inbound aircraft taxiing to a stand on the apron which passes behind the aircraft on stand requesting push back and start. In order to ensure a constant flow of traffic the **SMC Controller** can provide the aircraft requesting push back and start with a **Conditional Pushback Clearance**. 
 
 Example:
 
 > **SMC Controller:** _**"GFA250, behind the Emirates Airbus A350 taxiing from your right to left, Stand 22, push and start is approved facing west on Taxiway Zulu, QNH 1022."**_
 
-### 2.1.2 Simulataneous Pushback Operations
+#### 2.1.2 Simulataneous Pushback Operations
 **Simulataneous Pushback Operations** can be conducted at Bahrain. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
 If aircraft are on adjacent stands and both requesting push back and start it is best practice to have each aircraft push in opposite directions to ensure no ground collision will take place. 
 
-## 2.2 Taxi Procedures 
+### 2.2 Taxi Procedures 
 
-### 2.2.1 Departure Taxi Procedures 
+#### 2.2.1 Departure Taxi Procedures 
 Once an aircraft has sucessfully completed their push back and start they will request taxi to the departing runway. It is the responsibility of the **SMC Controller** to provide that aircraft with a safe and efficent taxi instruction from the apron to the departure runway holding point. 
 
-#### 2.2.1.1 RWY30R Departure Configuration
+##### 2.2.1.1 RWY30R Departure Configuration
 Aircraft will be taxied out from their respective apron at the most convenient point to enter taxiway 'A' to depart full length from holding point A9 for RWY30R. If requested by the pilot and traffic permitting intersection departures can be offered to reduce taxi times.
 
 Example:
@@ -68,7 +68,7 @@ Example:
 !!!node "Be Helpful"
     Some pilots may require assistance taxing around the airfield, you can provide them with progressive taxi instructions if needed. 
 
-#### 2.2.1.2 RWY12L Departure Configuration
+##### 2.2.1.2 RWY12L Departure Configuration
 Aircraft will be taxied out from their respective apron at the most convenient point to enter taxiway 'A' to depart full length from holding point A1 for RWY12L. If requested by the pilot and traffic permitting intersection departures can be offered to reduce taxi times. 
 
 > **SMC Controller:** _**"GFA500, taxi to holding point A1 runway 12L, via Zulu, Tango and Alpha."**_
@@ -132,13 +132,13 @@ If the taxi route for a departing aircraft is not clear you can give them a cond
 
 Once the route has cleared then they can be given the remainder of their taxi instructions as per normal general operating procedures outlined in Chapter 2.2
 
-#### 2.2.5.2 Conditional Arrival Taxi Instructions 
+##### 2.2.5.2 Conditional Arrival Taxi Instructions 
 Like before, if an arriving aircraft does not have a clear route to their stand after vacating the runway a conditional clearance can be issued to ensure smooth flow of traffic in and out of the airfield. 
 If issuing a conditional arrival taxi instruction you can provide the aircraft with their expected stand number. 
 
 > **SMC Controller:** _**"DHX265, expect Stand 65 taxi via Alpha, hold short of Taxiway Tango, give way to the Gulf Air Airbus A320 exiting the apron at Tango"**_
 
-## 2.3 Low Visibility Procedures (LVPs)
+### 2.3 Low Visibility Procedures (LVPs)
 At Bahrain International Airport RWY12L and RWY30R are approved for CAT II operations in the event of LVPs. 
 
 Low Visibility Procedures will be declared when the RVR is reading 1000m or less, or whenever conditions are such that all the maneuvering area is not visible from the control tower.
@@ -149,7 +149,7 @@ During LVPs, intersection departures are not authorised for both RWY12L or RWY30
 #### 2.3.2 Low Visibility Procedures - Arrivals 
 During LVPs, aircraft arriving on RWY12L may only exit the RWY to the South of taxiway A5 or beyond or arriving aircraft may exit to the North at taxiway B1 or taxiway B2. 
 
-## 2.4 Stand Allocation
+### 2.4 Stand Allocation
 
 
 |     **Apron**     | **Stand Numbers** |            **Airlines**           |

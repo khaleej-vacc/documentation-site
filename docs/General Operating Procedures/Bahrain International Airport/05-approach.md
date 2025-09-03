@@ -1,12 +1,12 @@
 ---
-title: Bahrain Approach [OBBI_APP]
+title: "Bahrain Approach [OBBI_APP]"
 toc_min_heading_level: 2
-toc_max_heading_level: 5
+toc_max_heading_level: 6
 ---
 
-# **Bahrain Approach [OBBI_APP]**
+## **Bahrain Approach [OBBI_APP]**
 
-# Amendment History
+### Amendment History
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
@@ -14,14 +14,14 @@ toc_max_heading_level: 5
 
 ----
 
-# Chapter 1. Position Overview 
+## Chapter 1. Position Overview 
 **Bahrain Approach (APP)** is responsible for providing approach radar control services to aircraft departing, arriving or transiting the **Bahrain Terminal Maneuvering Area (TMA)**. It is also the responsibility of the approach controller to ensure aircraft are separated in accordance with the General Operating Procedures outlined in this document, ensure a safe and efficent flow of traffic in and out of the airports covered within the TMA.
 
 **Bahrain Approach (APP)** shall provide surveillance based radar services to all aircraft operating within it's vertical and lateral boundaries to ensure safe separation between aircraft is maintained at all times.
 
 ----
 
-# Chapter 2. Airspace
+## Chapter 2. Airspace
 The **Bahrain Terminal Maneuvering Area (TMA)** has a vertical extension up to FL170 and split across 3 different classes at various levels. The Approach Controller is responsible for understanding the differences between these Classes of Airspace. 
 
 The airspace in the **Bahrain Terminal Maneuvering Area (TMA)** doesn't allow for alot of maneuverability due to it's geographical location and multiple surrounding country borders so aircraft need to be carefully managed in order to ensure safe seperation between arrivals and departures. 
@@ -37,7 +37,7 @@ Table 2.0.1. - Bahrain Terminal Maneuvering Area (TMA)
 </p>
 ![TMA](https://cdn.discordapp.com/attachments/1326913429503742025/1400164553337081907/TMA2.png?ex=688ba45b&is=688a52db&hm=bd200477465305020843971d5cf67a0a0ddfa8455793e04ecb45a83dafe896e3&)
 
-## 2.1 Transition Altitude and Level
+### 2.1 Transition Altitude and Level
 The transition altitude and level in Bahrain is consistent with the Gulf Region. 
 
 | **Transition Altitude** | **Transition Level** |
@@ -46,12 +46,12 @@ The transition altitude and level in Bahrain is consistent with the Gulf Region.
 
 The transition layer exists between these two altitudes and is not to be used by controllers or aircraft alike for level flight.
 
-## 2.2 Aerodromes within the Terminal Maneuvering Area (TMA)
+### 2.2 Aerodromes within the Terminal Maneuvering Area (TMA)
 The APP Controller is responsbile for **Bahrain International Airport (OBBI)**, **Isa Airbase (OBBS)** and **Sakhir Airbase (OBKH)**
 
 Both Isa and Sakhir Airbase are military airfields to which we do not provide ATC services for on the ground. 
 
-## 2.3 Surrounding Airspace 
+### 2.3 Surrounding Airspace 
 The **Bahrain Terminal Maneuvering Area (TMA)** is surrounded by both Saudi Arabia to the West and Qatar to the South. As APP Controller in Bahrain you have to work closely with the adjacent controlling units to ensure safe and efficent operations within the TMA. 
 <p style="text-align: center; font-style: italic;">
 Table 2.3.1. - Surrounding Airspace
@@ -68,7 +68,7 @@ The **Bahrain Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of
 |               **P42**              |      GND- UNLTD     |   Permanent  |
 |               **R66**              |     GND - UNLTD     |   Permanent  |
 
-## 2.5 Area of Responsibility 
+### 2.5 Area of Responsibility 
 The **APP Controller** is responsible for the airspace surrounding Bahrain Airport by the arc of circle radius 40nm centered on the **BHR VHF Omnidirectional Range (VOR).**
 
 Bahrain Approach shall provide surveillance based radar control services to aircraft to which are:
@@ -82,22 +82,22 @@ Bahrain Approach shall provide surveillance based radar control services to airc
 
 # Chapter 3. GEN | General Operating Procedures 
 
-## 3.1 Separation Requirements 
+### 3.1 Separation Requirements 
 
-### 3.1.1 Longitudinal Separation Requirements 
+#### 3.1.1 Longitudinal Separation Requirements 
 All aircraft within the **Bahrain Terminal Maneuvering Area (TMA)** must be separated with a **minimum of 5nm longitudinal separation.** 
 
-### 3.1.2 Vertical Separation 
+#### 3.1.2 Vertical Separation 
 In the event that longitudinal separation cannot be achieved aircraft must be separated with a **minimum of 1000ft separation.** 
 
-### 3.1.3 Speed Control 
+#### 3.1.3 Speed Control 
 In order for aircraft to complete any required turns within the **Bahrain Terminal Maneuvering Area (TMA)** and to safely operate within the laterally confined airspace speed control can be issued to aircraft. 
 
 Speed Control can also be utilised to maintain separation between climbing traffic. 
 
 The standard speed restriction below 10,000ft is 250kts.
 
-### 3.1.4 Wake Turbulence Separation (WTS)
+#### 3.1.4 Wake Turbulence Separation (WTS)
 The following **Wake Turbulence Separation (WTS)** shall be applied to aircraft being provided with a Surveillance Based Separation (SBS) which is utilised within the **Bahrain Terminal Maneuvering Area (TMA)**
 
 | **Trailing   Aircraft** | **Behind** | **Leading   Aircraft** | **Distance Separation Minima** |
@@ -111,10 +111,10 @@ The following **Wake Turbulence Separation (WTS)** shall be applied to aircraft 
 
 The 5nm longitudinal separation requirements within the TMA **overides any wake turbulence seperation minima which is lower than the minimum longitudinal seperation requirements.** 
 
-## 3.2 Departure Procedures 
+### 3.2 Departure Procedures 
 **Bahrain Approach (APP)** is responsible for ensuring all aircraft departing the **Bahrain Terminal Maneuvering Area (TMA)** are safely separated vertically and/or laterally before being handed off to the next controller. All aircraft must be cleared onto their filed airway before being handed off to the next controller. 
 
-### 3.2.1 Inital Contact 
+#### 3.2.1 Inital Contact 
 Upon initial contact with a departing aircraft after being handed over from the **TWR Controller** aircraft should report the following information. 
 
 - Callsign
@@ -130,7 +130,7 @@ Once you have confirmed their passing altitude against the altitude showing on r
 
 > **APP Controller:** _**"GFA505, Identified passing altitude 1500ft, continue climb FL170, resume own navigation direct MEDMA"**_
 
-### 3.2.2 Climb Restrictions 
+#### 3.2.2 Climb Restrictions 
 Various flights have climb restrictions due to various operational factors. These restrictions must be upheld at all times. 
 
 | **Destination** | **Maximum Authorised Climb from APP** | **Maximum Filed Level** |
@@ -147,7 +147,7 @@ Various flights have climb restrictions due to various operational factors. Thes
 
 The **Approach Controller** should climb aircraft as per the above table ensuring vertical and lateral separation is maintained between all aircraft operating within the **Bahrain Terminal Maneuvering Area (TMA)**.
 
-### 3.2.3 Transitioning Aircraft to the Airways 
+#### 3.2.3 Transitioning Aircraft to the Airways 
 Due to the lack of **Standard Instrument Departures (SIDs)** out of Bahrain or any of the aerodromes that fall under the responsibility of the Approach Controller is essential the controller has a full understanding of the airspace structure that is within his area of responsibility. 
 
 The Controller must succesfully transition and guide aircraft from the narrow confinements of the **Terminal Maneuvering Area (TMA)** in a controlled and separated manner onto their filed flight plan route before being handed off to the next controller. 
@@ -165,7 +165,7 @@ Aircraft that are flying on an assigned heading vs aircraft that are flying on t
 
 > **APP Controller:"** _**"GFA071, proceed direct SODAK"**_
 
-### 3.2.4 Handing Aircraft Off 
+#### 3.2.4 Handing Aircraft Off 
 Due to the location of Bahrain and direction of some flights not all aircraft will be handed off to the en-route controller as they will not enter their airspace. 
 Some flights will be handed off to adjacent approach units or en-route positions. 
 
@@ -182,11 +182,11 @@ The **Approach Controller** should be aware of which controller an aircraft need
 |     Doha Control   |     OTDF_1_CTR     |       ACC N      |    135.725    |
 |   Jeddah Control   |     OEJD_1_CTR     |       ACC 1      |    126.500    |
 
-## 3.2 Arrival Procedures 
+### 3.2 Arrival Procedures 
 **Bahrain Approach (APP)** is responsible for ensuring all aircraft arriving into the **Bahrain Terminal Maneuvering Area (TMA)** are safely separated vertically and laterally before being handed off to the TWR Controller on final approach. 
 All aircraft shall be sequenced within the limitations listed within Section 3.1 of this document. 
 
-### 3.2.1 Standard Terminal Arrival Routes (STAR) 
+#### 3.2.1 Standard Terminal Arrival Routes (STAR) 
 Bahrain offers 3 different **Standard Terminal Arrival Routes (STAR)** which are to be assigned to aircraft entering the **Bahrain Terminal Maneuvering Area (TMA)** these will either be assigned by the En-Route Controller however in the absence of an En-Route Controller these should be assigned by the Approach Controller on initial contact with the pilot. 
 
 **Standard Terminal Arrival Routes (STAR)** are assigned based on the arrival routing of the aircraft, typically the last waypoint in an aircrafts Flight Plan (FPL) will be the first waypoint of the **Standard Terminal Arrival Route (STAR)**. 
@@ -244,7 +244,7 @@ Once the aircraft reaches NAGAT or ALRAS they should be assigned either a headin
 !!!node "Charts"
     It is the responsibility of the Approach Controller to have a complete and full understanding of all the Standard Terminal Arrival Routes (STAR) into Bahrain and know the limitations of each. 
 
-### 3.2.2 Initial Contact 
+#### 3.2.2 Initial Contact 
 Aircraft arriving into the **Bahrain Terminal Maneuvering Area (TMA)** are to be provided with a set of instructions which will allow the aircraft to fly an assigned routing, descend in a manner which will keep them separated from other traffic and under a controlled speed to ensure traffic is sequenced into the TMA efficently. 
 
 Upon initial contact the **Approach Controller** should provide a pilot with the following information in the event the **ACC Controller** above them is not online: 
@@ -262,12 +262,12 @@ However, the ACC Controller will only tell the aircraft to "expect" a particular
 !!!node "Identifing Aircraft" 
     Remember it is the responsibility of the Approach Controller to ensure all aircraft are identified on initial contact, aircraft should be assigned an individual squawk code if not already and squawking mode 'Charlie' which provides altitude information. 
 
-### 3.2.3 Sequencing Aircraft
+#### 3.2.3 Sequencing Aircraft
 All aircraft entering the **Bahrain Terminal Maneuvering Area (TMA)** should be sequenced in order to ensure separation is always maintained, it is wholly the responsibility of the **APP Controller** to have a plan for all aircraft and know their position in sequence. This can be achieved by ensuring aircraft are under speed control and descending in a controlled manner in accordance with the **Standard Terminal Arrival Route (STAR)**. 
 
 The **APP Controller** should always have a clear plan of action when controlling and keep things as uniform as possible, this will ensure a constant steady flow of arriving traffic whilst ensuring all traffic are safely separated. 
 
-### 3.2.4 Holding 
+#### 3.2.4 Holding 
 If at any point the controller is unable to manage the traffic load within the **Bahrain Terminal Maneuvering Area (TMA)** it is their responsibility to place aircraft into the hold until traffic can once again be sequenced for an approach to the runway. 
 
 Within the **Bahrain Terminal Maneuvering Area (TMA)** there are 6 published holding procedures and they are as follows: 
@@ -392,7 +392,7 @@ Once the aircraft has confirmed they have the airfield in sight the can then be 
 Once they have acknowledged they are cleared for the visual approach they should be handed straight to the **TWR Controller**. If TWR is not online, the approach controller should tell the aircraft to report final. 
 
 
-## 3.3 Tag Management 
+### 3.3 Tag Management 
 It is the responsibility of the **APP Controller** to ensure aircraft tags are managed correctly and promptly upon giving instructions. 
 This is to ensure all surrounding controlling units are aware of the planned intentions of each aircraft and to ensure correct management of aircraft within the TMA. 
 

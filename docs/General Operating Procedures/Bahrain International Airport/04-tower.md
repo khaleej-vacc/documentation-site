@@ -2,9 +2,9 @@
 title: Bahrain Tower [OBBI_TWR]
 ---
 
-# **Bahrain Tower [OBBI_TWR]**
+## **Bahrain Tower [OBBI_TWR]**
 
-# Amendment History
+### Amendment History
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
@@ -12,14 +12,14 @@ title: Bahrain Tower [OBBI_TWR]
 
 ----
 
-# Chapter 1. Position Overview 
+## Chapter 1. Position Overview 
 **Bahrain Tower (TWR)** controls movement of aircraft on the runway and holding at all runway holding points. In addition to this the **TWR Controller** also has the responsibility of all aircraft within the **Class D Bahrain Control Zone** and shall ensure separation within the **Control Zone (CTR)** between IFR traffic is maintained for flights arriving and departing Bahrain. Traffic Information is provided between IFR and VFR Flights as well as VFR to IFR Flights within the **Control Zone (CTR)**
 
 The **TWR Controller** is responsible for selecting the active runways for arrivals and departures at Bahrain and holds full authority over the runway.
 
 ----
 
-# Chapter 2. Airspace 
+## Chapter 2. Airspace 
 The **Bahrain Control Zone (CTR)** is **Class D Airspace** from the Ground up to 2500ft Mean Sea Level (MSL). The **TWR Controller** is responsible for ensuring all traffic within the Control Zone are separated. This will typically include all IFR Flights departing and arriving as well as VFR Flights operating within the Control Zone or entering and exiting. 
 
 Below you can find a top down view of the **Bahrain Control Zone**.
@@ -28,9 +28,9 @@ Below you can find a top down view of the **Bahrain Control Zone**.
 
 ----
 
-# Chapter 3. GEN | General Operating Procedures
+## Chapter 3. GEN | General Operating Procedures
 
-## 3.1 Runway Selection 
+### 3.1 Runway Selection 
 At **Bahrain International Airport (OBBI)**, the preferential runway is 30R for departure and arrival which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then runway 12L should be used for arrivals and departures.
 
 !!! tip "References to use!" 
@@ -38,14 +38,14 @@ At **Bahrain International Airport (OBBI)**, the preferential runway is 30R for 
     
     - All Controllers should bare the ability to read weather and make an assessment on what the active runway in use should be.
 
-### 3.1.1 Runway Change
+#### 3.1.1 Runway Change
 If the **TWR Controller** deems it necessary to change the active runway due to a change in wind direction this should be coordinated with all controllers above and below as this changes departure and arrival clearances. 
 This should not be done suddenly, it must be carefully coordinated. The **Approach Controller** and **Tower Controller** will carefully select which aircraft is the last aircraft to land prior to the runway change.
 
 This process is the same with the **DLV or SMC Controller** if an aircraft is already taxing to the active runway prior to runway change it may be less disruptive to allow the aircraft to depart if they can accept the tailwind. 
 Aircraft can be re-issued with a departure clearance. 
 
-## 3.2 Line Up Procedures 
+### 3.2 Line Up Procedures 
 The **TWR Controller** must issue clear and precise instructions when issuing aircraft with an instruction to line up on the active runway. There should be no delay and must include the following information: 
 
 - The correct runway designator.
@@ -56,7 +56,7 @@ Example:
 
 > **TWR Controller:** _**"GFA087, via A9 line up and wait RWY30R"**_ 
 
-### 3.2.1 Conditional Line Up Clearance (Landing Traffic)
+#### 3.2.1 Conditional Line Up Clearance (Landing Traffic)
 The **TWR Controller** may issue a conditional line up clearance in order to maximise movements and runway efficency. This must be done efficently and precisely. 
 
 Example:
@@ -66,7 +66,7 @@ Example:
 !!!node "Vitally Important" 
     The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic.
 
-### 3.2.2 Conditional Line Up Clearance (Departing Traffic) 
+##### 3.2.2 Conditional Line Up Clearance (Departing Traffic) 
 The **TWR Controller** can also issue a conditional line up clearance for traffic waiting to depart behind a departing aircraft ahead of him. Again, this must be done efficently and precisly to prevent any runway incursions or misunderstanding. 
 
 Example:
@@ -76,9 +76,9 @@ Example:
 !!!node "Company Traffic" 
     The use of the word company traffic in clearances can be used if the traffic related to the instruction is of the same company that is receiving the clearance
 
-## 3.3 Take Off Procedures 
+### 3.3 Take Off Procedures 
 
-### 3.3.1 Takeoff Headings 
+#### 3.3.1 Takeoff Headings 
 Due to the very tight narrow airspace and immediate FIR boundaries in close proximity to **Bahrain International Airport (OBBI)** there are no published Standard Intrument Departures (SIDs). All departing aircraft are provided with an initial heading to fly after departure which directs them into the **Bahrain Terminal Maneuvering Area (TMA)** so they can be sequenced and flowed correctly into the correct enroute environment or terminal environment. 
 
 | **Runway** | **Initial Takeoff Heading** |     **Route**    |
@@ -122,7 +122,7 @@ Aircraft are divided into 4 different **Wake Turbulence Catergories (WTC)** base
 
 It is the responsibility of the controller to check the Flight Plan (FPL) if they are unsure of an aircrafts **Wake Turbulence Catergory**.
 
-#### 3.3.4.2 Time Based Separation Table 
+##### 3.3.4.2 Time Based Separation Table 
 
 | **Preceeding (Before)** | **Behind** | **Suceeding (After)** | **Separation Time** | **From an intersection** |
 |:-----------------------:|:----------:|:---------------------:|:-------------------:|:------------------------:|
@@ -151,16 +151,16 @@ Example:
 
 ---
 
-## 3.4 Arrival Procedures 
+### 3.4 Arrival Procedures 
 The **TWR Controller** is responsible for issuing traffic landing clearance. They must ensure that separation is maintained on the approach between all aircraft and that all arriving aircraft have a clear unobstructed runway with an issued clearance no later than 2nm from touchdown. 
 
-### 3.4.1 Landing Clearance
+#### 3.4.1 Landing Clearance
 
 Example:
 
 > **TWR Controller:** _**"BCS555, surface winds 300 Degrees at 10 knots, Runway 30R, cleared to land"**_
 
-#### 3.4.1.1 Late Landing Clearance 
+##### 3.4.1.1 Late Landing Clearance 
 In the event traffic may be issued a late landing clearance due to traffic departing ahead of them or vacating slowly they can be issued a late landing clearance, however, the landing traffic must be issued a landing clearance no later than 2nm from touchdown. 
 
 > **TWR Controller:** _**"BCS555, expect late landing clearance, one to vacate ahead"**_
@@ -197,14 +197,14 @@ Within the **Bahrain Control Zone (CTR)** the TWR Controller is responsible for 
 #### 3.4.4.1 Longitudinal Separation (Lateral) 
 Aircraft arriving into Bahrain on the final approach to RWY12L/30R must be separated by a minimum of 3nm. 
 
-#### 3.4.4.2 Speed Control 
+##### 3.4.4.2 Speed Control 
 Though the **TWR Controller** is not able to issue aircraft with a measurement of speed they can advise aircraft to reduce to their minimum final approach speed if separation on the approach is starting to look like it may not work.
 
 Example:
 
 > **TWR Controller:** _**"DHK502, reduce to minimum approach speed"**_ 
 
-#### 3.4.4.3 Wake Turbulence Separation 
+###### 3.4.4.3 Wake Turbulence Separation 
 Aircraft must also be suitable separated in accordance with their Wake Turbulence Catergories, much like departing aircraft to reduce the impact of wake produced by the preceding aircraft. 
 
 | **Succeeding Aircraft** | **Behind** | **Preceding Aircraft** | **Arrival Separation Minima** |
@@ -230,7 +230,7 @@ Once the aircraft has acknowledged the go around, the TWR Controller shall issue
 !!!node "Coordination" 
     If a go around instruction has been issued, the Approach Controller should be notified immediately once the aircraft has been given instructions. 
 
-## 3.5 VFR Procedures 
+### 3.5 VFR Procedures 
 
 - VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace. 
 - VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
@@ -271,7 +271,7 @@ All VFR departures leaving the **Control Zone (CTR)** must exit via one of the e
 !!!node "Callsign Shortening"
     With VFR Traffic you are allowed to abbreviate the callsign once contact has been established. Your first transmission with the aircraft must always include their full callsign however, from then on, you may abbreviate the callsign to 3 letters, this helps reduce frequency congestion.
 
-#### 3.5.2.2 VFR Zone Entry Phraseology 
+##### 3.5.2.2 VFR Zone Entry Phraseology 
 
 > **Pilot:** _"Bahrain Tower, A9C-ZZ with you 5nm North West of the Whiskey VRP, Altitude 1500ft, request clearance into the Control Zone for Full Stop Landing"_
 
@@ -323,7 +323,7 @@ Example:
 Within the **Class D Bahrain Control Zone (CTR)** the TWR controller is not required to provide VFR traffic with separation, the only service provided to VFR traffic is Traffic Information between VFR and IFR aircraft. 
 The pilot can request traffic avoidance on request, however it is up to TWR controller as to whether they can provide. 
 
-## 3.6 Restricted Airspace 
+### 3.6 Restricted Airspace 
 The **Bahrain Control Zone (CTR)** is in very close proximity to the **R57 Restricted Airspace.** 
 
 Under no circumstance are flights allowed to enter the restricted airspace without prior permission from the **APP Controller**. 

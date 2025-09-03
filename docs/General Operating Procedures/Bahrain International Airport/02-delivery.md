@@ -1,12 +1,12 @@
 ---
-title: Bahrain Delivery [OBBI_DEL]
+title: "Bahrain Delivery [OBBI_DEL]"
 toc_min_heading_level: 2
-toc_max_heading_level: 5
+toc_max_heading_level: 6
 ---
 
-# **Bahrain Delivery [OBBI_DEL]**
+## **Bahrain Delivery [OBBI_DEL]**
 
-# Amendment History
+### Amendment History
 
 | **Revision** | **Effective Date** |      **Notes**      |
 |:------------:|:------------------:|:-------------------:|
@@ -14,16 +14,16 @@ toc_max_heading_level: 5
 
 ----
 
-# Chapter 1. Position Overview 
+## Chapter 1. Position Overview 
 **Bahrain Delivery (DLV)** provides aircraft with a departure clearance and is responsible for passing the ATIS (Automatic Terminal Information Service) to the pilot. DLV Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct initial heading after departure, the initial altitude and assigned squawk code. 
 
 Once clearance has been issued and readback correctly from the pilot the DLV controller will transfer the aircraft to the SMC controller when they report they are ready for pushback and start. During busy periods the SMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
 
 ----
 
-# Chapter 2. GEN | General Operating Procedures 
+## Chapter 2. GEN | General Operating Procedures 
 
-## 2.1 Issuing IFR Clearances 
+### 2.1 Issuing IFR Clearances 
 It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. You might expect the following information to be passed from the pilot tot he **DLV Controller** on initial contact.
 
 - Stand Number.
@@ -107,7 +107,7 @@ The TOBT system allows aircraft to push back, taxi to the runway holding point a
 
 Please note TOBTs are only issued during certain events, this will outlined to via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event. You are required to tell the appropriate member of staff if you're not familiar with A-CDM procedures. 
 
-## 2.2 Departure Procedures
+### 2.2 Departure Procedures
 Bahrain does not have any published Standard Instrument Departures (SIDs). Instead, Delivery will assign an initial heading to departing aircraft. 
 
 The Aircraft will then be provided radar vectors from Bahrain Approach after departure. 
@@ -131,7 +131,7 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
 !!!node "Initial Climb"
     The initial climb for aircraft departing Bahrain International Airport is **3000ft for propeller aircraft** and **4000ft for jet aircraft.** 
 
-## 2.3 VFR Procedures 
+### 2.3 VFR Procedures 
 DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DLV must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the DLV Controller to pass to the pilot. 
 
 ### 2.3.1 VFR Circuits
@@ -191,7 +191,7 @@ Once the pilot has correctly read back the clearance, if the pilot did not provi
 
 When the aircraft reports ready for engine start up they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.**
 
-## 2.4 Departure List Management 
+### 2.4 Departure List Management 
 The **DLV Controller** is responsible for ensuring the departure list is correct and maintained prior to handing aircraft off to the SMC Controller. This includes ensuring filed routings are correct, initial headings have been assigned based on direction of flight, initial altitudes has been set correctly and a squawk code has been assigned. 
 
 The A/C Status Column must be updated to show the aircraft is on frequency. 
@@ -199,7 +199,7 @@ The A/C Status Column must be updated to show the aircraft is on frequency.
 ### 2.4.1 Squawk Code Not Set 
 If an aircraft who has received his clearance and calls ready for push and start but has not set their assigned squawk code the **DLV Controller** must advise the aircraft to set squawk code. Aircraft will not be handed off to SMC for push back until the squawk code has been set. 
 
-## 2.5 Transferring Aircraft to the SMC Controller
+### 2.5 Transferring Aircraft to the SMC Controller
 When an aircraft has received his clearance and calls for push and start with his assigned squawk code set the **DLV Controller** will then hand the aircraft off to the **SMC Controller** to be sequenced for push and start. 
 
 > **DLV Controller:** _**"GFA504, hold position, Contact Bahrain Ground on 121.850"**_
