@@ -24,9 +24,11 @@ The **Bahrain Control Zone (CTR)** is **Class D Airspace** from the Ground up to
 
 Below you can find a top down view of the **Bahrain Control Zone**.
 
-![CTR](https://cdn.discordapp.com/attachments/1326913429503742025/1400247738708525156/NEW.png?ex=688bf1d4&is=688aa054&hm=2ca65f9943f330619b0a28b338de6d91a7133a8cb88bc36c30fa0201a664fe09&)
+---
 
-----
+![Fail to load Image.](img/OBBICTR.png)
+
+---
 
 ## Chapter 3. GEN | General Operating Procedures
 
