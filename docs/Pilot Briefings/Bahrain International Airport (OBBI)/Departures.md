@@ -83,7 +83,7 @@ Upon reaching the holding point if you are not ready for an immediate departure 
 ## Chapter 3: Takeoff 
 
 When handed off to the Tower Controller you will be expected to be ready for departure upon reaching the runway holding point. 
-You must have cross checked your aircraft systems to ensure you have the correct departure setup. 
+You must have cross-checked your aircraft systems to ensure you have the correct departure setup. 
 
 It is good airmanship to ensure you have the next controllers frequency set in the standby frequency in your VHF system. 
 
@@ -93,7 +93,7 @@ Example:
 
 > **Pilot:** _**"Cleared for take off runway 30R, after departure fly heading 345 degrees, GFA101"**_ 
 
-Once you're airbourne the Tower Controller will then hand you over to Approach or the next relevant controller, you must read back the full and correct frequency. 
+Once you're airborne, **Bahrain Tower** will then hand you over to **Bahrain Approach** or the next relevant controller, you must read back the full and correct frequency. 
 
 ## Chapter 4: Climb Out 
 
