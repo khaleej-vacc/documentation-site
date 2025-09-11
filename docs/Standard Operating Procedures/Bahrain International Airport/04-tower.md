@@ -30,7 +30,7 @@ Below you can find a top down view of the **Bahrain Control Zone**.
 
 ---
 
-## Chapter 3. GEN | General Operating Procedures
+## Chapter 3. GEN | Standard Operating Procedures
 
 ### 3.1 Runway Selection 
 At **Bahrain International Airport (OBBI)**, the preferential runway is 30R for departure and arrival which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then runway 12L should be used for arrivals and departures.
@@ -232,16 +232,11 @@ Once the aircraft has acknowledged the go around, the TWR Controller shall issue
 !!!node "Coordination" 
     If a go around instruction has been issued, the Approach Controller should be notified immediately once the aircraft has been given instructions. 
 
-### 3.5 VFR Procedures 
+### 3.5 Tower VFR Procedures
 
-- VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace. 
-- VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
-- **Bahrain Tower (TWR)** and **Bahrain Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Terminal Manevuering Area** if traffic levels permit.
+**To be Completed**
 
-### 3.5.1 Visual Reporting Points (VRPs)
-**Visual Reporting Points (VRPs)** are specific geographical locations used in aviation to assist pilots in navigation and communication with air traffic control. These points help pilots maintain situational awareness and provide reference points for reporting their position during flight. 
-
-Bahrain has a number of **Visual Reporting Points (VRPs)** which you can see below. 
+#### 2.3.2.1 VFR Reporting Entry/Exit Points
 
 | **Identifier** |  **Name**  | **Radial & DME from BHR VOR/DME** |     **Coordinates**    |
 |:--------------:|:----------:|:---------------------------------:|:----------------------:|
@@ -252,83 +247,5 @@ Bahrain has a number of **Visual Reporting Points (VRPs)** which you can see bel
 |       S2       |  Sierra 2  |        270 Degrees / 1.5nm        |  261533.39N 503738.75E |
 |        W       |   Whiskey  |        270 Degrees / 7.5nm        |  261553.19N 503059.68E |
 
-Aircraft Transitting the **Bahrain Control Zone (CTR)** have a mandatory reporting point overhead the BHR VOR.
 
-### 3.5.2 VFR Departures
-VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Manevuering Area (TMA)**.
-All VFR departures leaving the **Control Zone (CTR)** must exit via one of the established **Visual Reporting Points (VRPs)** described in Section 3.5.1.
 
-#### 3.5.2.1 VFR Departure Phraseology 
-
-> **Pilot:** _"Bahrain Tower, A9C-ZZ with you holding point A8, runway 30R"_
-
-> **TWR:** _"A9C-ZZ, via A8, cleared for takeoff runway 30R, winds calm, report overhead Whiskey VRP"_
-
-> **Pilot:** _"Bahrain Tower, via A8 cleared for takeoff runway 30R, will report ovehead Whiskey VRP"_
-
-> **Pilot:** _"Bahrain Tower, A9C-ZZ overhead Whiskey VRP"_ 
-
-> **TWR:** _"A-ZZ, roger, contact Bahrain Approach 127.850"_ 
-
-!!!node "Callsign Shortening"
-    With VFR Traffic you are allowed to abbreviate the callsign once contact has been established. Your first transmission with the aircraft must always include their full callsign however, from then on, you may abbreviate the callsign to 3 letters, this helps reduce frequency congestion.
-
-##### 3.5.2.2 VFR Zone Entry Phraseology 
-
-> **Pilot:** _"Bahrain Tower, A9C-ZZ with you 5nm North West of the Whiskey VRP, Altitude 1500ft, request clearance into the Control Zone for Full Stop Landing"_
-
-> **TWR:** _"A9C-ZZ, Good Afternoon, cleared to enter the Control Zone, not above altitude 1500ft via Whiskey VRP, VFR, QNH 1001, Squawk 7001"_
-
-> **Pilot:** _"Cleared to enter the Control Zone not above altitude 1500ft via Whiskey VRP, QNH 1001, Squawk 7001"_ 
-
-> **TWR:** _"A-ZZ, Readback Correct, report overhead the airfield"_
-
-!!!node "Controller Preference"
-    The Controller can elect where to have the inbound VFR traffic head to after they have recieved their initial zone entry clearance depending on traffic levels.
-
-#### 3.5.2.3 VFR Circuits
-
-> **Pilot:** _"Bahrain Tower, A9C-ZZ, with you holding point A8, ready for departure"_ 
-
-> **TWR:** _"A9C-ZZ, after departure right hand turn out, via A8, cleared for takeoff RWY30R, winds calm"_
-
-> **Pilot:** _"After departure right hand turn out, via A8, cleared for takeoff RWY30R, A9C-ZZ"_
-
-Once the aircraft is airborne and established on the right hand turn off you can advise them to report downwind with intentions. 
-
-> **TWR:** _"A-ZZ, report downwind with intentions"_
-
-> **Pilot:** _"Wilco, A-ZZ"_ 
-
-> **Pilot:** _"A-ZZ, right hand downwind RWY30R for touch and go"_
-
-> **TWR:** _"A-ZZ, roger, you are number 2 to a Gulf Air Airbus A320 on 3nm final, maintain visual separation, caution wake turbulence, report final runway 30R"_
-
-> **Pilot:** _"traffic is in sight, maintaining visual separation, will report final runway 30R, A-ZZ"_
-
-> **Pilot:** _"A-ZZ, final runway 30R"_ 
-
-> **TWR:** _"A-ZZ, cleared touch and go runway 30R, winds calm, report downwind"_
-
-#### 3.5.2.4 Traffic Information
-The **TWR Controller** is responsible for providing VFR and IFR flights with the necessary traffic information to prevent any loss of seperation within the **Control Zone (CTR)**. 
-
-Example: 
-> **TWR:** _**"A9C-ZZ, traffic information, traffic is a Gulf Air Airbus A320, 7nm final RWY30R, report the traffic in sight"**_
-
-Once the aircraft confirms they have the aircraft in sight, the TWR Controller can then further issue the aircraft with an instruction. 
-
-Example: 
-> **TWR:** _**"A9C-ZZ, you are number 2 to the Gulf Air Airbus A320 on 7nm final RWY30R, maintain visual separation, caution wake turublence, report final Runway 30R"**_
-
-#### 3.5.2.5 VFR Service Requirements 
-Within the **Class D Bahrain Control Zone (CTR)** the TWR controller is not required to provide VFR traffic with separation, the only service provided to VFR traffic is Traffic Information between VFR and IFR aircraft. 
-The pilot can request traffic avoidance on request, however it is up to TWR controller as to whether they can provide. 
-
-### 3.6 Restricted Airspace 
-The **Bahrain Control Zone (CTR)** is in very close proximity to the **R57 Restricted Airspace.** 
-
-Under no circumstance are flights allowed to enter the restricted airspace without prior permission from the **APP Controller**. 
-The only flights allowed to enter the R57 Airspace are those operating into **Sakhir Airbase (OBKH)** or **Isa Airbase (OBBS)** with a correctly filed flight plan. 
-
-If there is no controller on above Tower then the aircraft should be advised to remain outside of **Control Zone (CTR)**

@@ -21,7 +21,7 @@ Once clearance has been issued and readback correctly from the pilot the DLV con
 
 ----
 
-## Chapter 2. GEN | General Operating Procedures 
+## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Issuing IFR Clearances 
 It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. You might expect the following information to be passed from the pilot tot he **DLV Controller** on initial contact.
@@ -132,6 +132,19 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
     The initial climb for aircraft departing Bahrain International Airport is **3000ft for propeller aircraft** and **4000ft for jet aircraft.** 
 
 ### 2.3 VFR Procedures 
+
+### 2.4  VFR Procedures
+
+- VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace.
+- VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
+- **Bahrain Tower (TWR)** and **Bahrain Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Terminal Manevuering Area** if traffic levels permit.
+- All VFR departures shall be assigned a discrete SSR code so that positive identification is established. 
+- VFR aircraft are assigned discrete, or specific, four-digit squawk codes to allow for positive identification on radar, especially when flying through controlled airspace.
+
+### 3.5.2 
+VFR Departures VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Manevuering Area (TMA)**. There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination.
+
+#### 3.5.2.1
 DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DLV must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the DLV Controller to pass to the pilot. 
 
 ### 2.3.1 VFR Circuits
@@ -147,59 +160,17 @@ Once **Bahrain Delivery (DLV)** has recieved confirmation from the TWR controlle
 
 ***VFR Circuit Clearance Example***
 
-> **DLV Controller:** _**"A9C-ZZ, cleared right hand circuits, RWY30R not above altitude 1000ft, VFR, squawk 7001"**_
+> **DLV Controller:** _**"A9C-ZZ, cleared right hand circuits RWY30R, not above altitude 1000ft VFR, squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **DLV Controller:** _**"A-ZZ, read back is correct, information Alpha is current, QNH 1001"**_
+> **DLV Controller:** _**"A-ZZ, read back is correct, information Alpha is current, report ready for startup."**_
 
 !!!node "Callsign Shortening" 
     After initial contact has been made and established with the aircraft, you can shorten the callsign from A9C-ZZ to A-ZZ, read as Alpha - Zulu - Zulu. This is to reduce frequency congestion.
 
 ### 2.3.2 VFR Departures Leaving the Control Zone (CTR)
-For pilots filing VFR Flight Plans (FPLs) to leave the **Bahrain Control Zone (CTR)**, again the DLV Controller must coordinate this promptly with the TWR Controller, who will coordinate with the APP Controller as to whether they can both accept the aircraft in their respective airspace. The TWR Controller will be responsible for providing the DLV Controller with a **Visual Reporting Point (VRP)** to be cleared via depending on the aircrafts filed routing or direction of flight. Once approved, the **DLV Controller** will issue a clearance to the aircraft. 
 
-#### 2.3.2.1 VFR Zone Entry/Exit Points
-
-| **Identifier** |  **Name**  | **Radial & DME from BHR VOR/DME** |     **Coordinates**    |
-|:--------------:|:----------:|:---------------------------------:|:----------------------:|
-|       N1       | November 1 |         020 Degrees / 6nm         | 262059.85N  504157.35E |
-|       N2       | November 2 |         350 Degrees / 2nm         |  261729.13N 503902.73E |
-|        E       |    Echo    |         160 Degrees / 6nm         |  260945.38N 504116.75E |
-|       S1       |  Sierra 1  |         230 Degrees / 4nm         |  261304.73N 503546.62E |
-|       S2       |  Sierra 2  |        270 Degrees / 1.5nm        |  261533.39N 503738.75E |
-|        W       |   Whiskey  |        270 Degrees / 7.5nm        |  261553.19N 503059.68E |
-
-***VFR Zone Exit Clearance Example***
-
-> **DLV Controller:** _**"A9C-ZZ, cleared to exit the Bahrain Control Zone, via Whiskey VRP, not above altitude 2500ft VFR, Squawk 7001"**_
-
-The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
-
-***Challenge Example***
-
-> **DLV Controller:** _**"A9C-ZZ, Negative. You are cleared to exit the Control Zone, via Whiskey VRP, not above altitude 2500ft VFR, Squawk 7001"**_
-
-!!!node "Visual Reporting Points (VRPs)" 
-    The TWR Controller will issue the DLV Controller with a VRP for the aircraft to leave the Control Zone via
-
-Once the pilot has correctly read back the clearance, if the pilot did not provide the Current ATIS Letter and/or QNH on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
-
-> **DLV Controller:** _**"A-ZZ, Read Back is correct, Information Alpha is current, QNH 1001"**_
-
-When the aircraft reports ready for engine start up they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.**
-
-### 2.4 Departure List Management 
-The **DLV Controller** is responsible for ensuring the departure list is correct and maintained prior to handing aircraft off to the SMC Controller. This includes ensuring filed routings are correct, initial headings have been assigned based on direction of flight, initial altitudes has been set correctly and a squawk code has been assigned. 
-
-The A/C Status Column must be updated to show the aircraft is on frequency. 
-
-### 2.4.1 Squawk Code Not Set 
-If an aircraft who has received his clearance and calls ready for push and start but has not set their assigned squawk code the **DLV Controller** must advise the aircraft to set squawk code. Aircraft will not be handed off to SMC for push back until the squawk code has been set. 
-
-### 2.5 Transferring Aircraft to the SMC Controller
-When an aircraft has received his clearance and calls for push and start with his assigned squawk code set the **DLV Controller** will then hand the aircraft off to the **SMC Controller** to be sequenced for push and start. 
-
-> **DLV Controller:** _**"GFA504, hold position, Contact Bahrain Ground on 121.850"**_
+**To be completed**
