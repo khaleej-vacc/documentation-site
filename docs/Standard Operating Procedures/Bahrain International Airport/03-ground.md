@@ -22,9 +22,14 @@ In the absence of the DLV Controller the SMC Controller will take on those roles
 ---
 
 <p align="center">
-  <strong>1.1 - AREA OF RESPONSIBILITY</strong><br>
+  <strong>1.1 - AREA OF RESPONSIBILITY (30R Config)</strong><br>
 </p>
 ![Fail to load Image.](img/AOR30R.png)
+
+<p align="center">
+  <strong>1.1 - AREA OF RESPONSIBILITY (12L Config)</strong><br>
+</p>
+![Fail to load Image.](img/AOR12L.png)
 
 
 ----
