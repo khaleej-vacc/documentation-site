@@ -1,5 +1,5 @@
 ---
-title: Departing Bahrain International Airport (OBBI/BAH)
+title: Departing Bahrain Intl.
 ---
 
 # Pilot Briefing
