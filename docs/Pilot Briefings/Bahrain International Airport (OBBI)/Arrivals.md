@@ -1,5 +1,5 @@
 ---
-title: Arriving into Bahrain International Airport (OBBI/BAH)
+title: Arriving into Bahrain
 ---
 
 # Pilot Briefing
@@ -17,13 +17,13 @@ On initial contact with the controller you should provide the following informat
 
 Example:
 
-> **Pilot:** _**"Bahrain Radar, GFA520 with you F260, Airbus A320, Information C"**_ 
+> **Pilot:** _**"Bahrain Radar, GFA520, FL260, Airbus A320, Information C."**_ 
 
-Once you have made initial contact the controller will identify you on radar and proceed to give you instructions for how you should arrive into Bahrain.
+Once you have made initial contact, the controller will proceed to give you instructions for how you should arrive into Bahrain. This will include an **expected approach* and a **Standard Terminal Arrival Route (STAR)**.
 
-## Standard Terminal Arrival Routes & Approach
+## Standard Terminal Arrival Routes
 
-Bahrain has 3 stars. They are applicable to both 12L and 30R.
+Bahrain has 3 STARs. They are applicable to both 12L and 30R.
 
 |     **Direction**     |   **STAR**   |
 |:---------------------------:|:---------------------:|
@@ -31,13 +31,11 @@ Bahrain has 3 stars. They are applicable to both 12L and 30R.
 |      Northern Arrivals        |       KOBOK1        |
 |      Western Arrivals        |       LADNA1        |
 
-After you make initial contact with the controller they will provide you with a **Standard Terminal Arrival Route (STAR)**, an approach aid that you will use for landing at Kuwait and in some cases an altitude to descend too. 
-
 Example: 
 
 > **Controller:** _**"GFA520, Identified, ORDIG1 Arrival, expect ILS Approach Runway 30R, descend Flight Level 160."**_ 
 
-You must read back this clearance in full as it contains very important information. 
+You must read back this clearance in full. 
 You must cross-check your charts, ensure the arrival assigned is in your navigation database, if it is not you must inform the controller immediately. 
 
 You must adhere to any flight level, altitude or speed restrictions annotated on the relevant arrival chart unless advised otherwise by the controller. 
@@ -59,31 +57,26 @@ Once you are established you will advise the controller.
 
 The Approach Controller will then hand you over to the Tower Controller.
 
-## After Landing
+## Landing
 Upon arrival in Bahrain you should aim to vacate by one of the following points:
 
-| **Runway** | **Exit Points** |
+| **Runway** | **Standard Vacating Points** |
 |:----------:|:---------------:|
-|     30R    |   A4 or before  |
-|     12L    |   A7 or before  |
+|     30R    |   A4  |
+|     12L    |   A6  |
 
-Once you have done so the Tower Controller will provide you with an initial taxi instruction to get you away from the holding point efficiently and hand you over to the Ground Controller who will provide you with further taxi instructions to your Stand. 
-
-Example: 
-
-> **Controller:** _**"GFA520, Welcome to Bahrain, taxi via Q, Z, Stand 11."**_
+Once you have done so, **Bahrain Tower** will provide you with initial taxi instructions and hand you over to **Bahrain Ground** who will provide you with further taxi instructions to your stand.
 
 Again, please ensure you have the charts available and read back the instructions correctly.
-You will then taxi to stand and no further communications is required.
 
 ## Missed Approach Procedure
 
 In the event of a missed approach/go around, pilots shall follow the standard missed approach procedure as charted unless advised otherwise by ATC.
 
-|     **Runway**     |   **Heading**   |   **Altitude**   |
-|:---------------------------:|:---------------------:|:---------------------:|
-|       **30R**          |       300°       |       2500ft       |
-|       **12L**          |       120°       |       2500ft       |
+|     **Runway**     |   **Procedure**   |
+|:---------------------------:|:---------------------:|
+|       **30R**          |       Fly heading 300° and climb to 2500ft       |
+|       **12L**          |       Fly heading 120° and climb to 2500ft       |
 
 ### Additional Notes
 
