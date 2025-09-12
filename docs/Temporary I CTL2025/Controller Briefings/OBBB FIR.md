@@ -16,6 +16,7 @@
 OBBB_1_CTR is used as the primary bandbox position in the OBBB FIR, when subsectors are offline. It also serves as the Central Super sector.
 
 Callsigns:
+
 - OBBB_1
 - OBBB_CH
 - OBBB_CL
@@ -24,12 +25,14 @@ Callsigns:
 Bahrain East is responsible for traffic exiting towards the OMAE FIR, also called the DEGSO TOMSO box. When bandboxed, the 'OBBB_2_CTR' position shall be used, covering FL245 - UNL.
 
 Callsigns:
+
 - OBBB_2
 - OBBB_E
 
 ### Bahrain North
 
 Callsigns:
+
 - OBBB_3
 - OBBB_N
 
