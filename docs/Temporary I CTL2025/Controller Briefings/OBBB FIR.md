@@ -13,9 +13,9 @@
 ### Bahrain Central Higher [OBBB_CH]
 #### Bahrain Central Lower [OBBB_CL]
 
-[2] Area of Responsibility 
+## [2] Area of Responsibility 
 
-[3] LOA Descends 
+## [3] LOA Descends 
 
 | **Waypoint** | **Descent level** | **Responsible Sectors** | **Destination**   | **Extra notes** |
 |--------------|-------------------|-------------------------|-------------------|-----------------|
