@@ -48,11 +48,6 @@ Bahrain Director can expect to receive traffic from Bahrain Approach on the down
 - Runway 30R: A base heading of 210 and a final intercept heading of 270 degrees to be given to capture the ILS. Traffic on the base leg is preferred to be at a speed of 190kts or lower, descending or levelling at 1500ft.
 - Runway 12L: A base heading of 210 and final intercept heading of 150 degrees to be given to capture the ILS. Traffic on the base leg is preferred to be at a speed of 190knots or lower, descending or levelling at 1500ft.
 
-<p align="center">
-  <strong>HIGH TRAFFIC INTENSITY VECTORS - 30R</strong><br>
-</p>
-![Capture](img/Capture.png)
-
 ## Surrounding Airspaces
 
 ![Bahrain AIR](img/BahrainAIR.png)
