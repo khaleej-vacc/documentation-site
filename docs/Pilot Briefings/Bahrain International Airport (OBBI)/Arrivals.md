@@ -1,5 +1,5 @@
 ---
-title: Arriving into Bahrain
+title: Arriving into Bahrain Intl.
 ---
 
 # Pilot Briefing
