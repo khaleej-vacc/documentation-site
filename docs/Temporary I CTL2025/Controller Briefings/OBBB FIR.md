@@ -13,7 +13,9 @@
 ### Bahrain Central Higher [OBBB_CH]
 #### Bahrain Central Lower [OBBB_CL]
 
-## [2] Area of Responsibility 
+## [2] Surrounding Airspaces
+
+![Bahrain AIR](img/BahrainAIR.png)
 
 ## [3] LOA Descends 
 
