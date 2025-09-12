@@ -48,4 +48,4 @@ Airspaces
 |  **Kuwait Ground**   |      OKKK_GND      |        GMC       |       121.700       |
 |   **Kuwait Tower**   |      OKKK_TWR      |        TWR       |       118.300       |
 | **Kuwait Approach**  |      OKKK_APP      |        APP       |       124.800       |
-| **Kuwait Approach**  |      OKKK_F_APP    |        APP       |       123.825       |
+| **Kuwait Director**  |      OKKK_F_APP    |        APP       |       123.825       |
