@@ -1,6 +1,6 @@
 ![Bahrain RDR](img/BahrainRDR.png)
 
-## [1] Airspace
+## Airspace
 
 ### Bahrain Radar 1 [OBBB_1]
 
@@ -13,11 +13,23 @@
 ### Bahrain Central Higher [OBBB_CH]
 #### Bahrain Central Lower [OBBB_CL]
 
-## [2] Surrounding Airspaces
+## Sectors
+
+| **Position** | **Sector** | **Frequency** |
+|--------------|-------------------|-------------------------|
+| OBBB_1_CTR        | Central Super/Bandbox             | 127.525                |
+| OBBB_2_CTR        | East Higher             | 132.125              |
+| OBBB_3_CTR        | North Higher             | 127.525               |
+| OBBB_CH_CTR        | Central Higher             | 124.300               |
+| OBBB_CL_CTR        | Central Lower             | 122.300               |
+| OBBB_N_CTR        | North Lower             | 126.700                |
+| OBBB_E_CTR        | East Lower             | 132.850                |
+
+## Surrounding Airspaces
 
 ![Bahrain AIR](img/BahrainAIR.png)
 
-## [3] LOA Descends 
+## LOA Descends 
 
 | **Waypoint** | **Descent level** | **Responsible Sectors** | **Destination**   | **Extra notes** |
 |--------------|-------------------|-------------------------|-------------------|-----------------|
