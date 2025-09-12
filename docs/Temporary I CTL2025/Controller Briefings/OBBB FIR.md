@@ -12,8 +12,6 @@
 | OBBB_N_CTR        | North Lower             | 126.700                |
 | OBBB_E_CTR        | East Lower             | 132.850                |
 
-## Airspace
-
 ### Bahrain Central
 OBBB_1_CTR is used as the primary bandbox position in the OBBB FIR, when subsectors are offline. It also serves as the Central Super sector.
 
