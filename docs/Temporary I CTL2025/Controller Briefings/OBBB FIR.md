@@ -2,16 +2,16 @@
 
 ## Airspace
 
-### Bahrain Radar 1 [OBBB_1]
+### Bahrain Central [OBBB_1, OBBB_CH, OBBB_CL]
+OBBB_1_CTR is used as the primary bandbox position in the OBBB FIR, when subsectors are offline. It also serves as the Central Super sector.
 
-### Bahrain Radar 2 [OBBB_2]
-#### Bahrain East [OBBB_E]
+### Bahrain East [OBBB_2, OBBB_E]
 
-### Bahrain Radar 3 [OBBB_3]
-#### Bahrain North [OBBB_N]
+### Bahrain North [OBBB_3, OBBB_N]
 
-### Bahrain Central Higher [OBBB_CH]
-#### Bahrain Central Lower [OBBB_CL]
+### Bahrain Central
+When controlling the Bahrain Central sector, ensure that [LOAs](https://khaleej-vacc.github.io/documentation-site/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/) regarding the OTDF FIR are followed.
+
 
 ## Sectors
 
@@ -29,7 +29,7 @@
 
 ![Bahrain AIR](img/BahrainAIR.png)
 
-## LOA Descends 
+## LOA Descends
 
 | **Waypoint** | **Descent level** | **Responsible Sectors** | **Destination**   | **Extra notes** |
 |--------------|-------------------|-------------------------|-------------------|-----------------|
