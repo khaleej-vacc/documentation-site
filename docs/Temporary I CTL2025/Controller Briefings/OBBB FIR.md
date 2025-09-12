@@ -30,6 +30,11 @@ Callsigns:
 - OBBB_E
 
 ### Bahrain North
+During CTL: Eastbound 2025, the Bahrain North Sector will be responsible for accepting traffic going through two streams.
+Stream A:
+
+- **Traffic arriving into OBBI:** The stream landing in Bahrain will be handed off from **Kuwait Radar** to **Bahrain North Lower**, who must ensure that traffic reach LONOS at **FL330 or below** (Although it is preferred to keep them at or below FL310 on an **odd** level). The next handoff will be from **Bahrain North Lower** to **Bahrain Approach** who will expect traffic to be at an altitude of 12,000ft by KOBOK at a speed of 210kts. However, in coordination with Bahrain Approach, traffic may be kept as high as FL180 in order to extend track miles for sequencing within the TMA.
+- **Traffic en-route to OMAA:** The stream landing into Zayed Intl. will be handed off from **Kuwait Radar** to **Bahrain North Higher (OBBB_3_CTR), or if offline, Bahrain Radar Bandbox (OBBB_1_CTR). No descents are to be given to these traffic. Their expected route within the OBBB FIR is **LONOS P708 GESIT**.
 
 Callsigns:
 
