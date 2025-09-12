@@ -50,10 +50,12 @@ Example:
 
 Again, you must read this back correctly and fully. 
 
-It is a standard rule of thumb within Bahrain, you should be 180kts at 10DME, 160kts at 4dme to ensure safe and efficient operations. 
-Once you are established you will advise the controller. 
+!!!node "Act Promptly"
+Due to Bahrain's small TMA, Pilots must remain vigilant and maintain close attention to the frequency.
 
-> **Pilot:** _**"Bahrain Approach, GFA520, fully established ILS Runway 30R"**_ 
+Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
+
+> **Pilot:** _**"GFA520, fully established ILS Runway 30R"**_ 
 
 The Approach Controller will then hand you over to the Tower Controller.
 
