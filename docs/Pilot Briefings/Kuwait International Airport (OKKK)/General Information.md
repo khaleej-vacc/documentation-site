@@ -1,5 +1,5 @@
 ---
-title: Kuwait International Airport (OKKK) - Pilot Briefing
+title: General Information
 ---
 
 # Kuwait International Airport (OKKK) - Pilot Briefing
@@ -292,5 +292,6 @@ Once the aircraft is airborne and established on the right hand turn off you can
 > **Pilot:** _"traffic is in sight, maintaining visual separation, will report final runway 33R, 9-FR"_
 
 > **Pilot:** _"A-ZZ, final runway 33R"_
+
 
 > **TWR:** _"A-ZZ, cleared touch and go runway 33R, winds calm, report downwind"_
