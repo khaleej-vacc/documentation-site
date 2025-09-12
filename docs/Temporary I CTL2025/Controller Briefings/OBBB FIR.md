@@ -1,18 +1,5 @@
 ![Bahrain RDR](img/BahrainRDR.png)
 
-## Airspace
-
-### Bahrain Central [OBBB_1, OBBB_CH, OBBB_CL]
-OBBB_1_CTR is used as the primary bandbox position in the OBBB FIR, when subsectors are offline. It also serves as the Central Super sector.
-
-### Bahrain East [OBBB_2, OBBB_E]
-
-### Bahrain North [OBBB_3, OBBB_N]
-
-### Bahrain Central
-When controlling the Bahrain Central sector, ensure that [LOAs](https://khaleej-vacc.github.io/documentation-site/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/) regarding the OTDF FIR are followed.
-
-
 ## Sectors
 
 | **Position** | **Sector** | **Frequency** |
@@ -24,6 +11,32 @@ When controlling the Bahrain Central sector, ensure that [LOAs](https://khaleej-
 | OBBB_CL_CTR        | Central Lower             | 122.300               |
 | OBBB_N_CTR        | North Lower             | 126.700                |
 | OBBB_E_CTR        | East Lower             | 132.850                |
+
+## Airspace
+
+### Bahrain Central
+OBBB_1_CTR is used as the primary bandbox position in the OBBB FIR, when subsectors are offline. It also serves as the Central Super sector.
+
+Callsigns:
+- OBBB_1
+- OBBB_CH
+- OBBB_CL
+
+### Bahrain East
+Bahrain East is responsible for traffic exiting towards the OMAE FIR, also called the DEGSO TOMSO box. When bandboxed, the 'OBBB_2_CTR' position shall be used, covering FL245 - UNL.
+
+Callsigns:
+- OBBB_2
+- OBBB_E
+
+### Bahrain North
+
+Callsigns:
+- OBBB_3
+- OBBB_N
+
+### Bahrain Central
+When controlling the Bahrain Central sector, ensure that [LOAs](https://khaleej-vacc.github.io/documentation-site/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/) regarding the OTDF FIR are followed.
 
 ## Surrounding Airspaces
 
