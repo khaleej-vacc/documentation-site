@@ -51,7 +51,7 @@ Bahrain Director can expect to receive traffic from Bahrain Approach on the down
 <p align="center">
   <strong>HIGH TRAFFIC INTENSITY VECTORS - 30R</strong><br>
 </p>
-![Capture](img/capture.png)
+![Capture](img/Capture.png)
 
 ## Surrounding Airspaces
 
