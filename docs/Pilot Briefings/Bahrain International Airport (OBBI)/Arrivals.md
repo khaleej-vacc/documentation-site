@@ -7,7 +7,6 @@ title: Arriving into Bahrain Intl.
 ## Initial Contact 
 As the pilot of your aircraft it is your responsibility to ensure you have listened to the **A-ATIS (Automatic Terminal Information Service)** so you know the active runways, current weather and any other operational information at the airfield. 
 
-When either the En-Route Controller or Approach Controller asks you to contact them you should do so immediately. 
 On initial contact with the controller you should provide the following information: 
 
 - Callsign 
@@ -50,8 +49,7 @@ Example:
 
 Again, you must read this back correctly and fully. 
 
-!!!node "Act Promptly"
-Due to Bahrain's small TMA, Pilots must remain vigilant and maintain close attention to the frequency.
+!!!node "Act Promptly" Due to Bahrain's small TMA, Pilots must remain vigilant and maintain close attention to the frequency.
 
 Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
 
@@ -85,3 +83,4 @@ In the event of a missed approach/go around, pilots shall follow the standard mi
 - When asked to **monitor** the next frequency, simply tune the frequency and wait for further instructions. No transmission is required from your end.
 - Do not increase your speed, or descend below your assigned altitude/level without prior approval from ATC.
 - Pilots shall be aware that runway **30L/12R** is **permanently closed**.
+- When a controller asks you to contact them you should do so immediately. 
