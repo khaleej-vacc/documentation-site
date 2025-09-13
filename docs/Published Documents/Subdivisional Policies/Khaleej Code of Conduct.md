@@ -3,5 +3,6 @@ title: Khaleej Code of Conduct Policy
 ---
 
 # Code Of Conduct - Policy
-![Alt text](/assets/Khaleej vACC Code of Conduct.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
+
+<embed src="/assets/Khaleej vACC Code of Conduct.pdf" type="application/pdf" width="100%" height="800px" />
 
