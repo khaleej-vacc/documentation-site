@@ -11,15 +11,7 @@
 | OKAC_CTR        | Kuwait Radar             | 125.300              |
 
 ## Surrounding Airspaces
-<p align="center">
-  <strong>Bahrain ACC</strong><br>
-</p>
-![Bahrain AIR](img/BahrainAIR.png)
-
-<p align="center">
-  <strong>Bahrain TMA</strong><br>
-</p>
-![SA](img/SA.png)
+![KuwaitRDR](img/KuwaitRDR.png)
 
 ## LOA Descends
 
