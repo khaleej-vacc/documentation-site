@@ -41,6 +41,14 @@ Callsigns:
 - OBBB_3
 - OBBB_N
 
+During CTL: Eastbound 2025, sectors North Higher, Central Super and East Higher will be controlled by OBBB_1_CTR, with descends given only to traffic bound to OTHH and northern airports in the OMAE FIR.
+
+- Traffic inbound to OTHH must descend FL290 by DEKTA and kept at FL230 or below by GIRMO.
+- Airports in the north of the OMAE FIR include: OMDB, OMDW, OMDM, OMSJ, OMRK and OMFJ.
+- Airports in the south of the OMAE FIR should not be provided descents (e.g OMAA, OMAL, OMAD and OMAM).
+
+Controllers are asked to review the LOAs regarding descents into the OTDF and OMAE FIR's [here](https://docs.khaleejvacc.net/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/).
+
 ### Bahrain Director
 
 Bahrain Director can expect to receive traffic from Bahrain Approach on the downwind leg at an altitude of 3000ft and at speed 210 knots.
