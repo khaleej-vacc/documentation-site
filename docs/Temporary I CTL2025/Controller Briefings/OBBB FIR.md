@@ -1,6 +1,9 @@
-![Bahrain RDR](img/BahrainRDR.png)
-
 ## Sectors
+
+<p align="center">
+  <strong>SECTOR DIAGRAM</strong><br>
+</p>
+![Bahrain RDR](img/BahrainRDR.png)
 
 | **Position** | **Sector** | **Frequency** |
 |--------------|-------------------|-------------------------|
