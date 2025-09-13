@@ -1,4 +1,4 @@
-## Sectors 
+## Sectors
 
 ![KuwaitACC](img/KuwaitACC.png)
 
