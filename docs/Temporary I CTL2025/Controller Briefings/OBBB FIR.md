@@ -13,7 +13,7 @@
 | OBBB_E_CTR        | East Lower             | 132.850                |
 
 ### Bahrain Central
-OBBB_1_CTR is used as the primary bandbox position in the OBBB FIR, when subsectors are offline. It also serves as the Central Super sector..
+OBBB_1_CTR is used as the primary bandbox position in the OBBB FIR, when subsectors are offline. It also serves as the Central Super sector.
 
 Callsigns:
 
