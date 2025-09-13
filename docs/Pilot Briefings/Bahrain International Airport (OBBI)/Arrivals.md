@@ -83,5 +83,5 @@ In the event of a missed approach/go around, pilots shall follow the standard mi
 
 - When asked to **monitor** the next frequency, simply tune the frequency and wait for further instructions. No transmission is required from your end.
 - Do not increase your speed, or descend below your assigned altitude/level without prior approval from ATC.
-- Pilots shall be aware that runway **30L/12R** is **permanently closed**.
+- Pilots shall be aware that runway **30L/12R** is **permanently closed** and is now used as **taxiway A**
 - When a controller asks you to contact them you should do so immediately. 
