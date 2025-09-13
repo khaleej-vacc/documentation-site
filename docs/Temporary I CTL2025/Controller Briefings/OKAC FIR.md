@@ -27,9 +27,9 @@
 
 ### Kuwait Radar
 
-**OKAC_CTR** is used as the primary bandbox position in the OKAC FIR. It controls OKKK (Kuwait International Airport), at utilises runways 33L, 33R, 15L, and 15R. 
+**OKAC_CTR** is used as the primary bandbox position in the OKAC FIR. It controls OKKK (Kuwait International Airport), at utilises runways 33L, 33R, 15L, and 15R.
 
-**Traffic arriving into OBBI**: The stream landing in Bahrain will be handed off from Kuwait Radar to Bahrain North Lower (OBBB_N_CTR), who must ensure that traffic **reach waypoint LONOS at FL330 or below** (although it is preferred to keep them at or below FL310 on an odd level). Our COPX altitudes on the sector files are added for your convienence.
+**Traffic arriving into OBBI**: The stream landing in Bahrain will be handed off from Kuwait Radar to Bahrain North Lower (OBBB_N_CTR), who must ensure that traffic **reach waypoint LONOS at FL330 or below** (although it is preferred to keep them at or below FL310 on an odd level). Our COPX altitudes on the sector files are added for your convenience.
 
 ---
 
@@ -41,14 +41,14 @@ With this CTL Edition, we will have three streams using the **OKAC** FIR going t
 - LDDU-OMAA
 - LPPT-OMAA
 
-Please note that these transiting aircraft are to be transfered to **OBBB_3_CTR** and not the **North** callsign. The MIT (Minimum in Trail is 10NM entering the next FIR, in the case where this is not possible, coordination must happen with the next FIR controller.)
+Please note that these transiting aircraft are to be transferred to **OBBB_3_CTR** and not the **North** callsign. The MIT (Minimum in Trail is 10NM entering the next FIR, in the case where this is not possible, coordination must happen with the next FIR controller.)
 
 ---
 
 ### Sector File Installation
 
 
-To install our latest sectorfile, which is mandatory, please head to [Aeronav](https://files.aero-nav.com/OKAC) and download the latest published sectorfile. 
+To install our latest sector file, which is mandatory, please head to [Aeronav](https://files.aero-nav.com/OKAC) and download the latest published sector file.
 
-- We utilise **vATIS** to set up our ATIS information. If at all, you are not familiar on how to utilise this software, it is your responsibility to message a member of Staff within Khaleej for assistance. Once downloaded, open the file and head to the 'Plugins' folder --> 'vATIS Profiles'. 
-- Follow this video for further assitance: [Tutorial](https://www.youtube.com/watch?v=MlV7Lu5gzgk)
+- We utilise **vATIS** to set up our ATIS information. If at all, you are not familiar on how to utilise this software, it is your responsibility to message a member of Staff within the Khaleej vACC for assistance. Once downloaded, open the file and head to the 'Plugins' folder --> 'vATIS Profiles'.
+- Follow this video for further assistance: [Tutorial](https://www.youtube.com/watch?v=MlV7Lu5gzgk)
