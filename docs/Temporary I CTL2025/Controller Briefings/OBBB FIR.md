@@ -60,6 +60,8 @@ Bahrain Director can expect to receive traffic from Bahrain Approach on the down
 
 ![Bahrain AIR](img/BahrainAIR.png)
 
+![Capture](img/Capture.PNG)
+
 ## LOA Descends
 
 | **Waypoint** | **Descent level** | **Responsible Sectors** | **Destination**   | **Extra notes** |
