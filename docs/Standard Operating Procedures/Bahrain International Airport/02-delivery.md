@@ -133,21 +133,19 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
 
 ### 2.3 VFR Procedures 
 
-### 2.4  VFR Procedures
-
 - VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace.
 - VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
 - **Bahrain Tower (TWR)** and **Bahrain Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Terminal Manevuering Area** if traffic levels permit.
 - All VFR departures shall be assigned a discrete SSR code so that positive identification is established. 
 - VFR aircraft are assigned discrete, or specific, four-digit squawk codes to allow for positive identification on radar, especially when flying through controlled airspace.
 
-### 3.5.2 
+#### 2.3.1 VFR Departures
 VFR Departures VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Manevuering Area (TMA)**. There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination.
 
-#### 3.5.2.1
+#### 2.3.2 VFR Clearances
 DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DLV must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the DLV Controller to pass to the pilot. 
 
-### 2.3.1 VFR Circuits
+#### 2.3.3 VFR Circuits
 Once **Bahrain Delivery (DLV)** has recieved confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
 
 !!!node "Act Promptly"
@@ -171,6 +169,42 @@ Once the pilot has correctly read back the clearance, if the pilot did not provi
 !!!node "Callsign Shortening" 
     After initial contact has been made and established with the aircraft, you can shorten the callsign from A9C-ZZ to A-ZZ, read as Alpha - Zulu - Zulu. This is to reduce frequency congestion.
 
-### 2.3.2 VFR Departures Leaving the Control Zone (CTR)
 
-**To be completed**
+### 2.4 VFR Departures into Uncontrolled Airspace
+
+There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination. 
+
+All VFR departures shall be assigned a discrete SSR code so that positive identification is established. 
+
+**Example:**
+Pilot:
+>"BAHRAIN Delivery, A9C-AA, requesting departure to the South on track Sakhir Air base (OKBH)"
+
+Controller:
+>"A9C-AA, BAHRAIN Delivery, cleared on track SAKHIR, altitude 1000 feet VFR, Squawk 6006"
+
+Pilot:
+>"Cleared on track SAHIR, Altitude 1000 feet VFR, Squawk 6006"
+
+Controller:
+>"A9C-AA, Readback Correct, information Charlie current, QNH 1011, report ready for startup"
+
+### 2.4.1 VFR Departures into Controlled Airspace
+
+VFR aircraft requesting clearance to climb into approach airspace (above 2,500 ft inside the CTR or above 1,000 ft AGL outside the CTR) shall only be cleared after prior coordination with APP. Otherwise, they shall be instructed to remain outside controlled airspace after leaving the control zone.
+
+All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
+
+**Example:**
+Pilot:
+>"Bahrain Delivery, A9C-AA, request departure to the west on track DAMMAM, altitude 6000 feet."
+
+Controller:
+>"A9C-AA, Bahrain Delivery, cleared on track DAMMAM, altitude 6000 feet VFR, squawk 6001."
+
+Pilot:
+>"Cleared on track DAMMAM, altitude 6000 feet VFR, squawk 6001."
+
+Controller:
+>"A9C-AA, readback correct, information Charlie current, QNH 1011, report ready for start-up."
+
