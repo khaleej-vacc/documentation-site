@@ -42,3 +42,6 @@ plugins:
  - search
   # - mkdocs-with-pdf
   # - mkdocs-pdf
+
+repo_url: https://github.com/khaleej-vacc/documentation-site
+repo_name: VATSIM-khaleej-vacc/documentation-site
