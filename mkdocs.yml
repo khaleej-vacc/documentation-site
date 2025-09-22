@@ -30,6 +30,16 @@ theme:
     - search.highlight
     - search.share
     - header.autohide
+extra:
+  social:
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/khaleejvacc/
+    - icon: fontawesome/brands/discord
+      link: https://community.vatsim.net
+    - icon: fontawesome/brands/twitch
+      link: https://www.twitch.tv/khaleejvacc
+    - icon: fontawesome/brands/github
+      link: https://github.com/khaleej-vacc
 
 extra_css:
   - stylesheets/extra.css
