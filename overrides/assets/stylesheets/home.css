@@ -29,7 +29,6 @@
 .hero .hero-items {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 80px; 
 }
 
 .hero-items .left {
@@ -74,13 +73,9 @@
     border-color: var(--md-accent-fg-color)
 }
 
-.hero-items {
-}
-
 
 /* Features below hero */
 
-.lowerSection {}
 
 .feature {
     font-family: Mulish;

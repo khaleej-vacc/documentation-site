@@ -276,6 +276,49 @@ VFR arrivals may be denied entry into the control zone during times of increased
 
 --- 
 
+### 3.5 Tower VFR Procedures
+
+The Bahrain control zone is Class D, which means that TWR is responsible for IFR/VFR separation and shall provide traffic information concerning VFR aircraft.
+
+#### 3.5.1 VFR Departures
+Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report leaving the control zone.
+
+If aircraft are exiting into uncontrolled airspace, they shall be instructed to remain outside controlled airspace and monitor Unicom. If they are entering Bahrain TMA airspace, they shall be handed off to the Bahrain TMA controller approximately one minute before leaving the control zone.
+
+#### 3.5.2 VFR Traffic remaining in circuit
+TWR control is responsible for managing circuit traffic. Circuits will always be conducted to the north of the airfield. Once aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report when they are on downwind with their intentions.
+
+**Example:**
+>"A9C-AA, report downwind with intentions."
+
+Aircraft may request a touch-and-go, a stop-and-go, a low approach, or a full-stop landing. Once TWR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
+
+Aircraft on downwind shall be passed the following information:
+
+- Sequence
+- Traffic information (if applicable) for both **IFR** and **VFR** traffic.
+
+**Example:**
+>"ATT, cleared to land / for Touch and Go / for Low Approach"
+
+Aircraft conducting a stop and go shall be required to report ready for departure after vacating the runway. 
+
+#### 3.5.3 VFR Arrivals
+
+Inbound VFR aircraft shall be instructed to contact TWR with enough time such that two-way radio communication has been established before entering the control zone. On first contact, TWR will provide instructions on how to enter the CTR, the runway in use, and the QNH.
+
+**Example:**
+>"ATT, Bahrain Tower, enter control zone on track Bahrain, Runway 30R, 2,000 feet VFR, QNH 1017."
+
+Once they are closer to the aerodrome, they shall be given circuit joining instructions.
+
+**Example:**
+>"ATT, join base Runway 30R."
+
+VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and may be instructed to hold outside controlled airspace awaiting further instructions. VFR aircraft may also be instructed to orbit on any leg of the circuit.
+
+--- 
+
 #### 3.6 VFR Reporting Entry/Exit Points
 
 | **Identifier** |  **Name**  | **Radial & DME from BHR VOR/DME** |     **Coordinates**    |
@@ -286,6 +329,5 @@ VFR arrivals may be denied entry into the control zone during times of increased
 |       S1       |  Sierra 1  |         230 Degrees / 4nm         |  261304.73N 503546.62E |
 |       S2       |  Sierra 2  |        270 Degrees / 1.5nm        |  261533.39N 503738.75E |
 |        W       |   Whiskey  |        270 Degrees / 7.5nm        |  261553.19N 503059.68E |
-
 
 

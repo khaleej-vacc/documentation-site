@@ -52,14 +52,14 @@ The **TWR Controller** must issue clear and precise instructions when issuing ai
 
 Example:
 
-> **TWR Controller:** _**"KAC501, via Loop line up and wait RWY33L"**_ 
+> **TWR Controller:** _**"KAC501, via Whiskey One, line up and wait RWY33L"**_ 
 
 #### 3.2.1 Conditional Line Up Clearance (Landing Traffic)
 The **TWR Controller** may issue a conditional line up clearance in order to maximise movements and runway efficency. This must be done efficently and precisely. 
 
 Example:
 
-> **TWR Controller:** _**"KAC501, behind the landing Qatar Airbus A320, 3 mile final, line up and wait RWY33L via Loop, behind"**_ 
+> **TWR Controller:** _**"KAC501, behind the landing Qatar Airbus A320, line up and wait RWY33L via WHiskey One, behind"**_ 
 
 !!!node "Vitally Important" 
     The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic
@@ -69,7 +69,7 @@ The **TWR Controller** can also issue a conditional line up clearance for traffi
 
 Example:
 
-> **TWR Controller:** _**"KAC501, behind the departing Company Airbus A330 Neo, via Loop line up and wait RWY33L, behind"**_
+> **TWR Controller:** _**"KAC501, behind the departing Company Airbus A330 Neo, via Whiskey One line up and wait RWY33L, behind"**_
 
 !!!node "Company Traffic" 
     The use of the word company traffic in clearances can be used if the traffic related to the instruction is of the same company that is receiving the clearance
@@ -106,14 +106,14 @@ Aircraft should only be given take off clearance once the runway is clear of obs
 
 Example: 
 
-> **TWR Controller:** _**"KAC393, Surface Wind 300 Degrees at 12 knots, Runway 33L, Cleared for takeoff"**_
+> **TWR Controller:** _**"KAC393, surface wind 300 Degrees at 12 knots, Runway 33L, cleared for takeoff."**_
 
 #### 3.3.3 Handing Off 
 Once the aircraft has taken off and a postive rate of climb can be seen **(typically passing 800ft)** they should be informed to contact the **Approach Controller** with their passing altitude. 
 
 Example: 
 
-> **TWR Controller:** _**"KAC393, report your passing altitude to Kuwait Approach 124.800, Goodbye"**_
+> **TWR Controller:** _**"KAC393, contact Kuwait Approach 124.800, goodbye."**_
 
 #### 3.3.4 Wake Separation 
 Time based separation is utilised at Kuwait to ensure separation between various wake turbulence catergories is maintained. 
@@ -166,7 +166,7 @@ The **TWR Controller** is responsible for issuing traffic landing clearance. The
 
 Example:
 
-> **TWR Controller:** _**"JZR1144, Surface Winds 300 Degrees at 10 knots, Runway 33R, Cleared to land"**_
+> **TWR Controller:** _**"JZR1144, surface winds 300 Degrees at 10 knots, Runway 33R, cleared to land"**_
 
 #### 3.4.1.1 Late Landing Clearance 
 In the event traffic may be issued a late landing clearance due to traffic departing ahead of them or vacating slowly they can be issued a late landing clearance, however, the landing traffic must be issued a landing clearance no later than 2nm from touchdown. 
@@ -230,108 +230,11 @@ Example:
 
 Once the aircraft has acknowledged the go around, the TWR Controller shall issue the aircraft which the standard missed approach phraseology. 
 
-> **TWR Controller:** _**"KAC156, fly the standard missed approach procedure, climb altitude 5000ft, contact Kuwait Approach on 124.800"**_
+> **TWR Controller:** _**"KAC156, fly standard missed approach procedure, climb altitude 5000ft, contact Kuwait Approach on 124.800"**_
 
 !!!node "Coordination" 
     If a go around instruction has been issued, the Approach Controller should be notified immediately once the aircraft has been given instructions. 
 
 ### 3.5 VFR Procedures 
 
-- VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace. 
-- VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
-- **Kuwait Tower (TWR)** and **Kuwait Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Control Area** if traffic levels permit.
-- All Traffic shall be cleared to operate up to 1000ft within the Control Zone. 
-
-#### 3.5.1 Visual Reporting Points (VRPs)
-**Visual Reporting Points (VRPs)** are specific geographical locations used in aviation to assist pilots in navigation and communication with air traffic control. These points help pilots maintain situational awareness and provide reference points for reporting their position during flight. 
-
-Kuwait has a number of **Visual Reporting Points (VRPs)** which you can see below. 
-
-| **Route Identifier** |      **Reporting Point**      | **Radial & DME from KUA VOR/DME** |    **Coordinates**    |
-|:--------------:|:----------------------:|:---------------------------------:|:---------------------:|
-|   VFR Q East   | Qurain Shopping Center |        115 Degrees / 5.8nm        | 291156.75N 480257.11E |
-|   VFR G West   |     Petrol Station     |        195 Degrees / 4.2nm        | 291058.02N 475530.96E |
-|   VFR F East   |   Mishrif Fairground   |        075 Degrees / 5.0nm        | 291607.33N 480249.03E |
-|   VFR U West   | Alshedadiya University |        245 Degrees / 3.2nm        | 291524.08N 475359.15E |
-
-#### 3.5.2 VFR Departure Routes Procedures
-
-VFR Flights Departing the **Kuwait Control Zone** should be assigned one of the below VFR Departure Routes. 
-
-| **Runway** | **Identifier** | **Direction of Flight** |                                                                                                       **Procedure**                                                                                                       |
-|:----------:|:--------------:|:-----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| RWY15L/15R |   VFR Q East   |           East          |                          Pilot should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Qurain Shopping Area and report overhead.                          |
-| RWY15L/15R |   VFR G West   |           West          | Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Petrol Station located on the 7th Ring Road beside the drag circuit and report overhead.  |
-| RWY33L/33R |   VFR F East   |           East          |                          Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Mishrif Fairground on report overhead.                           |
-| RWY33L/33R |   VFR U West   |           West          |                        Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Alshedadiya University and report overhead.                         |
-
-Please direct the pilot to the **Pilot Briefing** page if they're unsure with the above VFR Departure Procedures. It is the pilots responsibility to ensure they are fully aware of the departure procedures above. 
-
-#### 3.5.1.2 VFR Departure Phraseology 
-
-> **Pilot:** _"Kuwait Tower, 9K-VFR with you holding point W2, runway 33L"_
-
-> **TWR:** _"9K-VFR, via W2, cleared for takeoff runway 33L, winds calm, Foxtrot East Procedure, Report Overhead Mishrif Fairground."_
-
-> **Pilot:** _"Via W2, cleared for takeoff runway 33L, Foxtrot East, will report over Mishrif."_
-
-> **Pilot:** _"Kuwait Tower, 9K-VFR overhead Mishrif"_ 
-
-> **TWR:** _"9-FR, roger, contact Kuwait Approach 124.800"_ 
-
-!!!node "Callsign Shortening"
-    With VFR Traffic you are allowed to abbreviate the callsign once contact has been established. Your first transmission with the aircraft must always include their full callsign however, from then on, you may abbreviate the callsign to 3 letters, this helps reduce frequency congestion.
-
-#### 3.5.2.2 VFR Zone Entry Phraseology 
-
-> **Pilot:** _"Kuwait Tower, 9K-VFR with you 5nm North West of the Qurain Shopping Area, Altitude 1000ft, request clearance into the Control Zone for Full Stop Landing"_
-
-> **TWR:** _"9K-VFR, Good Afternoon, cleared to enter the Control Zone, not above altitude 1000ft via Quebec East, VFR, QNH 1001, Squawk 7001"_
-
-> **Pilot:** _"Cleared to enter the Control Zone not above altitude 1000ft via Quebec East, VFR QNH 1001, Squawk 7001"_ 
-
-> **TWR:** _"9-FR, Readback Correct, report left downwind runway 15L."_
-
-!!!node "Controller Preference"
-    The Controller can elect where to have the inbound VFR traffic head to after they have recieved their initial zone entry clearance depending on traffic levels.
-
-#### 3.5.2.3 VFR Circuits
-
-> **Pilot:** _"Kuwait Tower, 9K-VFR, with you holding point E2, ready for departure"_ 
-
-> **TWR:** _"9K-VFR, after departure right hand turn out, via W2, cleared for takeoff RWY33R, winds calm"_
-
-> **Pilot:** _"After departure right hand turn out, via W2, cleared for takeoff RWY33R, 9K-VFR"_
-
-Once the aircraft is airborne and established on the right hand turn off you can advise them to report downwind with intentions. 
-
-> **TWR:** _"9-FR, report downwind with intentions"_
-
-> **Pilot:** _"Wilco, 9-FR"_ 
-
-> **Pilot:** _"9-FR, right hand downwind RWY33R for touch and go"_
-
-> **TWR:** _"9-FR, roger, you are number 2 to a Qatari Airbus A350 on 5nm final, maintain visual separation, caution wake turbulence, report final runway 33R"_
-
-> **Pilot:** _"traffic is in sight, maintaining visual separation, will report final runway 33R, 9-FR"_
-
-> **Pilot:** _"A-ZZ, final runway 33R"_ 
-
-> **TWR:** _"A-ZZ, cleared touch and go runway 33R, winds calm, report downwind"_
-
-#### 3.5.2.4 Traffic Information
-The **TWR Controller** is responsible for providing VFR and IFR flights with the necessary traffic information to prevent any loss of seperation within the **Control Zone (CTR)**. 
-
-Example: 
-> **TWR:** _**"9-ZZ, traffic information, traffic is a Gulf Air Airbus A320, 7nm final RWY33R, report the traffic in sight"**_
-
-Once the aircraft confirms they have the aircraft in sight, the TWR Controller can then further issue the aircraft with an instruction. 
-
-Example: 
-> **TWR:** _**"9-FR, you are number 2 to the Gulf Air Airbus A320 on 7nm final RWY33R, maintain visual separation, caution wake turublence, report final Runway 33R"**_
-
-#### 3.5.2.5 VFR Service Requirements 
-Within the **Class D Kuwait Control Zone (CTR)** the TWR controller is not required to provide VFR traffic with separation, the only service provided to VFR traffic is Traffic Information between VFR and IFR aircraft. 
-The pilot can request traffic avoidance on request, however it is up to TWR controller as to whether they can provide. 
-
-
+------------------------------- 
