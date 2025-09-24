@@ -29,7 +29,7 @@ The **Kuwait Control Zone (CTR)** is **Class D Airspace** from the Ground up to 
 ## Chapter 3. GEN | Standard Operating Procedures
 
 ### 3.1 Runway Selection 
-At **Kuwait International Airport (OBBI)**, the preferential runway is 33R for arrivals and 33L for departures which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then the 15s should be used for arrivals and departures. If the 15s have to be utilised then 15L is the favoured departure runway and 15R is used for arrivals. 
+At **Kuwait International Airport (OKKK)**, the preferential runway is 33R for arrivals and 33L for departures which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then the 15s should be used for arrivals and departures. If the 15s have to be utilised then 15L is the favoured departure runway and 15R is used for arrivals. 
 
 !!! tip "References to Use" 
     - You can always refernece real world sources! However, this should NEVER become a reliance. 
@@ -237,4 +237,3 @@ Once the aircraft has acknowledged the go around, the TWR Controller shall issue
 
 ### 3.5 VFR Procedures 
 
-------------------------------- 
