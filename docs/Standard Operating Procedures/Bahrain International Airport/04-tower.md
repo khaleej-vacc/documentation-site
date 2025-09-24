@@ -233,93 +233,19 @@ Once the aircraft has acknowledged the go around, the TWR Controller shall issue
 !!!node "Coordination" 
     If a go around instruction has been issued, the Approach Controller should be notified immediately once the aircraft has been given instructions. 
 
-### 3.5 Tower VFR Procedures
+---
 
-The Bahrain control zone is Class D, which means that TWR is responsible for IFR/VFR separation and shall provide traffic information concerning VFR aircraft.
+## 4. Tower VFR Procedures
 
-#### 3.5.1 VFR Departures
-Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report leaving the control zone.
+- VFR Flights taking place within the **Bahrain Control Zone (CTR)** are only permitted between the hours of sunrise and sunset. 
+- VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace. 
+- VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
+- **Bahrain Tower (TWR)** and **Bahrain Approach (APP)** both hold the authority to refuse VFR flights into either **Class D Control Zone** or the **Class C Terminal Manevuering Area** if traffic levels permit.
 
-If aircraft are exiting into uncontrolled airspace, they shall be instructed to remain outside controlled airspace and monitor Unicom. If they are entering Bahrain TMA airspace, they shall be handed off to the Bahrain TMA controller approximately one minute before leaving the control zone.
+### 4.1 Visual Reporting Points (VRPs)
+**Visual Reporting Points (VRPs)** are specific geographical locations used in aviation to assist pilots in navigation and communication with air traffic control. These points help pilots maintain situational awareness and provide reference points for reporting their position during flight. 
 
-#### 3.5.2 VFR Traffic remaining in circuit
-TWR control is responsible for managing circuit traffic. Circuits will always be conducted to the north of the airfield. Once aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report when they are on downwind with their intentions.
-
-**Example:**
->"A9C-AA, report downwind with intentions."
-
-Aircraft may request a touch-and-go, a stop-and-go, a low approach, or a full-stop landing. Once TWR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
-
-Aircraft on downwind shall be passed the following information:
-
-- Sequence
-- Traffic information (if applicable) for both **IFR** and **VFR** traffic.
-
-**Example:**
->"ATT, cleared to land / for Touch and Go / for Low Approach"
-
-Aircraft conducting a stop and go shall be required to report ready for departure after vacating the runway. 
-
-#### 3.5.3 VFR Arrivals
-
-Inbound VFR aircraft shall be instructed to contact TWR with enough time such that two-way radio communication has been established before entering the control zone. On first contact, TWR will provide instructions on how to enter the CTR, the runway in use, and the QNH.
-
-**Example:**
->"ATT, Bahrain Tower, enter control zone on track Bahrain, Runway 30R, 2,000 feet VFR, QNH 1017."
-
-Once they are closer to the aerodrome, they shall be given circuit joining instructions.
-
-**Example:**
->"ATT, join base Runway 30R."
-
-VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and may be instructed to hold outside controlled airspace awaiting further instructions. VFR aircraft may also be instructed to orbit on any leg of the circuit.
-
---- 
-
-### 3.5 Tower VFR Procedures
-
-The Bahrain control zone is Class D, which means that TWR is responsible for IFR/VFR separation and shall provide traffic information concerning VFR aircraft.
-
-#### 3.5.1 VFR Departures
-Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report leaving the control zone.
-
-If aircraft are exiting into uncontrolled airspace, they shall be instructed to remain outside controlled airspace and monitor Unicom. If they are entering Bahrain TMA airspace, they shall be handed off to the Bahrain TMA controller approximately one minute before leaving the control zone.
-
-#### 3.5.2 VFR Traffic remaining in circuit
-TWR control is responsible for managing circuit traffic. Circuits will always be conducted to the north of the airfield. Once aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report when they are on downwind with their intentions.
-
-**Example:**
->"A9C-AA, report downwind with intentions."
-
-Aircraft may request a touch-and-go, a stop-and-go, a low approach, or a full-stop landing. Once TWR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
-
-Aircraft on downwind shall be passed the following information:
-
-- Sequence
-- Traffic information (if applicable) for both **IFR** and **VFR** traffic.
-
-**Example:**
->"ATT, cleared to land / for Touch and Go / for Low Approach"
-
-Aircraft conducting a stop and go shall be required to report ready for departure after vacating the runway. 
-
-#### 3.5.3 VFR Arrivals
-
-Inbound VFR aircraft shall be instructed to contact TWR with enough time such that two-way radio communication has been established before entering the control zone. On first contact, TWR will provide instructions on how to enter the CTR, the runway in use, and the QNH.
-
-**Example:**
->"ATT, Bahrain Tower, enter control zone on track Bahrain, Runway 30R, 2,000 feet VFR, QNH 1017."
-
-Once they are closer to the aerodrome, they shall be given circuit joining instructions.
-
-**Example:**
->"ATT, join base Runway 30R."
-
-VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and may be instructed to hold outside controlled airspace awaiting further instructions. VFR aircraft may also be instructed to orbit on any leg of the circuit.
-
---- 
-
-#### 3.6 VFR Reporting Entry/Exit Points
+VRPs are typically marked by prominent landmarks, such as buildings, intersections, or natural features, making them easily identifiable from the air. They are particularly useful in busy airspace, allowing pilots to report their locations accurately, which helps air traffic controllers manage traffic effectively and ensure safety.
 
 | **Identifier** |  **Name**  | **Radial & DME from BHR VOR/DME** |     **Coordinates**    |
 |:--------------:|:----------:|:---------------------------------:|:----------------------:|
@@ -330,4 +256,61 @@ VFR arrivals may be denied entry into the control zone during times of increased
 |       S2       |  Sierra 2  |        270 Degrees / 1.5nm        |  261533.39N 503738.75E |
 |        W       |   Whiskey  |        270 Degrees / 7.5nm        |  261553.19N 503059.68E |
 
+Aircraft Transitting the **Bahrain Control Zone (CTR)** have a mandatory reporting point overhead the BHR VOR/DME. 
+
+### 4.2 VFR Departures
+VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Manevuering Area (TMA)**.
+All VFR departures leaving the **Control Zone (CTR)** must exit via one of the established **Visual Reporting Points (VRPs)** described in Section 4.5.2.
+
+#### 4.2.1 VFR Departure Phraseology 
+
+> **Pilot:** _"Bahrain Tower, A9C-ZZ with you holding point A8, runway 30R"_
+
+> **TWR:** _"A9C-ZZ, via A8, cleared for takeoff runway 30R, winds calm, report overhead Whiskey"_
+
+> **Pilot:** _"Bahrain Tower, via A8 cleared for takeoff runway 30R, will report ovehead Whiskey VRP"_
+
+> **Pilot:** _"Bahrain Tower, A9C-ZZ overhead Whiskey VRP"_ 
+
+> **TWR:** _"A-ZZ, roger, contact Bahrain Approach 127.850"_ 
+
+!!!node "Callsign Shortening"
+    With VFR Traffic you are allowed to abbreviate the callsign once contact has been established. Your first transmission with the aircraft must always include their full callsign however, from then on, you may abbreviate the callsign to 3 letters, this helps reduce frequency congestion.
+
+#### 4.3 VFR Zone Entry Phraseology 
+
+> **Pilot:** _"Bahrain Tower, A9C-ZZ with you 5nm North West of the Whiskey VRP, Altitude 1500ft, request clearance into the Control Zone for Full Stop Landing"_
+
+> **TWR:** _"A9C-ZZ, Good Afternoon, cleared to enter the Control Zone, not above altitude 1500ft via Whiskey VRP, QNH 1001, Squawk 7001"_
+
+> **Pilot:** _"Cleared to enter the Control Zone not above altitude 1500ft via Whiskey VRP, QNH 1001, Squawk 7001"_ 
+
+> **TWR:** _"A-ZZ, Readback Correct, report overhead the airfield"_
+
+!!!node "Controller Preference"
+    The Controller can elect where to have the inbound VFR traffic head to after they have recieved their initial zone entry clearance depending on traffic levels.
+
+#### 4.4 VFR Circuits
+
+> **Pilot:** _"Bahrain Tower, A9C-ZZ, with you holding point A8, ready for departure"_ 
+
+> **TWR:** _"A9C-ZZ, after departure right hand turn out, via A8, cleared for takeoff RWY30R, winds calm"_
+
+> **Pilot:** _"After departure right hand turn out, via A8, cleared for takeoff RWY30R, A9C-ZZ"_
+
+Once the aircraft is airborne and established on the right hand turn off you can advise them to report downwind with intentions. 
+
+> **TWR:** _"A-ZZ, report downwind with intentions"_
+
+> **Pilot:** _"Wilco, A-ZZ"_ 
+
+> **Pilot:** _"A-ZZ, right hand downwind RWY30R for touch and go"_
+
+> **TWR:** _"A-ZZ, roger, you are number 2 to a Gulf Air Airbus A320 on 3nm final, maintain visual separation, caution wake turbulence, report final runway 30R"_
+
+> **Pilot:** _"traffic is in sight, maintaining visual separation, will report final runway 30R, A-ZZ"_
+
+> **Pilot:** _"A-ZZ, final runway 30R"_ 
+
+> **TWR:** _"A-ZZ, cleared touch and go runway 30R, winds calm, report downwind"_
 
