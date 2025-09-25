@@ -66,12 +66,7 @@ When the aircraft has reported ready for push and start they will be transferred
 
 > **DLV Controller:** **JZR101, hold position, contact Kuwait Ground 121.700.**
 
-### 2.1.1 Datalink Clearances (DCL)
-Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DLV Controller. This service can only be provided to pilots whom's aircraft has sufficent systems installed such as ACARS to send and receive text messages from a controlling unit. 
-
-It is a requirement of the DLV Controller to ensure datalink is available at all times.
-
-### 2.1.2 Incorrect Filed Flight Plans
+### 2.1.1 Incorrect Filed Flight Plans
 It is the responsibility of the DLV Controller to ensure flight plans are correctly filed and using valid routings in conjunction with the RouteChecker. 
 If routes are not filed correctly you must inform the pilot that they have filed an incorrect flight plan by **private message.** 
 
@@ -79,12 +74,12 @@ If a pilot calls on frequency before you have the chance to send the **private m
 
 You can use tools such as SimBrief to provide pilots with valid routings. **Khaleej vACC** actively ensures routes are updated in SimBrief for pilots to use. 
 
-### 2.1.3 Filed Flight Levels 
+### 2.1.2 Filed Flight Levels 
 **Kuwait Delivery (DLV)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If Pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
 
 Kuwait utilises the Semi-Circular Rule. Flights flying Westbound should file **Even** levels and flights flying Eastbound should file **Odd** levels. 
 
-#### 2.1.4 Flight Level Capping 
+#### 2.1.3 Flight Level Capping 
 Multiple destinations across the Gulf Region have level capped routings due to operational reasons. The DLV Controller shall ensure adherence to the below table, it is the responsibility of the DLV Controller to ensure aircraft have filed a correct level in the their flight plan prior to issuing a clearance. If an incorrect level has been filed the DLV Controller shall inform the pilot that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routings. 
 
 | **Destination** | **Max Altitude / Flight Level** |
@@ -94,9 +89,9 @@ Multiple destinations across the Gulf Region have level capped routings due to o
 |       OBBI      |              FL270              |
 |       OTHH      |              FL330              |
 
-### 2.1.5 Flow Restrictions
+### 2.1.4 Flow Restrictions
 
-#### 2.1.5.1 Target Off Block Time (TOBT)
+#### 2.1.4.1 Target Off Block Time (TOBT)
 When A-CDM procedures are active (typically during busy events), pilots must report their confirmed TOBT on vacdm.vatsim.me, which is then displayed in the controllers client on the departure list. A fully green time indicates a confirmed TOBT. If a pilot has not confirmed their TOBT, the controller should request it on frequency and update the departure list accordingly.
 
 The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
