@@ -2,8 +2,6 @@
 title: General Information
 ---
 
-# Kuwait International Airport (OKKK) - Pilot Briefing
-
 # General Information
 **Kuwait International Airport (OKKK/KWI)** is the the main international airport of Kuwait, situated in the Farwaniya Governorate approximately 9 mile south of the centre of Kuwait City. It serves as a primary hub for Kuwaiti Flag Carrier, Kuwait Airways and low cost operator Jazeera Airways. The airport was officially launched in 1927. Kuwait Airport is currently undergoing a huge development project which will see it open a brand new modern terminal with an additional third runway to be implemented to the West of the airport. 
 
@@ -62,4 +60,5 @@ Any pilots found not to be operating in accordance with VATSIMs Code of Conduct 
 - Pilots who are unfamilar with an airspace shall educate themselves by first observing operations and/or studying porcedures used in that location. Pilots are expected to undergo reasonable preparation for their intended flight.
 - Pilots shall be expected to promptly comply with basic air traffic control instructions that are applicable to their flight rules.
 - Pilots should have access to airport charts to aid and prepare properly for their flight.
+
 
