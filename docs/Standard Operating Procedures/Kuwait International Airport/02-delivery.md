@@ -24,6 +24,9 @@ Once clearance has been issued and readback correctly from the pilot the DLV con
 ## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Issuing IFR Clearances 
+
+In Kuwait International Airport, SIDs are used to provide a standardized, efficient, and safe route for aircraft departing an airport, especially in busy terminal areas. The SIDs have a unique designator code for different departure runways. 
+
 It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. Pilots are expected to report the following information on initial contact with the **DLV Controller** when requesting clearance. 
 
 - Callsign 
@@ -102,23 +105,57 @@ Please note TOBTs are only issued during certain events, this will outlined to v
 In Kuwait all departures should be cleared via a **Standard Instrument Departure (SID)** which is selected based on the first waypoint in their filed Flight Plan (FPL). 
 All **Standard Instrument Departures (SIDs)** in Kuwait are RNAV (Area Navigation) and provide aircraft with a pre-defined route taking them from the departure airport into the **Control Area (CTA)** where they will be taken into the en-route environment. 
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   33L/33R  |     ALVAX4F    |        4000ft        |
-|   33L/33R  |     ASVIR4F    |        4000ft        |
-|   33L/33R  |     BOXIK4F    |        4000ft        |
-|   33L/33R  |      KFR4F     |        4000ft        |
-|   33L/33R  |     RALKA4F    |        4000ft        |
-|   33L/33R  |     SESRU4F    |        4000ft        |
+**16:**
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   15L/15R  |     ALVAX4E    |        4000ft        |
-|   15L/15R  |     ASVIR4E    |        4000ft        |
-|   15L/15R  |     BOXIK4E    |        4000ft        |
-|   15L/15R  |      KFR4E     |        4000ft        |
-|   15L/15R  |     RALKA4E    |        4000ft        |
-|   15L/15R  |     SESRU4E    |        4000ft        |
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1K             | 16                   |
+| ASVIR   | 1K             | 16                   |
+| BOXIK   | 1K             | 16                   |
+| RALKA   | 1K             | 16                   |
+| SESRU   | 1K             | 16                   |
+| DEKOB   | 1K             | 16                   |
+| KATOD   | 1K             | 16                   |
+| NIDAP   | 1K             | 16                   |
+
+**15R**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5E             | 15R                  |
+| ASVIR   | 5E             | 15R                  |
+| BOXIK   | 5E             | 15R                  |
+| RALKA   | 5E             | 15R                  |
+| SESRU   | 5E             | 15R                  |
+| DEKOB   | 1L             | 15R                  |
+| KATOD   | 1L             | 15R                  |
+| NIDAP   | 1L             | 15R                  |
+
+**33L:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5F             | 33L                  |
+| ASVIR   | 5F             | 33L                  |
+| BOXIK   | 5F             | 33L                  |
+| TASMI   | 5F             | 33L                  |
+| SESRU   | 5F             | 33L                  |
+| DEKOB   | 1J             | 33L                  |
+| KATOD   | 1J             | 33L                  |
+| NIDAP   | 1J             | 33L                  |
+
+**34:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1I             | 34                   |
+| ASVIR   | 1I             | 34                   |
+| BOXIK   | 1I             | 34                   |
+| TASMI   | 1I             | 34                   |
+| SESRU   | 1I             | 34                   |
+| DEKOB   | 1I             | 34                   |
+| KATOD   | 1I             | 34                   |
+| NIDAP   | 1I             | 34                   |
 
 !!!node "Identifiers" 
     Note, all SIDs from the 33s end in 4F and all the SIDs from the 15s end in 4E.
