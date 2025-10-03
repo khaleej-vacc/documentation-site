@@ -176,6 +176,8 @@ Once **Kuwait Delivery (DLV)** has recieved confirmation from the TWR controller
 |            33L           |   Left Hand   |    1000ft    |
 |            15L           |   Left Hand   |    1000ft    | 
 
+Runway **34 & 16** may not be used for VFR circuits. This runway should be availbe by cargo and military aircrafts. 
+
 !!!node "Circuit Selection for Runway"
     The TWR Controller will advise the DLV Controller which runway the circuits will be conducted on, standard is 15L/33R. 
 
@@ -207,30 +209,17 @@ When the pilot requests startup, ensure he has set the correct transponder code.
 ### 2.3.2 VFR Departures Leaving the Control Zone (CTR)
 For pilots filing VFR Flight Plans (FPLs) to leave the **Kuwait Control Zone (CTR)**, again the DLV Controller must coordinate this promptly with the TWR Controller, who will coordinate with the APP Controller as to whether they can both accept the aircraft in their respective airspace. The TWR Controller will be responsible for providing the DLV Controller with a **Visual Reporting Point (VRP)** to be cleared via depending on the aircrafts filed routing or direction of flight. Once approved, the **DLV Controller** will issue a clearance to the aircraft. 
 
-#### 2.3.2.1 VFR Departure Routes Procedures 
-
-| **Runway** | **Identifier** | **Direction of Flight** |                                                                                                       **Procedure**                                                                                                       |
-|:----------:|:--------------:|:-----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| RWY15L/15R |   VFR Q East   |           East          |                          Pilot should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Qurain Shopping Area and report overhead.                          |
-| RWY15L/15R |   VFR G West   |           West          | Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Petrol Station located on the 7th Ring Road beside the drag circuit and report overhead.  |
-| RWY33L/33R |   VFR F East   |           East          |                          Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Mishrif Fairground on report overhead.                           |
-| RWY33L/33R |   VFR U West   |           West          |                        Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Alshedadiya University and report overhead.                         |
-
+#### 2.3.2.1 VFR Departure Routes Procedures
 
 ***VFR Zone Exit Clearance Example***
 
-> **DLV Controller:** _**"9K-VFR, You are cleared to exit the Control Zone to the East, via Quebec East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
+> **DLV Controller:** _**"9K-VFR, You are cleared to exit the Control Zone to the East, RWY 15L, not above altitude 1000ft VFR, Squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"9K-VFR, Negative. You are cleared to exit the Control Zone to the East, via Quebec East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
-
-!!!node "Visual Reporting Points (VRPs)" 
-    The TWR Controller will issue the DLV Controller with a VRP for the aircraft to leave the Control Zone via
-
-Once the pilot has correctly read back the clearance, if the pilot did not provide the Current ATIS Letter and/or QNH on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
+> **DLV Controller:** _**"9K-VFR, Negative. You are cleared to exit the Control Zone to the East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
 
 > **DLV Controller:** _**"9-FR, Read Back is correct, Information Alpha is current, QNH 1001"**_
 
@@ -248,3 +237,24 @@ If an aircraft who has received his clearance and calls ready for push and start
 When an aircraft has received his clearance and calls for push and start with his assigned squawk code set the **DLV Controller** will then hand the aircraft off to the **GMC Controller** to be sequenced for push and start. 
 
 > **DLV Controller:** _**"KAC107, hold position, Contact Kuwait Ground on 121.700"**_
+
+### 2.6 Helicopter Visual Reporting Points
+
+| **Runway** | **Identifier** | **Direction of Flight** |                                                                                                       **Procedure**                                                                                                       |
+|:----------:|:--------------:|:-----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| RWY15L/15R |   VFR Q East   |           East          |                          Pilot should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Qurain Shopping Area and report overhead.                          |
+| RWY15L/15R |   VFR G West   |           West          | Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Petrol Station located on the 7th Ring Road beside the drag circuit and report overhead.  |
+| RWY33L/33R |   VFR F East   |           East          |                          Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Mishrif Fairground on report overhead.                           |
+| RWY33L/33R |   VFR U West   |           West          |                        Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Alshedadiya University and report overhead.                         |
+
+When issuing a zone exit clearance, you must instruct the traffic to exit the control zone via a Visual Reporting Point.
+
+***VFR Zone Exit Clearance with VRP***
+
+> **DLV Controller:** _**"9K-LPF, You are cleared to exit the Control Zone to the East,RWY 15L, via the Qurain Shopping Area VRP, not above altitude 1000ft VFR, Squawk 7001"**_
+
+
+!!! note "VRPs"
+    A **Visual Reference Point (VRP)** is a clearly identifiable ground feature (like a town, road intersection, or landmark) used by pilots to navigate and report position visually under **VFR**.  
+    **Helicopters** use VRPs to request **zone entry or exit** from controlled airspace, ensuring safe integration with other traffic.
+
