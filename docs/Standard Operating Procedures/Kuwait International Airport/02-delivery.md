@@ -8,9 +8,10 @@ toc_max_heading_level: 6
 
 ### Amendment History
 
-| **Revision** | **Effective Date** |      **Notes**      |
-|:------------:|:------------------:|:-------------------:|
-|   Version 1  |       13AUG25      | Initial Publication |
+| **Revision** | **Effective Date** | **Notes**           |
+|--------------|--------------------|---------------------|
+| Version 1    | 13AUG25            | Initial Publication |
+| Version 2    | 30OCT25            | Revision #1         |
 
 ----
 
@@ -170,13 +171,13 @@ Once **Kuwait Delivery (DLV)** has recieved confirmation from the TWR controller
     When you see a pilot file a VFR FPL ensure you act promptly and efficently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
 
 | **Runway Configuration** | **Direction** | **Altitude** |
-|:------------------------:|:-------------:|:------------:|
-|            33R           |   Right Hand  |    1000ft    |
-|            15R           |   Right Hand  |    1000ft    |
-|            33L           |   Left Hand   |    1000ft    |
-|            15L           |   Left Hand   |    1000ft    | 
-
-Runway **34 & 16** may not be used for VFR circuits. This runway should be availbe by cargo and military aircrafts. 
+|--------------------------|---------------|--------------|
+| 33R                      | Right Hand    | 1000ft       |
+| 15R                      | Right Hand    | 1000ft       |
+| 33L                      | Left Hand     | 1000ft       |
+| 15L                      | Left Hand     | 1000ft       |
+| 34                       | Left Hand     | 1000ft       |
+| 16                       | Right         | 1000ft       |
 
 !!!node "Circuit Selection for Runway"
     The TWR Controller will advise the DLV Controller which runway the circuits will be conducted on, standard is 15L/33R. 
