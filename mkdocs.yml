@@ -52,90 +52,18 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
 plugins:
- - search
+  - search
+  - awesome-pages:
+        strict: false
+        order: asc
+        sort_type: natural
+        order_by: title
+
   # - mkdocs-with-pdf
   # - mkdocs-pdf
   # - mkdocs-video
-
-
-# DO NOT TOUCH THIS
-nav:
-  - Home: index.md
-  - Pilot Briefings:
-      - Bahrain International Airport (OBBI):
-          - General Information: "Pilot Briefings/Bahrain International Airport (OBBI)/GeneralInformation.md"
-          - Arrivals: "Pilot Briefings/Bahrain International Airport (OBBI)/Arrivals.md"
-          - Departures: "Pilot Briefings/Bahrain International Airport (OBBI)/Departures.md"
-      - Kuwait International Airport (OKKK):
-          - General Information: "Pilot Briefings/Kuwait International Airport (OKKK)/General Information.md"
-          - Arrivals: "Pilot Briefings/Kuwait International Airport (OKKK)/Arrivals.md"
-          - Departures: "Pilot Briefings/Kuwait International Airport (OKKK)/Departures.md"
-
-  - Controller Briefing:
-     - Controller Setup: "Controller Setup.md"
-      
-      
-  - Standard Operating Procedures:
-    - Bahrain International Airport:
-        - General Information: "Standard Operating Procedures/Bahrain International Airport/01-general information.md"
-        - Bahrain Delivery [OBBI_DEL]: "Standard Operating Procedures/Bahrain International Airport/02-delivery.md"
-        - Bahrain Ground[OBBI_GND]: "Standard Operating Procedures/Bahrain International Airport/03-ground.md"
-        - Bahrain Tower[OBBI_TWR]: "Standard Operating Procedures/Bahrain International Airport/04-tower.md"
-        - Bahrain Approach [OBBI_APP]: "Standard Operating Procedures/Bahrain International Airport/05-approach.md"
-        - Bahrain Radar [OBBB_CTR]: "Standard Operating Procedures/Bahrain International Airport/06-radar.md"
-
-    - Kuwait International Airport (OKKK):
-        - General Information: "Standard Operating Procedures/Kuwait International Airport/01-general information.md"
-        - Kuwait Delivery [OKKK_DEL]: "Standard Operating Procedures/Kuwait International Airport/02-delivery.md"
-        - Kuwait Ground [OKKK_GND]: "Standard Operating Procedures/Kuwait International Airport/03-ground.md"
-        - Kuwait Tower [OKKK_TWR]: "Standard Operating Procedures/Kuwait International Airport/04-tower.md"
-
-  - Training vMATS:
-    - (S1) Developing Controller Training vMATS:
-        - 1. General Knowledge:
-            - 1.1 Introduction to VATSIM: "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/01- 1.1 Introduction to VATSIM.md"
-            - 1.2 ATC Positions and Hierarchy: "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/02- 1.2 ATC Positions and Hierarchy.md"
-            - 1.3 ATC Ratings: "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/03- 1.3 ATC Ratings.md"
-            - 1.4 Controller Practical Test (CPT) and Solo Validation (SV): "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/04- 1.4 Controller Practical Test (CPT) and Solo Validation (SV).md"
-
-        - 2. Major Airfields:
-            - Bahrain International: "Training vMATS/(S1) Developing Controller Training vMATS/2. Major Airfields/01 Bahrain International.md"
-            - Kuwait International: "Training vMATS/(S1) Developing Controller Training vMATS/2. Major Airfields/02 Kuwait International.md"
-
-        - 4. Flight Rules:
-            - Instrument Flight Rules (IFR): "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/01- 4.1 Instrument Flight Rules.md"
-            - Visual Flight Rules (VFR): "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/02- 4.2 Visual Flight Rules (VFR).md"
-            - VFR Departures: "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/03- 4.3 VFR Departures.md"
-            - VFR Circuits: "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/04- 4.4 VFR Circuits.md"
-
-        - 5. Flight Routes:
-            - Flight Routes: "Training vMATS/(S1) Developing Controller Training vMATS/5. Flight Routes/01- 5.1 Flight Routes.md"
-
-        - 6. Charts:
-            - Types of Charts: "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/01- 6.1 Types of Charts.md"
-            - Standard Instrument Departure (SID): "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/02- 6.2 Standard Instrument Departure (SID).md"
-            - Aerodrome Charts: "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/03- 6.3 Aerodrome Charts.md"
-            - Initial Climbs: "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/04- 6.4 Initial Climbs.md"
-
-        - 7. Cruising Flight Levels:
-            - Cruising Flight Levels: "Training vMATS/(S1) Developing Controller Training vMATS/7. Cruising Flight Levels/01- 7.1 Cruising Flight level.md"
-
-        - 8. ATIS:
-            - Introduction: "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/01- Intro copy.md"
-            - METAR: "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/02- 8.1 METAR.md"
-            - NOTAM: "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/02- 8.2 NOTAM.md"
-            - Active Runways: "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/03- 8.3 Active Runways.md"
-
-  - Published Documents:
-      - Letter of Agreements:
-          - Arabian vACC | Letter of Agreement: "Published Documents/Letter of Agreements/Arabian Letter of Agreement.md"
-      - Subdivisional Policies:
-          - Khaleej ATC Policy: "Published Documents/Subdivisional Policies/Khaleej ATC.md"
-          - Khaleej Code of Conduct: "Published Documents/Subdivisional Policies/Khaleej Code of Conduct.md"
-          - Khaleej GDPR Policy: "Published Documents/Subdivisional Policies/Khaleej GDPR.md"
-
-
-
+  # - awesome-pages
+  
 repo_url: https://github.com/khaleej-vacc/documentation-site
 repo_name: VATSIM-khaleej-vacc/documentation-site
 
