@@ -1,4 +1,6 @@
-
+---
+title: Euroscope Setup
+---
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/MlV7Lu5gzgk?start=1"
