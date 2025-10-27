@@ -8,7 +8,7 @@ title: General Information
 # Aerodrome Details
 | Aerodrome ICAO | Airport Name                  | Airport Coordinates    | Airport Runways | Airport Elevation |
 |----------------|-------------------------------|------------------------|-----------------|-------------------|
-| OKKK           | Kuwait International Airport  | 29.22266° N, 47.9689° E| 15L/33R 15R/33L |       205ft       |
+| OKKK           | Kuwait International Airport  | 29.22266° N, 47.9689° E| 16/34 15L/33R 15R/33L |       205ft       |
 
 
 # Runways
@@ -64,6 +64,7 @@ Any pilots found not to be operating in accordance with VATSIMs Code of Conduct 
 - Pilots who are unfamilar with an airspace shall educate themselves by first observing operations and/or studying porcedures used in that location. Pilots are expected to undergo reasonable preparation for their intended flight.
 - Pilots shall be expected to promptly comply with basic air traffic control instructions that are applicable to their flight rules.
 - Pilots should have access to airport charts to aid and prepare properly for their flight.
+
 
 
 
