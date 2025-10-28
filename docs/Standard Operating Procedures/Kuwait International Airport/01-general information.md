@@ -12,12 +12,10 @@ title: General Information
 
 
 # Runways
-**Kuwait International Airport** has 6 published runways, 34/16, 15L/33R, and 15R/33L.
+**Kuwait International Airport** has 4 published runways, 15L/33R and 15R/33L. There is an additional runway built to the West of RWY33L/15R however this is not in operation as of yet. 
 
 | Runway | Dimensions  | True Bearing | Elevation |
 |--------|-------------|--------------|-----------|
-| 34     | 3400M x 45M | 335          | 176ft     |
-| 16     | 3400M x 45M | 155          | 166ft     |
 | 33L    | 3400M x 45M | 332          | 133ft     |
 | 15R    | 3400M x 45M | 152          | 168ft     |
 | 33R    | 3500M x 45M | 332          | 205ft     |
@@ -26,8 +24,6 @@ title: General Information
 # Declared Distances
 | Runway | TORA (M) | TODA (M) | ASDA (M) | LDA (M) |
 |--------|----------|----------|----------|---------|
-| 34     | 4580M    | 4580M    | 4580M    | 4580M   |
-| 16     | 4580M    | 4580M    | 4580M    | 4580M   |
 | 33L    | 3400M    | 3700M    | 3460M    | 3400M   |
 | 15R    | 3400M    | 3700M    | 3460M    | 3400M   |
 | 33R    | 3500M    | 3500M    | 3500M    | 3500M   |
