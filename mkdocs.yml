@@ -58,7 +58,7 @@ plugins:
   # - mkdocs-with-pdf
   # - mkdocs-pdf
   # - mkdocs-video
-  # - awesome-pages
+
   
 repo_url: https://github.com/khaleej-vacc/documentation-site
 repo_name: VATSIM-khaleej-vacc/documentation-site
