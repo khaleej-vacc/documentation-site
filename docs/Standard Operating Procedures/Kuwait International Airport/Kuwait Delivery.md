@@ -8,9 +8,10 @@ toc_max_heading_level: 6
 
 ### Amendment History
 
-| **Revision** | **Effective Date** |      **Notes**      |
-|:------------:|:------------------:|:-------------------:|
-|   Version 1  |       13AUG25      | Initial Publication |
+| **Revision** | **Effective Date** | **Notes**           |
+|--------------|--------------------|---------------------|
+| Version 1    | 13AUG25            | Initial Publication |
+| Version 2    | 30OCT25            | Revision #1         |
 
 ----
 
@@ -24,6 +25,9 @@ Once clearance has been issued and readback correctly from the pilot the DLV con
 ## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Issuing IFR Clearances 
+
+In Kuwait International Airport, SIDs are used to provide a standardized, efficient, and safe route for aircraft departing an airport, especially in busy terminal areas. The SIDs have a unique designator code for different departure runways. 
+
 It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. Pilots are expected to report the following information on initial contact with the **DLV Controller** when requesting clearance. 
 
 - Callsign 
@@ -102,23 +106,57 @@ Please note TOBTs are only issued during certain events, this will outlined to v
 In Kuwait all departures should be cleared via a **Standard Instrument Departure (SID)** which is selected based on the first waypoint in their filed Flight Plan (FPL). 
 All **Standard Instrument Departures (SIDs)** in Kuwait are RNAV (Area Navigation) and provide aircraft with a pre-defined route taking them from the departure airport into the **Control Area (CTA)** where they will be taken into the en-route environment. 
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   33L/33R  |     ALVAX4F    |        4000ft        |
-|   33L/33R  |     ASVIR4F    |        4000ft        |
-|   33L/33R  |     BOXIK4F    |        4000ft        |
-|   33L/33R  |      KFR4F     |        4000ft        |
-|   33L/33R  |     RALKA4F    |        4000ft        |
-|   33L/33R  |     SESRU4F    |        4000ft        |
+**16:**
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   15L/15R  |     ALVAX4E    |        4000ft        |
-|   15L/15R  |     ASVIR4E    |        4000ft        |
-|   15L/15R  |     BOXIK4E    |        4000ft        |
-|   15L/15R  |      KFR4E     |        4000ft        |
-|   15L/15R  |     RALKA4E    |        4000ft        |
-|   15L/15R  |     SESRU4E    |        4000ft        |
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1K             | 16                   |
+| ASVIR   | 1K             | 16                   |
+| BOXIK   | 1K             | 16                   |
+| RALKA   | 1K             | 16                   |
+| SESRU   | 1K             | 16                   |
+| DEKOB   | 1K             | 16                   |
+| KATOD   | 1K             | 16                   |
+| NIDAP   | 1K             | 16                   |
+
+**15R**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5E             | 15R                  |
+| ASVIR   | 5E             | 15R                  |
+| BOXIK   | 5E             | 15R                  |
+| RALKA   | 5E             | 15R                  |
+| SESRU   | 5E             | 15R                  |
+| DEKOB   | 1L             | 15R                  |
+| KATOD   | 1L             | 15R                  |
+| NIDAP   | 1L             | 15R                  |
+
+**33L:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5F             | 33L                  |
+| ASVIR   | 5F             | 33L                  |
+| BOXIK   | 5F             | 33L                  |
+| TASMI   | 5F             | 33L                  |
+| SESRU   | 5F             | 33L                  |
+| DEKOB   | 1J             | 33L                  |
+| KATOD   | 1J             | 33L                  |
+| NIDAP   | 1J             | 33L                  |
+
+**34:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1I             | 34                   |
+| ASVIR   | 1I             | 34                   |
+| BOXIK   | 1I             | 34                   |
+| TASMI   | 1I             | 34                   |
+| SESRU   | 1I             | 34                   |
+| DEKOB   | 1I             | 34                   |
+| KATOD   | 1I             | 34                   |
+| NIDAP   | 1I             | 34                   |
 
 !!!node "Identifiers" 
     Note, all SIDs from the 33s end in 4F and all the SIDs from the 15s end in 4E.
@@ -133,11 +171,13 @@ Once **Kuwait Delivery (DLV)** has recieved confirmation from the TWR controller
     When you see a pilot file a VFR FPL ensure you act promptly and efficently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
 
 | **Runway Configuration** | **Direction** | **Altitude** |
-|:------------------------:|:-------------:|:------------:|
-|            33R           |   Right Hand  |    1000ft    |
-|            15R           |   Right Hand  |    1000ft    |
-|            33L           |   Left Hand   |    1000ft    |
-|            15L           |   Left Hand   |    1000ft    | 
+|--------------------------|---------------|--------------|
+| 33R                      | Right Hand    | 1000ft       |
+| 15R                      | Right Hand    | 1000ft       |
+| 33L                      | Left Hand     | 1000ft       |
+| 15L                      | Left Hand     | 1000ft       |
+| 34                       | Left Hand     | 1000ft       |
+| 16                       | Right         | 1000ft       |
 
 !!!node "Circuit Selection for Runway"
     The TWR Controller will advise the DLV Controller which runway the circuits will be conducted on, standard is 15L/33R. 
@@ -170,30 +210,17 @@ When the pilot requests startup, ensure he has set the correct transponder code.
 ### 2.3.2 VFR Departures Leaving the Control Zone (CTR)
 For pilots filing VFR Flight Plans (FPLs) to leave the **Kuwait Control Zone (CTR)**, again the DLV Controller must coordinate this promptly with the TWR Controller, who will coordinate with the APP Controller as to whether they can both accept the aircraft in their respective airspace. The TWR Controller will be responsible for providing the DLV Controller with a **Visual Reporting Point (VRP)** to be cleared via depending on the aircrafts filed routing or direction of flight. Once approved, the **DLV Controller** will issue a clearance to the aircraft. 
 
-#### 2.3.2.1 VFR Departure Routes Procedures 
-
-| **Runway** | **Identifier** | **Direction of Flight** |                                                                                                       **Procedure**                                                                                                       |
-|:----------:|:--------------:|:-----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| RWY15L/15R |   VFR Q East   |           East          |                          Pilot should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Qurain Shopping Area and report overhead.                          |
-| RWY15L/15R |   VFR G West   |           West          | Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Petrol Station located on the 7th Ring Road beside the drag circuit and report overhead.  |
-| RWY33L/33R |   VFR F East   |           East          |                          Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Mishrif Fairground on report overhead.                           |
-| RWY33L/33R |   VFR U West   |           West          |                        Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Alshedadiya University and report overhead.                         |
-
+#### 2.3.2.1 VFR Departure Routes Procedures
 
 ***VFR Zone Exit Clearance Example***
 
-> **DLV Controller:** _**"9K-VFR, You are cleared to exit the Control Zone to the East, via Quebec East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
+> **DLV Controller:** _**"9K-VFR, You are cleared to exit the Control Zone to the East, RWY 15L, not above altitude 1000ft VFR, Squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"9K-VFR, Negative. You are cleared to exit the Control Zone to the East, via Quebec East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
-
-!!!node "Visual Reporting Points (VRPs)" 
-    The TWR Controller will issue the DLV Controller with a VRP for the aircraft to leave the Control Zone via
-
-Once the pilot has correctly read back the clearance, if the pilot did not provide the Current ATIS Letter and/or QNH on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
+> **DLV Controller:** _**"9K-VFR, Negative. You are cleared to exit the Control Zone to the East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
 
 > **DLV Controller:** _**"9-FR, Read Back is correct, Information Alpha is current, QNH 1001"**_
 
@@ -211,3 +238,24 @@ If an aircraft who has received his clearance and calls ready for push and start
 When an aircraft has received his clearance and calls for push and start with his assigned squawk code set the **DLV Controller** will then hand the aircraft off to the **GMC Controller** to be sequenced for push and start. 
 
 > **DLV Controller:** _**"KAC107, hold position, Contact Kuwait Ground on 121.700"**_
+
+### 2.6 Helicopter Visual Reporting Points
+
+| **Runway** | **Identifier** | **Direction of Flight** |                                                                                                       **Procedure**                                                                                                       |
+|:----------:|:--------------:|:-----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| RWY15L/15R |   VFR Q East   |           East          |                          Pilot should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Qurain Shopping Area and report overhead.                          |
+| RWY15L/15R |   VFR G West   |           West          | Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Petrol Station located on the 7th Ring Road beside the drag circuit and report overhead.  |
+| RWY33L/33R |   VFR F East   |           East          |                          Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn right towards Mishrif Fairground on report overhead.                           |
+| RWY33L/33R |   VFR U West   |           West          |                        Pilots should climb to 1000ft on runway heading, when passing the departure end of runway (DER) pilots shall turn left towards Alshedadiya University and report overhead.                         |
+
+When issuing a zone exit clearance, you must instruct the traffic to exit the control zone via a Visual Reporting Point.
+
+***VFR Zone Exit Clearance with VRP***
+
+> **DLV Controller:** _**"9K-LPF, You are cleared to exit the Control Zone to the East,RWY 15L, via the Qurain Shopping Area VRP, not above altitude 1000ft VFR, Squawk 7001"**_
+
+
+!!! note "VRPs"
+    A **Visual Reference Point (VRP)** is a clearly identifiable ground feature (like a town, road intersection, or landmark) used by pilots to navigate and report position visually under **VFR**.  
+    **Helicopters** use VRPs to request **zone entry or exit** from controlled airspace, ensuring safe integration with other traffic.
+

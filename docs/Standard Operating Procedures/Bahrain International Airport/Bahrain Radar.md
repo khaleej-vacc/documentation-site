@@ -8,9 +8,10 @@ toc_max_heading_level: 6
 
 ### Amendment History
 
-| **Revision** | **Effective Date** |      **Notes**      |
-|:------------:|:------------------:|:-------------------:|
-|   Version 1  |       22SEP25      | Initial Publication |
+| **Revision** | **Effective Date** | **Notes**           |
+|--------------|--------------------|---------------------|
+| Version 1    | 13AUG25            | Initial Publication |
+| Version 2    | 30OCT25            | Revision #1         |
 
 ---
 

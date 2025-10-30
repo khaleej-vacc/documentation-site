@@ -8,9 +8,10 @@ toc_max_heading_level: 6
 
 ### Amendment History
 
-| **Revision** | **Effective Date** |      **Notes**      |
-|:------------:|:------------------:|:-------------------:|
-|   Version 1  |       13AUG25      | Initial Publication |
+| **Revision** | **Effective Date** | **Notes**           |
+|--------------|--------------------|---------------------|
+| Version 1    | 13AUG25            | Initial Publication |
+| Version 2    | 30OCT25            | Revision #1         |
 
 ----
 
@@ -29,19 +30,17 @@ The **Kuwait Control Zone (CTR)** is **Class D Airspace** from the Ground up to 
 ## Chapter 3. GEN | Standard Operating Procedures
 
 ### 3.1 Runway Selection 
-At **Kuwait International Airport (OKKK)**, the preferential runway is 33R for arrivals and 33L for departures which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then the 15s should be used for arrivals and departures. If the 15s have to be utilised then 15L is the favoured departure runway and 15R is used for arrivals. 
+At **Kuwait International Airport (OKKK)**, the preferential runway is 33R for arrivals and 33L for departures which may be utilised with a tailwind of up to 5kts. If the tailwind component is greater than 5kts then the 15s should be used for arrivals and departures. If the 15s have to be utilised then 15L is the favoured departure runway and 15R is used for arrivals. Runway 34/16 are should be used for those parked in the Cargo City Aprons.
 
 !!! tip "References to Use" 
-    - You can always refernece real world sources! However, this should NEVER become a reliance. 
+    - You can always refernece real world sources! However, this should NEVER become a reliance. NOTAMs should be read in the case there are runway closures/maintenance to simulate realism.
     
-    - All Controllers should bare the ability to read weather and make an assessment on what the active runway in use should be.
+    - All Controllers should bare the ability to read weather and make an assessment on what the active runway in use should be. Additional information of reading METAR information can be found under the vMATS.
 
 #### 3.1.1 Runway Change
-If the **TWR Controller** deems it necessary to change the active runway due to a change in wind direction this should be coordinated with all controllers above and below as this changes departure and arrival clearances. 
-This should not be done suddenly, it must be carefully coordinated. The **Approach Controller** and **Tower Controller** will carefully select which aircraft is the last aircraft to land prior to the runway change.
+If the **TWR Controller** deems it necessary to change the active runway due to a change in wind direction this should be coordinated with all controllers above and below as this changes departure and arrival clearances. This should not be done suddenly, it must be carefully coordinated. The **Approach Controller** and **Tower Controller** will carefully select which aircraft is the last aircraft to land prior to the runway change.
 
-This process is the same with the **DLV or GMC Controller** if an aircraft is already taxing to the active runway prior to runway change it may be less disruptive to allow the aircraft to depart if they can accept the tailwind. 
-Aircraft can be re-issued with a departure clearance. 
+This process is the same with the **DLV or GMC Controller** if an aircraft is already taxing to the active runway prior to runway change it may be less disruptive to allow the aircraft to depart if they can accept the tailwind. Aircraft can be re-issued with a departure clearance. 
 
 ### 3.2 Line Up Procedures 
 The **TWR Controller** must issue clear and precise instructions when issuing aircraft with an instruction to line up on the active runway. There should be no delay and must include the following information: 
@@ -72,7 +71,7 @@ Example:
 > **TWR Controller:** _**"KAC501, behind the departing Company Airbus A330 Neo, via Whiskey One line up and wait RWY33L, behind"**_
 
 !!!node "Company Traffic" 
-    The use of the word company traffic in clearances can be used if the traffic related to the instruction is of the same company that is receiving the clearance
+    The use of the word company traffic in clearances can be used if the traffic related to the instruction is of the same company that is receiving the clearance.
 
 ### 3.3 Take Off Procedures 
 
@@ -81,23 +80,60 @@ All departures from Kuwait will be assigned a **Standard Instrument Departure (S
 
 All SIDs in Kuwait are RNAV1 (Area Navigation) which means aircraft must be able to maintain a total system error of no more than 1 nautical mile (NM) for 95% of the flight time. This enhances safety, and accuracy of the departure routing an aircraft should fly. 
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   33L/33R  |     ALVAX4F    |        4000ft        |
-|   33L/33R  |     ASVIR4F    |        4000ft        |
-|   33L/33R  |     BOXIK4F    |        4000ft        |
-|   33L/33R  |      KFR4F     |        4000ft        |
-|   33L/33R  |     RALKA4F    |        4000ft        |
-|   33L/33R  |     SESRU4F    |        4000ft        |
+**16:**
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   15L/15R  |     ALVAX4E    |        4000ft        |
-|   15L/15R  |     ASVIR4E    |        4000ft        |
-|   15L/15R  |     BOXIK4E    |        4000ft        |
-|   15L/15R  |      KFR4E     |        4000ft        |
-|   15L/15R  |     RALKA4E    |        4000ft        |
-|   15L/15R  |     SESRU4E    |        4000ft        |
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1K             | 16                   |
+| ASVIR   | 1K             | 16                   |
+| BOXIK   | 1K             | 16                   |
+| RALKA   | 1K             | 16                   |
+| SESRU   | 1K             | 16                   |
+| DEKOB   | 1K             | 16                   |
+| KATOD   | 1K             | 16                   |
+| NIDAP   | 1K             | 16                   |
+
+**15R**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5E             | 15R                  |
+| ASVIR   | 5E             | 15R                  |
+| BOXIK   | 5E             | 15R                  |
+| RALKA   | 5E             | 15R                  |
+| SESRU   | 5E             | 15R                  |
+| DEKOB   | 1L             | 15R                  |
+| KATOD   | 1L             | 15R                  |
+| NIDAP   | 1L             | 15R                  |
+
+**33L:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5F             | 33L                  |
+| ASVIR   | 5F             | 33L                  |
+| BOXIK   | 5F             | 33L                  |
+| TASMI   | 5F             | 33L                  |
+| SESRU   | 5F             | 33L                  |
+| DEKOB   | 1J             | 33L                  |
+| KATOD   | 1J             | 33L                  |
+| NIDAP   | 1J             | 33L                  |
+
+**34:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1I             | 34                   |
+| ASVIR   | 1I             | 34                   |
+| BOXIK   | 1I             | 34                   |
+| TASMI   | 1I             | 34                   |
+| SESRU   | 1I             | 34                   |
+| DEKOB   | 1I             | 34                   |
+| KATOD   | 1I             | 34                   |
+| NIDAP   | 1I             | 34                   |
+
+!!!node "Identifiers" 
+    Note, all SIDs from the 33s end in 4F and all the SIDs from the 15s end in 4E.
 
 The initial climb for all departures for aircraft assigned a **Standard Instrument Departure (SID)** is 4000ft. 
 
@@ -176,12 +212,14 @@ In the event traffic may be issued a late landing clearance due to traffic depar
 #### 3.4.2 Preferred Exit Points
 In order to ensure minimum runway occupancy time pilots are expected to vacate the active runway by the taxiways. 
 
-| **Runway** | **Exit Points** |
-|:----------:|:---------------:|
-|     33R    |   Loop 2        |
-|     33L    |   W4 or W5      |
-|     15R    |   W2            |
-|     15L    |   E2            |
+| **Runway** |   **Vacate Point**   |
+|:----------:|:--------------------:|
+|   RWY15L   | E2 / Loop 1 / Loop 2 |
+|   RWY15R   |      W2 / Loop 1     |
+|   RWY33R   |    Loop 1 / Loop 2   |
+|   RWY33L   |      W5 / Loop       |
+| RWY34         | V4/V6                      |
+| RWY16         | V7/V5                      |
 
 #### 3.4.3 Vacating Traffic
 Traffic vacating the active runway shall not be immediately transfered to the GMC Controller, it is the responsibility of the TWR Controller to issue an initial taxi clearance onto taxiway W1 or E1 to ensure the runway is not obstructed by aircraft stopping at the holding point and then waiting for an instruction from the GMC controller. 
