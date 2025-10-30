@@ -20,26 +20,35 @@
     background-position-x: center;
 }
 
+/* ---- HERO LAYOUT (TOP-ALIGNED, TWO COLUMNS) ---- */
 .hero {
     color: var(--md-primary-bg-color);
     display: flex;
-    align-items: end;
+    align-items: center;          /* CHANGED: was end */
+    min-height: 600px;                /* keep tall hero */
 }
 
 .hero .hero-items {
     display: flex;
-    justify-content: space-between;
+    align-items: flex-start;          /* CHANGED: top align */
+    justify-content: space-between;   /* left text | right button */
+    gap: 2rem;
+    padding: 0 2rem;
 }
 
 .hero-items .left {
     width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;                       /* space between h1 & tagline */
 }
 
 .hero-items .right {
     display: flex;
-    align-items: end;
+    align-items: flex-start;          /* CHANGED: top align */
 }
 
+/* Text */
 .hero .hero-items h1 {
     color: currentColor;
     font-family: Mulish;
@@ -52,35 +61,35 @@
 
 .hero .hero-items p {
     margin: 0;
+    font-size: 1.125rem;
+    line-height: 1.4;
 }
 
+/* Button (remove offset so it sits at the very top-right) */
 .hero .md-button {
-    margin-top: .5rem;
-    margin-right: .5rem;
-    color: var(--md-primary-bg-color)
+    margin: 0;                        /* CHANGED: was .5rem top/right */
+    color: var(--md-primary-bg-color);
 }
 
 .hero .md-button--primary {
-    background-color: var(--md-primary-bg-color);
-    color: var(--md-accent-fg-color);
-    border-color: var(--md-primary-bg-color)
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-fg-color);
+    display: inline-flex;
+    align-items: center;
+    gap: .4rem;
+    padding: .65rem 1rem;
+    border-radius: 12px;
+    box-shadow: none;
 }
 
 .hero .md-button:focus,
 .hero .md-button:hover {
     background-color: var(--md-accent-fg-color);
     color: #ffffff;
-    border-color: var(--md-accent-fg-color)
+    border-color: var(--md-accent-fg-color);
 }
-
-.hero-items {
-}
-
-
-/* Features below hero */
-
-.lowerSection {}
-
+/* ---- Features below hero ---- */
 .feature {
     font-family: Mulish;
     font-weight: 300;
@@ -120,16 +129,14 @@
 
 .feature .card a:hover {
     background-color: var(--md-card-a-hover);
-    color: var(--md-primary-fg-color)
+    color: var(--md-primary-fg-color);
 }
 
 .feature .card a h3 {
     margin-top: 8px;
 }
 
-
-/* Additional Responsive Styling */
-
+/* ---- Responsive ---- */
 @media screen and (max-width:480px) {
     .container {
         padding-top: 1.5rem;
@@ -140,9 +147,7 @@
         background-position: 35%;
     }
 
-    .hero h1 {
-        font-size: 2rem;
-    }
+    .hero h1 { font-size: 2rem; }
 
     .hero .hero-items {
         display: block;
@@ -150,23 +155,14 @@
     }
 
     .hero-items .left { display: block; width: 100%; }
-    .hero-items .right a { margin-top: 1rem;}
+    .hero-items .right a { margin-top: 1rem; }
 
-    .feature h2 {
-        margin-left: 20px;
-    }
-
-    .feature .cards {
-        flex-direction: column;
-    }
-
-    
+    .feature h2 { margin-left: 20px; }
+    .feature .cards { flex-direction: column; }
 }
 
 @media screen and (min-width: 481px) and (max-width: 899px) {
-    .container {
-        background-color: rgba(29, 30, 38, 0.5)
-    }
+    .container { background-color: rgba(29, 30, 38, 0.5) }
 
     .hero .hero-items {
         display: block;
@@ -174,29 +170,15 @@
     }
 
     .hero-items .left { display: block; width: 100%; }
-    .hero-items .right a { margin-top: 1rem;}
+    .hero-items .right a { margin-top: 1rem; }
 
-    .lowerSection {
-        padding: 0 1.5rem;
-    }
-
-    .feature .cards {
-        flex-direction: column;
-    }
+    .lowerSection { padding: 0 1.5rem; }
+    .feature .cards { flex-direction: column; }
 }
 
 @media screen and (min-width:900px) {
-    .md-sidebar--secondary {
-        display: none
-    }
-
-    .hero {
-        min-height: 600px;
-    }
-
-    .hero-items {
-        padding: 0 2rem;
-    }
+    .md-sidebar--secondary { display: none; }
+    .hero-items { padding: 0 2rem; }
 
     .hero-content {
         max-width: 20rem;
@@ -206,17 +188,10 @@
         align-items: center;
     }
 
-    .feature h2 {
-        margin-left: 10px;
-    }
+    .feature h2 { margin-left: 10px; }
 }
 
 @media screen and (min-width:1120px) {
-    .md-sidebar--primary {
-        display: none
-    }
-
-    .feature h2 {
-        margin-left: 20px;
-    }
+    .md-sidebar--primary { display: none; }
+    .feature h2 { margin-left: 20px; }
 }
