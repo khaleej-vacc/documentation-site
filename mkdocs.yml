@@ -53,12 +53,8 @@ markdown_extensions:
   - attr_list
 plugins:
   - search
-  - awesome-pages:
-        strict: false
-        order: asc
-        sort_type: natural
-        order_by: title
-
+  - awesome-pages
+  
   # - mkdocs-with-pdf
   # - mkdocs-pdf
   # - mkdocs-video
