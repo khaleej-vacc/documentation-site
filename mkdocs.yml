@@ -53,10 +53,10 @@ markdown_extensions:
   - attr_list
 plugins:
    - search
-   - mkdocs-with-pdf
-   - mkdocs-pdf
-   - mkdocs-video
-   - awesome-pages
+  # - mkdocs-with-pdf
+  # - mkdocs-pdf
+  # - mkdocs-video
+  # - awesome-pages
 
 # DO NOT TOUCH THIS
 nav:
