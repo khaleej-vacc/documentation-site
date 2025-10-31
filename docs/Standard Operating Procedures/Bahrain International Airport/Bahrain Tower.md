@@ -91,11 +91,10 @@ Due to the very tight narrow airspace and immediate FIR boundaries in close prox
 |:----------:|:---------------------------:|:----------------:|
 |     30R    |             300             |    B457 NARMI    |
 |     30R    |             345             | All Other Routes |
-|     12L    |             120             |    B457 NARMI    |
-|     12L    |             075             | All Other Routes |
+|     12L    |             075             | All Routes       |
 
 !!!node "Exception"
-    Helicopters are given heading 030 after departure from all runways on all routings.
+    Helicopters and turboprops are given heading 030 after departure from all runways regardless of their route.
 
 ### 3.3.2 Take Off Clearances 
 Aircraft should only be given take off clearance once the runway is clear of obstructions and separation between any previously departed aircraft has been achieved. 
