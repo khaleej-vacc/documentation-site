@@ -20,8 +20,8 @@ title: General Information
 | 15R    | 3400M x 45M | 152          | 168ft     |
 | 33R    | 3500M x 45M | 332          | 205ft     |
 | 15L    | 3500M x 45M | 152          | 160ft     |
-| 34     | 4580M X 60M | 332          | 172ft     |
-| 16     | 4580M X 60M | 152          | 166ft     |
+| 34     | 4580M x 60M | 332          | 172ft     |
+| 16     | 4580M x 60M | 152          | 166ft     |
 
 # Declared Distances
 | Runway | TORA (M) | TODA (M) | ASDA (M) | LDA (M) |
@@ -51,5 +51,5 @@ Airspaces
 | **Kuwait Delivery**  |      OKKK_DEL      |        DLV       |       126.775       |
 |  **Kuwait Ground**   |      OKKK_GND      |        GMC       |       121.700       |
 |   **Kuwait Tower**   |      OKKK_TWR      |        TWR       |       118.300       |
-| **Kuwait Approach**  |      OKKK_APP      |        APP       |       124.800       |
 | **Kuwait Director**  |      OKKK_F_APP    |        APP       |       123.825       |
+| **Kuwait Approach**  |      OKKK_APP      |        APP       |       124.800       |
