@@ -32,7 +32,7 @@ All controllers are expected to control within the **Khaleej vACC** in accordanc
 It is the responsibility of the **Khaleej vACC ATC Training Department** to ensure the validity of information within the **Standard Operating Procedures (SOPs)** are maintained. 
 
 ## Reporting Errors 
-If you find any errors in any of the content on this documentation site, please report it to the ATC Training Department.
+If you find any errors in any of the content on this documentation site, please report it to the Khaleej vACC ATC Training Department.
 
 - Email: atc@khaleejvacc.net 
 
