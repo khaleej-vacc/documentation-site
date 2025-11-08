@@ -1,8 +1,8 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
-      - master 
+      - master
       - main
 permissions:
   contents: write
@@ -21,19 +21,30 @@ jobs:
         with:
           python-version: 3.x
 
-      # 🧩 Install all MkDocs dependencies here
+      # install your mkdocs deps
       - run: pip install mkdocs-material
       - run: pip install mkdocs-pdf
-      - run: pip install mkdocs-awesome-pages-plugin   # ← Add this line
-      # (Add any other plugins you use, e.g. mkdocs-with-pdf, mkdocs-git-revision-date, etc.)
+      - run: pip install mkdocs-awesome-pages-plugin
 
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
-          path: .cache 
+          path: .cache
           restore-keys: |
             mkdocs-material-
 
-      - run: mkdocs gh-deploy --force
+      # 👇 build into docs/ (because site_dir: docs)
+      - name: Build MkDocs site
+        run: mkdocs build --clean
+
+      # OPTIONAL: commit the updated docs/ back to main so Pages sees it
+      - name: Commit built docs
+        run: |
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Build site"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
