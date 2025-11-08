@@ -26,7 +26,7 @@ For controllers starting a training programme within **Khaleej vACC** you should
 The purpose for the outlined **Standard Operating Procedures (SOPs)** found on this documentation site are to improve standards of controlling within the **Khaleej vACC**. 
 We want to ensure all controllers, residents or visitors are controlling to a high standard on the VATSIM Network whilst having a defined procedures to follow. 
 
-All controllers are expected to control within the **Khaleej vACC** in accordance with the **Standard Operating Procedures (SOPs)** found on this website. 
+All controllers are expected to control within the **Khaleej vACC** in accordance with the **Standard Operating Procedures (SOPs)** found on this documentation website. 
 
 ## Validity of Documents 
 It is the responsibility of the **Khaleej vACC ATC Training Department** to ensure the validity of information within the **Standard Operating Procedures (SOPs)** are maintained. 
