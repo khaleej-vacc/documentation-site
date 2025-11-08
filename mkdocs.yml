@@ -53,6 +53,7 @@ markdown_extensions:
   - attr_list
 plugins:
   - search
+  - awesome-pages
 
 
 repo_url: https://github.com/khaleej-vacc/documentation-site
