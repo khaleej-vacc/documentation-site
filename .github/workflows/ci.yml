@@ -19,6 +19,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-pdf
+      - run: pip install mkdocs-awesome-nav
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       - uses: actions/cache@v4
         with:
