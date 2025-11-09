@@ -58,7 +58,7 @@ The **TWR Controller** may issue a conditional line up clearance in order to max
 
 Example:
 
-> **TWR Controller:** _**"KAC501, behind the landing Qatar Airbus A320, line up and wait RWY33L via WHiskey One, behind"**_ 
+> **TWR Controller:** _**"KAC501, behind the landing Qatar Airbus A320, line up and wait RWY33L via Whiskey One, behind"**_ 
 
 !!!node "Vitally Important" 
     The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic
