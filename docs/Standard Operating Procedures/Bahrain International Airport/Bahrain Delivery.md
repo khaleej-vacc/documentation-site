@@ -113,21 +113,11 @@ Bahrain does not have any published Standard Instrument Departures (SIDs). Inste
 
 The Aircraft will then be provided radar vectors from Bahrain Approach after departure. 
 
-| **Runway** | **TMA Exit Point** | **Initial Heading** |
-|:----------:|:------------------:|:-------------------:|
-|     30R    |        NARMI       |         300         |
-|     30R    |        TULUB       |         345         |
-|     30R    |        SODAK       |         345         |
-|     30R    |        ASTAD       |         345         |
-|     30R    |        LOTOR       |         345         |
-
-| **Runway** | **TMA Exit Point** | **Initial Heading** |
-|:----------:|:------------------:|:-------------------:|
-|     12L    |        TULUB       |         120         |
-|     12L    |        NARMI       |         075         |
-|     12L    |        SODAK       |         075         |
-|     12L    |        ASTAD       |         075         |
-|     12L    |        LOTOR       |         075         |
+| **Runway** | **Initial Takeoff Heading** |     **Route**    |
+|:----------:|:---------------------------:|:----------------:|
+|     30R    |             300°            |    B457 NARMI    |
+|     30R    |             345°            | All Other Routes |
+|     12L    |             075°            | All Routes       |
 
 !!!node "Initial Climb"
     The initial climb for aircraft departing Bahrain International Airport is **3000ft for propeller aircraft** and **4000ft for jet aircraft.** 
