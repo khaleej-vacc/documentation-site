@@ -41,6 +41,7 @@ Airspaces
 |         Airspace Type         |   Airspace  | Class | Vertical Limits | Controller |
 |:-----------------------------:|:-----------:|:-----:|:---------------:|------------|
 |        **Control Zone**       | Kuwait CTR  |   D   |   SFC - 2000ft  |  OKKK_TWR  |
+|       **Control Area**        | Kuwait CTA  |   C   | SFC - 6000ft   |  OKKK_F_APP |
 |       **Control Area**        | Kuwait CTA  |   C   | SFC - FL150     |  OKKK_APP  |
 
 # ATS Callsigns 
@@ -65,6 +66,7 @@ Any pilots found not to be operating in accordance with VATSIMs Code of Conduct 
 - Pilots who are unfamilar with an airspace shall educate themselves by first observing operations and/or studying porcedures used in that location. Pilots are expected to undergo reasonable preparation for their intended flight.
 - Pilots shall be expected to promptly comply with basic air traffic control instructions that are applicable to their flight rules.
 - Pilots should have access to airport charts to aid and prepare properly for their flight.
+
 
 
 
