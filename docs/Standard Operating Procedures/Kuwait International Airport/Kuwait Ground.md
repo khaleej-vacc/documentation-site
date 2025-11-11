@@ -29,7 +29,7 @@ The **GMC Controller** is responsible for providing departing aircraft with a pu
 
 Example:
 
-> **GMC Controller:** _**"KAC343, Stand 75, push and start approved facing south on on Taxiway W1"**_
+> **GMC Controller:** _**"KAC343, push and start approved facing south on on Taxiway W1, runway 33L."**_
 
 Once the push back clearance has been issued the **GMC Controller** should ensure the Departure List is updated accordingly to provide all controllers with additional situational awareness. 
 
@@ -40,7 +40,7 @@ In some cases you may have an inbound aircraft taxiing to a stand on the apron w
 
 Example:
 
-> **GMC Controller:** _**"OMA647, behind the Jazeera Airbus A320 Neo passing from your right to left, Stand 4, push and start is approved facing south on Taxiway W17."**_
+> **GMC Controller:** _**"OMA647, behind the Jazeera Airbus A320 Neo passing from your right to left, push and start is approved facing south on Taxiway W17, runway 33L."**_
 
 #### 2.1.2 Simulataneous Pushback Operations
 **Simulataneous Pushback Operations** can be conducted at Kuwait. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
