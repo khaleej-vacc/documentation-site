@@ -79,10 +79,10 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 
 
 Example 1:
-> **GMC Controller:** _**"CLX5898, taxi to holding point V1, RWY34 via Q4, U7 and V1"**_ 
+> **GMC Controller:** _**"CLX5898, taxi to holding point V1, RWY34 via Q4, U7 and V1, QNH 1013."**_ 
 
 Example 2: 
-> **GMC Controller:** _**"CLX5898, taxi via Q1, Q, U, hold short of V."**_ 
+> **GMC Controller:** _**"CLX5898, taxi via Q1, Q, U, hold short of V, QNH 1013."**_ 
 
 Once approaching V and the traffic situation is clear
 
@@ -97,10 +97,10 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 
 
 Example 1: 
-> **GMC Controller:** _**"JZR263, taxi to holding point Loop 2 RWY15L via W17, and E9"**_ 
+> **GMC Controller:** _**"JZR263, taxi to holding point Loop 2 RWY15L via W17, and E9, QNH 1013."**_ 
 
 Example 2: 
-> **GMC Controller:** _**"KAC343, taxi to holding point Loop 2 RWY15L via W1, W14, and E9"**_ 
+> **GMC Controller:** _**"KAC343, taxi to holding point Loop 2 RWY15L via W1, W14, and E9, QNH 1013."**_ 
 
 #### 2.2.1.4 15R Departure Configuration 
 Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY15R, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals. 
@@ -110,10 +110,10 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 - Aircraft taxiing from anywhere East of Terminal 5 shall be instructed to taxi via E1, E9, W14 and to hold short of taxiway W1, once approaching W1 they can then be given further instructions to taxi to holding point RWY15R. 
 
 Example 1: 
-> **GMC Controller:** _**"KAC343, taxi to holding point RWY15R via W1"**_ 
+> **GMC Controller:** _**"KAC343, taxi to holding point RWY15R via W1, QNH 1013."**_ 
 
 Example 2: 
-> **GMC Controller:** _**"JZR263, taxi to holding point RWY15 via W17, W14, hold short of taxiway W1"**_ 
+> **GMC Controller:** _**"JZR263, taxi to holding point RWY15 via W17, W14, hold short of taxiway W1, QNH 1013."**_ 
 
 Once approaching W1 and the traffic situation is clear
 
@@ -128,10 +128,10 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 
 
 Example 1:
-> **GMC Controller:** _**"DHL1262, taxi to holding point U10, RWY16 via Q4, U7 and V"**_ 
+> **GMC Controller:** _**"DHL1262, taxi to holding point V10, RWY16 via Q4, U7 and V, QNH 1013."**_ 
 
 Example 2: 
-> **GMC Controller:** _**"DHL1262, taxi via Q1, Q, U, hold short of V."**_ 
+> **GMC Controller:** _**"DHL1262, taxi via Q1, Q, U, hold short of V, QNH 1013."**_ 
 
 Once approaching V and the traffic situation is clear
 
@@ -141,13 +141,13 @@ Once approaching V and the traffic situation is clear
 #### 2.2.2 Intersection Departures
 Intersection Departures can be utilised when the pilot requests it specifically. The GMC Controller is not allowed to to instruct an intersection departure to a pilot without it being requested. 
 
-| **Runway** | **Intersection** |
-|------------|------------------|
-| 33R        | E2               |
-| 33L        | W2               |
-| 15R        | W5, W4 & M14     |
-| 34         | V3               |
-| 16         | V8               |
+| **Runway** | **Intersections** |
+|------------|-------------------|
+| 33R        | E2                |
+| 33L        | W2                |
+| 15R        | W5, W4 & M14      |
+| 34         | V3                |
+| 16         | V8                |
 
 There are no intersections departures available from RWY15L. 
 
@@ -240,8 +240,8 @@ Departures are permitted under LVP conditions **only** where the RVR is not less
 |   RWY15R   |      W2 / Loop 1     |
 |   RWY33R   |    Loop 1 / Loop 2   |
 |   RWY33L   |      W5 / Loop       |
-| RWY34         | V4/V6                      |
-| RWY16         | V7/V5                      |
+|   RWY34    | V4/V6                |
+|   RWY16    | V7/V5                |
 
 ### 2.4 Stand Allocation
 
