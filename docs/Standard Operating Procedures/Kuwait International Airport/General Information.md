@@ -41,6 +41,7 @@ Airspaces
 |         Airspace Type         |   Airspace  | Class | Vertical Limits | Controller |
 |:-----------------------------:|:-----------:|:-----:|:---------------:|------------|
 |        **Control Zone**       | Kuwait CTR  |   D   |   SFC - 2000ft  |  OKKK_TWR  |
+|       **Control Area**        | Kuwait CTA  |   C   | SFC - 6000ft   |  OKKK_F_APP |
 |       **Control Area**        | Kuwait CTA  |   C   | SFC - FL150     |  OKKK_APP  |
 
 # ATS Callsigns 
