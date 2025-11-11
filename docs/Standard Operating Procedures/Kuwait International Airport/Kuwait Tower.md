@@ -16,7 +16,7 @@ toc_max_heading_level: 6
 ----
 
 ## Chapter 1. Position Overview 
-**Kuwait Tower (TWR)** controls movement of aircraft on the runway and holding at all runway holding points. In addition to this the **TWR Controller** also has the responsibility of all aircraft within the **Class D Kuwait Control Zone** and shall ensure separation within the **Control Zone (CTR)** between IFR traffic is maintained for flights arriving and departing Bahrain. Traffic Information is provided between IFR and VFR Flights as well as VFR to IFR Flights within the **Control Zone (CTR)**
+**Kuwait Tower (TWR)** controls movement of aircraft on the runway and holding at all runway holding points. In addition to this the **TWR Controller** also has the responsibility of all aircraft within the **Class D Kuwait Control Zone** and shall ensure separation within the **Control Zone (CTR)** between IFR traffic is maintained for flights arriving and departing Kuwait. Traffic Information is provided between IFR and VFR Flights as well as VFR to IFR Flights within the **Control Zone (CTR)**
 
 The **TWR Controller** is responsible for selecting the active runways for arrivals and departures at Kuwait and holds full authority over the runway.
 
