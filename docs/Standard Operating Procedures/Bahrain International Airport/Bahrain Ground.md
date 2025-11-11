@@ -82,10 +82,10 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 ### 2.2.2 Intersection Departures
 Intersection Departures can be utilised when the pilot requests it specifically. The SMC Controller is not allowed to to instruct an intersection departure to a pilot without it being requested. 
 
-| **Runway** | **Intersection** |
+| **Runway** | **Intersections** |
 |:----------:|:----------------:|
-|     30R    |        A8        |
-|     12L    |        A2        |
+|     30R    |    A8, A7, A5    |
+|     12L    |      A2, A3      |
 
 ### 2.2.3 Northside Aprons 
 Aircraft parked on either the Northern Apron or the Texel Apron on the North Side of the airport will be expected to be taxiied to B1 or B2, then transferred to the TWR controller for runway crossing. 
