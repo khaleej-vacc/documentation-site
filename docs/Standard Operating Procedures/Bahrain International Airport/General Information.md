@@ -48,4 +48,5 @@ Airspaces
 | **Bahrain Delivery** |      OBBI_DEL      |        DLV       |       121.900       |
 |  **Bahrain Ground**  |      OBBI_GND      |        SMC       |       121.850       |
 |   **Bahrain Tower**  |      OBBI_TWR      |        TWR       |       118.500       |
+| **Bahrain Director** |      OBBI_F_APP    |        FIN       |       119.100       |
 | **Bahrain Approach** |      OBBI_APP      |        APP       |       127.850       |
