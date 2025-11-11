@@ -89,9 +89,9 @@ Due to the very tight narrow airspace and immediate FIR boundaries in close prox
 
 | **Runway** | **Initial Takeoff Heading** |     **Route**    |
 |:----------:|:---------------------------:|:----------------:|
-|     30R    |             300             |    B457 NARMI    |
-|     30R    |             345             | All Other Routes |
-|     12L    |             075             | All Routes       |
+|     30R    |             300°            |    B457 NARMI    |
+|     30R    |             345°            | All Other Routes |
+|     12L    |             075°            | All Routes       |
 
 !!!node "Exception"
     Helicopters and turboprops are given heading 030 after departure from all runways regardless of their route.
