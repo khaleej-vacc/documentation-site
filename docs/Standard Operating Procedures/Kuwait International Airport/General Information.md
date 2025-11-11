@@ -3,7 +3,7 @@ title: General Information
 ---
 
 # General Information
-**Kuwait International Airport (OKKK/KWI)** is the the main international airport of Kuwait, situated in the Farwaniya Governorate approximately 9 mile south of the centre of Kuwait City. It serves as a primary hub for Kuwaiti Flag Carrier, Kuwait Airways and low cost operator Jazeera Airways. The airport was officially launched in 1927. Kuwait Airport is currently undergoing a huge development project which will see it open a brand new modern terminal with an additional third runway to be implemented to the West of the airport. 
+**Kuwait International Airport (OKKK/KWI)** is the the main international airport of Kuwait, situated in the Farwaniya Governorate approximately 9 mile south of the centre of Kuwait City. It serves as a primary hub for Kuwaiti Flag Carrier, Kuwait Airways and low cost operator Jazeera Airways. The airport was officially launched in 1927. Kuwait Airport is currently undergoing a huge development project which will see it open a brand new modern terminal.
 
 # Aerodrome Details
 | Aerodrome ICAO | Airport Name                  | Airport Coordinates    | Airport Runways       | Airport Elevation |
