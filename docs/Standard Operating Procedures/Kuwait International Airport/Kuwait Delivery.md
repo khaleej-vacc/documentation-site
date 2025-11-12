@@ -158,9 +158,6 @@ All **Standard Instrument Departures (SIDs)** in Kuwait are RNAV (Area Navigatio
 | KATOD   | 1I             | 34                   |
 | NIDAP   | 1I             | 34                   |
 
-!!!node "Identifiers" 
-    Note, all SIDs from the 33s end in 4F and all the SIDs from the 15s end in 4E.
-
 ### 2.3 VFR Procedures 
 DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DLV must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the DLV Controller to pass to the pilot. 
 
@@ -184,7 +181,7 @@ Once **Kuwait Delivery (DLV)** has recieved confirmation from the TWR controller
 
 ***VFR Circuit Clearance Example***
 
-> **DLV Controller:** _**"9K-VFR, cleared right hand visual circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
+> **DLV Controller:** _**"9K-VFR, cleared right hand circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
@@ -201,7 +198,7 @@ Once the pilot has correctly read back the clearance, if the pilot did not provi
 
 When the pilot requests startup, ensure he has set the correct transponder code. If he is squawking the assigned code, switch them to GND or any facility higher. 
 
-> **DLV Controller:** _**"9-FR, hold position, contact Kuwait Ground 121.700."**_
+> **DLV Controller:** _**"9-FR, contact Kuwait Ground 121.700."**_
 
 
 !!!node "Callsign Shortening" 
@@ -222,7 +219,7 @@ The DLV Controller **must** obtain a full and correct read back of the departure
 
 > **DLV Controller:** _**"9K-VFR, Negative. You are cleared to exit the Control Zone to the East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
 
-> **DLV Controller:** _**"9-FR, Read Back is correct, Information Alpha is current, QNH 1001"**_
+> **DLV Controller:** _**"9-FR, Read Back is correct, Information Alpha is current."**_
 
 When the aircraft reports ready for engine start up they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.**
 
@@ -237,7 +234,7 @@ If an aircraft who has received his clearance and calls ready for push and start
 ### 2.5 Transferring Aircraft to the GMC Controller
 When an aircraft has received his clearance and calls for push and start with his assigned squawk code set the **DLV Controller** will then hand the aircraft off to the **GMC Controller** to be sequenced for push and start. 
 
-> **DLV Controller:** _**"KAC107, hold position, Contact Kuwait Ground on 121.700"**_
+> **DLV Controller:** _**"KAC107, contact Kuwait Ground on 121.700"**_
 
 ### 2.6 Helicopter Visual Reporting Points
 
