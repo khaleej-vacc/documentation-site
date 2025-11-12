@@ -22,7 +22,7 @@ toc_max_heading_level: 6
 
 | **Position** | **Sector** | **Frequency** |
 |--------------|-------------------|-------------------------|
-| OBBB_1_CTR        | Central Super/Bandbox             | 127.525                |
+| OBBB_1_CTR        | Central Super/Bandbox             | 127.575                |
 | OBBB_2_CTR        | East Higher             | 132.125              |
 | OBBB_3_CTR        | North Higher             | 127.525               |
 | OBBB_CH_CTR        | Central Higher             | 124.300               |
