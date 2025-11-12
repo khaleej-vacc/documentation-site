@@ -174,7 +174,7 @@ Aircraft that are flying on an assigned heading vs aircraft that are flying on t
 
 **Example for giving a direct to an Aircraft Flying their filed routing:**
 
-> **APP Controller:"** _**"GFA071, proceed direct SODAK"**_
+> **APP Controller:"** _**"GFA071, route direct SODAK"**_
 
 #### 3.2.4 Handing Aircraft Off 
 Due to the location of Bahrain and direction of some flights not all aircraft will be handed off to the en-route controller as they will not enter their airspace. 
