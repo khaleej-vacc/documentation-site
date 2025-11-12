@@ -132,9 +132,6 @@ All SIDs in Kuwait are RNAV1 (Area Navigation) which means aircraft must be able
 | KATOD   | 1I             | 34                   |
 | NIDAP   | 1I             | 34                   |
 
-!!!node "Identifiers" 
-    Note, all SIDs from the 33s end in 4F and all the SIDs from the 15s end in 4E.
-
 The initial climb for all departures for aircraft assigned a **Standard Instrument Departure (SID)** is 4000ft. 
 
 #### 3.3.2 Take Off Clearances 
