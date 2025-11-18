@@ -60,11 +60,11 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 
 
 Example 1:
-> **GMC Controller:** _**"JZR263, taxi to holding point RWY33L via W17, W14, and W1"**_
+> **GMC Controller:** _**"JZR263, taxi to holding point RWY33L via W17, W14, and W1, QNH 1013."**_
 
 Example 2:
 
-> **GMC Controller:** _**"JZR263, taxi to holding point RWY33L via E10, E9, W14 hold short of taxiway W1"**_ 
+> **GMC Controller:** _**"JZR263, taxi via E10, E9, W14 hold short of taxiway W1, QNH 1013."**_ 
 
 Once approaching W1 and the traffic situation is clear
 
@@ -113,7 +113,7 @@ Example 1:
 > **GMC Controller:** _**"KAC343, taxi to holding point RWY15R via W1, QNH 1013."**_ 
 
 Example 2: 
-> **GMC Controller:** _**"JZR263, taxi to holding point RWY15 via W17, W14, hold short of taxiway W1, QNH 1013."**_ 
+> **GMC Controller:** _**"JZR263, taxi via W17, W14, hold short of taxiway W1, QNH 1013."**_ 
 
 Once approaching W1 and the traffic situation is clear
 
@@ -123,7 +123,7 @@ Once approaching W1 and the traffic situation is clear
 
 Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY16, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals. 
 
-- Aircraft taxiing from Cargo City Aprons (1, 2 & 3) will be instructed to taxi to holding point U10, full length runway 16. 
+- Aircraft taxiing from Cargo City Aprons (1, 2 & 3) will be instructed to taxi to holding point V10, full length runway 16. 
 - It is essential GMC Controllers utilise the Apron exit points properly to ensure departure and arrival traffic do not occupy the same taxiway. 
 
 
@@ -131,11 +131,11 @@ Example 1:
 > **GMC Controller:** _**"DHL1262, taxi to holding point V10, RWY16 via Q4, U7 and V, QNH 1013."**_ 
 
 Example 2: 
-> **GMC Controller:** _**"DHL1262, taxi via Q1, Q, U, hold short of V, QNH 1013."**_ 
+> **GMC Controller:** _**"DHL1262, taxi via Q1, Q, hold short of V, QNH 1013."**_ 
 
 Once approaching V and the traffic situation is clear
 
-> **GMC Controller:** _**"DHL1262, continue taxi via V holding point U10, RWY16"**_ 
+> **GMC Controller:** _**"DHL1262, continue taxi via V holding point V10, RWY16"**_ 
 
 
 #### 2.2.2 Intersection Departures
@@ -255,4 +255,4 @@ Departures are permitted under LVP conditions **only** where the RVR is not less
 | Cargo City            | 501 - 554         | DHX / QTR Cargo / Emirates Cargo / Cargolux / Atlas |
 | Cargo City (Military) | 533-580           | Military use                                        |
 | Terminal 4            | 63 - 79           | Kuwait Airways                                      |
-| Amiri Terminal        | R1 - R8           | Kuwait Amiri Flights                                |
+| Emiri Terminal        | R1 - R8           | Kuwait Emiri Flights                                |
