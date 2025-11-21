@@ -51,14 +51,14 @@ The **TWR Controller** must issue clear and precise instructions when issuing ai
 
 Example:
 
-> **TWR Controller:** _**"KAC501, via Whiskey One, line up and wait RWY33L"**_ 
+> **TWR Controller:** _**"KAC501, via W1, line up and wait RWY33L."**_ 
 
 #### 3.2.1 Conditional Line Up Clearance (Landing Traffic)
 The **TWR Controller** may issue a conditional line up clearance in order to maximise movements and runway efficency. This must be done efficently and precisely. 
 
 Example:
 
-> **TWR Controller:** _**"KAC501, behind the landing Qatar Airbus A320, line up and wait RWY33L via Whiskey One, behind"**_ 
+> **TWR Controller:** _**"KAC501, behind the landing Qatari A320, via W1, line up and wait RWY33L, behind."**_ 
 
 !!!node "Vitally Important" 
     The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic
@@ -68,7 +68,7 @@ The **TWR Controller** can also issue a conditional line up clearance for traffi
 
 Example:
 
-> **TWR Controller:** _**"KAC501, behind the departing Company Airbus A330 Neo, via Whiskey One line up and wait RWY33L, behind"**_
+> **TWR Controller:** _**"KAC501, behind the departing Company A330, via W1, line up and wait RWY33L, behind"**_
 
 !!!node "Company Traffic" 
     The use of the word company traffic in clearances can be used if the traffic related to the instruction is of the same company that is receiving the clearance.
@@ -139,14 +139,14 @@ Aircraft should only be given take off clearance once the runway is clear of obs
 
 Example: 
 
-> **TWR Controller:** _**"KAC393, surface wind 300 Degrees at 12 knots, Runway 33L, cleared for takeoff."**_
+> **TWR Controller:** _**"KAC393, surface winds 300 Degrees at 12 knots, Runway 33L, cleared for takeoff."**_
 
 #### 3.3.3 Handing Off 
 Once the aircraft has taken off and a postive rate of climb can be seen **(typically passing 800ft)** they should be informed to contact the **Approach Controller** with their passing altitude. 
 
 Example: 
 
-> **TWR Controller:** _**"KAC393, contact Kuwait Approach 124.800, goodbye."**_
+> **TWR Controller:** _**"KAC393, contact Kuwait Approach 124.800."**_
 
 #### 3.3.4 Wake Separation 
 Time based separation is utilised at Kuwait to ensure separation between various wake turbulence catergories is maintained. 
@@ -199,7 +199,7 @@ The **TWR Controller** is responsible for issuing traffic landing clearance. The
 
 Example:
 
-> **TWR Controller:** _**"JZR1144, surface winds 300 Degrees at 10 knots, Runway 33R, cleared to land"**_
+> **TWR Controller:** _**"JZR1144, surface winds 300 Degrees at 10 knots, Runway 34, cleared to land"**_
 
 #### 3.4.1.1 Late Landing Clearance 
 In the event traffic may be issued a late landing clearance due to traffic departing ahead of them or vacating slowly they can be issued a late landing clearance, however, the landing traffic must be issued a landing clearance no later than 2nm from touchdown. 
@@ -229,7 +229,7 @@ The GMC Controller (if online) has the responsibility to ensure all aircraft on 
 
 Example: 
 
-> **TWR Controller:** _**"IAW1017, Welcome to Kuwait, left turn on taxiway W1, hold short of taxiway W4, Contact Kuwait Ground 121.700"**_
+> **TWR Controller:** _**"IAW1017, continue taxi left V, hold short P, contact Kuwait Ground 121.850."**_
 
 #### 3.4.4 Separation Requirements 
 Within the **Kuwait Control Zone (CTR)** the TWR Controller is responsible for ensuring adequate separation exists between all traffic, this includes vertically and laterally to ensure safe and efficient operation. 
