@@ -186,7 +186,7 @@ Example:
 
 > **TWR Controller:** _**"FDB687, stop immediately, I say again, stop immediately, runway incursion"**_ 
 
-For an aircraft that has not yet begun the take off roll the following phraseoloy should be used: 
+For an aircraft that has not yet begun the take off roll the following phraseology should be used: 
 
 Example:
 
