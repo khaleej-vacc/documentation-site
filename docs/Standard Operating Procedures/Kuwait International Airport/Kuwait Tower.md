@@ -25,7 +25,11 @@ The **TWR Controller** is responsible for selecting the active runways for arriv
 ## Chapter 2. Airspace 
 The **Kuwait Control Zone (CTR)** is **Class D Airspace** from the Ground up to 2000ft Mean Sea Level (MSL). The **TWR Controller** is responsible for ensuring all traffic within the Control Zone are separated. This will typically include all IFR Flights departing and arriving as well as VFR Flights operating within the Control Zone or entering and exiting. 
 
-----
+---
+
+![Kuwait CTR](img/KuwaitCTR.png)
+
+---
 
 ## Chapter 3. GEN | Standard Operating Procedures
 
