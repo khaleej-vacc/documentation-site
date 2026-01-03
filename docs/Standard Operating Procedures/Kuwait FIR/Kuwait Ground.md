@@ -28,7 +28,7 @@ toc_max_heading_level: 6
 #### 1.1.1 Splitting Positions
 
 - As GMC-E (**OKKK_1_GND**) is the primary GMC position, it will act as a bandbox position and assume the responsibilities of GMP or GMC-W when either **OKKK_DEL or OKKK_2_GND** are offline respectively.
-- GMC-W (**OKKK_2_GND**) may not be opened without GMP being online (.
+- GMC-W (**OKKK_2_GND**) may not be opened without GMP being online.
 
 ----
 
