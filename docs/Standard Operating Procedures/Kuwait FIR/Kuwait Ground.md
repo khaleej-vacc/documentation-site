@@ -16,9 +16,7 @@ toc_max_heading_level: 6
 ----
 
 ## Chapter 1. Position Overview 
-**Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropriate apron. 
-
-If the DLV and GMC-W controller is offline, **GMC-E** will act as a bandbox position and assume those responsibilities.
+**Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropriate apron.
 
 ---
 
@@ -26,6 +24,11 @@ If the DLV and GMC-W controller is offline, **GMC-E** will act as a bandbox posi
   <strong>1.1 - AREA OF RESPONSIBILITY</strong><br>
 </p>
 ![Fail to load Image.](img/AOR.png)
+
+#### 1.1.1 Splitting Positions
+
+- As GMC-E (**OKKK_1_GND**) is the primary GMC position, it will act as a bandbox position and assume the responsibilities of GMP or GMC-W when either **OKKK_DEL or OKKK_2_GND** are offline respectively.
+- GMC-W (**OKKK_2_GND**) may not be opened without GMP being online (.
 
 ----
 
@@ -57,9 +60,6 @@ If aircraft are on adjacent stands and both requesting push back and start it is
 
 #### 2.2.1 Northern Config
 
-<p align="center">
-  <strong>Diagram</strong><br>
-</p>
 ![Fail to load Image.](img/TaxiRoutes.png)
 
 #### 2.2.1.1 RWY33L Departure Configuration
@@ -90,9 +90,6 @@ Once the aircraft has been transferred to the appropriate GMC Controller by TWR 
 
 #### 2.2.2 Southern Config
 
-<p align="center">
-  <strong>Diagram</strong><br>
-</p>
 ![Fail to load Image.](img/TaxiRoutes16.png)
 
 #### 2.2.2.1 RWY15R Departure Configuration
@@ -143,12 +140,6 @@ There are no intersections departures available from RWY15L.
 | 15L        | E2, Loop 1/2               |
 | 34         | V4/V6                      |
 | 16         | V7/V5                      |
-
-
-#### 2.2.4.1 RWY15R Arrival Configuration 
-Aircraft landing on RWY15R will be expected to vacate the runway at W2, TWR will not immediately hand over the aircraft to the GMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to turn left on W1 by the TWR Controller and then contact the GMC Controller. 
-
-Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficiently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
 
 #### 2.2.5 Conditional Taxi Instructions 
 In some cases aircraft may require a **Conditional Taxi Instruction** in order to facilitate for other movements on the ground and to ensure the safe movement of aircraft. 
