@@ -18,7 +18,14 @@ toc_max_heading_level: 6
 ## Chapter 1. Position Overview 
 **Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropiate apron. 
 
-In the absence of the DLV Controller the GMC Controller will take on those roles and responsibilities.
+If the DLV and GMC-W controller is offline, **GMC-E** will act as a bandbox position and assume those responsibilities.
+
+---
+
+<p align="center">
+  <strong>1.1 - AREA OF RESPONSIBILITY</strong><br>
+</p>
+![Fail to load Image.](img/AOR.png)
 
 ----
 
