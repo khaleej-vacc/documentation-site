@@ -16,7 +16,7 @@ toc_max_heading_level: 6
 ----
 
 ## Chapter 1. Position Overview 
-**Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropiate apron. 
+**Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropriate apron. 
 
 If the DLV and GMC-W controller is offline, **GMC-E** will act as a bandbox position and assume those responsibilities.
 
@@ -36,7 +36,7 @@ The **GMC Controller** is responsible for providing departing aircraft with a pu
 
 Example:
 
-> **GMC Controller:** _**"KAC343, push and start approved facing south on on Taxiway W1, runway 33L."**_
+> **GMC Controller:** _**"KAC343, push and start approved facing south on Taxiway W1, runway 33L."**_
 
 Once the push back clearance has been issued the **GMC Controller** should ensure the Departure List is updated accordingly to provide all controllers with additional situational awareness. 
 
@@ -49,57 +49,29 @@ Example:
 
 > **GMC Controller:** _**"OMA647, behind the Jazeera Airbus A320 Neo passing from your right to left, push and start is approved facing south on Taxiway W17, runway 33L."**_
 
-#### 2.1.2 Simulataneous Pushback Operations
-**Simulataneous Pushback Operations** can be conducted at Kuwait. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
-If aircraft are on adjacent stands and both requesting push back and start it is best practice to have each aircraft push in opposite directions to ensure no ground collision will take place. 
+#### 2.1.2 Simultaneous Pushback Operations
+**Simultaneous Pushback Operations** can be conducted at Kuwait. The aim of this process is that once both aircraft have completed their pushback procedures, they will be in position on the active taxiway with at least one stand between them. 
+If aircraft are on adjacent stands and both requesting push back and start it is best practice having each aircraft push in opposite directions to ensure no ground collision will take place. 
 
 ### 2.2 Taxi Procedures 
 
+---
+
+<p align="center">
+  <strong>2.2.1 - 33 Config - Taxi Routes</strong><br>
+</p>
+![Fail to load Image.](img/TaxiRoutes.png)
+
+----
+
 #### 2.2.1 Departure Taxi Procedures 
-Once an aircraft has sucessfully completed their push back and start they will request taxi to the departing runway. It is the responsibility of the **GMC Controller** to provide that aircraft with a safe and efficent taxi instruction from the apron to the departure runway holding point. 
+Once an aircraft has successfully completed their push back and start they will request taxi to the departing runway. It is the responsibility of the **GMC Controller** to provide that aircraft with a safe and efficient taxi instruction from the apron to the departure runway holding point.
 
-#### 2.2.1.1 33L Departure Configuration
-Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY33L, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals. 
-
-- Aircraft taxiing from Terminal 4 will be instructed to taxi via W1 to holding point RWY33L. 
-- Aircraft taxiing from Terminal 1 or Terminal 5 will be instructed to taxi via the appropiate Apron Exit point onto W1 or W14 followed W1. 
-- Aircraft taxiing from anywhere East of Terminal 5 shall be instructed to taxi via the appropiate Apron Exit point onto E9, followed by W14 and to hold short of Taxiway W1, they can then be given further instructions approaching W1. 
-
-
-Example 1:
-> **GMC Controller:** _**"JZR263, taxi to holding point RWY33L via W17, W14, and W1, QNH 1013."**_
-
-Example 2:
-
-> **GMC Controller:** _**"JZR263, taxi via E10, E9, W14 hold short of taxiway W1, QNH 1013."**_ 
-
-Once approaching W1 and the traffic situation is clear
-
-> **GMC Controller:** _**"JZR263, continue taxi via W1 holding point RWY33L"**_ 
-
-
-#### 2.2.1.2 34 Departure Configuration
-Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY34, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals. 
-
-- Aircraft taxiing from Cargo City Aprons (1, 2 & 3) will be instructed to taxi to holding point V1, full length runway 34. 
-- It is essential GMC Controllers utilise the Apron exit points properly to ensure departure and arrival traffic do not occupy the same taxiway. 
-
-
-Example 1:
-> **GMC Controller:** _**"CLX5898, taxi to holding point V1, RWY34 via Q4, U7 and V1, QNH 1013."**_ 
-
-Example 2: 
-> **GMC Controller:** _**"CLX5898, taxi via Q1, Q, U, hold short of V, QNH 1013."**_ 
-
-Once approaching V and the traffic situation is clear
-
-> **GMC Controller:** _**"CLX5898, continue taxi via V holding point V1, RWY34"**_ 
-
-#### 2.2.1.3 15L Departure Configuration 
+#### 2.2.1.1 15L Departure Configuration 
 Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY15L, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals. 
 
 - Aircraft taxiing from Terminal 4 will be instructed to taxi via W1, W14 and E9 for holding point Loop 2. 
-- Aircraft taxiing from Terminal 1 or Terminal 5 will be instructed to taxi via the appropiate Apron Exit point onto W14 or E9 for holding Loop 2. 
+- Aircraft taxiing from Terminal 1 or Terminal 5 will be instructed to taxi via the appropriate Apron Exit point onto W14 or E9 for holding Loop 2. 
 - Aircraft taxiing from anywhere East of Terminal 5 shall be instructed to taxi via E1 for either holding point Loop 1 or Loop 2. 
 
 
@@ -109,11 +81,11 @@ Example 1:
 Example 2: 
 > **GMC Controller:** _**"KAC343, taxi to holding point Loop 2 RWY15L via W1, W14, and E9, QNH 1013."**_ 
 
-#### 2.2.1.4 15R Departure Configuration 
+#### 2.2.1.2 15R Departure Configuration 
 Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY15R, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals. 
 
 - Aircraft taxiing from Terminal 4 will be instructed to taxi via W1 for holding point RWY15R. 
-- Aircraft taxiing from Terminal 1 or Terminal 5 will be instructed to taxi via the appropiate Apron Exit point onto W14 or W1, then given to taxi via W1 for the holding point RWY15R. 
+- Aircraft taxiing from Terminal 1 or Terminal 5 will be instructed to taxi via the appropriate Apron Exit point onto W14 or W1, then given to taxi via W1 for the holding point RWY15R. 
 - Aircraft taxiing from anywhere East of Terminal 5 shall be instructed to taxi via E1, E9, W14 and to hold short of taxiway W1, once approaching W1 they can then be given further instructions to taxi to holding point RWY15R. 
 
 Example 1: 
@@ -126,7 +98,7 @@ Once approaching W1 and the traffic situation is clear
 
 > **GMC Controller:** _**"JZR263, continue taxi via W1 holding point RWY15R"**_ 
 
-#### 2.2.1.5 16 Departure Configuration 
+#### 2.2.1.3 16 Departure Configuration 
 
 Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY16, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals. 
 
@@ -170,45 +142,21 @@ There are no intersections departures available from RWY15L.
 | 34         | V4/V6                      |
 | 16         | V7/V5                      |
 
-#### 2.2.3.1 RWY33R Arrival Configuration
-Aircraft landing on RWY33R will be expected to vacate the runway at Loop 2, TWR will not immediately hand over the aircraft to the GMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to taxi onto taxiway 'E9' by the TWR Controller and then to contact the GMC Controller. It is vitally important that the GMC Controller ensures a stand has been allocated when the aircraft is on final approach so the TWR Controller can give the aircraft an initial taxi instruction.
 
-Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
-
-Example:
-
-> **GMC Controller:** _**"JZR166, Welcome to Kuwait, taxi via E9, W14, W19, W7, Stand 137."**_
-
-#### 2.2.3.2 RWY33L Arrival Configuration
-Aircraft landing on RWY33L will be expected to vacate the runway at W5, TWR will not immediately hand over the aircraft to the GMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially to be told taxi to right on taxiway W1 and hold short of either W14 or W8 by the TWR Controller and then contact the GMC Controller. It is vitally important that the GMC Controller ensures a stand has been allocated when the aircraft is on final approach so the TWR Controller can give the aircraft an initial taxi instruction. 
-
-Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
-
-Example:
-
-> **GMC Controller:** _**"JZR166, Welcome to Kuwait, taxi via W14, W17, Stand B1."**_
-
-#### 2.2.3.3 RWY15R Arrival Configuration 
+#### 2.2.3.1 RWY15R Arrival Configuration 
 Aircraft landing on RWY15R will be expected to vacate the runway at W2, TWR will not immediately hand over the aircraft to the GMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to turn left on W1 by the TWR Controller and then contact the GMC Controller. 
 
-Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
+Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficiently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
 
-#### 2.2.3.4 RWY15L Arrival Configuration 
+#### 2.2.3.2 RWY15L Arrival Configuration 
 Aircraft landing on RWY15L will be expected to vacate the runway at E2, TWR will not immediately hand over the aircraft to the GMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to turn right on E1 by the TWR Controller and then contact the GMC Controller. 
 
-Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
+Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of GMC to safely and efficiently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
 
-#### 2.2.3.5 RWY34 Arrival Configuration 
-
-Aircraft landing on RWY34 will be expected to vacate the runway at V6, TWR will not immediately hand over the aircraft to the GMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to turn left on V by the TWR Controller and then contact the appropriate GMC Controller. 
-
-Once the aircraft has been transferred to the appropriate GMC Controller by TWR it is then the responsibility of GMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
-
-#### 2.2.3.6 RWY16 Arrival Configuration
-
+#### 2.2.3.3 RWY16 Arrival Configuration
 Aircraft landing on RWY16 will be expected to vacate the runway at V5, TWR will not immediately hand over the aircraft to the GMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to turn left on V by the TWR Controller and then contact the appropriate GMC Controller. 
 
-Once the aircraft has been transferred to the appropriate GMC Controller by TWR it is then the responsibility of GMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
+Once the aircraft has been transferred to the appropriate GMC Controller by TWR it is then the responsibility of GMC to safely and efficiently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
 
 #### 2.2.4 Conditional Taxi Instructions 
 In some cases aircraft may require a **Conditional Taxi Instruction** in order to facilitate for other movements on the ground and to ensure the safe movement of aircraft. 
@@ -258,7 +206,7 @@ Departures are permitted under LVP conditions **only** where the RVR is not less
 | Western Apron (East)  | B1-B2 / 1-5       | Jazeera / All Other Airlines                        |
 | Western Apron (West)  | 21 - 139          | Jazeera / All Other Airlines                        |
 | Eastern Apron         | 40 - 46           | Jazeera                                             |
-| GA Apron              | G1 - G29B         | Buisness Jets                                       |
+| GA Apron              | G1 - G29B         | Business Jets                                       |
 | Cargo City            | 501 - 554         | DHX / QTR Cargo / Emirates Cargo / Cargolux / Atlas |
 | Cargo City (Military) | 533-580           | Military use                                        |
 | Terminal 4            | 63 - 79           | Kuwait Airways                                      |
