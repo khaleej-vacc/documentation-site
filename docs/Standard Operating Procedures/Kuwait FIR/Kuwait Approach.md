@@ -45,7 +45,7 @@ The **Kuwait Terminal Maneuvering Area (TMA)** is surrounded by Saudi Arabia to 
 <p style="text-align: left; font-style: italic;">
 Table 2.3.1. - Surrounding Airspace
 </p>
-![Kuwait Surrounding](img/SAIR.png)
+![Kuwait Surrounding](img/SAIR.png#center)
 
 ---
 
@@ -60,7 +60,7 @@ The **Kuwait Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of 
 |               **R08**              |     GND - FL150     |   Permanent  |
 |               **D04**              |     GND - 2000     |   Permanent  |
 
-![Kuwait Surrounding](img/REST.png)
+![Kuwait Surrounding](img/REST.png#center)
 
 ### 2.5 Area of Responsibility
 
@@ -75,7 +75,7 @@ The Kuwait TMA may be split into 2 sectors in times of increased activity.
 
 **Kuwait Director** is responsible for sequencing aircraft for the final approach. Kuwait's final approach sector spans across a 25nm radius from the KUA VOR from GND to 6000ft.
 
-![Kuwait Surrounding](img/FIN.png)
+![Kuwait Surrounding](img/FIN.png#center)
 
 ----
 
