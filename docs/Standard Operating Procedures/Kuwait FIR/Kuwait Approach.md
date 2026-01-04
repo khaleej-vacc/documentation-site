@@ -20,8 +20,8 @@ The airspace in the **Kuwait Terminal Maneuvering Area (TMA)** doesn't allow for
 
 |         Airspace Type         |   Airspace  | Class | Vertical Limits | Controller |
 |:-----------------------------:|:-----------:|:-----:|:---------------:|------------|
-|       **Control Area**        | Kuwait CTA  |   C   | SFC - 6000ft   |  OKKK_F_APP |
-|       **Control Area**        | Kuwait CTA  |   C   | SFC - FL150     |  OKKK_APP  |
+|       **Control Area**        | Kuwait CTA  |   C   | SFC - 6000ft    | OKKK_F_APP |
+|       **Control Area**        | Kuwait CTA  |   C   | SFC - FL150     | OKKK_APP   |
 
 ### 2.1 Transition Altitude and Level
 The transition altitude and level in Kuwait is consistent with the Gulf Region.
@@ -30,7 +30,7 @@ The transition altitude and level in Kuwait is consistent with the Gulf Region.
 |:-----------------------:|:--------------------:|
 |         13000ft         |         FL150        |
 
-The transition layer exists between these two altitudes and is not to be used by controllers or aircraft alike for level flight.
+The transition layer exists between these two altitudes and is **not to be used** by controllers or aircraft alike for level flight.
 
 ### 2.2 Aerodromes within the Terminal Maneuvering Area (TMA)
 The APP Controller is responsible for **Kuwait International Airport (OKKK)**, **Ali Al Salem Airbase (OKAS)** and **Ahmed Al Jaber Airbase (OKAJ)**
@@ -50,7 +50,7 @@ Table 2.3.1. - Surrounding Airspace
 ---
 
 ## 2.4 Restricted Airspace
-The **Kuwait Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of Airspace which must not be encroached at any time unless given approval by the APP Controller for operations in/out of **Ali Al Salem Airbase (OKAS)** and **Ahmed Al Jaber Airbase (OKAJ)**.
+The **Kuwait Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of Airspace which must not be encroached at any time, except for R01 which may be used for extra track miles during the 15 config in times of increased activity.
 
 | **Restricted Airspace Identifier** | **Vertical Limits** | **Validity** |
 |:----------------------------------:|:-------------------:|:------------:|
@@ -63,7 +63,6 @@ The **Kuwait Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of 
 ![Kuwait Surrounding](img/REST.png)
 
 ### 2.5 Area of Responsibility
-The **APP Controller** is responsible for the airspace surrounding Kuwait Airport by the arc of circle radius 40nm centered on the **BHR VHF Omnidirectional Range (VOR).**
 
 Kuwait Approach shall provide surveillance based radar control services to aircraft to which are:
 
@@ -71,6 +70,12 @@ Kuwait Approach shall provide surveillance based radar control services to aircr
 - Aircraft Transiting the Kuwait Terminal Maneuvering Area (TMA) until clear of vertical and/or lateral limits of the TMA.
 - Departing Aircraft from one of the aerodromes covered within the TMA until outside the vertical or lateral limits of the TMA and handed over to the next relevant controller.
 - Aircraft coming from uncontrolled airspace into the vertical and lateral limits of the Kuwait Terminal Maneuvering Area (TMA).
+
+The Kuwait TMA may be split into 2 sectors in times of increased activity.
+
+**Kuwait Director** is responsible for sequencing aircraft for the final approach. Kuwait's final approach sector spans across a 25nm radius from the KUA VOR from GND to 6000ft.
+
+![Kuwait Surrounding](img/FIN.png)
 
 ----
 
@@ -115,7 +120,7 @@ Upon initial contact with a departing aircraft after being handed over from the 
 If an aircraft does not report their passing altitude on initial contact it must be requested from the pilot in order to verify radar contact and cross-check that they are showing the correct altitude on radar.
 This can be within a 300ft +/- range of their reported passing altitude.
 
-> **APP Controller:** _**"GFA505, reporting your passing altitude."**_
+> **APP Controller:** _**"KAC505, reporting your passing altitude."**_
 
 Once you have confirmed their passing altitude against the altitude showing on radar you can confirm they're identified on radar and proceed to clear them as necessary.
 
@@ -161,7 +166,7 @@ All aircraft entering the **Kuwait Terminal Maneuvering Area (TMA)** should be s
 
 The **APP Controller** should always have a clear plan of action when controlling and keep things as uniform as possible, this will ensure a constant steady flow of arriving traffic whilst ensuring all traffic are safely separated.
 
-#### 3.2.3 Holding
+#### 3.2.3 Holdings
 If at any point the controller is unable to manage the traffic load within the **Kuwait Terminal Maneuvering Area (TMA)** it is their responsibility to place aircraft into the hold until traffic can once again be sequenced for an approach to the runway.
 
 Within the **Kuwait Terminal Maneuvering Area (TMA)** there are 6 published holding procedures, and they are as follows:
