@@ -23,7 +23,7 @@ toc_max_heading_level: 6
 <p align="center">
   <strong>1.1 - AREA OF RESPONSIBILITY</strong><br>
 </p>
-![Fail to load Image.](img/AOR.png)
+![Fail to load Image.](img/AOR.png#center)
 
 #### 1.1.1 Splitting Positions
 
@@ -60,7 +60,7 @@ If aircraft are on adjacent stands and both requesting push back and start it is
 
 #### 2.2.1 Northern Config
 
-![Fail to load Image.](img/TaxiRoutes.png)
+![Fail to load Image.](img/TaxiRoutes.png#center)
 
 #### 2.2.1.1 RWY33L Departure Configuration
 Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY33L, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals.
@@ -90,7 +90,7 @@ Once the aircraft has been transferred to the appropriate GMC Controller by TWR 
 
 #### 2.2.2 Southern Config
 
-![Fail to load Image.](img/TaxiRoutes16.png)
+![Fail to load Image.](img/TaxiRoutes16.png#center)
 
 #### 2.2.2.1 RWY15R Departure Configuration
 Aircraft will be taxied out from their respective apron at the most convenient point and taxied to the holding point for RWY15R, full length. It is imperative the **GMC Controller** has complete situational awareness when taxiing aircraft in Kuwait as there are multiple aprons and terminals.
