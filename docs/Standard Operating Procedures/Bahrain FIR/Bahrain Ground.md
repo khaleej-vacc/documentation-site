@@ -16,7 +16,7 @@ toc_max_heading_level: 6
 ----
 
 ## Chapter 1. Position Overview 
-**Bahrain Ground (SMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The SMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropiate apron. 
+**Bahrain Ground (SMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The SMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropriate apron. 
 
 In the absence of the DLV Controller the SMC Controller will take on those roles and responsibilities.
 
@@ -55,14 +55,14 @@ Example:
 
 > **SMC Controller:** _**"GFA250, behind the Emirates Airbus A350 taxiing from your right to left, Stand 22, push and start is approved facing west on Taxiway Zulu, QNH 1022."**_
 
-#### 2.1.2 Simulataneous Pushback Operations
-**Simulataneous Pushback Operations** can be conducted at Bahrain. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
-If aircraft are on adjacent stands and both requesting push back and start it is best practice to have each aircraft push in opposite directions to ensure no ground collision will take place. 
+#### 2.1.2 Simultaneous Pushback Operations
+**Simultaneous Pushback Operations** can be conducted at Bahrain. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
+If aircraft are on adjacent stands and both requesting push back and start it is best practice having each aircraft push in opposite directions to ensure no ground collision will take place. 
 
 ### 2.2 Taxi Procedures 
 
 #### 2.2.1 Departure Taxi Procedures 
-Once an aircraft has sucessfully completed their push back and start they will request taxi to the departing runway. It is the responsibility of the **SMC Controller** to provide that aircraft with a safe and efficent taxi instruction from the apron to the departure runway holding point. 
+Once an aircraft has successfully completed their push back and start they will request taxi to the departing runway. It is the responsibility of the **SMC Controller** to provide that aircraft with a safe and efficient taxi instruction from the apron to the departure runway holding point. 
 
 ##### 2.2.1.1 RWY30R Departure Configuration
 Aircraft will be taxied out from their respective apron at the most convenient point to enter taxiway 'A' to depart full length from holding point A9 for RWY30R. If requested by the pilot and traffic permitting intersection departures can be offered to reduce taxi times.
@@ -80,7 +80,7 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 > **SMC Controller:** _**"GFA500, taxi to holding point A1 runway 12L, via Zulu, Tango and Alpha."**_
 
 ### 2.2.2 Intersection Departures
-Intersection Departures can be utilised when the pilot requests it specifically. The SMC Controller is not allowed to to instruct an intersection departure to a pilot without it being requested. 
+Intersection Departures can be utilised when the pilot requests it specifically. The SMC Controller is not allowed to instruct an intersection departure to a pilot without it being requested. 
 
 | **Runway** | **Intersections** |
 |:----------:|:----------------:|
@@ -88,16 +88,16 @@ Intersection Departures can be utilised when the pilot requests it specifically.
 |     12L    |      A2, A3      |
 
 ### 2.2.3 Northside Aprons 
-Aircraft parked on either the Northern Apron or the Texel Apron on the North Side of the airport will be expected to be taxiied to B1 or B2, then transferred to the TWR controller for runway crossing. 
-Once they have succesfully been taxiied from the North Side to the South Side and crossed the active runway they will be handed back to the SMC Controller to be taxiied to the active runway for departure.
+Aircraft parked on either the Northern Apron or the Texel Apron on the North Side of the airport will be expected to be taxied to B1 or B2, then transferred to the TWR controller for runway crossing. 
+Once they have successfully been taxied from the North Side to the South Side and crossed the active runway they will be handed back to the SMC Controller to be taxied to the active runway for departure.
 
 > **SMC Controller:** _**"CNV1222, taxi to holding point B2 RWY30R for crossing."**_
 
-Once the aircraft has reached the designated holding point for runway crossing they will be handed over to the **TWR Controller** who will then slot them in appropiately to cross the runway
+Once the aircraft has reached the designated holding point for runway crossing they will be handed over to the **TWR Controller** who will then slot them in appropriately to cross the runway
 
 > **SMC Controller:** _**"CNV1222, contact Bahrain Tower 118.500 for crossing."**_
 
-Once the **TWR Controller** has sucessfully got the aircraft across the active runway they will be handed back to the **SMC Controller** who will then taxi them to the appropiate runway holding point.
+Once the **TWR Controller** has successfully got the aircraft across the active runway they will be handed back to the **SMC Controller** who will then taxi them to the appropriate runway holding point.
 
 ### 2.2.4 Arrival Taxi Procedures 
 
@@ -109,7 +109,7 @@ Once the **TWR Controller** has sucessfully got the aircraft across the active r
 #### 2.2.4.1 RWY30R Arrival Configuration
 Aircraft landing on RWY30R will be expected to vacate the runway at A4, TWR will not immediately hand over the aircraft to the SMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to taxi onto taxiway 'A' by the TWR Controller and then to contact the SMC Controller. It is vitally important that the SMC Controller ensures a stand has been allocated when the aircraft is on final approach so the TWR can see whether the inbound aircraft shall vacate the runway and turn right or left onto taxiway 'A'. 
 
-Once the aircraft has been transferred to the SMC Controller by TWR it is then the responsibility of the SMC Controller to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
+Once the aircraft has been transferred to the SMC Controller by TWR it is then the responsibility of the SMC Controller to safely and efficiently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
 
 !!!node "Not Approved"
 
@@ -120,7 +120,7 @@ Once the aircraft has been transferred to the SMC Controller by TWR it is then t
 #### 2.2.4.2 RWY12L Arrival Configuration
 Aircraft landing on RWY12L will be expected to vacate the runway at A6, TWR will not immediately hand over the aircraft to the SMC Controller to prevent aircraft holding after vacating and potentially blocking the preferential exit point further leading to the runway being obstructed. Aircraft will initially be told to taxi onto taxiway 'A' by the TWR Controller and then to contact the SMC Controller. It is vitally important that the SMC Controller ensures a stand has been allocated when the aircraft is on final approach so the TWR can see whether the inbound aircraft shall vacate the runway and turn right or left onto taxiway 'A'. 
 
-Once the aircraft has been transferred to the SMC Controller by TWR it is then the responsibility of SMC to safely and efficently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
+Once the aircraft has been transferred to the SMC Controller by TWR it is then the responsibility of SMC to safely and efficiently move the aircraft from the taxiway to his assigned stand taken into consideration the situation on the ground.
 
 !!!node "Not Approved"
 
@@ -162,10 +162,10 @@ During LVPs, aircraft arriving on RWY12L may only exit the RWY to the South of t
 |:-----------------:|:-----------------:|:---------------------------------:|
 | Western Apron (A) |      61A - 63     | Non Renevue / Maintenance Flights |
 | Western Apron (B) |      50 - 58      |    DHX / TXL / DHK (B767) / BCS   |
-|  Executive Apron  |      E1 - E4      |           Buisness Jets           |
+|  Executive Apron  |      E1 - E4      |           Business Jets           |
 |    Cargo Apron    |      C1 - C5      |       DHX / DHK / BOX / BCS       |
 |    Middle Apron   |       1 - 6       |    DHK / BOX / General Aviation   |
-|   Main Apron (A)  |       1 - 14      |      All Commerical Airlines      |
+|   Main Apron (A)  |       1 - 14      |      All Commercial Airlines      |
 |   Main Apron (B)  |      15 - 24      |      All Commercial Airlines      |
 |   Main Apron (C)  |      25 - 28      |      All Commercial Airlines      |
 |   Northern Apron  |      70 - 75      |      US Air Force / RAF / TXL     |
