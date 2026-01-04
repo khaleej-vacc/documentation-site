@@ -66,7 +66,7 @@ Once the pilot has correctly read back the clearance, if the pilot did not provi
 
 > **GMP Controller:** _**"JZR101, read back is correct, Information Alpha is current, report fully ready for push and start."**_
 
-When the aircraft has reported ready for push and start they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and is squawking his assigned transpoder code.** 
+When the aircraft has reported ready for push and start they will be transferred to the GMC Controller, and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and is squawking his assigned transpoder code.** 
 
 > **GMP Controller:** **JZR101, hold position, contact Kuwait Ground 121.700.**
 
@@ -80,15 +80,15 @@ If routes are not filed correctly you must inform the pilot that they have filed
 
 If a pilot calls on frequency before you have the chance to send the **private message** please advise the pilot on frequency to expect a route change via **private message**.
 
-You can use tools such as SimBrief to provide pilots with valid routings. **Khaleej vACC** actively ensures routes are updated in SimBrief for pilots to use. 
+You can use tools such as SimBrief to provide pilots with valid routes. **VATMENA** actively ensures routes are updated in SimBrief for pilots to use. 
 
 ### 2.1.3 Filed Flight Levels 
-**Kuwait Delivery (GMP)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If Pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
+**Kuwait Delivery (GMP)** must ensure pilots are filing correct flight levels in accordance with their filed routes. If Pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
 
 Kuwait utilises the Semi-Circular Rule. Flights flying Westbound should file **Even** levels and flights flying Eastbound should file **Odd** levels. 
 
 #### 2.1.4 Flight Level Capping 
-Multiple destinations across the Gulf Region have level capped routings due to operational reasons. The GMP Controller shall ensure adherence to the below table, it is the responsibility of the GMP Controller to ensure aircraft have filed a correct level in the their flight plan prior to issuing a clearance. If an incorrect level has been filed the GMP Controller shall inform the pilot that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routings. 
+Multiple destinations across the Gulf Region have level capped routes due to operational reasons. The GMP Controller shall ensure adherence to the below table, it is the responsibility of the GMP Controller to ensure aircraft have filed a correct level in their flight plan prior to issuing a clearance. If an incorrect level has been filed the GMP Controller shall inform the pilot that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routes. 
 
 | **Destination** | **Max Altitude / Flight Level** |
 |:---------------:|:-------------------------------:|
@@ -100,11 +100,11 @@ Multiple destinations across the Gulf Region have level capped routings due to o
 ### 2.1.5 Flow Restrictions
 
 #### 2.1.5.1 Target Off Block Time (TOBT)
-When A-CDM procedures are active (typically during busy events), pilots must report their confirmed TOBT on vacdm.vatsim.me, which is then displayed in the controllers client on the departure list. A fully green time indicates a confirmed TOBT. If a pilot has not confirmed their TOBT, the controller should request it on frequency and update the departure list accordingly.
+When A-CDM procedures are active (typically during busy events), pilots must report their confirmed TOBT on vacdm.vatsim.me, which is then displayed in the controller's client on the departure list. A fully green time indicates a confirmed TOBT. If a pilot has not confirmed their TOBT, the controller should request it on frequency and update the departure list accordingly.
 
 The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
 
-Please note TOBTs are only issued during certain events, this will outlined to via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event.
+Please note TOBTs are only issued during certain events, this will be outlined via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event.
 
 ### 2.2 Departure Procedures
 In Kuwait all departures should be cleared via a **Standard Instrument Departure (SID)** which is selected based on the first waypoint in their filed Flight Plan (FPL). 
@@ -166,10 +166,10 @@ All **Standard Instrument Departures (SIDs)** in Kuwait are RNAV (Area Navigatio
 GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, GMP must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the GMP Controller to pass to the pilot. 
 
 #### 2.3.1 VFR Circuits
-Once **Kuwait Delivery (GMP)** has recieved confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
+Once **Kuwait Delivery (GMP)** has received confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
 
 !!!node "Act Promptly"
-    When you see a pilot file a VFR FPL ensure you act promptly and efficently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
+    When you see a pilot file a VFR FPL ensure you act promptly and efficiently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
 
 | **Runway Configuration** | **Direction** | **Altitude** |
 |--------------------------|---------------|--------------|
@@ -194,7 +194,7 @@ The GMP Controller **must** obtain a full and correct read back of the departure
 > **GMP Controller:** _**"9K-VFR, Negative. Cleared right hand visual circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
 
 !!!node "Be Paitent and Assist"
-    If you are required to challenge a pilot for a correct readback, readback it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
+    If you are required to challenge a pilot for a correct readback, read it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS Letter, the GMP Controller will provide this to the pilot once read back has been provided. 
 
@@ -225,7 +225,7 @@ The GMP Controller **must** obtain a full and correct read back of the departure
 
 > **GMP Controller:** _**"9-FR, Read Back is correct, Information Alpha is current."**_
 
-When the aircraft reports ready for engine start up they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.**
+When the aircraft reports ready for engine start up they will be transferred to the GMC Controller, and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter and Local QNH.**
 
 ### 2.4 Departure List Management 
 The **GMP Controller** is responsible for ensuring the departure list is correct and maintained prior to handing aircraft off to the GMC Controller. This includes ensuring filed routings are correct, Standard Instrument Departures (SIDs) have been assigned, initial altitudes has been set correctly and a squawk code has been assigned. 
