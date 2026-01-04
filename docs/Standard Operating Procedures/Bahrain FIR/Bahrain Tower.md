@@ -30,7 +30,7 @@ Below you can find a top down view of the **Bahrain Control Zone**.
 ---
 
 
-![Bahrain CTR](img/OBBICTR.png)
+![Bahrain CTR](img/OBBICTR.png#center)
 
 ---
 
