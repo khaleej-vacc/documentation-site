@@ -91,7 +91,7 @@ Intersection Departures can be utilised when the pilot requests it specifically.
 Aircraft parked on either the Northern Apron or the Texel Apron on the North Side of the airport will be expected to be taxiied to B1 or B2, then transferred to the TWR controller for runway crossing. 
 Once they have succesfully been taxiied from the North Side to the South Side and crossed the active runway they will be handed back to the SMC Controller to be taxiied to the active runway for departure.
 
-> **SMC Controller:** _**"CNV1222, taxi to holding point B2 RWY30R via B for crossing."**_
+> **SMC Controller:** _**"CNV1222, taxi to holding point B2 RWY30R for crossing."**_
 
 Once the aircraft has reached the designated holding point for runway crossing they will be handed over to the **TWR Controller** who will then slot them in appropiately to cross the runway
 
