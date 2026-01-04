@@ -45,13 +45,13 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **GMP Controller:** _**"GFA178, cleared to Dubai via the N697 Airway to SODAK, after departure fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
+> **GMP Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
 
 The GMP Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **GMP Controller:** _**"GFA178, Negative. Cleared to Dubai via the N697 Airway to SODAK, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
+> **GMP Controller:** _**"GFA178, Negative. Cleared to Dubai via the N697 SODAK P559 NALPO, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
 
 !!!node "Be Paitent and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
@@ -70,7 +70,18 @@ The BHR VOR is located on the approach path to RWY30R prior to the threshold, th
 
 So an aircraft with the following route string **BHR A453 DAVUS** would be cleared to their destination via the A453 Airway to DAVUS. 
 
-To prevent the aircraft after departure immediately turning for the BHR VOR they are provided with the initial heading to fly which will then allow the Approach Controller to safely and efficently to manage them onto the appropiate airway. 
+To prevent the aircraft after departure immediately turning for the BHR VOR they are provided with the initial heading to fly which will then allow the Approach Controller to safely and efficently to manage them onto the appropiate airway.
+
+| **Valid  FIR Exit Routings** |        **Notes**       |
+|:----------------------------:|:----------------------:|
+|          N697 TORBO/SODAK    |                        |
+|          B457 NARMI          | Outbounds to OEJD FIR. |
+|          N318 LUBET          | Outbounds to OTDF FIR. |
+|          M444 DAVUS          |                        |
+|          A453 KUMBO          |                        |
+|          N572 DASUT          |                        |
+|          L319 OBTAR          |                        |
+|          P700 ROTOX          |                        |
 
 ### 2.1.2 Datalink Clearances (DCL)
 Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the GMP Controller. This service can only be provided to pilots whom's aircraft has sufficent systems installed such as ACARS to send and receive text messages from a controlling unit. 
@@ -82,7 +93,7 @@ If routes are not filed correctly you must inform the pilot that they have filed
 
 If a pilot calls on frequency before you have the chance to send the **private message** please advise the pilot on frequency to expect a route change via **private message**.
 
-You can use tools such as SimBrief to provide pilots with valid routings. **Khaleej vACC** actively ensures routes are updated in SimBrief for pilots to use. 
+You can use tools such as SimBrief to provide pilots with valid routings. **** actively ensures routes are updated in SimBrief for pilots to use. 
 
 ### 2.1.4 Filed Flight Levels 
 **Bahrain Delivery (GMP)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
