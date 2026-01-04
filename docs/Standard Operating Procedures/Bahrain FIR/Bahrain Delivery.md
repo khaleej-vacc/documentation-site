@@ -53,7 +53,7 @@ The GMP Controller **must** obtain a full and correct read back of the departure
 
 > **GMP Controller:** _**"GFA178, Negative. Cleared to Dubai via the N697 SODAK P559 NALPO, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
 
-!!!node "Be Paitent and Assist"
+!!!node "Be patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the GMP Controller will provide this to the pilot once read back has been provided. 
@@ -63,14 +63,14 @@ Once the pilot has correctly read back the clearance, if the pilot did not provi
 When the aircraft has reported ready for push and start they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter.** 
 
 ### 2.1.1 Airway Clearances
-Due to the lack of Standard Instrument Departures out of Bahrain all aircraft should provided with an airway clearance followed by an initial heading to fly after departure. 
+Due to the lack of Standard Instrument Departures out of Bahrain all aircraft should be provided with an airway clearance followed by an initial heading to fly after departure. 
 The initial heading that the aircraft is given is based on their direction of flight (see Section 2.2 Departure Procedures) however the initial heading is to take them in the direction of the airway they have filed from the **BHR VHF Omnidirectional Range (VOR)**. 
 
 The BHR VOR is located on the approach path to RWY30R prior to the threshold, this VOR has multiple airways associated to it, pilots will typically file a flightplan (FPL) which starts at BHR then an airway to take them into en-route environment. 
 
 So an aircraft with the following route string **BHR A453 DAVUS** would be cleared to their destination via the A453 Airway to DAVUS. 
 
-To prevent the aircraft after departure immediately turning for the BHR VOR they are provided with the initial heading to fly which will then allow the Approach Controller to safely and efficently to manage them onto the appropiate airway.
+To prevent the aircraft after departure immediately turning for the BHR VOR they are provided with the initial heading to fly which will then allow the Approach Controller to safely and efficiently to manage them onto the appropriate airway.
 
 | **Valid  FIR Exit Routings** |        **Notes**       |
 |:----------------------------:|:----------------------:|
@@ -84,7 +84,7 @@ To prevent the aircraft after departure immediately turning for the BHR VOR they
 |          P700 ROTOX          |                        |
 
 ### 2.1.2 Datalink Clearances (DCL)
-Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the GMP Controller. This service can only be provided to pilots whom's aircraft has sufficent systems installed such as ACARS to send and receive text messages from a controlling unit. 
+Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the GMP Controller. This service can only be provided to pilot who's aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
 It is a requirement of the GMP Controller to ensure datalink is available at all times.
 
 ### 2.1.3 Incorrect Filed Flight Plans
@@ -117,7 +117,7 @@ When A-CDM procedures are active (typically during busy events), pilots must rep
 
 The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
 
-Please note TOBTs are only issued during certain events, this will outlined to via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event. You are required to tell the appropriate member of staff if you're not familiar with A-CDM procedures. 
+Please note TOBTs are only issued during certain events, this will be outlined via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event. You are required to tell the appropriate member of staff if you're not familiar with A-CDM procedures. 
 
 ### 2.2 Departure Procedures
 Bahrain does not have any published Standard Instrument Departures (SIDs). Instead, Delivery will assign an initial heading to departing aircraft. 
@@ -142,7 +142,7 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
 - VFR aircraft are assigned discrete, or specific, four-digit squawk codes to allow for positive identification on radar, especially when flying through controlled airspace.
 
 #### 2.3.1 VFR Departures
-VFR Departures VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Manevuering Area (TMA)**. There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination.
+VFR Departures VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Maneuvering Area (TMA)**. There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination.
 
 #### 2.3.2 VFR Clearances
 GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, GMP must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the GMP Controller to pass to the pilot. 
@@ -151,7 +151,7 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 Once **Bahrain Delivery (GMP)** has recieved confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
 
 !!!node "Act Promptly"
-    When you see a pilot file a VFR FPL ensure you act promptly and efficently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
+    When you see a pilot file a VFR FPL ensure you act promptly and efficiently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
 
 | **Runway Configuration** | **Direction** | **Altitude** |
 |:------------------------:|:-------------:|:------------:|
