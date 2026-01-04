@@ -18,7 +18,7 @@ toc_max_heading_level: 6
 <p align="center">
   <strong>SECTOR DIAGRAM</strong><br>
 </p>
-![Bahrain RDR](img/BahrainRDR.png)
+![Bahrain RDR](img/BahrainRDR.png#center)
 
 | **Position** | **Sector** | **Frequency** |
 |--------------|-------------------|-------------------------|
@@ -37,7 +37,7 @@ toc_max_heading_level: 6
 
 **Bahrain ACC**
 
-![Bahrain AIR](img/BahrainAIR.png)
+![Bahrain AIR](img/BahrainAIR.png#center)
 
 ## Initial Descents 
 
