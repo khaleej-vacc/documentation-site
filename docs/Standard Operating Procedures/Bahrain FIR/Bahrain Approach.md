@@ -16,7 +16,7 @@ toc_max_heading_level: 6
 ----
 
 ## Chapter 1. Position Overview 
-**Bahrain Approach (APP)** is responsible for providing approach radar control services to aircraft departing, arriving or transiting the **Bahrain Terminal Maneuvering Area (TMA)**. It is also the responsibility of the approach controller to ensure aircraft are separated in accordance with the Standard Operating Procedures outlined in this document, ensure a safe and efficent flow of traffic in and out of the airports covered within the TMA.
+**Bahrain Approach (APP)** is responsible for providing approach radar control services to aircraft departing, arriving or transiting the **Bahrain Terminal Maneuvering Area (TMA)**. It is also the responsibility of the approach controller to ensure aircraft are separated in accordance with the Standard Operating Procedures outlined in this document, ensure a safe and efficient flow of traffic in and out of the airports covered within the TMA.
 
 **Bahrain Approach (APP)** shall provide surveillance based radar services to all aircraft operating within it's vertical and lateral boundaries to ensure safe separation between aircraft is maintained at all times.
 
@@ -25,7 +25,7 @@ toc_max_heading_level: 6
 ## Chapter 2. Airspace
 The **Bahrain Terminal Maneuvering Area (TMA)** has a vertical extension up to FL170 and split across 3 different classes at various levels. The Approach Controller is responsible for understanding the differences between these Classes of Airspace. 
 
-The airspace in the **Bahrain Terminal Maneuvering Area (TMA)** doesn't allow for alot of maneuverability due to it's geographical location and multiple surrounding country borders so aircraft need to be carefully managed in order to ensure safe seperation between arrivals and departures. 
+The airspace in the **Bahrain Terminal Maneuvering Area (TMA)** doesn't allow for alot of maneuverability due to its geographical location and multiple surrounding country borders so aircraft need to be carefully managed in order to ensure safe separation between arrivals and departures. 
 
 |     **Airspace Type**     | **Airspace** | **Class** | **Vertical Limits** | **Controller** |
 |:-------------------------:|:------------:|:---------:|:-------------------:|:--------------:|
@@ -52,14 +52,14 @@ The transition altitude and level in Bahrain is consistent with the Gulf Region.
 The transition layer exists between these two altitudes and is not to be used by controllers or aircraft alike for level flight.
 
 ### 2.2 Aerodromes within the Terminal Maneuvering Area (TMA)
-The APP Controller is responsbile for **Bahrain International Airport (OBBI)**, **Isa Airbase (OBBS)** and **Sakhir Airbase (OBKH)**
+The APP Controller is responsible for **Bahrain International Airport (OBBI)**, **Isa Airbase (OBBS)** and **Sakhir Airbase (OBKH)**
 
 Both Isa and Sakhir Airbase are military airfields to which we do not provide ATC services for on the ground. 
 
 ---
 
 ### 2.3 Surrounding Airspace 
-The **Bahrain Terminal Maneuvering Area (TMA)** is surrounded by both Saudi Arabia to the West and Qatar to the South. As APP Controller in Bahrain you have to work closely with the adjacent controlling units to ensure safe and efficent operations within the TMA. 
+The **Bahrain Terminal Maneuvering Area (TMA)** is surrounded by both Saudi Arabia to the West and Qatar to the South. As APP Controller in Bahrain you have to work closely with the adjacent controlling units to ensure safe and efficient operations within the TMA. 
 
 <p style="text-align: left; font-style: italic;">
 Table 2.3.1. - Surrounding Airspace
@@ -86,7 +86,7 @@ Bahrain Approach shall provide surveillance based radar control services to airc
 
 - Released from the ACC Controller descending into the vertical and lateral limits of the Bahrain Terminal Maneuvering Area (TMA). 
 - Aircraft Transiting the Bahrain Terminal Maneuvering Area (TMA) until clear of vertical and/or lateral limits of the TMA. 
-- Departing Aircraft from one of the aerdromes covered within the TMA until outside of the vertical or lateral limits of the TMA and handed over to the next relevant controller.
+- Departing Aircraft from one of the aerodromes covered within the TMA until outside the vertical or lateral limits of the TMA and handed over to the next relevant controller.
 - Aircraft coming from uncontrolled airspace into the vertical and lateral limits of the Bahrain Terminal Maneuvering Area (TMA).
 
 ----
@@ -120,7 +120,7 @@ The following **Wake Turbulence Separation (WTS)** shall be applied to aircraft 
 |        Medium (M)       |            |          A380          |              7nm              |
 |        Light (L)        |            |          A380          |              8nm              |
 
-The 5nm longitudinal separation requirements within the TMA **overides any wake turbulence seperation minima which is lower than the minimum longitudinal seperation requirements.** 
+The 5nm longitudinal separation requirements within the TMA **overrides any wake turbulence separation minima which is lower than the minimum longitudinal separation requirements.** 
 
 ### 3.2 Departure Procedures 
 **Bahrain Approach (APP)** is responsible for ensuring all aircraft departing the **Bahrain Terminal Maneuvering Area (TMA)** are safely separated vertically and/or laterally before being handed off to the next controller. All aircraft must be cleared onto their filed airway before being handed off to the next controller. 
@@ -132,12 +132,12 @@ Upon initial contact with a departing aircraft after being handed over from the 
 - Heading 
 - Passing Altitude 
 
-If an aircraft does not report their passing altitude on initial contact it must be requested from the pilot in order to verify radar contact and cross check that they are showing the correct altitude on radar. 
+If an aircraft does not report their passing altitude on initial contact it must be requested from the pilot in order to verify radar contact and cross-check that they are showing the correct altitude on radar. 
 This can be within a 300ft +/- range of their reported passing altitude. 
 
 > **APP Controller:** _**"GFA505, Reporting your passing altitude"**_
 
-Once you have confirmed their passing altitude against the altitude showing on radar you can confirm they're identifed on radar and proceed to clear them as necessary.
+Once you have confirmed their passing altitude against the altitude showing on radar you can confirm they're identified on radar and proceed to clear them as necessary.
 
 > **APP Controller:** _**"GFA505, Identified passing altitude 1500ft, continue climb FL170, resume own navigation direct MEDMA"**_
 
@@ -159,12 +159,12 @@ Various flights have climb restrictions due to various operational factors. Thes
 The **Approach Controller** should climb aircraft as per the above table ensuring vertical and lateral separation is maintained between all aircraft operating within the **Bahrain Terminal Maneuvering Area (TMA)**.
 
 #### 3.2.3 Transitioning Aircraft to the Airways 
-Due to the lack of **Standard Instrument Departures (SIDs)** out of Bahrain or any of the aerodromes that fall under the responsibility of the Approach Controller is essential the controller has a full understanding of the airspace structure that is within his area of responsibility. 
+Due to the lack of **Standard Instrument Departures (SIDs)** out of Bahrain or any of the aerodromes that fall under the responsibility of the Approach Controller is essentially the controller has a full understanding of the airspace structure that is within his area of responsibility. 
 
-The Controller must succesfully transition and guide aircraft from the narrow confinements of the **Terminal Maneuvering Area (TMA)** in a controlled and separated manner onto their filed flight plan route before being handed off to the next controller. 
+The Controller must successfully transition and guide aircraft from the narrow confinements of the **Terminal Maneuvering Area (TMA)** in a controlled and separated manner onto their filed flight plan route before being handed off to the next controller. 
 Approach Controllers should always have a plan of action before aircraft come into their airspace and understand their order of sequence at all times in order to avoid a loss of separation. 
 
-Aircraft will initially come to the Approach Controller on one of the initial headings assigned from the DLV Controller, the **APP Controller** will either provide the aircraft with additional vectors towards the aircrafts planned airway or provide them with a direct to a fix to join the airway system into the en route environment.
+Aircraft will initially come to the Approach Controller on one of the initial headings assigned from the DLV Controller, the **APP Controller** will either provide the aircraft with additional vectors towards the aircraft planned airway or provide them with a direct to a fix to join the airway system into the en route environment.
 
 Aircraft that are flying on an assigned heading vs aircraft that are flying on their filed routing are delivered instructions differently. 
 
@@ -180,7 +180,7 @@ Aircraft that are flying on an assigned heading vs aircraft that are flying on t
 Due to the location of Bahrain and direction of some flights not all aircraft will be handed off to the en-route controller as they will not enter their airspace. 
 Some flights will be handed off to adjacent approach units or en-route positions. 
 
-The **Approach Controller** should be aware of which controller an aircraft needs handed over to based on the lateral and vertical confinements of his airspace and the adjacent unit.
+The **Approach Controller** should be aware of which controller an aircraft needs to be handed over to based on the lateral and vertical confinements of his airspace and the adjacent unit.
 
 | **Radio Callsign** | **Logon Callsign** | **Abbreviation** | **Frequency** |
 |:------------------:|:------------------:|:----------------:|:-------------:|
@@ -200,7 +200,7 @@ All aircraft shall be sequenced within the limitations listed within Section 3.1
 #### 3.2.1 Standard Terminal Arrival Routes (STAR) 
 Bahrain offers 3 different **Standard Terminal Arrival Routes (STAR)** which are to be assigned to aircraft entering the **Bahrain Terminal Maneuvering Area (TMA)** these will either be assigned by the En-Route Controller however in the absence of an En-Route Controller these should be assigned by the Approach Controller on initial contact with the pilot. 
 
-**Standard Terminal Arrival Routes (STAR)** are assigned based on the arrival routing of the aircraft, typically the last waypoint in an aircrafts Flight Plan (FPL) will be the first waypoint of the **Standard Terminal Arrival Route (STAR)**. 
+**Standard Terminal Arrival Routes (STAR)** are assigned based on the arrival routing of the aircraft, typically the last waypoint in an aircraft's Flight Plan (FPL) will be the first waypoint of the **Standard Terminal Arrival Route (STAR)**. 
 
 For example an aircraft arriving from the North will typically have **KOBOK** as the last waypoint in their Flight Plan (FPL), this aircraft would then be assigned the **KOBOK1** arrival. 
 
@@ -208,7 +208,7 @@ For example an aircraft arriving from the North will typically have **KOBOK** as
 
 All **Standard Terminal Arrival Routes (STAR)** arriving into Bahrain are RNAV (Area Navigation) which require an aircraft to be equipped with specific onboard equipment in order to be able to follow the arrival routing to a certain degree of accuracy. All RNAV Arrivals into the Bahrain are RNAV1 which means aircraft must be able to maintain a total system error of no more than 1 nautical mile (NM) for 95% of the flight time. 
 
-If an aircraft is not equipped with sufficent equipment required to fly an RNAV1 arrival or are experiencing GPS Jamming/Spoofing they must inform the **Approach Controller** that they are unable to fly the assigned STAR they should then be issued vectors for the arrival and the **Standard Terminal Arrival Route (STAR)** cancelled.
+If an aircraft is not equipped with sufficient equipment required to fly an RNAV1 arrival or are experiencing GPS Jamming/Spoofing they must inform the **Approach Controller** that they are unable to fly the assigned STAR they should then be issued vectors for the arrival and the **Standard Terminal Arrival Route (STAR)** cancelled.
 
 #### 3.2.1.1 KOBOK ONE RNAV ARRIVAL (KOBOK1)
 This **Standard Terminal Arrival Route (STAR)** is designed to bring aircraft arriving from the North West into the **Terminal Maneuvering Area (TMA)** and is suitable for both RWY12L/30R. Aircraft will be expected to maintain altitude until cleared for the approach. As stated in Section 3.2.1 it is the responsibility of the Approach Controller to ensure traffic is managed effectively on all Standard Terminal Arrival Routings (STAR). 
@@ -256,7 +256,7 @@ Once the aircraft reaches NAGAT or ALRAS they should be assigned either a headin
     It is the responsibility of the Approach Controller to have a complete and full understanding of all the Standard Terminal Arrival Routes (STAR) into Bahrain and know the limitations of each. 
 
 #### 3.2.2 Initial Contact 
-Aircraft arriving into the **Bahrain Terminal Maneuvering Area (TMA)** are to be provided with a set of instructions which will allow the aircraft to fly an assigned routing, descend in a manner which will keep them separated from other traffic and under a controlled speed to ensure traffic is sequenced into the TMA efficently. 
+Aircraft arriving into the **Bahrain Terminal Maneuvering Area (TMA)** are to be provided with a set of instructions which will allow the aircraft to fly an assigned routing, descend in a manner which will keep them separated from other traffic and under a controlled speed to ensure traffic is sequenced into the TMA efficiently. 
 
 Upon initial contact the **Approach Controller** should provide a pilot with the following information in the event the **ACC Controller** above them is not online: 
 
@@ -303,7 +303,7 @@ Aircraft will have published holds within their aircrafts AIRAC cycle uploaded i
 
 > **APP Controller:** _**"GFA164, enter the hold at OBSAS, inbound holding course 207°, descend altitude 8000ft, speed 230kts, right hand turns, you can expect 10 minute delay"**_
 
-When the situation within the **Bahrain Terminal Maneuvering Area (TMA)** has become managed and you can now accept aircraft for final approach you wil have to sequence aircraft appropiately from the hold. 
+When the situation within the **Bahrain Terminal Maneuvering Area (TMA)** has become managed and you can now accept aircraft for final approach you wil have to sequence aircraft appropriately from the hold. 
 If the aircraft is still on his **Standard Terminal Arrival Route (STAR)** you can issue him with a standard clearance. 
 
 > **APP Controller:** _**GFA164, on completion of this pattern, cancel the hold, descend altitude 4000ft via the STAR, speed 210kts"**_ 
@@ -313,9 +313,9 @@ If the controller deems it necessary they can cancel the hold by issuing radar v
 > **APP Controller:** _**GFA164, cancel the hold, turn right heading 120°, descend altitude 4000ft, speed 210kts"**_
 
 #### 3.2.4.1 Holding Altitudes  
-If placing aircraft in the hold they must always as per Section 3.1 remain vertically separated by 1000ft. When placing multiple aircraft into the same holding pattern they can not all hold at the same altitude so the **APP Controller** is responsible for ensuring each aircraft has it's own block altitude within the holding pattern. 
+If placing aircraft in the hold they must always as per Section 3.1 remain vertically separated by 1000ft. When placing multiple aircraft into the same holding pattern they can not all hold at the same altitude so the **APP Controller** is responsible for ensuring each aircraft has its own block altitude within the holding pattern. 
 
-For instance, the 1st aircraft would enter the hold at 8000ft, 2nd aircraft would enter the hold at 9000ft, 3rd aircraft would enter the hold at 10000ft and so and so forth. 
+For instance, the 1st aircraft would enter the hold at 8000ft, 2nd aircraft would enter the hold at 9000ft, 3rd aircraft would enter the hold at 10000ft and so-and-so forth. 
 
 When the requirement for the hold is no longer required, the aircraft at the bottom of the hold will be given instruction to exit first whether that be by radar vectors or to carry on with the published **Standard Terminal Arrival (STAR)**, this will then allow the 2nd aircraft within the holding pattern to descend to the block altitude within the holding pattern that the previous aircraft held. 
 
@@ -385,7 +385,7 @@ Once the aircraft reaches the specified distance on the outbound radial they wil
 > **APP Controller:** _**"GFA013, turn right heading 150 degrees, descend altitude 1500ft, you are cleared the VOR approach RWY12L, report established on the inbound radial, QNH1003."**_
 
 !!!node "Traffic Load"
-    The APP Controller must not accept non standard approach requests if the traffic situation in the TMA does not allow.
+    The APP Controller must not accept non-standard approach requests if the traffic situation in the TMA does not allow.
 
 #### 3.2.6.4 Visual Approach 
 Aircraft wishing to conduct a visual approach must be able to maintain visual contact with the runway at all times once cleared for the visual approach. It is the responsibility of the **APP Controller** to position the aircraft to a point in which visual contact can be maintained before clearing the aircraft. 
