@@ -38,7 +38,7 @@ The airspace in the **Bahrain Terminal Maneuvering Area (TMA)** doesn't allow fo
 <p style="text-align: left; font-style: italic;">
 Table 2.0.1. - Bahrain Terminal Maneuvering Area (TMA)
 </p>
-![Bahrain TMA](img/TMA.png)
+![Bahrain TMA](img/TMA.png#center)
 
 ---
 
@@ -64,7 +64,7 @@ The **Bahrain Terminal Maneuvering Area (TMA)** is surrounded by both Saudi Arab
 <p style="text-align: left; font-style: italic;">
 Table 2.3.1. - Surrounding Airspace
 </p>
-![Bahrain Surrounding](img/SA.png)
+![Bahrain Surrounding](img/SA.png#center)
 
 ---
 
