@@ -27,7 +27,7 @@ The **Kuwait Control Zone (CTR)** is **Class D Airspace** from the Ground up to 
 
 ---
 
-![Kuwait CTR](img/KuwaitCTR.png)
+![Kuwait CTR](img/KuwaitCTR.png#center)
 
 ---
 
