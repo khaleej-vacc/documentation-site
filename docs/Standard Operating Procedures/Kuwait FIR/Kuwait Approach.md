@@ -128,8 +128,8 @@ The **Approach Controller** should be aware of which controller an aircraft need
 | **Radio Callsign** | **Logon Callsign** | **Frequency** |
 |:------------------:|:------------------:|:-------------:|
 |   Kuwait Tower     |     OKKK_TWR       |    118.300    |
-|   Kuwait Director  |     OKKK_F_APP     |    120.200    |
-|   Kuwait Radar     |     OKAC_CTR       |    123.825    |
+|   Kuwait Director  |     OKKK_F_APP     |    123.825    |
+|   Kuwait Radar     |     OKAC_CTR       |    125.300    |
 |   Jeddah Control   |     OEJD_1_CTR     |    126.500    |
 |   Baghdad Approach |     ORMM_APP       |    120.200    |
 
