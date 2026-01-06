@@ -16,7 +16,6 @@ toc_max_heading_level: 6
 ## Chapter 2. Airspace
 The **Kuwait Terminal Maneuvering Area (TMA)** has a vertical extension up to FL150.
 
-The airspace in the **Kuwait Terminal Maneuvering Area (TMA)** doesn't allow for a lot of maneuverability due to its geographical location and multiple surrounding country borders so aircraft need to be carefully managed in order to ensure safe separation between arrivals and departures.
 
 |         Airspace Type         |   Airspace  | Class | Vertical Limits | Controller |
 |:-----------------------------:|:-----------:|:-----:|:---------------:|------------|
@@ -40,7 +39,7 @@ Both Ali Al Salem and Ahmed Al Jaber Airbases are military airfields to which we
 ---
 
 ### 2.3 Surrounding Airspace
-The **Kuwait Terminal Maneuvering Area (TMA)** is surrounded by Saudi Arabia to the West and Bahrain to the South. As APP Controller in Kuwait you have to work closely with the adjacent controlling units to ensure safe and efficient operations within the TMA.
+The **Kuwait Terminal Maneuvering Area (TMA)** is surrounded by Saudi Arabia to the west, Bahrain to the south, and Iraq to the north. As APP Controller in Kuwait you have to work closely with the adjacent controlling units to ensure safe and efficient operations within the TMA.
 
 <p style="text-align: left; font-style: italic;">
 Table 2.3.1. - Surrounding Airspace
@@ -50,7 +49,7 @@ Table 2.3.1. - Surrounding Airspace
 ---
 
 ## 2.4 Restricted Airspace
-The **Kuwait Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of Airspace which must not be encroached at any time, except for R01 which may be used for extra track miles during the 15 config in times of increased activity.
+The **Kuwait Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of Airspace which must not be encroached at any time, except for R01 which may be used for extra track miles during the 15/16 config in times of increased activity.
 
 | **Restricted Airspace Identifier** | **Vertical Limits** | **Validity** |
 |:----------------------------------:|:-------------------:|:------------:|
@@ -158,7 +157,6 @@ Upon initial contact the **Approach Controller** should provide a pilot with the
 
 If the **ACC Controller** is online, and they're arriving from the Kuwait En-Route Environment then Kuwait Radar will provide them with their expected **Standard Terminal Arrival Route (STAR)**.
 
-!!!node "Identifying Aircraft"
 Remember it is the responsibility of the Approach Controller to ensure all aircraft are identified on initial contact, aircraft should be assigned an individual squawk code if not already and squawking mode 'Charlie' which provides altitude information.
 
 #### 3.2.2 Sequencing Aircraft
