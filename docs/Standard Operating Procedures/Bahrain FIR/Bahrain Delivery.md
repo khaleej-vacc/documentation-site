@@ -107,6 +107,7 @@ Multiple destinations across the Gulf Region have level capped routings due to o
 |:---------------:|:-------------------------------:|
 |       OT**      |             11000ft             |
 |       OM**      |              FL250              |
+|       OOMS      |              FL330              |
 |       OKKK      |              FL260              |
 |       OEDF      |              6000ft             |
 
