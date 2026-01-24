@@ -49,7 +49,7 @@ Table 2.3.1. - Surrounding Airspace
 ---
 
 ## 2.4 Restricted Airspace
-The **Kuwait Terminal Maneuvering Area (TMA)** has 3 **Restricted** sections of Airspace which must not be encroached at any time, except for R01 which may be used for extra track miles during the 15/16 config in times of increased activity.
+The **Kuwait Terminal Maneuvering Area (TMA)** has multiple **Restricted** sections of Airspace which must not be encroached at any time, except for R01 which may be used for extra track miles during the 15/16 config in times of increased activity.
 
 | **Restricted Airspace Identifier** | **Vertical Limits** | **Validity** |
 |:----------------------------------:|:-------------------:|:------------:|
