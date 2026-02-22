@@ -36,14 +36,14 @@ Figure 1.3
 - Locate the following panel and click on the respective airport to enable CDM as a master user.
 
 !!! note "Important"
-It is vital that **only** DEL, or FMP/Planner if online, should click on the button outlined in Figure 1.3 as it is their responsibility to manage. All other controllers should use the **.cdm slave [ICAO]** command instead.
+    It is vital that **only** DEL, or FMP/Planner if online, should click on the button outlined in Figure 1.3 as it is their responsibility to manage. All other controllers should use the **.cdm slave [ICAO]** command instead.
 
 ## Arrival Manager (AMAN)
 
 The Arrival Manager is a tactical resource controllers/flow managers may utilise to help form a sequence during times of increased arrivals.
 
 !!! note "Controllers are always in charge"
-This tool exists to **support** controllers/planners, thus it **shall not** be relied on fully.
+    This tool exists to **support** controllers/planners, thus it **shall not** be relied on fully.
 
 <p align="center">
   <strong>2.1 - EXAMPLE OF AMAN USAGE</strong><br>
