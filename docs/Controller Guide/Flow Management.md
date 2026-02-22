@@ -18,18 +18,21 @@ After an aircraft gives confirmation of being ready for pushback, Bahrain Delive
 Figure 1.1
 </p>
 ![dep1](img/dep1.png)
+
 - Click on the **F** button to enable variables hidden by default
 
 <p style="text-align: centre; font-style: italic;">
 Figure 1.2
 </p>
 ![dep2](img/dep2.png)
+
 - Select the following functions above, or as briefed during busy events.
 
 <p style="text-align: centre; font-style: italic;">
 Figure 1.3
 </p>
 ![panel](img/panel.png)
+
 - Locate the following panel and click on the respective airport to enable CDM as a master user.
 
 !!! note "Important"
