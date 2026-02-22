@@ -36,5 +36,4 @@ Figure 1.3
 Locate the following panel and click on the respective airport to enable CDM as a master user.
 
 !!! note "Important"
-It is vital that **only** DEL, or FMP/Planner if online, should click on the button outlined in Figure 1.3 as it is their responsibility to manage.
-All other controllers should use the **.cdm slave [ICAO]** command instead.
+It is vital that **only** DEL, or FMP/Planner if online, should click on the button outlined in Figure 1.3 as it is their responsibility to manage. All other controllers should use the **.cdm slave [ICAO]** command instead.
