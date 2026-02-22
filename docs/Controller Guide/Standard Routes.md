@@ -12,7 +12,7 @@ Controllers may find the table below with the standard routes departing from **O
 |-----------------|-------------------------------------------------|-------------------------------------------------------------------------|
 | OMDB            | BHR N697 SODAK P559 VUTEB                       | SESRU M677 VUTEB                                                        |
 | OMSJ            | BHR N697 SODAK P559 KIVUS L305 EMOTA R784 GONVI | SESRU M677 ITBUL L305 EMOTA R784 GONVI                                  |
-| OMAA            | BHR N685 UMEVU Q415 UKILI                       | BOXIK B416 IMDOX P975 LONOS P708 OVONA N318 KAPUM Z522 ALNEV Q415 UKILI |
+| OMAA            | BHR ASTAD N318 KAPUM Z522 ALNEV Q415 UKILI      | BOXIK B416 IMDOX P975 LONOS P708 OVONA N318 KAPUM Z522 ALNEV Q415 UKILI |
 
 ---
 
