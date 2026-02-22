@@ -143,6 +143,8 @@ The **Approach Controller** should be aware of which controller an aircraft need
 **Kuwait Approach (APP)** is responsible for ensuring all aircraft arriving into the **Kuwait Terminal Maneuvering Area (TMA)** are safely separated vertically and laterally before being handed off to the TWR Controller on final approach.
 All aircraft shall be sequenced within the limitations listed within Section 3.1 of this document.
 
+Dependant parallel approaches may be used with a minimum stagger of 3nm radar separation between aircraft.
+
 #### 3.2.1 Initial Contact
 Aircraft arriving into the **Kuwait Terminal Maneuvering Area (TMA)** are to be provided with a set of instructions which will allow the aircraft to fly an assigned routing, descend in a manner which will keep them separated from other traffic and under a controlled speed to ensure traffic is sequenced into the TMA efficiently.
 
