@@ -80,8 +80,7 @@ Below you can find the Standard Instrument Departures (SIDs) from OKKK and their
 | KATOD   | 1I             | 34                   |
 | NIDAP   | 1I             | 34                   |
 
-!!!node "D-ATIS"
-Again, it must be noted it is the pilots responsibility to ensure they have correctly listened to the D-ATIS so they know the active runways at their departure airport.
+!!!node "D-ATIS" Again, it must be noted it is the pilots responsibility to ensure they have correctly listened to the D-ATIS so they know the active runways at their departure airport.
 
 The following routes are also flight level capped:
 
