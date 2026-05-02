@@ -29,3 +29,7 @@ Figure 1.2
 ![PDC2](img/PDC2.png)
 
 - Under **Logon Code**, controllers must insert their Hoppie Logon code. If you do not have an account with Hoppie ACARS, please make one [here](https://www.hoppie.nl/acars/system/register.html).
+- All controllers APP or below must ensure that **CPDLC** is offline. **Only PDC/DCL should be enabled.**
+
+!!! note "Auto Mode"
+    When controlling Bahrain Intl. (OBBI), Auto mode **must** be disabled. This is due to the fact that Bahrain has no published SIDs and a heading must be selected instead.
