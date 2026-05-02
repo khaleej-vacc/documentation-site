@@ -15,3 +15,17 @@ title: Euroscope Setup
 
 !!! note "Use of DCL/PDC"
     All controllers **__must__** have DCL/PDC available to use when controlling Kuwait Intl. (OKKK) and Bahrain Intl. (OBBI).
+
+<p style="text-align: centre; font-style: italic;">
+Figure 1.1
+</p>
+![PDC1](img/PDC1.png)
+
+- Navigate to the Radar View and select **CPDLC Settings** under **Setup** as highlighted above.
+
+<p style="text-align: centre; font-style: italic;">
+Figure 1.2
+</p>
+![PDC2](img/PDC2.png)
+
+- Under **Logon Code**, controllers must insert their Hoppie Logon code. If you do not have an account with Hoppie ACARS, please make one [here](https://www.hoppie.nl/acars/system/register.html).
