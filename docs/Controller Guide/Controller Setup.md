@@ -10,3 +10,8 @@ title: Euroscope Setup
           allowfullscreen>
   </iframe>
 </div>
+
+## Setting up DCL/PDC
+
+!!! note "Use of DCL/PDC"
+    All controllers **__must__** have DCL/PDC available to use when controlling Kuwait Intl. (OKKK) and Bahrain Intl. (OBBI).
