@@ -39,7 +39,7 @@ toc_max_heading_level: 6
 | OBBB_3_CTR        | OBBB_1_CTR             |                |
 | OBBB_CH_CTR        | OBBB_1_CTR             |                |
 | OBBB_CL_CTR        | OBBB_1_CTR             |                |
-| OBBB_N_CTR        | OBBB_3_CTR, OBBB_1_CTR             | Can be opened without BB2 with prior permission.                |
+| OBBB_N_CTR        | OBBB_3_CTR, OBBB_1_CTR             | Can be opened without BB3 with prior permission.                |
 | OBBB_E_CTR        | OBBB_2_CTR, OBBB_1_CTR             | Can be opened without BB2 with prior permission.                |
 
 ---
