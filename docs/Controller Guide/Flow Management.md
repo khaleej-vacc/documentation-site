@@ -6,8 +6,11 @@ title: Flow Management
 
 ### Definitions
 - **Estimated Off-Block Time (EOBT)** - General estimate as to when an aircraft will be ready to start-up/push-back. Do note that the TOBT is more accurate as it may be updated, whereas the EOBT is static.
-- **Target Off-Block Time (EOBT)** - The time that aircraft operators estimate that they will be ready, all doors closed, boarding bridge removed, push-back vehicle available and ready to start-up/push-back immediately upon reception of clearance from ATC.
+- **Target Off-Block Time (TOBT)** - The time that aircraft operators estimate that they will be ready, all doors closed, boarding bridge removed, push-back vehicle available and ready to start-up/push-back immediately upon reception of clearance from ATC.
 - **Target Start-Up Time (TSAT)** - Calculated time at which start-up clearance can be expected. TSAT includes all parameters such as calculated take off time (CTOT), variable taxiing time etc.
+
+!!! note "Do note!"
+    Pilots **DO** know their **EOBT and TOBT**, they **DON'T** know their **TSAT**!
 
 ### Target Start-Up Time (TSAT)
 After an aircraft gives confirmation of being ready for pushback, DEL will instruct pilots to monitor GMC at TSAT +/- 2 MIN and standby for further ATC instructions.
