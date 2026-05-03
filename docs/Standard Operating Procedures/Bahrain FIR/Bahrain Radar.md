@@ -30,6 +30,18 @@ toc_max_heading_level: 6
 | OBBB_N_CTR        | North Lower             | 126.700                |
 | OBBB_E_CTR        | East Lower             | 132.850                |
 
+### Connection Hierarchy
+
+| **Position** | **Prerequisite Sector** | **Notes** |
+|--------------|-------------------|-------------------------|
+| OBBB_1_CTR        | *             | Bandbox Position                |
+| OBBB_2_CTR        | OBBB_1_CTR             |              |
+| OBBB_3_CTR        | OBBB_1_CTR             |                |
+| OBBB_CH_CTR        | OBBB_1_CTR             |                |
+| OBBB_CL_CTR        | OBBB_1_CTR             |                |
+| OBBB_N_CTR        | OBBB_3_CTR, OBBB_1_CTR             | Can be opened without BB2 with prior permission.                |
+| OBBB_E_CTR        | OBBB_2_CTR, OBBB_1_CTR             | Can be opened without BB2 with prior permission.                |
+
 ---
 
 ## Surrounding Airspaces
