@@ -12,8 +12,10 @@ title: Flow Management
 !!! note "Do note!"
     Pilots **DO** know their **EOBT and TOBT**, they **DON'T** know their **TSAT**!
 
-### Target Start-Up Time (TSAT)
+#### Target Start-Up Time (TSAT)
 After an aircraft gives confirmation of being ready for pushback, DEL will instruct pilots to monitor GMC at TSAT +/- 2 MIN and standby for further ATC instructions.
+
+---
 
 ### Using CDM
 
@@ -40,6 +42,8 @@ Figure 1.3
 
 !!! note "Important"
     It is vital that **only** DEL, or FMP/Planner if online, should click on the button outlined in Figure 1.3 as it is their responsibility to manage. All other controllers should use the **.cdm slave [ICAO]** command instead.
+
+---
 
 ## Arrival Manager (AMAN)
 
