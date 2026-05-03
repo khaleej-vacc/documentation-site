@@ -22,23 +22,20 @@ After an aircraft gives confirmation of being ready for pushback, DEL will instr
 <p style="text-align: centre; font-style: italic;">
 Figure 1.1
 </p>
-![dep1](img/dep1.png)
+![panel](img/panel.png)
 
-- Click on the **F** button to enable variables hidden by default
+- Locate the following panel and click on the respective airport to enable CDM as a master user.
 
 <p style="text-align: centre; font-style: italic;">
 Figure 1.2
 </p>
-![dep2](img/dep2.png)
+![SUL](img/SUL.png)
 
-- Select the following functions above, or as briefed during busy events.
+- Expand your Start-Up list; it will look like the above. If you do not see the list, open it via **Quick Settings**.
+- When CDM is in use, pilots are expected to submit their TOBT via the [VDGS Dashboard](https://vats.im/vdgs)
+- A TSAT is automatically generated depending on many factors which try improve the efficiency of the aerodrome. This time must be provided to pilots using the following phraseology:
 
-<p style="text-align: centre; font-style: italic;">
-Figure 1.3
-</p>
-![panel](img/panel.png)
-
-- Locate the following panel and click on the respective airport to enable CDM as a master user.
+> DLV Controller: "GFA138, readback correct. Expect push at time 08:30z."
 
 !!! note "Important"
     It is vital that **only** DEL, or FMP/Planner if online, should click on the button outlined in Figure 1.3 as it is their responsibility to manage. All other controllers should use the **.cdm slave [ICAO]** command instead.
