@@ -34,7 +34,7 @@ toc_max_heading_level: 6
 
 | **Position** | **Prerequisite Sector** | **Notes** |
 |--------------|-------------------|-------------------------|
-| OBBB_1_CTR        | *             | Bandbox Position                |
+| OBBB_1_CTR        | N/A             | Bandbox Position                |
 | OBBB_2_CTR        | OBBB_1_CTR             |              |
 | OBBB_3_CTR        | OBBB_1_CTR             |                |
 | OBBB_CH_CTR        | OBBB_1_CTR             |                |
