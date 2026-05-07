@@ -42,6 +42,18 @@ toc_max_heading_level: 6
 | OBBB_N_CTR        | OBBB_3_CTR, OBBB_1_CTR             | Can be opened without BB3 with prior permission.                |
 | OBBB_E_CTR        | OBBB_2_CTR, OBBB_1_CTR             | Can be opened without BB2 with prior permission.                |
 
+## Sector Responsibilities
+
+| **Sector** | **Primary Responsibility** |
+|------------|----------------------------|
+| OBBB_1_CTR | Central supervisory/bandbox operations and overall FIR flow management. |
+| OBBB_2_CTR | OMAE inbound and outbound traffic flows. |
+| OBBB_3_CTR | Northern Gulf and Kuwait traffic flows. |
+| OBBB_CH_CTR | Upper-level central Bahrain FIR operations. |
+| OBBB_CL_CTR | Lower-level inbound sequencing into OBBI. |
+| OBBB_N_CTR | Northern lower airspace and Kuwait coordination. |
+| OBBB_E_CTR | Eastern lower airspace and UAE coordination. |
+
 ---
 
 ## Surrounding Airspaces
@@ -61,6 +73,26 @@ In the Bahrain FIR, airway clearances **must** be given on initial contact.
 
 > **ENR Controller:** _**"FDB738, Bahrain Radar, Identified. Cleared airway P559 NALPO."**_
 
+### Radar Identification Procedures
+
+Aircraft shall not be considered radar identified until the controller has verified the aircraft position and observed the assigned squawk code.
+
+Acceptable methods of radar identification include:
+
+- Observation of an aircraft squawking an assigned discrete SSR code.
+- Identification transfer from another radar controller.
+- Position correlation with reported navigation fixes.
+- ADS-B or Mode S identification where applicable.
+
+***Radar Identification Example***
+
+> **ENR Controller:** _**"GFA512, Bahrain Radar, identified, cleared airway P559 NALPO."**_
+
+If an aircraft is observed squawking an incorrect code, the controller shall instruct the pilot to reset the assigned transponder code prior to continuing radar services.
+
+!!!node "Radar Identification"
+    Controllers shall ensure radar identification is maintained at all times whilst providing radar separation services.
+
 ### Minimum Separation
 
 Aircraft operating in the Bahrain FIR, excluding the TMA and CTR, will be separated by 1000ft vertically.
@@ -73,7 +105,34 @@ Aircraft operating in the Bahrain FIR, excluding the TMA and CTR, will be separa
 !!!node "Exceptions"
     When one aircraft is supersonic, the minimum lateral separation is **increased to 20 NM**.
 
+### RVSM Procedures
+
+Reduced Vertical Separation Minimum (RVSM) operations are applicable within the Bahrain FIR between FL290 and FL410 inclusive.
+
+Controllers shall ensure:
+
+- Aircraft are RVSM approved when operating within RVSM airspace.
+- Standard vertical separation of 1000 ft is maintained within RVSM airspace.
+- Non-RVSM aircraft are handled in accordance with applicable separation requirements.
+
 ---
+
+### Sector Coordination & Handoffs
+
+Controllers operating within the Bahrain FIR shall ensure coordination is completed prior to transferring aircraft between sectors.
+
+This includes coordination of:
+
+- Cleared level
+- Direct routings
+- Speed restrictions
+- Holding instructions
+- Non-standard operations
+
+Where operationally practical, silent handoffs may be utilised between Bahrain ACC sectors provided there are no changes to the aircraft’s clearance or profile.
+
+!!!node "Transfer Expectations"
+    Aircraft should normally be transferred prior to entering the receiving controller’s area of responsibility unless otherwise coordinated.
 
 ## Initial Descents 
 
@@ -95,6 +154,27 @@ Bahrain Radar is responsible for initiating descents of arrivals to neighbouring
     For traffic inbound into the OMAE or OTDF FIRs, please refer to our LOA with the Arabian vACC [here](https://docs.khaleejvacc.net/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/).
 
 ---
+
+## Speed Control Procedures
+
+Bahrain Radar may utilise speed control to assist with sequencing and traffic flow management.
+
+Typical speed control measures include:
+
+- Mach Number restrictions above FL280.
+- IAS restrictions during descent sequencing.
+- Reductions for spacing into OBBI, OMAE and OTDF arrivals.
+
+Unless otherwise instructed:
+
+- Aircraft shall comply with 250 KIAS below FL100.
+- Controllers should avoid excessive speed reductions that may negatively affect sequencing efficiency.
+
+***Speed Control Example***
+
+> **ENR Controller:** _**"UAE221, reduce speed Mach decimal 78."**_
+
+> **ENR Controller:** _**"QTR818, maintain 280 knots."**_
 
 ## Enroute Holds
 
