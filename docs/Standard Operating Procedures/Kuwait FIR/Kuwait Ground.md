@@ -10,11 +10,12 @@ toc_max_heading_level: 6
 |--------------|--------------------|---------------------|
 | Version 1    | 13AUG25            | Initial Publication |
 | Version 2    | 30OCT25            | Revision #1         |
+| Version 3    | 07MAY26            | Revision #2         |
 
 ----
 
 ## Chapter 1. Position Overview 
-**Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing Aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropriate apron.
+**Kuwait Ground (GMC)** is responsible for the movement of aircraft on the airfields aprons and taxiways. The GMC Controller will provide aircraft with pushback instructions when required. Departing aircraft will then be taxied to the applicable runway holding point and handed off to the TWR Controller as early as possible and clear of any potential ground conflicts. Arriving aircraft will be taxied to a stand on an appropriate apron.
 
 ---
 
@@ -33,18 +34,18 @@ toc_max_heading_level: 6
 ## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Pushback Clearance 
-The **GMC Controller** is responsible for providing departing aircraft with a push back clearance. Prior to issuing a push back clearance the aircraft would have correctly set their assigned squawk code. Push back clearance must include the stand number of the aircraft being given clearance. This is method is to ensure other nearby aircraft are aware of the movement from the stand onto a live taxiway. 
+The **GMC Controller** is responsible for providing Departing aircraft with a pushback clearance. Prior to issuing a pushback clearance the aircraft would have correctly set their assigned squawk code. pushback clearance must include the stand number of the aircraft being given clearance. This method is to ensure other nearby aircraft are aware of the movement from the stand onto a live taxiway. 
 
 Example:
 
 > **GMC Controller:** _**"KAC343, push and start approved facing south on Taxiway W1, runway 33L."**_
 
-Once the push back clearance has been issued the **GMC Controller** should ensure the Departure List is updated accordingly to provide all controllers with additional situational awareness. 
+Once the pushback clearance has been issued the **GMC Controller** should ensure the Departure List is updated accordingly to provide all controllers with additional situational awareness. 
 
 Pushback Clearances must only be issued when it is safe to do so and the area into which the aircraft has been cleared to push to is clear of all obstructions.
 
 #### 2.1.1 Conditional Pushback Clearance 
-In some cases you may have an inbound aircraft taxiing to a stand on the apron which passes behind the aircraft on stand requesting push back and start. In order to ensure a constant flow of traffic the **GMC Controller** can provide the aircraft requesting push back and start with a **Conditional Pushback Clearance**. 
+In some cases you may have an inbound aircraft taxiing to a stand on the apron which passes behind the aircraft on stand requesting pushback and start. In order to ensure a constant flow of traffic the **GMC Controller** can provide the aircraft requesting pushback and start with a **Conditional Pushback Clearance**. 
 
 Example:
 
@@ -52,7 +53,7 @@ Example:
 
 #### 2.1.2 Simultaneous Pushback Operations
 **Simultaneous Pushback Operations** can be conducted at Kuwait. The aim of this process is that once both aircraft have completed their pushback procedures, they will be in position on the active taxiway with at least one stand between them. 
-If aircraft are on adjacent stands and both requesting push back and start it is best practice having each aircraft push in opposite directions to ensure no ground collision will take place. 
+If aircraft are on adjacent stands and both requesting pushback and start it is best practice to have each aircraft push in opposite directions to ensure no ground collision will take place. 
 
 ### 2.2 Taxi Procedures
 
@@ -65,7 +66,7 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 ### 2.2.1.1 RWY33L Departure Configuration
 
 - Aircraft taxiing from Terminal 4 will be instructed to taxi via W1 to holding point RWY33L.
-- Aircraft taxiing from Terminal 1 or Terminal 5 will be instructed to taxi via the appropriate Apron Exit point onto W1 or W14 followed W1.
+- Aircraft taxiing from Terminal 1 or Terminal 5 will be instructed to taxi via the appropriate Apron Exit point onto W1 or W14 followed by W1.
 - Aircraft taxiing from anywhere East of Terminal 5 shall be instructed to taxi via the appropriate Apron Exit point onto E9, followed by W14 and to hold short of Taxiway W1, they can then be given further instructions approaching W1.
 
 Example 1:
@@ -77,7 +78,7 @@ Example 2:
 
 Once approaching W1 and the traffic situation is clear
 
-> **GMC Controller:** _**"JZR263, continue taxi via W1 holding point RWY33L"**_
+> **GMC Controller:** _**"JZR263, continue taxi via W1 to holding point RWY33L"**_
 
 ---
 
@@ -114,7 +115,7 @@ Intersection Departures can be utilised when the pilot requests it specifically.
 | 34         | V3                |
 | 16         | V8                |
 
-There are no intersections departures available from RWY15L. 
+There are no intersection departures available from RWY15L. 
 
 
 #### 2.2.4 Arrival Taxi Procedures 
@@ -132,9 +133,9 @@ There are no intersections departures available from RWY15L.
 In some cases aircraft may require a **Conditional Taxi Instruction** in order to facilitate for other movements on the ground and to ensure the safe movement of aircraft. 
 
 #### 2.2.5.1 Conditional Departure Taxi Instructions 
-If the taxi route for a departing aircraft is not clear you can give them a conditional clearance to stop at a certain point along their taxi route to ensure they remain clear of any conflict. 
+If the taxi route for a Departing aircraft is not clear you can give them a conditional clearance to stop at a certain point along their taxi route to ensure they remain clear of any conflict. 
 
-> **GMC Controller:** _**"MSR621, taxi via W17 and W14 hold short of Taxiway W1, give way to the Kuwaiti Boeing 777 at W1."**_
+> **GMC Controller:** _**"MSR621, taxi via W17 and W14 hold short of Taxiway W1, give way to the Kuwaiti Boeing 777 traffic at W1."**_
 
 Once the route has cleared then they can be given the remainder of their taxi instructions as per normal standard operating procedures outlined in Chapter 2.2
 
@@ -142,11 +143,20 @@ Once the route has cleared then they can be given the remainder of their taxi in
 Like before, if an arriving aircraft does not have a clear route to their stand after vacating the runway a conditional clearance can be issued to ensure smooth flow of traffic in and out of the airfield. 
 If issuing a conditional arrival taxi instruction you can provide the aircraft with their expected stand number. 
 
+### 2.2.6 Runway Crossings 
+Aircraft shall not cross any active runway unless an explicit runway crossing clearance has been issued by the appropriate controller. The GMC Controller must coordinate all runway crossings with the Tower Controller prior to issuing the crossing instruction. Example: > **GMC Controller:** _**"KAC621, cross Runway 33R via W5."**_
+
+### 2.2.7 Progressive Taxi Instructions 
+If a pilot becomes unsure of their position or requests assistance, the GMC Controller may provide progressive taxi instructions. Controllers should issue concise step-by-step taxi instructions and monitor the aircraft closely until safely established on the correct taxi route.
+
+### 2.2.8 Apron Congestion Management 
+During periods of high traffic volume, the GMC Controller should sequence pushback requests to avoid gridlock and conflicting taxi flows. Priority should normally be given to: - Aircraft already taxiing - Aircraft approaching constrained taxiways - Aircraft with imminent departure slots - Arriving aircraft vacating active runways
+
 > **GMC Controller:** _**"KAC418, Expect Stand 72 taxi via E9, W14, hold short of Taxiway W1, give way to the company Airbus A320 Neo at W1."**_
 
 ### 2.3 Low Visibility Procedures (LVPs)
 
-At Kuwait International Airport, LVP  be declared when Runway Visual Range (RVR) falls below operational thresholds or when movement areas are not visible from the control tower. However, on VATSIM, we rely on the RVR reading to determine when we apply Low Visibility Procedures. 
+At Kuwait International Airport, LVP may be declared when Runway Visual Range (RVR) falls below operational thresholds or when movement areas are not visible from the control tower. However, on VATSIM, we rely on the RVR reading to determine when we apply Low Visibility Procedures. 
 
 LVP must be applied when the RVR drops below **550 meters** or visibility drops below 800 meters.
 
@@ -154,7 +164,7 @@ LVP must be applied when the RVR drops below **550 meters** or visibility drops 
 
 During LVPs, intersection departures are not authorised for all runways. 
 
-Departures are permitted under LVP conditions **only** where the RVR is not less than 150 meters.
+Departures are permitted during LVP conditions **only** where the RVR is not less than 150 meters.
 
 
 #### 2.3.2 Low Visibility Procedures - Arrivals 
