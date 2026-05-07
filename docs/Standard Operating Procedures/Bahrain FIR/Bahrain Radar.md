@@ -94,6 +94,25 @@ If an aircraft is observed squawking an incorrect code, the controller shall ins
 !!!node "Radar Identification"
     Controllers shall ensure radar identification is maintained at all times whilst providing radar separation services.
 
+### Radar Identification Procedures 
+Aircraft shall not be considered radar identified until the controller has verified the aircraft position and observed the assigned squawk code. 
+
+Acceptable methods of radar identification include: 
+
+- Observation of an aircraft squawking an assigned discrete SSR code.
+- Identification transfer from another radar controller.
+- Position correlation with reported navigation fixes.
+- ADS-B or Mode S identification where applicable.
+
+***Radar Identification Example*** 
+
+> **ENR Controller:** _**"GFA512, Bahrain Radar, identified, cleared airway P559 NALPO."**_
+
+If an aircraft is observed squawking an incorrect code, the controller shall instruct the pilot to reset the assigned transponder code prior to continuing radar services. 
+
+!!!node "Radar Identification" 
+  Controllers shall ensure radar identification is maintained at all times whilst providing radar separation services.    
+
 ### Minimum Separation
 
 Aircraft operating in the Bahrain FIR, excluding the TMA and CTR, will be separated by 1000ft vertically.
@@ -117,6 +136,14 @@ Controllers shall ensure:
 - Non-RVSM aircraft are handled in accordance with applicable separation requirements.
 
 ---
+
+### Supersonic Operations 
+
+Supersonic aircraft operating within the Bahrain FIR require increased separation standards. 
+
+When one aircraft is operating at supersonic speeds:
+- Minimum lateral separation shall increase to 20 NM.
+- Controllers should anticipate rapid closure rates and descent planning requirements.
 
 ### Sector Coordination & Handoffs
 
@@ -155,6 +182,10 @@ Bahrain Radar is responsible for initiating descents of arrivals to neighbouring
     For traffic inbound into the OMAE or OTDF FIRs, please refer to our LOA with the Arabian vACC [here](https://docs.khaleejvacc.net/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/).
 
 ---
+
+## FIR Boundary & Transfer Procedures 
+
+Aircraft transferred between Bahrain FIR and adjacent FIRs shall comply with the applicable Letters of Agreement (LOAs) and transfer conditions. Controllers shall ensure: - Aircraft are transferred level and speed restricted where required. - Correct airway routing is maintained. - Coordination is completed for non-standard operations. | **Adjacent FIR** | **Typical Transfer Level** | |------------------|-----------------------------| | OMAE | FL320 | | OTDF | FL290 | | OKAC | FL260 | | OTHH | FL290 | !!!node "Boundary Coordination" Non-standard climb, descent or routing requests must be coordinated with the receiving FIR prior to approval.
 
 ## Speed Control Procedures
 
