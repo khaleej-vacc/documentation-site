@@ -211,7 +211,8 @@ Example:
 ###### 3.4.4.3 Wake Turbulence Separation 
 Aircraft must also be suitable separated in accordance with their Wake Turbulence Categories, much like departing aircraft to reduce the impact of wake produced by the preceding aircraft. 
 
-| Leader / Follower | Super | Heavy | Medium | Light |
+| Follower | Super | Heavy | Medium | Light |
+| Leader | | | | |
 | :--- | :---: | :---: | :---: | :---: |
 | **Super** | | 6NM | 7NM | 8NM |
 | **Heavy** | | 4NM | 5NM | 6NM |
