@@ -264,14 +264,12 @@ Example:
 #### 3.4.4.3 Wake Turbulence Separation 
 Aircraft must also be suitable separated in accordance with their Wake Turbulence categories, much like departing aircraft to reduce the impact of wake produced by the preceding aircraft. 
 
-| **Succeeding Aircraft** | **Behind** | **Preceding Aircraft** | **Arrival Separation Minima** |
-|:-----------------------:|:----------:|------------------------|-------------------------------|
-|        Light (L)        |            |       Medium (M)       |              5 NM              |
-|        Medium (M)       |            |        Heavy (H)       |              5 NM             |
-|        Light (L)        |            |        Heavy (H)       |              6 NM              |
-|        Heavy (H)        |            |        Heavy (H)       |              4 NM              |
-|        Medium (M)       |            |          A380          |              7 NM              |
-|        Light (L)        |            |          A380          |              8 NM              |
+| Leader / Follower | Super (J) | Heavy (H) | Medium (M) | Light (L) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Super (J)** | | 6NM | 7NM | 8NM |
+| **Heavy (H)** | | 4NM | 5NM | 6NM |
+| **Medium (M)** | | | | 5NM |
+| **Light (L)** | | | | |
 
 #### 3.4.5 Go Around Procedures
 It is the responsibility of the **Tower Controller** to issue **Go Around Instructions** if the controller observes a loss of separation on the final approach or an obstruction on the runway that will not clear before the arriving aircraft meets the 2 NM clearance issued criteria. 
