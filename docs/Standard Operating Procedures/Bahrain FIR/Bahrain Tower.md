@@ -211,13 +211,12 @@ Example:
 ###### 3.4.4.3 Wake Turbulence Separation 
 Aircraft must also be suitable separated in accordance with their Wake Turbulence Categories, much like departing aircraft to reduce the impact of wake produced by the preceding aircraft. 
 
-| Follower | Super | Heavy | Medium | Light |
-| Leader | | | | |
+| Leader / Follower | Super (J) | Heavy (H) | Medium (M) | Light (L) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Super** | | 6NM | 7NM | 8NM |
-| **Heavy** | | 4NM | 5NM | 6NM |
-| **Medium** | | | | 5NM |
-| **Light** | | | | |
+| **Super (J)** | | 6NM | 7NM | 8NM |
+| **Heavy (H)** | | 4NM | 5NM | 6NM |
+| **Medium (M)** | | | | 5NM |
+| **Light (L)** | | | | |
 
 ### 3.4.5 Go Around Procedures
 It is the responsibility of the **Tower Controller** to issue **Go Around Instructions** if the controller observes a loss of separation on the final approach or an obstruction on the runway that will not clear before the arriving aircraft meets the 2nm clearance issued critera. 
