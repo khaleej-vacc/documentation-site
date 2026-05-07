@@ -81,6 +81,9 @@ To prevent the aircraft after departure immediately turning for the BHR VOR they
 |          L319 OBTAR          |                        |
 |          P700 ROTOX          |                        |
 
+!!!node "Departures via TULUB"
+    Aircraft departing OBBI are **NOT** permitted to leave the OBBB FIR via N685 TULUB.
+
 ### 2.1.2 Datalink Clearances (DCL)
 Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DLV Controller. This service can only be provided to pilot who's aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
 It is a requirement of the DLV Controller to ensure datalink is available at all times through the use of Hoppie ACARS.
