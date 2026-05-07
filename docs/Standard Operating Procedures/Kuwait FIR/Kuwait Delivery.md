@@ -17,7 +17,7 @@ toc_max_heading_level: 6
 ## Chapter 1. Position Overview 
 **Kuwait Delivery (DEL)** provides aircraft with a full departure clearance and is responsible for passing the local QNH as well as verifying the aircraft type of the departing aircraft. The DEL Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct assigned Standard Instrument Departure procedure, temporary altitude and assigned squawk code. 
 
-Once clearance has been issued and readback correctly from the pilot the DEL controller will transfer the aircraft to the GMC controller when they report they are ready for pushback and start. During busy periods the GMC Controller can inform the DEL Controller of the requirement to not release aircraft in order to restrict the rate of departures. 
+Once clearance has been issued and readback correctly from the pilot the DEL Controller will transfer the aircraft to the GMC Controller when they report they are ready for pushback and start. During busy periods the GMC Controller can inform the DEL Controller of the requirement to not release aircraft in order to restrict the rate of departures. 
 
 ----
 
@@ -32,7 +32,7 @@ It is the responsibility of the **DEL Controller** to issue clearances to depart
 - Callsign 
 - Stand Number
 - Aircraft Type
-- Current ATIS Information Code they are in receipt of
+- Current ATIS Information Code
 
 
 The DEL Controller should ensure that both the **aircraft stand number and aircraft type** are confirmed by the pilot prior to issuing them with a departure clearance. Any departure clearance issued should be valid against the RouteChecker with a flight level that is **appropriate for the direction of flight**. 
@@ -56,18 +56,18 @@ The DEL Controller **must** obtain a full and correct read back of the departure
 
 ***Challenge Example***
 
-> **DEL Controller:** _**"JZR101, Negative. cleared to Bahrain International Airport via BOXIK4E Departure, climb altitude 4000 ft, squawk 4212"**_
+> **DEL Controller:** _**"JZR101, Negative, cleared to Bahrain International Airport via BOXIK4E Departure, climb altitude 4000 ft, squawk 4212"**_
 
 !!!node "Be Patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter, you must provide it.
 
-> **DEL Controller:** _**"JZR101, read back correct, Information Alpha current, report ready for push and start."**_
+> **DEL Controller:** _**"JZR101, read back correct, Information Alpha current, report ready for pushback and start."**_
 
-When the aircraft has reported ready for push and start they will be transferred to the GMC Controller, and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and is squawking his assigned transpoder code.** 
+When the aircraft has reported ready for pushback and start they will be transferred to the GMC Controller, and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and is squawking his assigned transponder code.** 
 
-> **DEL Controller:** **JZR101, monitor Kuwait Ground 121.700..**
+> **DEL Controller:** **JZR101, monitor Kuwait Ground 121.700.**
 
 ### 2.1.1 Datalink Clearances (DCL)
 Kuwait offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DEL Controller. This service can only be provided to pilots whose aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
@@ -84,7 +84,7 @@ You can use tools such as SimBrief to provide pilots with valid routes. **VATMEN
 ### 2.1.3 Filed Flight Levels 
 **Kuwait Delivery (DEL)** must ensure pilots are filing correct flight levels in accordance with their filed routes. If Pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
 
-Kuwait utilises the Semi-Circular Rule. Flights flying westbound should file **Even** levels and flights flying Eastbound should file **Odd** levels. 
+Kuwait utilises the Semi-Circular Rule. Flights flying westbound should file **Even** levels and flights flying eastbound should file **Odd** levels. 
 
 #### 2.1.4 Flight Level Capping 
 Multiple destinations across the Gulf Region have level capped routes due to operational reasons. The DEL Controller shall ensure adherence to the below table, it is the responsibility of the DEL Controller to ensure aircraft have filed a correct level in their flight plan prior to issuing a clearance. If an incorrect level has been filed the DEL Controller shall inform the pilot that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routes. 
@@ -104,6 +104,10 @@ When A-CDM procedures are active (typically during busy events), pilots must rep
 The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2 to 5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
 
 Please note TOBTs are only issued during certain events, this will be outlined via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event.
+
+### 2.1.5.2 Departure Sequencing 
+During periods of high traffic demand, the DEL Controller may delay the release of aircraft to GMC in order to regulate departure flow and reduce congestion on taxiways and holding points. 
+Coordination between DEL, GMC and TWR is essential to maintain an efficient departure sequence.
 
 ### 2.2 Departure Procedures
 In Kuwait all departures should be cleared via a **Standard Instrument Departure (SID)** which is selected based on the first waypoint in their filed Flight Plan (FPL). 
@@ -161,6 +165,10 @@ All **Standard Instrument Departures (SIDs)** in Kuwait are RNAV (Area Navigatio
 | KATOD   | 1I             | 34                   |
 | NIDAP   | 1I             | 34                   |
 
+### 2.2.1 RNAV Capability 
+Aircraft unable to comply with RNAV SID requirements must advise ATC prior to clearance delivery. 
+The DEL Controller shall coordinate alternative instructions with APP where required.
+
 ### 2.3 VFR Procedures 
 DEL is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DEL must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide an estimated delay time to the DEL Controller to pass to the pilot. 
 
@@ -190,7 +198,7 @@ The DEL Controller **must** obtain a full and correct read back of the departure
 
 ***Challenge Example***
 
-> **DEL Controller:** _**"9K-VFR, Negative. Cleared left hand visual circuits, RWY34, not above altitude 1000 ft, VFR, squawk 7001"**_
+> **DEL Controller:** _**"9K-VFR, Negative, cleared for left hand visual circuits, RWY34, not above altitude 1000 ft, VFR, squawk 7001"**_
 
 !!!node "Be Patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
@@ -220,7 +228,7 @@ The DEL Controller **must** obtain a full and correct read back of the departure
 
 ***Challenge Example***
 
-> **DEL Controller:** _**"9K-VFR, Negative. Cleared to exit the Control Zone to the East, RWY16, not above altitude 1000 ft VFR, Squawk 7001"**_
+> **DEL Controller:** _**"9K-VFR, Negative, Cleared to exit the Control Zone to the East, RWY16, not above altitude 1000 ft VFR, Squawk 7001"**_
 
 > **DEL Controller:** _**"9-FR, Read Back is correct, Information Alpha is current."**_
 
