@@ -217,8 +217,8 @@ Aircraft must also be suitable separated in accordance with their Wake Turbulenc
 |        Medium (M)       |            |        Heavy (H)       |              5nm              |
 |        Light (L)        |            |        Heavy (H)       |              6nm              |
 |        Heavy (H)        |            |        Heavy (H)       |              4nm              |
-|        Medium (M)       |            |          A380          |              7nm              |
-|        Light (L)        |            |          A380          |              8nm              |
+|        Medium (M)       |            |        Super (J)       |              7nm              |
+|        Light (L)        |            |        Super (J)       |              8nm              |
 
 ### 3.4.5 Go Around Procedures
 It is the responsibility of the **Tower Controller** to issue **Go Around Instructions** if the controller observes a loss of separation on the final approach or an obstruction on the runway that will not clear before the arriving aircraft meets the 2nm clearance issued critera. 
