@@ -10,13 +10,14 @@ toc_max_heading_level: 6
 |--------------|--------------------|---------------------|
 | Version 1    | 13AUG25            | Initial Publication |
 | Version 2    | 30OCT25            | Revision #1         |
+| Version 3    | 07MAY26            | Revision #2         |
 
 ----
 
 ## Chapter 1. Position Overview 
 **Bahrain Delivery (DLV)** provides aircraft with a departure clearance and is responsible for passing the ATIS (Automatic Terminal Information Service) to the pilot. DLV Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct initial heading after departure, the initial altitude and assigned squawk code. 
 
-Once clearance has been issued and readback correctly from the pilot the DLV controller will transfer the aircraft to the GMC controller when they report they are ready for pushback and start. During busy periods the GMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
+Once clearance has been issued and readback correctly from the pilot the DLV Controller will transfer the aircraft to the GMC Controller when they report they are ready for pushback and start. During busy periods the GMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
 
 ----
 
@@ -43,22 +44,22 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **DLV Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, initial climb 4000 ft, squawk 4212"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"GFA178, Negative. Cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, Negative, cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, initial climb altitude 4000 ft, squawk 4212"**_
 
 !!!node "Be patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **DLV Controller:** _**"GFA178, read back is correct, information Alpha is current, report when ready for push and start."**_
+> **DLV Controller:** _**"GFA178, readback correct, information Alpha is current, report ready for pushback and start."**_
 
-When the aircraft has reported ready for push and start they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter.** 
+When the aircraft has reported ready for pushback and start they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter.** 
 
 ### 2.1.1 Airway Clearances
 Due to the lack of Standard Instrument Departures out of Bahrain all aircraft should be provided with an airway clearance followed by an initial heading to fly after departure. 
@@ -85,7 +86,7 @@ To prevent the aircraft after departure immediately turning for the BHR VOR they
     Aircraft departing OBBI are **NOT** permitted to leave the OBBB FIR via N685 TULUB.
 
 ### 2.1.2 Datalink Clearances (DCL)
-Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DLV Controller. This service can only be provided to pilot who's aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
+Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DLV Controller. This service can only be provided to pilots whose aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
 It is a requirement of the DLV Controller to ensure datalink is available at all times through the use of Hoppie ACARS.
 
 ### 2.1.3 Incorrect Filed Flight Plans
@@ -106,25 +107,31 @@ Multiple destinations across the Gulf Region have level capped routings due to o
 
 | **Destination** | **Max Altitude / Flight Level** |
 |:---------------:|:-------------------------------:|
-|       OT**      |             11000ft             |
+|       OT**      |             11000 ft            |
 |       OM**      |              FL250              |
 |       OOMS      |              FL330              |
 |       OKKK      |              FL260              |
-|       OEDF      |              6000ft             |
+|       OEDF      |              6000 ft            |
 
 ### 2.1.6 Flow Restrictions
 
 #### 2.1.6.1 Target Off Block Time (TOBT)
-When A-CDM procedures are active (typically during busy events), pilots must report their confirmed TOBT on vacdm.vatsim.me, which is then displayed in the controllers client on the departure list. A fully green time indicates a confirmed TOBT. If a pilot has not confirmed their TOBT, the controller should request it on frequency and update the departure list accordingly.
+When A-CDM procedures are active (typically during busy events), pilots must report their confirmed TOBT on vacdm.vatsim.me, which is then displayed in the controller's client on the departure list. A fully green time indicates a confirmed TOBT. If a pilot has not confirmed their TOBT, the controller should request it on frequency and update the departure list accordingly.
 
-The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
+The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for pushback and start but does not begin pushing within 2-5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
 
 Please note TOBTs are only issued during certain events, this will be outlined via Khaleej vACC Events Staff if TOBT procedures are to be implemented for that particular event. You are required to tell the appropriate member of staff if you're not familiar with A-CDM procedures. 
+
+### 2.1.6.2 Departure Sequencing
+
+During periods of high traffic demand, the DLV Controller may delay the release of aircraft to GMC in order to regulate departure flow and reduce congestion on taxiways and holding points.
+
+Coordination between DLV, GMC and APP is essential to maintain an efficient departure sequence.
 
 ### 2.2 Departure Procedures
 Bahrain does not have any published Standard Instrument Departures (SIDs). Instead, Delivery will assign an initial heading to departing aircraft. 
 
-The Aircraft will then be provided radar vectors from Bahrain Approach after departure. 
+Aircraft will then be provided radar vectors from Bahrain Approach after departure. 
 
 | **Runway** | **Initial Takeoff Heading** |     **Route**    |
 |:----------:|:---------------------------:|:----------------:|
@@ -133,13 +140,16 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
 |     12L    |             075°            | All Routes       |
 
 !!!node "Initial Climb"
-    The initial climb for aircraft departing Bahrain International Airport is **3000ft for propeller aircraft** and **4000ft for jet aircraft.** 
+    The initial climb for aircraft departing Bahrain International Airport is **3000 ft for propeller aircraft** and **4000 ft for jet aircraft.** 
+
+!!!node "Radar Vector Departures"
+    Initial headings issued by Bahrain Delivery are designed to position aircraft for radar vectors from Bahrain Approach onto their filed airway.    
 
 ### 2.3 VFR Procedures 
 
 - VFR Flights shall not take place above FL150 to prevent entering the Class A Airspace.
-- VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
-- **Bahrain Tower (TWR)** and **Bahrain Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Terminal Manevuering Area** if traffic levels permit.
+- VFR Flights are not permitted when the ceiling is less than 1500 ft or when the ground visibility is less than 5 km. 
+- **Bahrain Tower (TWR)** and **Bahrain Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Terminal Maneuvering Area** if traffic levels permit.
 - All VFR departures shall be assigned a discrete SSR code so that positive identification is established. 
 - VFR aircraft are assigned discrete, or specific, squawk codes to allow for positive identification on radar, especially when flying through controlled airspace.
 
@@ -147,28 +157,28 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
 VFR Departures VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Maneuvering Area (TMA)**. There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination.
 
 #### 2.3.2 VFR Clearances
-DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DLV must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the DLV Controller to pass to the pilot. 
+DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DLV must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide an estimated delay time to the DLV Controller to pass to the pilot. 
 
 #### 2.3.3 VFR Circuits
-Once **Bahrain Delivery (DLV)** has recieved confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
+Once **Bahrain Delivery (DLV)** has received confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
 
 !!!node "Act Promptly"
     When you see a pilot file a VFR FPL ensure you act promptly and efficiently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
 
 | **Runway Configuration** | **Direction** | **Altitude** |
 |:------------------------:|:-------------:|:------------:|
-|            30R           |   Right Hand  |    1000ft    |
-|            12L           |   Left Hand   |    1000ft    |
+|            30R           |   Right Hand  |    1000 ft    |
+|            12L           |   Left Hand   |    1000 ft    |
 
 ***VFR Circuit Clearance Example***
 
-> **DLV Controller:** _**"A9C-ZZ, cleared right hand circuits RWY30R, not above altitude 1000ft VFR, squawk 7001"**_
+> **DLV Controller:** _**"A9C-ZZ, cleared right hand circuits RWY30R, not above altitude 1000 ft VFR, squawk 7001"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **DLV Controller:** _**"A-ZZ, read back is correct, information Alpha is current, report ready for startup."**_
+> **DLV Controller:** _**"A-ZZ, readback correct, information Alpha is current, report ready for startup."**_
 
 !!!node "Callsign Shortening" 
     After initial contact has been made and established with the aircraft, you can shorten the callsign from A9C-ZZ to A-ZZ, read as Alpha - Zulu - Zulu. This is to reduce frequency congestion.
@@ -188,7 +198,7 @@ Controller:
 >"A9C-AA, BAHRAIN Delivery, cleared on track SAKHIR, altitude 1000 feet VFR, Squawk 6006"
 
 Pilot:
->"Cleared on track SAHIR, Altitude 1000 feet VFR, Squawk 6006"
+>"Cleared on track SAKHIR, Altitude 1000 feet VFR, Squawk 6006"
 
 Controller:
 >"A9C-AA, Readback Correct, information Charlie current, QNH 1011, report ready for startup"
