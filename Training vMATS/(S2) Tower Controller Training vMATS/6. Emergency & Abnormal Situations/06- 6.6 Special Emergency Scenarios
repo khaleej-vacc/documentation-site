@@ -1,0 +1,137 @@
+## 6.6 Special Emergency Scenarios
+
+Certain emergency situations require specific considerations beyond standard procedures.
+
+The Tower Controller shall adapt handling based on the nature and severity of the emergency while maintaining safety as the overriding priority.
+
+---
+
+## 6.6.1 Fire On Board
+
+A fire on board is a critical emergency requiring immediate landing.
+
+The Tower Controller shall:
+
+- Prioritise the aircraft immediately  
+- Ensure the runway is available without delay  
+- Stop departures where required  
+- Provide the shortest and safest routing for landing  
+- Alert emergency services immediately  
+
+**Example:**
+
+    GFA123, roger MAYDAY, runway 27 cleared to land, wind 270 degrees 8 knots, emergency services are standing by.
+
+---
+
+## 6.6.2 Medical Emergency
+
+Medical emergencies may require priority handling.
+
+The Tower Controller shall:
+
+- Provide priority handling where requested  
+- Coordinate with medical services on the ground  
+- Minimise delay to landing  
+- Provide direct routing where possible  
+
+**Example:**
+
+    GFA456, roger PAN PAN, runway 27 cleared to land, medical assistance will be available on arrival.
+
+---
+
+## 6.6.3 Fuel Emergency
+
+Fuel-related situations require careful assessment.
+
+The Tower Controller shall:
+
+- Determine whether the situation is minimum fuel or MAYDAY fuel  
+- Provide priority handling where required  
+- Avoid unnecessary delay or vectoring  
+- Ensure sequencing supports immediate landing  
+
+The Tower Controller shall recognise:
+
+- **Minimum fuel** indicates that no delay can be accepted  
+- **MAYDAY fuel** indicates an emergency requiring priority  
+
+**Example:**
+
+    GFA789, roger MAYDAY fuel, runway 27 cleared to land, no delay expected.
+
+---
+
+## 6.6.4 Unlawful Interference (Hijack)
+
+Security situations shall be handled discreetly and in accordance with applicable procedures.
+
+The Tower Controller shall:
+
+- Avoid transmitting sensitive information on frequency  
+- Continue normal communication unless otherwise required  
+- Follow instructions from competent authorities  
+- Monitor the aircraft continuously  
+
+The Tower Controller shall not request confirmation of unlawful interference unless operationally necessary.
+
+Indicators may include:
+
+- SSR code 7500  
+- Unusual or coded communication  
+- Unexplained deviations from clearance  
+
+---
+
+## 6.6.5 Radio Failure in an Emergency Context
+
+Where an aircraft experiences both an emergency and radio communication failure, the Tower Controller shall:
+
+- Assume the aircraft will follow published procedures  
+- Continue transmitting instructions where possible  
+- Protect the runway and surrounding airspace  
+- Monitor the aircraft for expected behaviour  
+
+The Tower Controller shall anticipate pilot intentions and ensure separation from other traffic.
+
+---
+
+## 6.6.6 Evacuation After Landing
+
+Where an evacuation occurs, the Tower Controller shall:
+
+- Stop all traffic on affected surfaces  
+- Protect the runway and surrounding area  
+- Coordinate emergency response immediately  
+- Prevent other aircraft and vehicles from entering the area  
+
+No movement shall be permitted that may interfere with emergency operations.
+
+---
+
+## 6.6.7 Multiple Emergencies
+
+In the event of multiple simultaneous emergencies, the Tower Controller shall:
+
+- Prioritise based on severity and immediacy of risk  
+- Request assistance or relief where available  
+- Simplify traffic to the greatest extent possible  
+- Focus on maintaining safe separation  
+
+The Tower Controller shall ensure that workload remains manageable and that critical tasks are prioritised.
+
+---
+
+## 6.6.8 Key Principle
+
+In all special emergency scenarios, the Tower Controller shall:
+
+- Prioritise safety above all other considerations  
+- Act decisively and without delay  
+- Maintain clear and controlled communication  
+- Ensure coordination is timely and confirmed  
+
+All actions shall be directed towards maintaining control of the traffic situation and ensuring a safe outcome.
+
+---
