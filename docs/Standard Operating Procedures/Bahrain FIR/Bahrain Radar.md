@@ -157,7 +157,9 @@ This includes coordination of:
 - Holding instructions
 - Non-standard operations
 
-Where operationally practical, silent handoffs may be utilised between Bahrain ACC sectors provided there are no changes to the aircraft’s clearance or profile.
+- Where operationally practical, silent handoffs may be utilised between Bahrain ACC sectors provided there are no changes to the aircraft’s clearance or profile.
+
+- Non-standard climb, descent or routing requests must be coordinated with the receiving FIR prior to approval.
 
 !!!node "Transfer Expectations"
     Aircraft should normally be transferred prior to entering the receiving controller’s area of responsibility unless otherwise coordinated.
@@ -175,18 +177,13 @@ Bahrain Radar is responsible for initiating descents of arrivals to neighbouring
 | GEXIM        | FL290             | OBBB_CL/1               | OTHH                          |                 |
 | DEGSO        | FL310             | OBBB_2/1                | OMDB, OMDW, OMSJ, OMRK, OMFJ  | Airway M677     |
 | TOMSO        | FL310             | OBBB_2/1                | OMDB, OMDW, OMSJ, OMRK, OMFJ  | Airway P559     |
-| ALKAN        | FL240             | OBBB_1                  | OBBI                          |                 |
-| OBROS        | FL160             | OBBB_1                  | OBBI                          |                 |
+| ALKAN        | FL240             | OBBB_E                  | OBBI                          |                 |
+| OBROS        | FL160             | OBBB_E                  | OBBI                          |                 |
+| OBROS        | FL180             | OBBB_E                  | OEDF                          |                 |
 
 !!!node "LOAs"
     For traffic inbound into the OMAE or OTDF FIRs, please refer to our LOA with the Arabian vACC [here](https://docs.khaleejvacc.net/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/).
-
----
-
-## FIR Boundary & Transfer Procedures 
-
-Aircraft transferred between Bahrain FIR and adjacent FIRs shall comply with the applicable Letters of Agreement (LOAs) and transfer conditions. Controllers shall ensure: - Aircraft are transferred level and speed restricted where required. - Correct airway routing is maintained. - Coordination is completed for non-standard operations. | **Adjacent FIR** | **Typical Transfer Level** | |------------------|-----------------------------| | OMAE | FL320 | | OTDF | FL290 | | OKAC | FL260 | | OTHH | FL290 | !!!node "Boundary Coordination" Non-standard climb, descent or routing requests must be coordinated with the receiving FIR prior to approval.
-
+    
 ## Speed Control Procedures
 
 Bahrain Radar may utilise speed control to assist with sequencing and traffic flow management.
