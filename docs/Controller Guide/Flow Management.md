@@ -32,9 +32,9 @@ During low traffic periods, controllers may apply A-CDM procedures flexibly and 
 
 ---
 
-# Definitions
+## Definitions
 
-## Estimated Off-Block Time (EOBT)
+### Estimated Off-Block Time (EOBT)
 
 General estimate as to when an aircraft will be ready to start-up or push-back.
 
@@ -43,7 +43,7 @@ General estimate as to when an aircraft will be ready to start-up or push-back.
 
 ---
 
-## Target Off-Block Time (TOBT)
+### Target Off-Block Time (TOBT)
 
 The time aircraft operators estimate that the aircraft will be fully ready for immediate startup or pushback.
 
@@ -57,7 +57,7 @@ This includes:
 
 ---
 
-## Target Start-Up Approval Time (TSAT)
+### Target Start-Up Approval Time (TSAT)
 
 Calculated time at which start-up approval can reasonably be expected.
 
@@ -75,9 +75,9 @@ TSAT considers multiple operational factors, including:
 
 ---
 
-# Controller Responsibilities
+## Controller Responsibilities
 
-## Clearance Delivery (DEL)
+### Clearance Delivery (DEL)
 
 DEL controllers are responsible for:
 
@@ -90,7 +90,7 @@ DEL controllers are responsible for:
 
 ---
 
-## Ground (GND)
+### Ground (GND)
 
 Ground controllers are responsible for:
 
@@ -103,7 +103,7 @@ Ground controllers are responsible for:
 
 ---
 
-## Tower (TWR)
+### Tower (TWR)
 
 Tower controllers are responsible for:
 
@@ -115,7 +115,7 @@ Tower controllers are responsible for:
 
 ---
 
-# Using CDM
+## Using CDM
 
 <p style="text-align: center; font-style: italic;">
 Figure 1.1
@@ -197,27 +197,6 @@ Aircraft occupying operationally critical stands may receive priority startup ap
 
 ---
 
-# Hajj Operations Considerations
-
-During Hajj operations, controllers should expect:
-
-- Large concentrations of widebody aircraft
-- Heavy departure banks
-- Increased remote stand usage
-- Extended taxi times
-- Increased frequency congestion
-- High coordination workload
-
-Recommended operational techniques include:
-
-- Startup batching
-- Directional departure grouping
-- Remote stand prioritisation
-- Staggered pushback release
-- Increased TOBT discipline
-
----
-
 # Common Controller Errors
 
 The following issues commonly reduce operational efficiency during high-density operations:
@@ -232,9 +211,9 @@ The following issues commonly reduce operational efficiency during high-density 
 
 ---
 
-# Example Scenarios
+## Example Scenarios
 
-## Missed TSAT
+### Missed TSAT
 
 Aircraft reports ready after assigned TSAT.
 
@@ -247,7 +226,7 @@ Recommended controller actions:
 
 ---
 
-## Apron Saturation
+### Apron Saturation
 
 Taxiways approaching practical capacity.
 
