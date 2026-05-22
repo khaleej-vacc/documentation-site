@@ -39,7 +39,7 @@ During low traffic periods, controllers may apply A-CDM procedures flexibly and 
 General estimate as to when an aircraft will be ready to start-up or push-back.
 
 !!! note
-    EOBT is normally static and does not dynamically adjust to operational conditions.
+    Do note that the TOBT is more accurate as it may be updated, whereas the EOBT is static.
 
 ---
 
