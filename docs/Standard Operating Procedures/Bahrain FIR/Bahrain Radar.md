@@ -14,7 +14,7 @@ toc_max_heading_level: 6
 
 ---
 
-## Sub-Sectors
+## FIR Overview
 
 <p align="center">
   <strong>SECTOR DIAGRAM</strong><br>
