@@ -157,9 +157,9 @@ This includes coordination of:
 - Holding instructions
 - Non-standard operations
 
-- Where operationally practical, silent handoffs may be utilised between Bahrain ACC sectors provided there are no changes to the aircraft’s clearance or profile.
+Where operationally practical, silent handoffs may be utilised between Bahrain ACC sectors provided there are no changes to the aircraft’s clearance or profile.
 
-- Non-standard climb, descent or routing requests must be coordinated with the receiving FIR prior to approval.
+Non-standard climb, descent or routing requests must be coordinated with the receiving FIR prior to approval.
 
 !!!node "Transfer Expectations"
     Aircraft should normally be transferred prior to entering the receiving controller’s area of responsibility unless otherwise coordinated.
