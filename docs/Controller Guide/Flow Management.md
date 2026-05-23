@@ -27,7 +27,7 @@ A-CDM procedures should normally be considered active when:
 - CTOT restrictions are in effect
 - Controller workload requires structured sequencing
 
-During low traffic periods, controllers may apply A-CDM procedures flexibly and pragmatically.
+During low traffic periods, controllers may apply A-CDM procedures as required.
 
 ---
 
@@ -35,7 +35,7 @@ During low traffic periods, controllers may apply A-CDM procedures flexibly and 
 
 ### Estimated Off-Block Time (EOBT)
 
-General estimate as to when an aircraft will be ready to start-up or push-back.
+General estimate as to when an aircraft will be ready to start-up or push-back. This is filed in a pilots flightplan.
 
 !!! note
     Do note that the TOBT is more accurate as it may be updated, whereas the EOBT is static.
