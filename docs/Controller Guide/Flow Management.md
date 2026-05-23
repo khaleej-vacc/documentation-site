@@ -23,7 +23,6 @@ A-CDM procedures should normally be considered active when:
 
 - Departure demand exceeds practical aerodrome capacity
 - Major events are in progress
-- Hajj or Umrah operations are active
 - Significant outbound congestion is expected
 - CTOT restrictions are in effect
 - Controller workload requires structured sequencing
