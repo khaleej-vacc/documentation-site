@@ -106,7 +106,6 @@ Ground controllers are responsible for:
 
 Tower controllers are responsible for:
 
-- Optimising runway throughput
 - Maintaining departure spacing
 - Coordinating arrival and departure balance
 - Supporting continuous movement flow
@@ -114,7 +113,7 @@ Tower controllers are responsible for:
 
 ---
 
-## Using CDM
+## Using A-CDM
 
 <p style="text-align: center; font-style: italic;">
 Figure 1.1
@@ -152,7 +151,6 @@ Operational considerations may include:
 - Stand blockage
 - Departure direction
 - CTOT restrictions
-- Runway throughput
 - Apron saturation
 
 During periods of high demand, startups may be released in controlled batches to reduce congestion and improve taxi flow.
@@ -234,7 +232,7 @@ Recommended controller actions:
 - Suspend additional push approvals
 - Release aircraft in controlled batches
 - Prioritise blocked stands where practical
-- Coordinate holding areas proactively
+- Coordinate with DEL to add an additional delay for pushbacks
 
 ---
 
