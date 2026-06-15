@@ -1,35 +1,49 @@
+/* =========================
+   ROOT / THEME
+========================= */
+
 :root > * {
-  --md-primary-fg-color: hwb(210 0% 60%);
+  --md-primary-fg-color: rgb(25, 30, 44);
 }
 
-/* Reset base layout */
-html, body {
+/* =========================
+   GLOBAL RESET
+========================= */
+
+html,
+body {
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
-/* Full-width layout for main area */
-.md-main {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+/* =========================
+   DESKTOP LAYOUT
+========================= */
+
+@media screen and (min-width: 960px) {
+  .md-main {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .md-main__inner {
+    max-width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .md-content {
+    max-width: 100% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 
-/* Full-width inner container */
-.md-main__inner {
-  max-width: 100% !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
+/* =========================
+   HEADER
+========================= */
 
-/* Page content padding */
-.md-content {
-  max-width: 100% !important;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-/* Header: space between title and repo */
 .md-header__inner {
   display: flex !important;
   justify-content: space-between !important;
@@ -38,34 +52,45 @@ html, body {
   padding-right: 0 !important;
 }
 
-/* Align logo/title to far left */
 .md-header__title {
   margin-left: 1.5rem !important;
   padding-left: 0 !important;
 }
 
-/* Repo link (/documentation-site) to far right */
 .md-header__source {
   margin-left: auto !important;
   margin-right: 0.25rem !important;
 }
 
-/* Align nav tabs (top menu links) to far left */
+/* =========================
+   TOP NAVIGATION TABS
+========================= */
+
 .md-tabs {
   justify-content: flex-start !important;
+
   margin-left: 0 !important;
+
   padding-left: 0.25rem !important;
   padding-right: 0.25rem !important;
+
+  background-color: rgb(30, 35, 49) !important;
 }
 
-/* Sidebar untouched */
+/* =========================
+   SIDEBARS
+========================= */
+
 .md-sidebar--primary,
 .md-sidebar--secondary {
   margin: initial !important;
   padding: initial !important;
 }
 
-/* Center tables optionally */
+/* =========================
+   TABLES
+========================= */
+
 table {
   display: table;
   margin: 0 auto;
@@ -76,17 +101,29 @@ table {
 }
 
 .md-typeset__table table:not([class]) {
-  display: table
+  display: table;
 }
+
+/* =========================
+   BLOCKQUOTES
+========================= */
 
 blockquote {
-    padding: 1px 2px;
-    margin: 0 0 20px;
-    font-size: 14px;
-    border-left: 5px solid #eee;
+  padding: 1px 2px;
+  margin: 0 0 20px;
+  font-size: 14px;
+  border-left: 5px solid #eee;
 }
 
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
+/* =========================
+   IMAGES
+========================= */
+
+img[src*="#center"] {
+  display: block;
+  margin: auto;
+}
+
+.md-tabs__item--active {
+    box-shadow: inset 0 -1px 0 0 #ffffff !important;
 }
