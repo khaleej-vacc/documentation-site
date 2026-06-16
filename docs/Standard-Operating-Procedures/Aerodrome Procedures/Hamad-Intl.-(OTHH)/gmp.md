@@ -141,7 +141,7 @@ Departures heading eastbound shall be handed over to Doha Approach (East), while
     **Controller**: "TCM1TM, Hamad Clearance Delivery, information Z correct, cleared to Jeddah via radar vectors, after departure runway 34L, fly runway heading, maintain 3000FT, squawk 2610."
     
 
-    **Pilot**: "Cleared to Jeddah cleared to Jeddah via radar vectors, after departure runway 34L, fly runway heading, maintain 3000FT, squawk 2610, TCM1TM."
+    **Pilot**: "Cleared to Jeddah via radar vectors, after departure runway 34L, fly runway heading, maintain 3000FT, squawk 2610, TCM1TM."
 
     **Controller**: "TCM1TM, readback correct, QNH 1014, report ready for pushback."
 
