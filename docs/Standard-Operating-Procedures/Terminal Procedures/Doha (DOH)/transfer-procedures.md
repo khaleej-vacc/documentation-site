@@ -11,8 +11,15 @@ Traffic shall always be handed off to DIR with a speed restriction on **190 knot
 
 Hand offs to DIR must be at **5,000FT** when arriving on the eastern downwind, and **6,000FT** when on the western downwind. This applies for all runway configurations.
 
-### 5.3 Hand off procedures
-#### 5.3.1 Arrivals - Doha/Hamad
+### 5.3 Transfers between Approach (APP) and Radar (RDR)
+Doha Approach will climb departures from OTHH and OTBD to 12000FT. Higher levels may be assigned with coordination with the appropriate Radar controller. 
+
+Likewise, arrivals into OTHH and OTBD will be descended to 12000FT by Doha Radar. Lower levels may be assigned with coordination with the appropiate Approach controller.
+
+Controllers shall release traffic no later than ±5,000 ft from the aircraft's assigned level to allow for continuous descent/climb.
+
+### 5.4 Hand off procedures
+#### 5.4.1 Arrivals - Doha/Hamad
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
 |-------------------|---------------|-------------------------------------------|
 | OTHH              | HAYYA         | Released from Bahrain Central Lower to Doha Control at FL290 -> Traffic released to Doha Radar North at FL210 -> Doha Approach West -> Doha Director West |
@@ -23,6 +30,6 @@ Hand offs to DIR must be at **5,000FT** when arriving on the eastern downwind, a
 | OTHH              | VEDED         | Released from Tehran South to Doha Control at MIDSI FL240 BLW -> Traffic released from Doha Control to Doha Approach East at VEDED FL180 -> Traffic released to Doha Director East/West. |
 | OTHH              | ALKAN         | Released from Tehran South to Doha Control at FL245 BLW -> Traffic released from Doha Control to Doha Approach East at ALKAN FL200 -> Traffic released to Doha Director East/West. |
 
-#### 5.3.2 Arrivals into OBBB FIR
+#### 5.4.2 Arrivals into OBBB FIR
 
 Departures from the OTDF FIR inbound to **OBBI, OBBS, and OBKH** shall be transferred to Bahrain Approach (OBBI_APP) levelled at 12,000FT before PATOM, provided surrounding traffic is not a factor. Lower altitudes may be assigned only with coordination.
