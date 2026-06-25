@@ -24,54 +24,55 @@ By default, aircraft should be assigned the STAR that allows for the shortest tr
 
     Aircraft can be sequenced on any of the STARs that guide them either to the east or west downwinds, depending on sector capacity and controller workload. The most efficient routing options should always be utilized to avoid having one downwind more saturated than the other.
 
-##### 3.1.2.1 Doha 15 / Hamad 16s
-| Procedure |        Type        | Length | Downwind |
-|:---------:|:------------------:|:------:|:--------:|
-|  HAYYA1K  |      Trombone      |  Long  |   West   | 
-|  HAYYA1F  |      Trombone      |  Long  |   West   | 
-|  HAYYA2H  | Direct to Downwind |  Short |   East   | 
-|  HAYYA1P  |      Trombone      |  Long  |   East   | 
-|  ALKAN1F  |      Trombone      |  Long  |   West   | 
-|  ALKAN2H  | Direct to Downwind |  Short |   East   | 
-|  ALKAN1P  |      Trombone      |  Long  |   East   | 
-|  LAEEB2F  | Direct to Downwind |  Short |   West   | 
-|  LAEEB2K  |      Trombone      |  Long  |   West   | 
-|  LAEEB1P  | Direct to Downwind |  Short |   East   | 
-|  ORLEK2F  |      Trombone      |  Long  |   West   | 
-|  ORLEK1P  | Direct to Downwind |  Short |   East   | 
-|  TOSNA1P  | Direct to Downwind |  Short |   East   | 
-|  TOSNA1T  |      Trombone      |  Long  |   East   | 
-|  TOSNA2F  |      Trombone      |  Long  |   West   | 
-|  TOVOX2P  | Direct to Downwind |  Short |   East   | 
-|  TOVOX2F  |      Trombone      |  Long  |   West   | 
-|  VEDED1F  |      Trombone      |  Long  |   West   | 
-|  VEDED2H  | Direct to Downwind |  Short |   East   | 
-|  VEDED1P  |      Trombone      |  Long  |   East   | 
+=== "Doha 33 / Hamad 34s"
+	 | Procedure |        Type        | Length | Downwind |
+     |:---------:|:------------------:|:------:|:--------:|
+     |  HAYYA2L  |      Trombone      |  Long  |   West   | 
+     |  HAYYA1J  |      Trombone      |  Long  |   West   | 
+     |  HAYYA2R  |      Trombone      |  Long  |   East   | 
+     |  HAYYA2V  | Direct to Downwind |  Short |   East   | 
+     |  ALKAN2L  |      Trombone      |  Long  |   West   | 
+     |  ALKAN2R  |      Trombone      |  Long  |   East   | 
+     |  ALKAN2V  | Direct to Downwind |  Short |   East   | 
+     |  LAEEB1J  |      Trombone      |  Long  |   West   | 
+     |  LAEEB1R  |      Trombone      |  Long  |   East   | 
+     |  LAEEB1L  | Direct to Downwind |  Short |   West   | 
+     |  ORLEK1L  | Direct to Downwind |  Short |   West   | 
+     |  ORLEK1R  | Direct to Downwind |  Short |   East   | 
+     |  TOSNA2J  |      Trombone      |  Long  |   West   | 
+     |  TOSNA2R  | Direct to Downwind |  Short |   East   | 
+     |  TOSNA2V  |      Trombone      |  Long  |   East   | 
+     |  TOSNA2L  |      Trombone      |  Long  |   West   | 
+     |  TOVOX2R  | Direct to Downwind |  Short |   East   | 
+     |  TOVOX2L  |      Trombone      |  Long  |   West   | 
+     |  VEDED2L  |      Trombone      |  Long  |   West   | 
+     |  VEDED2R  |      Trombone      |  Long  |   East   | 
+     |  VEDED2V  | Direct to Downwind |  Short |   East   | 
 
-##### 3.1.2.2 Doha 33 / Hamad 34s
-| Procedure |        Type        | Length | Downwind |
-|:---------:|:------------------:|:------:|:--------:|
-|  HAYYA2L  |      Trombone      |  Long  |   West   | 
-|  HAYYA1J  |      Trombone      |  Long  |   West   | 
-|  HAYYA2R  |      Trombone      |  Long  |   East   | 
-|  HAYYA2V  | Direct to Downwind |  Short |   East   | 
-|  ALKAN2L  |      Trombone      |  Long  |   West   | 
-|  ALKAN2R  |      Trombone      |  Long  |   East   | 
-|  ALKAN2V  | Direct to Downwind |  Short |   East   | 
-|  LAEEB1J  |      Trombone      |  Long  |   West   | 
-|  LAEEB1R  |      Trombone      |  Long  |   East   | 
-|  LAEEB1L  | Direct to Downwind |  Short |   West   | 
-|  ORLEK1L  | Direct to Downwind |  Short |   West   | 
-|  ORLEK1R  | Direct to Downwind |  Short |   East   | 
-|  TOSNA2J  |      Trombone      |  Long  |   West   | 
-|  TOSNA2R  | Direct to Downwind |  Short |   East   | 
-|  TOSNA2V  |      Trombone      |  Long  |   East   | 
-|  TOSNA2L  |      Trombone      |  Long  |   West   | 
-|  TOVOX2R  | Direct to Downwind |  Short |   East   | 
-|  TOVOX2L  |      Trombone      |  Long  |   West   | 
-|  VEDED2L  |      Trombone      |  Long  |   West   | 
-|  VEDED2R  |      Trombone      |  Long  |   East   | 
-|  VEDED2V  | Direct to Downwind |  Short |   East   | 
+=== "Doha 15 / Hamad 16s"
+
+     | Procedure |        Type        | Length | Downwind |
+     |:---------:|:------------------:|:------:|:--------:|
+     |  HAYYA1K  |      Trombone      |  Long  |   West   | 
+     |  HAYYA1F  |      Trombone      |  Long  |   West   | 
+     |  HAYYA2H  | Direct to Downwind |  Short |   East   | 
+     |  HAYYA1P  |      Trombone      |  Long  |   East   | 
+     |  ALKAN1F  |      Trombone      |  Long  |   West   | 
+     |  ALKAN2H  | Direct to Downwind |  Short |   East   | 
+     |  ALKAN1P  |      Trombone      |  Long  |   East   | 
+     |  LAEEB2F  | Direct to Downwind |  Short |   West   | 
+     |  LAEEB2K  |      Trombone      |  Long  |   West   | 
+     |  LAEEB1P  | Direct to Downwind |  Short |   East   | 
+     |  ORLEK2F  |      Trombone      |  Long  |   West   | 
+     |  ORLEK1P  | Direct to Downwind |  Short |   East   | 
+     |  TOSNA1P  | Direct to Downwind |  Short |   East   | 
+     |  TOSNA1T  |      Trombone      |  Long  |   East   | 
+     |  TOSNA2F  |      Trombone      |  Long  |   West   | 
+     |  TOVOX2P  | Direct to Downwind |  Short |   East   | 
+     |  TOVOX2F  |      Trombone      |  Long  |   West   | 
+     |  VEDED1F  |      Trombone      |  Long  |   West   | 
+     |  VEDED2H  | Direct to Downwind |  Short |   East   | 
+     |  VEDED1P  |      Trombone      |  Long  |   East   | 
 
 #### 3.1.3 Instrument Approach
 The ILS approach is typically the preferred approach type. Aircraft may be cleared for a visual approach provided the conditions outlined in Section 3.1.4 are met.  
@@ -192,67 +193,69 @@ During periods of high arrival traffic, direct routings may also be issued from 
 !!! example
     **Controller**: “QTR8721, turn right direct EGNUG, rejoin the STAR.” 
 
-#### 3.4.3 Direct Routing Procedure - Doha 15 / Hamad 16s
+#### 3.4.3 Direct Routing Procedure
 
-| Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
-|-------------------|--------------|--------|------------|----------------------|
-|    OTHH/OTBD      |    HAYYA1K   | LAGNO  | Shall not adversely affect ARR sequence, must be clear of restricted areas | pre-coordinated |
-|    OTHH/OTBD      |    HAYYA1F   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP W |
-|    OTHH/OTBD      |    HAYYA2H   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
-|    OTHH/OTBD      |    HAYYA1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
-|    OTHH/OTBD      |    ALKAN1F   | LUBAK/LOVET | Traffic to remain above 11,000FT, further descend to be coordinated | pre-coordinated |
-|    OTHH/OTBD      |    ALKAN2H   | LOVET  | Shall not adversely affect ARR sequence | RDR N to APP E |
-|    OTHH/OTBD      |    ALKAN1P   | LUBAK/LOVET | Released for descent to 8,000FT - 6,000FT by RDR N | RDR N to APP E |
-|    OTHH/OTBD      |    LAEEB2K   | DASIK  | Shall not adversely affect ARR sequence | pre-coordinated |
-|    OTHH/OTBD      |    LAEEB1P   | MUXED  | Shall not adversely affect ARR sequence | pre-coordinated |
-|    OTHH/OTBD      |    ORLEK2F   | KIPIK  | Shall be given only **after** LAGNO, and must be assured that aircraft is clear of restricted airspaces | pre-coordinated |
-|    OTHH/OTBD      |    ORLEK1P   | EGNUG  | Shall be given only **after** LAGNO, and must be assured that aircraft is clear of restricted airspaces | pre-coordinated |
-|    OTHH/OTBD      |    TOSNA1P   | MUXED/EGNUG | Released for descent to 8,000FT - 6,000FT by RDR S  | pre-coordinated |
-|    OTHH/OTBD      |    TOSNA1T   | LOVET  | Shall not adversely affect ARR sequence, released for descent to 6,000FT by RDR N | RDR N to APP E |
-|    OTHH/OTBD      |    TOVOX2P   | MUXED/SIDMU | Shall not adversely affect ARR sequence | RDR S to APP E |
-|    OTHH/OTBD      |    VEDED1F   | BAYAN  | Traffic to remain above 11,000FT, further descend to be coordinated | RDR N to APP W |
-|    OTHH/OTBD      |    VEDED2H   | BAYAN | Shall not adversely affect ARR sequence | RDR N to APP E |
-|    OTHH/OTBD      |    VEDED1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence | RDR N to APP E |
+=== "Doha 33 / Hamad 34s"
 
-!!! warning
-    Aircraft on the TOSNA2F, and TOVOX2F shall not be given a direct, and instead released for descent by RDR N to 12,000FT within KIVAM, and issued further descent to 8,000FT reaching DASIK.
+     | Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
+     |-------------------|--------------|--------|------------|----------------------|
+     |    OTHH/OTBD      |    HAYYA2L   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT | RDR N to APP W |
+     |    OTHH/OTBD      |    HAYYA2R   | EGNUG/LUBAK | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT if direct LUBAK, 8,000FT if direct EGNUG | RDR N to APP E (LUBAK)<br>pre-coordinated (EGNUG) |
+     |    OTHH/OTBD      |    HAYYA2V   | EGNUG  | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT | pre-coordinated |
+     |    OTHH/OTBD      |    HAYYA1J   | KIPIK | Shall not adversely affect ARR sequence, and must ensure that traffic is clear of restricted airspace | pre-coordinated |
+     |    OTHH/OTBD      |    ALKAN2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    ALKAN2R   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP E |
+     |    OTHH/OTBD      |    LAEEB1L   | MIVAL  | Shall not adversely affect ARR sequence | pre-coordinated |
+     |    OTHH/OTBD      |    LAEEB1R   | AFNAN  | Shall not adversely affect ARR sequence | pre-coordinated |
+     |    OTHH/OTBD      |    TOSNA2J   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR S to 12,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    TOSNA2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.4, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
+     |    OTHH/OTBD      |    TOSNA2R   | AFNAN/LOVET | Shall not adversely affect ARR sequence, released for descent by RDR S to 8,000FT - 6,000FT | pre-coordinated |
+     |    OTHH/OTBD      |    TOVOX2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.5, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
+     |    OTHH/OTBD      |    TOVOX2R   | AFNAN | Shall not adversely affect ARR sequence | pre-coordinated |
+     |    OTHH/OTBD      |    VEDED2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    VEDED2R   | BAYAN/EGNUG |  Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
+     |    OTHH/OTBD      |    VEDED2V   | EGNUG | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
 
-    Aicraft on the LAEEB2F, shall not be given a direct due to the airspace restrictions within the Doha FIR.
+    !!! warning
+        Aircrafts on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 12,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
 
-#### 3.4.4 Direct Routing Procedure - Doha 33 / Hamad 34s
+        Aicrafts on the LAEEB1J, or the ORLEK1L/R arrival shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
-| Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
-|-------------------|--------------|--------|------------|----------------------|
-|    OTHH/OTBD      |    HAYYA2L   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT | RDR N to APP W |
-|    OTHH/OTBD      |    HAYYA2R   | EGNUG/LUBAK | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT if direct LUBAK, 8,000FT if direct EGNUG | RDR N to APP E (LUBAK)<br>pre-coordinated (EGNUG) |
-|    OTHH/OTBD      |    HAYYA2V   | EGNUG  | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT | pre-coordinated |
-|    OTHH/OTBD      |    HAYYA1J   | KIPIK | Shall not adversely affect ARR sequence, and must ensure that traffic is clear of restricted airspace | pre-coordinated |
-|    OTHH/OTBD      |    ALKAN2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
-|    OTHH/OTBD      |    ALKAN2R   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP E |
-|    OTHH/OTBD      |    LAEEB1L   | MIVAL  | Shall not adversely affect ARR sequence | pre-coordinated |
-|    OTHH/OTBD      |    LAEEB1R   | AFNAN  | Shall not adversely affect ARR sequence | pre-coordinated |
-|    OTHH/OTBD      |    TOSNA2J   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR S to 12,000FT within LUBAK | RDR N to APP W |
-|    OTHH/OTBD      |    TOSNA2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.4, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
-|    OTHH/OTBD      |    TOSNA2R   | AFNAN/LOVET | Shall not adversely affect ARR sequence, released for descent by RDR S to 8,000FT - 6,000FT | pre-coordinated |
-|    OTHH/OTBD      |    TOVOX2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.5, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
-|    OTHH/OTBD      |    TOVOX2R   | AFNAN | Shall not adversely affect ARR sequence | pre-coordinated |
-|    OTHH/OTBD      |    VEDED2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
-|    OTHH/OTBD      |    VEDED2R   | BAYAN/EGNUG |  Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
-|    OTHH/OTBD      |    VEDED2V   | EGNUG | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
+=== "Doha 15 / Hamad 16s"
 
-!!! warning
-    Aircrafts on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 12,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
+     | Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
+     |-------------------|--------------|--------|------------|----------------------|
+     |    OTHH/OTBD      |    HAYYA1K   | LAGNO  | Shall not adversely affect ARR sequence, must be clear of restricted areas | pre-coordinated |
+     |    OTHH/OTBD      |    HAYYA1F   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP W |
+     |    OTHH/OTBD      |    HAYYA2H   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    HAYYA1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    ALKAN1F   | LUBAK/LOVET | Traffic to remain above 11,000FT, further descend to be coordinated | pre-coordinated |
+     |    OTHH/OTBD      |    ALKAN2H   | LOVET  | Shall not adversely affect ARR sequence | RDR N to APP E |
+     |    OTHH/OTBD      |    ALKAN1P   | LUBAK/LOVET | Released for descent to 8,000FT - 6,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    LAEEB2K   | DASIK  | Shall not adversely affect ARR sequence | pre-coordinated |
+     |    OTHH/OTBD      |    LAEEB1P   | MUXED  | Shall not adversely affect ARR sequence | pre-coordinated |
+     |    OTHH/OTBD      |    ORLEK2F   | KIPIK  | Shall be given only **after** LAGNO, and must be assured that aircraft is clear of restricted airspaces | pre-coordinated |
+     |    OTHH/OTBD      |    ORLEK1P   | EGNUG  | Shall be given only **after** LAGNO, and must be assured that aircraft is clear of restricted airspaces | pre-coordinated |
+     |    OTHH/OTBD      |    TOSNA1P   | MUXED/EGNUG | Released for descent to 8,000FT - 6,000FT by RDR S  | pre-coordinated |
+     |    OTHH/OTBD      |    TOSNA1T   | LOVET  | Shall not adversely affect ARR sequence, released for descent to 6,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    TOVOX2P   | MUXED/SIDMU | Shall not adversely affect ARR sequence | RDR S to APP E |
+     |    OTHH/OTBD      |    VEDED1F   | BAYAN  | Traffic to remain above 11,000FT, further descend to be coordinated | RDR N to APP W |
+     |    OTHH/OTBD      |    VEDED2H   | BAYAN | Shall not adversely affect ARR sequence | RDR N to APP E |
+     |    OTHH/OTBD      |    VEDED1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence | RDR N to APP E |
 
-    Aicrafts on the LAEEB1J, or the ORLEK1L/R arrival shall not be given a direct due to the airspace restrictions within the Doha FIR.
+    !!! warning
+        Aircraft on the TOSNA2F, and TOVOX2F shall not be given a direct, and instead released for descent by RDR N to 12,000FT within KIVAM, and issued further descent to 8,000FT reaching DASIK.
+
+        Aicraft on the LAEEB2F, shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
 ---
 
 ### 3.5 Final Approach Sequencing
 
-#### 3.5.1 No transgression zone (NTZ)
+#### 3.5.1 No Transgression Zone (NTZ)
 In the context of independent parallel approaches, there is a defined airspace corridor located centrally between the two extended runway centerlines. If an aircraft enters this corridor, air traffic control (ATC) must intervene to maneuver any nearby aircraft on the adjacent approach.
 
-##### 3.5.1.1 Break-out manoeuvre
+##### 3.5.1.1 Break-out Manoeuvre
 If an aircraft infringes the NTZ, the Final Approach Monitoring Controller will issue a breakout instruction to the aircraft under their responsibility to protect it from the threat. Breakout maneuvers include heading and altitude instructions.
 
 The Final Approach Monitoring Controller will override the relevant Tower frequency when issuing a breakout maneuver due to an NTZ infringement from the adjacent approach path.
@@ -289,16 +292,21 @@ Under Low Visibility Operations (LVO), a minimum longitudinal separation of **7 
 ##### 3.5.5.1 Doha-Hamad (OTHH)
 Aircraft establishing on final approach at Doha-Hamad International Airport shall be cleared to the platform altitudes specified below. These altitudes are mandatory for all operations and shall be strictly observed, particularly during independent parallel approach procedures.
 
-| Type | Runway | Platform Altitude       |
-|:----:|:------:|-------------------------|
-|  ILS |   16L  | 2,500FT before the FAP |
-|  RNP |   16L  | 2,500FT before the FAP |
-|  ILS |   16R  | 3,500FT at DEPLA       |
-|  RNP |   16R  | 3,500FT at DEPLA       |
-|  ILS |   34L  | 3,500FT at PASID       |
-|  RNP |   34L  | 3,500FT at PASID       |
-|  ILS |   34R  | 2,500FT before the FAP |
-|  RNP |   34R  | 2,500FT before the FAP |
+=== "34 Config"
+    | Type | Runway | Platform Altitude       |
+    |:----:|:------:|-------------------------|
+    |  ILS |   34L  | 3,500FT at PASID       |
+    |  RNP |   34L  | 3,500FT at PASID       |
+    |  ILS |   34R  | 2,500FT before the FAP |
+    |  RNP |   34R  | 2,500FT before the FAP |
+
+=== "16 Config"
+    | Type | Runway | Platform Altitude       |
+    |:----:|:------:|-------------------------|
+    |  ILS |   16L  | 2,500FT before the FAP |
+    |  RNP |   16L  | 2,500FT before the FAP |
+    |  ILS |   16R  | 3,500FT at DEPLA       |
+    |  RNP |   16R  | 3,500FT at DEPLA       |
 
 ##### 3.5.5.2 Doha (OTBD)
 Aircraft establishing on final approach at Doha International Airport shall be cleared to the platform altitudes specified below. These altitudes are mandatory for all operations and shall be strictly observed, particularly during independent parallel approach procedures.

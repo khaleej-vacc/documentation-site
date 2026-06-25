@@ -50,16 +50,18 @@ Where aircraft cross between adjacent AoRs, transfer of control shall be made to
 #### 2.2.4 AoR Sectors 
 
 ##### 2.2.4.1 Doha Radar Sectorisation
-![Doha FIR Sectors](../../../img/OT/DRN_34.png#center)
+=== "Doha Radar - North"
+    ![Doha FIR Sectors](../../../img/OT/DRN_34.png#center)
 
-- Covers **Area R1** from 4,500FT to FL245
-- Covers **Area R2** from FL170 to FL245
-- Covers **Area A1** from 12,000FT to FL245
+    - Covers **Area R1** from 4,500FT to FL245
+    - Covers **Area R2** from FL170 to FL245
+    - Covers **Area A1** from 12,000FT to FL245
 
-![Doha FIR Sectors](../../../img/OT/DRS_34.png#center)
+=== "Doha Radar - South"
+    ![Doha FIR Sectors](../../../img/OT/DRS_34.png#center)
 
-- Covers **Area R1** from 4,500FT to FL245
-- Covers **Area A1** from 12,000FT to FL245
+    - Covers **Area R1** from 4,500FT to FL245
+    - Covers **Area A1** from 12,000FT to FL245
 
 ##### 2.2.4.2 Doha Approach/Director Sectorisation
 ![Doha FIR Sectors](../../../img/OT/APP_MIX.png#center)

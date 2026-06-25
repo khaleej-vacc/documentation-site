@@ -27,7 +27,7 @@ Speed Control can also be utilised to maintain separation between climbing traff
 The standard speed restriction below 10,000FT is 250 kts.
 
 #### 1.4 Wake Turbulence Separation (WTS)
-The following **Wake Turbulence Separation (WTS)** shall be applied to aircraft being provided with a Surveillance Based Separation (SBS) utilised within the **Bahrain Terminal Maneuvering Area (TMA)**
+The following **Wake Turbulence Separation (WTS)** shall be applied to aircraft being provided with a Surveillance Based Separation (SBS) utilised within the **Bahrain Terminal Maneuvering Area (TMA)** below 6000FT.
 
 | **Trailing   Aircraft** | **Behind** | **Leading   Aircraft** | **Distance Separation Minima** |
 |:-----------------------:|:----------:|------------------------|-------------------------------|

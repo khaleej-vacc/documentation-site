@@ -214,49 +214,65 @@ Blue lines indicate departure taxi routes. Yellow lines indicate arrival taxi ro
 
 Taxiways with a red background are not code F (A380/B747-8) compatible.
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.4-1 - Hamad RWY16L Departure Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_dep_16L.png#center)
+=== "34L"
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.4-2 - Hamad RWY16R Departure Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_dep_16R.png#center)
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.4-3 - Hamad RWY34L Departure Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_dep_34L.png#center)
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.4-3 - Hamad RWY34L Departure Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_dep_34L.png#center)
+=== "34R"
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.4-4 - Hamad RWY34R Departure Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_dep_34R.png#center)
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.4-4 - Hamad RWY34R Departure Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_dep_34R.png#center)
+
+=== "16L"
+
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.4-1 - Hamad RWY16L Departure Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_dep_16L.png#center)
+
+=== "16R"
+
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.4-2 - Hamad RWY16R Departure Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_dep_16R.png#center)
 
 ---
 
 ### 3.5 Arrival Taxi Diagrams
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.5-1 - Hamad RWY34R Arrival Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_arr_34R.png#center)
+=== "34L"
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.5-2 - Hamad RWY34L Arrival Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_arr_34L.png#center)
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.5-2 - Hamad RWY34L Arrival Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_arr_34L.png#center)
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.5-3 - Hamad RWY16R Arrival Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_arr_16R.png#center)
+=== "34R"
 
-<p style="text-align: center; font-style: italic;">
-Figure 3.5-4 - Hamad RWY16L Arrival Taxi Flow
-</p>
-![Hamad Taxi Flow](../../../img/OT/othh_arr_16L.png#center)
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.5-1 - Hamad RWY34R Arrival Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_arr_34R.png#center)
+
+=== "16L"
+
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.5-4 - Hamad RWY16L Arrival Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_arr_16L.png#center)
+
+=== "16R"
+
+    <p style="text-align: center; font-style: italic;">
+    Figure 3.5-3 - Hamad RWY16R Arrival Taxi Flow
+    </p>
+    ![Hamad Taxi Flow](../../../img/OT/othh_arr_16R.png#center)
 
 ---
 

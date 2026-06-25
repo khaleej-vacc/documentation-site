@@ -51,6 +51,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 plugins:
   - search
   - awesome-nav
