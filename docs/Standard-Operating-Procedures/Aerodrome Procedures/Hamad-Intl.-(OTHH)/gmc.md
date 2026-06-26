@@ -10,31 +10,40 @@ Doha-Hamad Airport operates three GMC positions: GMC 1, GMC 2, and GMC 3.
 
 ![AOR30R](../../../img/OT/othh_aor.png#center)
 
-#### 3.2.1.1 GMC 1 Responsibilities
-GMC 1 manages aircraft movements in the following areas and their associated taxiways:
+=== "GMC 1 - East"
+    GMC 1 manages aircraft movements in the following areas and their associated taxiways:
 
-- Concourse B  
-- Concourse C (East Side)  
-- Concourse E  
-- Remote Transfer G  
-- Cargo Apron  
-- Maintenance Apron  
-- Apron 4  
+    ![AOR30R](../../../img/OT/GMC_E.png#center)
 
-#### 3.2.1.2 GMC 2 Responsibilities
-GMC 2 manages aircraft movements in the following areas and their associated taxiways:
+    - Concourse B  
+    - Concourse C (East Side)  
+    - Concourse E  
+    - Remote Transfer G  
+    - Cargo Apron  
+    - Maintenance Apron  
+    - Apron 4  
 
-- Concourse A  
-- Concourse C (West Side)  
-- Concourse D  
-- Apron 3
-- Remote Transfer H1  
-- Apron 5  
 
-#### 3.2.1.3 GMC 3 Responsibilities
-GMC 3 manages aircraft movements in the following area and its associated taxiways:
+=== "GMC 2 - Central"
+    GMC 2 manages aircraft movements in the following areas and their associated taxiways:
 
-- Apron 6  
+    ![AOR30R](../../../img/OT/GMC_C.png#center)
+
+    - Concourse A  
+    - Concourse C (West Side)  
+    - Concourse D  
+    - Apron 3
+    - Remote Transfer H1  
+    - Apron 5  
+
+=== "GMC 3 - West"
+    GMC 3 manages aircraft movements in the following area and its associated taxiways:
+
+    ![AOR30R](../../../img/OT/GMC_W.png#center)
+
+    - Apron 6  
+
+---
 
 ### 3.2.2 Handoff procedures
 Aircraft must not be cleared beyond a controller’s area of responsibility unless prior coordination has been completed with the next controller. Hold short instructions may be used to prevent an aircraft from entering another controller’s area without coordination.
