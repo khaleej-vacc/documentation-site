@@ -1,0 +1,389 @@
+```css
+/* =========================================================
+   THEME COLORS
+   Controls overall MkDocs Material colours
+========================================================= */
+
+:root > * {
+    --md-primary-fg-color: rgb(255, 255, 255);
+}
+
+
+
+/* =========================================================
+   GLOBAL RESET
+========================================================= */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+
+/* =========================================================
+   MAIN LAYOUT
+========================================================= */
+
+.md-main {
+    flex-grow: 1;
+}
+
+.md-main__inner {
+    display: flex;
+    height: 100%;
+}
+
+
+
+/* =========================================================
+   HOMEPAGE HERO / BACKGROUND
+   CHANGE HOMEPAGE COLOUR HERE
+========================================================= */
+
+.container {
+    min-height: 100vh;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+
+    /* ===== CHANGE THIS SECTION ===== */
+
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, 0),
+            rgba(46, 20, 46, 0.88)
+        ),
+        url("../../assets/hero-image.png");
+
+    /* =============================== */
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+/* =========================================================
+   HERO SECTION
+========================================================= */
+
+.hero {
+    color: var(--md-primary-bg-color);
+    display: flex;
+    align-items: center;
+    min-height: 600px;
+}
+
+
+
+/* =========================================================
+   HERO LAYOUT
+========================================================= */
+
+.hero .hero-items {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 0 2rem;
+}
+
+.hero-items .left {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.hero-items .right {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
+/* =========================================================
+   HERO TEXT
+========================================================= */
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("../stylesheets/fonts/Ubuntu-Medium.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hero .hero-items h1 {
+    color: currentColor;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0 0 0.25rem;
+}
+
+.hero .hero-items p {
+    margin: 0;
+    font-size: 1.125rem;
+    line-height: 1.4;
+}
+
+
+
+/* =========================================================
+   HERO BUTTONS
+========================================================= */
+
+.hero {
+    position: relative;
+    min-height: 600px;
+}
+
+.hero .hero-items {
+    position: relative;
+    width: 100%;
+    min-height: 600px;
+    padding: 0 2rem;
+}
+
+
+
+/* =========================
+   TEXT (TOP LEFT)
+========================= */
+
+.hero-items .left {
+    position: absolute;
+
+    top: 120px;
+    left: -100px;
+
+    width: 650px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: flex-start;
+    text-align: left;
+
+    gap: .5rem;
+}
+
+
+
+/* =========================
+   BUTTON
+========================= */
+
+.hero-items .right {
+    position: absolute;
+
+    top: 300px;   /* directly under text */
+    left: -100px;  /* same alignment as text */
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+
+/* =========================
+   BUTTON STYLE
+========================= */
+
+.hero .md-button {
+    margin: 0;
+    color: var(--md-primary-bg-color);
+}
+
+.hero .md-button--primary {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-fg-color);
+
+    display: inline-flex;
+    align-items: center;
+    gap: .4rem;
+
+    padding: .65rem 1rem;
+    border-radius: 12px;
+    box-shadow: none;
+}
+
+.hero .md-button:focus,
+.hero .md-button:hover {
+    background-color: var(--md-accent-fg-color);
+    color: #ffffff;
+    border-color: var(--md-accent-fg-color);
+}
+
+/* =========================================================
+   FEATURE HEADINGS
+========================================================= */
+
+.feature h2 {
+    color: var(--md-primary-fg-color);
+    font-weight: 400;
+    font-size: 25px;
+    line-height: normal;
+
+    margin-top: 20px;
+    margin-bottom: 0;
+
+    display: inline-block;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 5px;
+}
+
+
+
+/* =========================================================
+   FEATURE CARDS
+========================================================= */
+
+.feature .cards {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.feature .cards .card {
+    margin: 20px 5px 0;
+}
+
+.feature .card a {
+    display: block;
+
+    background: var(--md-card-a);
+    color: var(--md-primary-fg-color);
+
+    transition: background-color 0.2s ease;
+
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+.feature .card a:hover {
+    background-color: var(--md-card-a-hover);
+    color: var(--md-primary-fg-color);
+}
+
+.feature .card a h3 {
+    margin-top: 8px;
+}
+
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media screen and (max-width: 480px) {
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero .hero-items {
+        display: block;
+        padding: 1.5rem;
+    }
+
+    .hero-items .left {
+        display: block;
+        width: 100%;
+    }
+
+    .hero-items .right a {
+        margin-top: 1rem;
+    }
+
+    .feature h2 {
+        margin-left: 20px;
+    }
+
+    .feature .cards {
+        flex-direction: column;
+    }
+}
+
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media screen and (min-width: 481px) and (max-width: 899px) {
+
+    .hero .hero-items {
+        display: block;
+        padding: 1.5rem;
+    }
+
+    .hero-items .left {
+        display: block;
+        width: 100%;
+    }
+
+    .hero-items .right a {
+        margin-top: 1rem;
+    }
+
+    .lowerSection {
+        padding: 0 1.5rem;
+    }
+
+    .feature .cards {
+        flex-direction: column;
+    }
+}
+
+
+
+/* =========================================================
+   DESKTOP
+========================================================= */
+
+@media screen and (min-width: 900px) {
+
+    .md-sidebar--secondary {
+        display: none;
+    }
+
+    .hero-items {
+        padding: 0 2rem;
+    }
+
+    .hero-content {
+        max-width: 20rem;
+        margin-top: 2rem;
+        margin-bottom: 2.5rem;
+        margin-right: 4rem;
+        align-items: center;
+    }
+
+    .feature h2 {
+        margin-left: 10px;
+    }
+}
+
+
+
+/* =========================================================
+   LARGE DESKTOP
+========================================================= */
+
+@media screen and (min-width: 1120px) {
+
+    .md-sidebar--primary {
+        display: none;
+    }
+
+    .feature h2 {
+        margin-left: 20px;
+    }
+}
+```
