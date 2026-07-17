@@ -31,7 +31,7 @@ The transition layer exists between these two altitudes and shall not be used fo
 ### 2.2 Aerodromes within the Terminal Maneuvering Area (TMA)
 The Approach Controller is responsible for **Bahrain International Airport (OBBI)**, **Isa Airbase (OBBS)** and **Sakhir Air base (OBKH).**
 
-Both Isa Air Base and Sakhir Air Base are military airfields to which we do not provide ATC services for on the ground. 
+Both Isa Air Base and Sakhir Air Base are military airfields to which it is not mandatory to provide services to traffic on the ground. 
 
 ---
 

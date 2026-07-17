@@ -75,10 +75,10 @@ Upon initial contact the **Approach Controller** should provide a pilot with the
 - **An altitude to which to descend to if necessary**
 - **Local Pressure at the Airfield of Arrival**
 
-> **Approach Controller:** _**"DHX268, Identified, Cleared ORDIG1 Arrival, ILS Approach Runway 30R, descend altitude 8000FT, QNH 1010"**_
+> **Approach Controller:** _**"DHX268, identified, expect ILS approach runway 30R, QNH 1010, information A current."**_
 
 If the **ACC Controller** is online and they're arriving from the Bahrain En-Route Environment then Bahrain Radar will provide them with their expected **Standard Terminal Arrival Route (STAR)**. 
-However, the ACC Controller will only tell the aircraft to "expect" a particular STAR. It is still the responsibility of the **Approach Controller** to clear the aircraft onto a particular STAR. 
+However, the ACC Controller will only tell the aircraft to "expect" a particular runway. It is still the responsibility of the **Approach Controller** to clear the aircraft onto a particular approach and runway. 
 
 !!!node "Identifying Aircraft" 
     Remember it is the responsibility of the Approach Controller to ensure all aircraft are identified on initial contact, aircraft should be assigned an individual squawk code if not already and squawking mode 'Charlie' which provides altitude information. 
@@ -167,7 +167,7 @@ Aircraft should be given a vector within 30 degrees of the final approach course
 
 Example:
 
-> **Approach Controller:** _**"DHX268, turn right heading 270 degrees, descend altitude 1500FT, cleared ILS Approach RWY30R, report established"**_ 
+> **Approach Controller:** _**"DHX268, turn right heading 270 degrees, cleared ILS Approach RWY30R, report established"**_ 
 
 #### 3.4.5 Clearing Aircraft for RNP approaches 
 Aircraft flying the **Required Navigation Performance (RNP)** approach will be cleared via the **Initial Approach Fix (IAF)** to execute the approach. 
