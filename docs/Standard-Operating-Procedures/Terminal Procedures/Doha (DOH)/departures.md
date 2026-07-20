@@ -31,7 +31,7 @@ Sections 4.2.2 and 4.2.3 shall serve as a reference for understanding interactio
 
 Where no conflicts are anticipated, aircraft may be cleared to climb to the highest permissible level, provided that prior coordination has been conducted with the next sector.
 
-#### 4.2.2 Maximum Authorised Climb in the OTDF FIR
+#### 4.2.2 Maximum Authorised Climb within the Doha TMA
 
 | **Exit Point**           | **Maximum Climb**  |       **Notes**                                    |
 |:-----------------------: |:-------------------------------------: |:-------------------------------------------------: |
