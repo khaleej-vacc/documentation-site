@@ -70,8 +70,8 @@ Sectors not included in this priority order may be opened at any time.
 |---------------|--------------------------------|----------------------------------------|
 |   DOH_R1_APP  |           N/A                  |               Bandbox                  |
 |   DOH_R2_APP  |       DOH_R1_APP,<br>DOH_A1_APP              |                                        |
-|   DOH_A1_APP  |       DOH_R1_APP               |                                        |
-|   DOH_A2_APP  |       DOH_R1_APP,<br>DOH_A1_APP,<br>DOH_F1_APP **OR** OTHH_1_TWR              |                                        |
+|   DOH_A1_APP  |       DOH_R1_APP  **OR**  OTDF_1_CTR               |                                        |
+|   DOH_A2_APP  |       DOH_R1_APP,<br>DOH_A1_APP,<br>DOH_F1_APP  **OR**  OTHH_1_TWR              |                                        |
 |   DOH_F1_APP  |       DOH_R1_APP,<br>OTHH_1_TWR              |    
 |   DOH_F2_APP  |       DOH_R1_APP,<br>DOH_F1_APP<br>OTHH_1_TWR              |    
 

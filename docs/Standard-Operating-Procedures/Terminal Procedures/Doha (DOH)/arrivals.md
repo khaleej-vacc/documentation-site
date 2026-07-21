@@ -20,8 +20,6 @@ The Doha Terminal Maneuvering Area (TMA) provides various arrival procedures, in
 By default, aircraft should be assigned the STAR that allows for the shortest transition to their final approach. However, during periods of high-traffic intensity, the trombone point merge-style arrival shall be assigned to optimize sequencing and manage the flow into the terminal airspace effectively.
 
 !!! note
-    It is essential to highlight that the following arrival procedures are applicable to both Doha (OTBD) and Hamad (OTHH) airports. These procedures are not airport-specific.  
-
     Aircraft can be sequenced on any of the STARs that guide them either to the east or west downwinds, depending on sector capacity and controller workload. The most efficient routing options should always be utilized to avoid having one downwind more saturated than the other.
 
 === "Doha 33 / Hamad 34s"
@@ -112,7 +110,8 @@ The speed limits and recommended speeds within different segments of the Doha te
 
 | Speed range     | Recommended/Published speeds                                                | Arrival segment                                                     |
 |-----------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------|
-| 210 - 250 knots | 230 - 250 knots                                                             | CTA                                                                 |
+| 250 - 290 knots | 250 knots                                                             | CTA (Doha Radar)                                                                 |
+| 210 - 250 knots | 230 - 250 knots                                                             | TMA (Doha Approach)                                                                 |
 | 190 - 230 knots | 210 knots; maximum for aircraft initiating turn from upwind to downwind leg | Approaching downwind                                                |
 | 180 - 210 knots | 190 knots; this must be enforced before handoff to Doha Director (DIR)      | From downwind to base leg                                           |
 | 170 - 210 knots | 170 - 190 knots                                                             | Closing heading to final                                            |

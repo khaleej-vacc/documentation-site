@@ -48,6 +48,9 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
 #### 4.2.3 Climb Procedure
 
 === "Doha 33 / Hamad 34s"
+
+    ![Departures 34](../../../img/OT/34_Departures.png#center)
+
      | Departure Aerodrome  | Runway  | SID      | Climb Procedure                                                                                                                                                                                                                                                                                                                                                                                                        |
      | -------------------  | ------  | -------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
      | OTHH                 | 34R     | ALSEM3E  | **Doha Approach**: Aircraft shall be restricted to 4,000FT or below at ALPED. Upon passing ALPED, aircraft may be cleared to climb to 12,000FT.<br>**Doha Radar**: Aircraft shall be maintained at 12,000FT until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL210 or a lower coordinated level by ALSEM.                                    |
@@ -67,6 +70,9 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
      | OTHH                 | 34L     | ULIKA1W  | **Doha Approach**: Aircraft shall be restricted to 4,000FT or below at PARES, 7,000FT or below at IVIXU. Upon passing IVIXU, aircraft may be cleared to climb to FL160.<br>**Doha Radar**: Aircraft shall be maintained at FL160 until they are clear of inbound traffic via ORLEK and LAEEB. Thereafter, aircraft may be cleared to FL200 or a lower coordinated level by ULIKA.               |
 
 === "Doha 15 / Hamad 16s"
+
+     ![Departures 16](../../../img/OT/16_Departures.png#center)
+
      | Departure Aerodrome  | Runway  | SID      | Climb Procedure                                                                                                                                                                                                                                                                                                                                                                                                        |
      | -------------------  | ------  | -------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
      | OTHH                 | 16L     | ALSEM2M  | **Doha Approach**: Aircraft shall be restricted to 5,000FT or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to 12,000FT.<br>**Doha Radar**: Aircraft shall be maintained at 12,000FT until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL210 or a lower coordinated level by ALSEM.                                                                                                                                                                                                                                 |
