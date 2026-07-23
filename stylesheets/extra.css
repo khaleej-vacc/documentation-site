@@ -1,0 +1,129 @@
+/* =========================
+   ROOT / THEME
+========================= */
+
+:root > * {
+  --md-primary-fg-color: rgb(25, 30, 44);
+}
+
+/* =========================
+   GLOBAL RESET
+========================= */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/* =========================
+   DESKTOP LAYOUT
+========================= */
+
+@media screen and (min-width: 960px) {
+  .md-main {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .md-main__inner {
+    max-width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .md-content {
+    max-width: 100% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* =========================
+   HEADER
+========================= */
+
+.md-header__inner {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.md-header__title {
+  margin-left: 1.5rem !important;
+  padding-left: 0 !important;
+}
+
+.md-header__source {
+  margin-left: auto !important;
+  margin-right: 0.25rem !important;
+}
+
+/* =========================
+   TOP NAVIGATION TABS
+========================= */
+
+.md-tabs {
+  justify-content: flex-start !important;
+
+  margin-left: 0 !important;
+
+  padding-left: 0.25rem !important;
+  padding-right: 0.25rem !important;
+
+  background-color: rgb(30, 35, 49) !important;
+}
+
+/* =========================
+   SIDEBARS
+========================= */
+
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  margin: initial !important;
+  padding: initial !important;
+}
+
+/* =========================
+   TABLES
+========================= */
+
+table {
+  display: table;
+  margin: 0 auto;
+}
+
+.md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+  display: table;
+}
+
+/* =========================
+   BLOCKQUOTES
+========================= */
+
+blockquote {
+  padding: 1px 2px;
+  margin: 0 0 20px;
+  font-size: 14px;
+  border-left: 5px solid #eee;
+}
+
+/* =========================
+   IMAGES
+========================= */
+
+img[src*="#center"] {
+  display: block;
+  margin: auto;
+}
+
+.md-tabs__item--active {
+    box-shadow: inset 0 -1px 0 0 #ffffff !important;
+}
