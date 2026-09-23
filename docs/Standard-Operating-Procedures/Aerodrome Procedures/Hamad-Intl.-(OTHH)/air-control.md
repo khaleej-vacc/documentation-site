@@ -212,8 +212,8 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
   </tr>
 </tbody></table>
 
-### 4.3.2 Arrivals (distance-based separation)
-#### 4.3.2.1 Aircraft on the same localizer course
+### 4.3.3 Arrivals (distance-based separation)
+#### 4.3.3.1 Aircraft on the same localizer course
 <figure markdown>
   <figcaption>Table 4.3.2-1: RECAT arrival separation for aircraft on the same localiser course</figcaption>
 </figure>
@@ -291,8 +291,8 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
   </tr>
 </tbody></table>
 
-### 4.3.3 Doha RECAT Wake Turbulence Categories
-#### 4.3.3.1 Category Definitions
+### 4.3.4 Doha RECAT Wake Turbulence Categories
+#### 4.3.4.1 Category Definitions
 <figure markdown>
   <figcaption>Table 4.3.3-1: eWTS wake turbulence categories</figcaption>
 </figure>
@@ -305,7 +305,7 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
 |                   E                   | Above 15,000 kg and less than 100,000 kg | Below 32 m           |
 |                   F                   |             15,000 kg or less            | No wingspan criteria |
 
-#### 4.3.3.2 Common aircraft types
+#### 4.3.4.2 Common aircraft types
 !!! info
     Unless specified a general aircraft code indicates all models/variants.
 
