@@ -3,13 +3,17 @@ title: A-CDM
 ---
 
 ## Airport Collaborative Decision Making (A-CDM)
+### What is CDM?
+
+A-CDM (Airport Collaborative Decision Making) is a process that improves coordination between pilots, ATC, airport operators, and other stakeholders by sharing accurate and timely information. It helps optimise aircraft turnaround, departure sequencing, and the use of airport resources.
+
+---
 
 ### Definitions
 
-
 | Abbreviation      |     Full Form        |               Meaning                   |
 |---------------|--------------------------------|---------------------------------------|
-|   EOBT  |           *Estimated Off-Block Time                  |       General estimate as to when an aircraft will be ready to start-up/push-back. Do note that the TOBT is more accurate as it is updated by pilots, whereas the EOBT is included in an aircrafts flightplan and is static.                  |
+|   EOBT  |           Estimated Off-Block Time                  |       General estimate as to when an aircraft will be ready to start-up/push-back. Do note that the TOBT is more accurate as it is updated by pilots, whereas the EOBT is included in an aircrafts flightplan and is static.                  |
 |   TOBT  |           Target Off-Block Time                  |       The time that aircraft operators estimate that they will be ready, all doors closed, boarding bridge removed, push-back vehicle available and ready to start-up/push-back immediately upon reception of clearance from ATC.                  |
 |   TSAT  |           Target Start-Up Time                  |       Calculated time at which start-up clearance can be expected. TSAT includes all parameters such as calculated take off time (CTOT), variable taxiing time etc.                  |
 
@@ -41,4 +45,4 @@ Figure 1.2
 > GMP Controller: "QTR138, readback correct. Expect push at time 08:30z."
 
 !!! note "Important"
-    It is vital that **only** DEL, or FMP/planner, if online, should click on the button outlined in Figure 1.3 as it is their responsibility to manage. All other controllers should use the **.cdm slave [ICAO]** command instead.
+    It is vital that **only** DEL, or FMP/planner, if online, should click on the button outlined in Figure 1.1 as it is their responsibility to manage. All other controllers should use the **.cdm slave [ICAO]** command instead.
