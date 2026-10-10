@@ -15,7 +15,7 @@ The airspace in the **Bahrain Terminal Maneuvering Area (TMA)** does not allow f
 <p style="text-align: center; font-style: italic;">
 Table 2.0.1. - Bahrain Terminal Maneuvering Area (TMA)
 </p>
-![Bahrain TMA](../../../img/OB/OBBI_TMA.png#center)
+![Bahrain TMA](../../../img/OB/BI_TMA.svg#center)
 
 ---
 

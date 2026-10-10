@@ -1,0 +1,86 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1327 925" width="1327" height="925">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #1c020f } 
+		.s1 { opacity: 1;fill: #2f0a1d } 
+		.s2 { fill: #270416 } 
+		.t3 { font-size: 24px;fill: #320d20;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+		.t4 { font-size: 98px;line-height: 67px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t5 { font-size: 87px;line-height: 67px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t6 { font-size: 71px;line-height: 67px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.s7 { fill: #bcbcbc } 
+		.t8 { font-size: 24px;fill: #440827;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+		.t9 { font-size: 184px;fill: #ffffff;font-weight: 500;font-family: "Ubuntu-Medium", "Ubuntu" } 
+		.t10 { font-size: 184px;fill: #ffffff;font-weight: 300;font-style: italic;font-family: "Ubuntu-LightItalic", "Ubuntu" } 
+		.t11 { font-size: 184px;fill: #ffffff;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t12 { font-size: 184px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t13 { font-size: 245px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t14 { font-size: 305px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t15 { font-size: 211px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t16 { font-size: 262px;fill: #bcbcbc;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+	</style>
+	<path id="Path 0" class="s0" d="m224.09 187.65l-5.25 7.64-30.84 16.71c-0.88 14.34-2.03 27.95-3.12 39.5-1.1 11.55-2.35 21.45-2.78 22-0.42 0.55-4.96 6.17-10.08 12.5-5.12 6.32-9.68 12.4-10.15 13.5-0.46 1.1-3.35 12.12-6.42 24.5-4.07 16.38-5.41 23.45-4.94 26 0.36 1.92 1.71 4.62 3.01 6 1.85 1.96 2.73 4.77 4.03 13 0.94 5.92 2.66 12.46 3.95 15 1.25 2.47 3.45 7.87 4.89 12 1.87 5.37 2.43 8.5 1.96 11-0.35 1.92-1.7 5.64-3 8.25-2.35 4.74-2.35 4.76-0.43 8l1.93 3.25c-7.63 8.91-9.85 11.95-9.85 12.5 0 0.55 0.45 2.12 1 3.5 0.77 1.92 0.59 3.2-0.75 5.54-1.24 2.14-2.93 3.32-5.75 4.03-2.2 0.55-4.9 1.38-6 1.85-1.1 0.47-3.46 3.6-5.25 6.97l-3.25 6.11c7.36 7.96 10.51 10.66 11.75 11.14 1.93 0.74 2.1 1.18 1.16 3.11-0.59 1.24-0.86 2.7-0.58 3.25 0.27 0.55 0.2 1.59-0.17 2.3-0.51 1-1.81 0.7-5.66-1.31-3.41-1.79-5.88-2.44-7.75-2.06-2.18 0.45-2.85 0.16-3.25-1.43-0.28-1.1-2.86-3.34-5.75-4.97-2.96-1.67-8.74-3.66-13.25-4.56-4.4-0.87-8.23-1.76-8.5-1.96-0.28-0.21-9.5-0.87-20.5-1.49l-20-1.11-8.55 8.59c12.01 16.2 15.11 21.65 17.53 28 2.6 6.8 3.7 11.69 4.5 20 0.67 6.91 2.34 15.28 4.49 22.5 1.89 6.32 4.13 15.55 4.98 20.5 0.85 4.95 1.56 14.4 1.57 21 0.02 8.81 0.56 14 2.04 19.5 1.31 4.88 2.38 13.62 3.06 25 0.92 15.44 1.39 18.44 4.01 25.5 1.63 4.4 5.39 12.27 8.34 17.5 4.33 7.65 5.96 11.94 8.4 22 1.67 6.87 4.44 16.1 6.16 20.5 1.72 4.4 4.6 9.8 6.4 12 1.81 2.2 5.81 8.05 8.9 13 5.61 8.98 5.62 9.03 7.61 23 1.09 7.7 2.25 17.82 2.57 22.5 0.32 4.67 0.78 10.3 1.04 12.5 0.31 2.78 2.94 7.98 8.61 17 4.48 7.15 14.12 25.15 21.41 40l13.26 27c25.03 17.48 26.57 18.25 43.67 24.26l18 6.32c60.06-4.71 78.1-6.42 78.84-6.83 0.74-0.41 5.25-3.68 10.02-7.25l8.67-6.5c4.73-15.5 7.76-25.18 9.79-31.5l3.68-11.5c9.3-3.17 14.02-5.45 16.5-7.11 2.47-1.66 13.5-8.26 24.5-14.67l20-11.65c47.27-13.09 82.15-22.56 108-29.47l47-12.58c103.85-8.59 134.28-11.41 134.62-11.8 0.34-0.4 14.58-21.65 31.65-47.22 17.06-25.58 40.57-60.23 52.24-77 11.66-16.78 34.34-50.3 50.39-74.5 16.06-24.2 29.51-44.56 29.89-45.25 0.48-0.85-2.09-2.74-8.04-5.91-4.81-2.56-34.18-19.53-65.25-37.71l-56.5-33.06c-127.88-62.51-173.55-85.08-184-90.48-10.45-5.4-59.05-30.64-108-56.07-48.95-25.44-119.94-62.4-157.75-82.14-37.81-19.73-68.9-35.88-69.08-35.88-0.18 0-2.69 3.44-5.58 7.65z"/>
+	<path id="Path 0" class="s1" d="m478.2 14.22c-0.61 3.45-4.04 25.63-7.6 49.28-3.57 23.65-9.48 62.8-13.14 87-3.66 24.2-7.25 47.6-7.98 52l-1.32 8c4.14 3.45 14.34 9.15 25.34 14.9 11 5.74 81.42 41.14 156.5 78.67 75.07 37.52 161.92 80.81 193 96.2 31.07 15.38 66.96 33.09 79.75 39.35 12.79 6.26 23.59 11.21 24 11.01 0.41-0.21 10.17-14.27 21.68-31.25 11.51-16.98 22.08-32.56 23.5-34.62 2.46-3.58 3.4-4.01 21.57-9.82 10.45-3.34 38.35-12.38 62-20.07 23.65-7.7 55.82-18.21 71.5-23.37 15.67-5.15 45.15-14.76 65.5-21.35 20.35-6.59 49.15-15.87 64-20.62 14.85-4.75 26.77-8.78 26.5-8.95-0.28-0.18-7.93-2.89-17-6.04-9.08-3.14-50.03-17.2-91-31.24-40.98-14.04-106.9-36.47-146.5-49.85-39.6-13.38-97.43-32.93-128.5-43.45-31.08-10.53-74.5-25.22-96.5-32.66-22-7.44-68.35-23.12-103-34.83-34.65-11.72-97.65-33-140-47.28-42.35-14.28-77.94-26.27-79.09-26.63-1.9-0.61-2.19-0.09-3.21 5.62z"/>
+	<path id="Path 0" class="s2" d="m279 149.49c-5.78 1.84-16.38 5.2-23.57 7.46l-13.07 4.1c-10.5 15.07-13.17 19.73-12.71 20.08 0.47 0.35 31.45 16.61 68.85 36.13 37.4 19.53 108.05 56.32 157 81.75 48.95 25.44 97.1 50.45 107 55.58 9.9 5.13 56.02 27.94 102.5 50.69l84.5 41.37 109 63.94c31-12.1 40.29-15.95 40.64-16.35 0.35-0.41 6.67-10.19 14.06-21.74 7.38-11.55 13.73-21.56 14.11-22.25 0.49-0.88-67.8-35.49-231.56-117.35-127.74-63.86-256.55-128.89-286.25-144.5l-54-28.39c-50.38-10.85-65.23-13.98-65.5-13.94-0.28 0.03-5.23 1.57-11 3.42z"/>
+	<text id="South" style="opacity: .73;transform: matrix(6.767,3.578,-3.578,6.767,203.97,482.278)">
+		<tspan x="0" y="0" class="t3">S</tspan><tspan  y="0" class="t3">o</tspan><tspan  y="0" class="t3">u</tspan><tspan  y="0" class="t3">t</tspan><tspan  y="0" class="t3">h
+</tspan>
+	</text>
+	<text id="UNL FL245" style="transform: matrix(.598,.333,-0.333,.598,238.155,565.547)">
+		<tspan x="-92.7" y="0" class="t4">U</tspan><tspan  y="0" class="t4">N</tspan><tspan  y="0" class="t4">L</tspan><tspan  y="0" class="t5">
+</tspan>
+		<tspan x="-96.3" y="67" class="t6">F</tspan><tspan  y="67" class="t6">L</tspan><tspan  y="67" class="t6">2</tspan><tspan  y="67" class="t6">4</tspan><tspan  y="67" class="t6">5</tspan><tspan  y="67" class="t6">
+</tspan>
+	</text>
+	<path id="Shape 2" fill-rule="evenodd" class="s7" d="m182.32 542.49l0.67-1.21 105.27 58.64-0.67 1.2z"/>
+	<text id="North" style="transform: matrix(6.853,3.409,-3.409,6.853,483.522,176.526)">
+		<tspan x="0" y="0" class="t8">N</tspan><tspan  y="0" class="t8">o</tspan><tspan  y="0" class="t8">r</tspan><tspan  y="0" class="t8">t</tspan><tspan  y="0" class="t8">h
+</tspan>
+	</text>
+	<text id="Layer 8" transform="translate(329,220)">
+	</text>
+	<text id="North Low" style="transform: matrix(.238,.123,-0.123,.238,264.254,184.975)">
+		<tspan x="0" y="0" class="t9">N</tspan><tspan  y="0" class="t9">o</tspan><tspan  y="0" class="t9">r</tspan><tspan  y="0" class="t9">t</tspan><tspan  y="0" class="t9">h</tspan><tspan  y="0" class="t10"> </tspan><tspan  y="0" class="t11">L</tspan><tspan  y="0" class="t11">o</tspan><tspan  y="0" class="t11">w</tspan><tspan  y="0" class="t11">
+</tspan>
+	</text>
+	<text id="South" style="transform: matrix(.238,.123,-0.123,.238,658.254,382.975)">
+		<tspan x="0" y="0" class="t11">S</tspan><tspan  y="0" class="t11">o</tspan><tspan  y="0" class="t11">u</tspan><tspan  y="0" class="t11">t</tspan><tspan  y="0" class="t11">h
+</tspan>
+	</text>
+	<text id="FL245 GND" style="transform: matrix(.136,.069,-0.069,.136,532.466,286.608)">
+		<tspan x="-210.2" y="0" class="t12">F</tspan><tspan  y="0" class="t12">L</tspan><tspan  y="0" class="t12">2</tspan><tspan  y="0" class="t12">4</tspan><tspan  y="0" class="t12">5</tspan><tspan  y="0" class="t12">
+</tspan>
+		<tspan x="-210.2" y="257.5" class="t13">G</tspan><tspan  y="257.5" class="t13">N</tspan><tspan  y="257.5" class="t13">D</tspan><tspan  y="257.5" class="t13">
+</tspan>
+	</text>
+	<path id="Shape 1" fill-rule="evenodd" class="s7" d="m801.76 441.45l0.48-0.91 63.53 33.6-0.48 0.91z"/>
+	<path id="Shape 1 copy" fill-rule="evenodd" class="s7" d="m502.1 280.22l0.47-0.92 63.97 32.74-0.47 0.92z"/>
+	<text id="FL285 GND" style="transform: matrix(.181,.092,-0.092,.181,729.737,279.266)">
+		<tspan x="-210.2" y="0" class="t12">F</tspan><tspan  y="0" class="t12">L</tspan><tspan  y="0" class="t12">2</tspan><tspan  y="0" class="t12">8</tspan><tspan  y="0" class="t12">5</tspan><tspan  y="0" class="t12">
+</tspan>
+		<tspan x="-210.2" y="257.5" class="t13">G</tspan><tspan  y="257.5" class="t13">N</tspan><tspan  y="257.5" class="t13">D</tspan><tspan  y="257.5" class="t13">
+</tspan>
+	</text>
+	<path id="Shape 1 copy 2" fill-rule="evenodd" class="s7" d="m689.3 270.78l0.63-1.23 85.19 43.56-0.62 1.22z"/>
+	<text id="Low" style="transform: matrix(.458,.239,-0.239,.458,771.717,350.225)">
+		<tspan x="0" y="0" class="t9">L</tspan><tspan  y="0" class="t9">o</tspan><tspan  y="0" class="t9">w
+</tspan>
+	</text>
+	<text id="UNL FL285" style="transform: matrix(.169,.058,-0.058,.169,692.809,132.418)">
+		<tspan x="-210.2" y="0" class="t14">U</tspan><tspan  y="0" class="t14">N</tspan><tspan  y="0" class="t14">L</tspan><tspan  y="0" class="t13">
+</tspan>
+		<tspan x="-210.2" y="217" class="t15">F</tspan><tspan  y="217" class="t15">L</tspan><tspan  y="217" class="t15">2</tspan><tspan  y="217" class="t15">8</tspan><tspan  y="217" class="t15">5</tspan><tspan  y="217" class="t15">
+</tspan>
+	</text>
+	<path id="Shape 1 copy 3" fill-rule="evenodd" class="s7" d="m658.81 127.95l0.46-1.32 91.5 31.69-0.45 1.31z"/>
+	<text id="High" style="transform: matrix(.416,.152,-0.152,.416,474.935,83.581)">
+		<tspan x="0" y="0" class="t9">H</tspan><tspan  y="0" class="t9">i</tspan><tspan  y="0" class="t9">g</tspan><tspan  y="0" class="t9">h
+</tspan>
+	</text>
+	<text id="UNL FL245" style="transform: matrix(.136,.069,-0.069,.136,834.466,453.608)">
+		<tspan x="-247.5" y="0" class="t16">U</tspan><tspan  y="0" class="t16">N</tspan><tspan  y="0" class="t16">L</tspan><tspan  y="0" class="t12">
+</tspan>
+		<tspan x="-249.3" y="184.4" class="t12">FL245</tspan><tspan  y="184.4" class="t13">
+</tspan>
+	</text>
+</svg>
