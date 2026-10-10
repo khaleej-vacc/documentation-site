@@ -156,27 +156,27 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 #### 3.3.2 Descent Procedure - Doha 33 / Hamad 34s
 | Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
 |---------------------|--------|-----------|-------------------|
-| OTHH/OTBD           | 33/34s | HAYYA2L   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, RDR N shall descend aircraft to be at 12,000FT inbound LUBAK, followed by further descent as appropriate to between 8,000FT - 3,500FT |
+| OTHH/OTBD           | 33/34s | HAYYA2L   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, RDR N shall descend aircraft to be at 13,000FT inbound LUBAK, followed by further descent as appropriate to between 8,000FT - 3,500FT |
 | OTHH/OTBD           | 33/34s | HAYYA1J   | Traffic shall be restricted to FL150 until clear of OT-R062. Once clear, they may be cleared to descend to 10,000FT to be leveled by GINTO, then stepped down as appropriate by to between 8,000FT - 6,000FT, and given further descent by FIN C/W from 6,000FT - 3,500FT |
-| OTHH/OTBD           | 33/34s | HAYYA2R   | Traffic must be at FL170 at VELAM, and instructed to descend to FL150 inbound VUTAN. Thereafter RDR N must accordingly descend traffic to be at 12,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E   |
-| OTHH/OTBD           | 33/34s | HAYYA2V   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 12,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
-| OTHH/OTBD           | 33/34s | ALKAN2L   | Traffic shall be instructed by RDR N to descend to FL150 - 12,000FT upon entering the Trombone. Moreover APP W issuing 11,000FT inbound KATED, and further down to 8,000FT - 6,000FT, and handed over to FIN C/W to be issued 6,000FT - 3,500FT upon being handed over.  |
-| OTHH/OTBD           | 33/34s | ALKAN2R   | Traffic must accordingly be instructed by RDR N to descend to be at 12,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
-| OTHH/OTBD           | 33/34s | ALKAN2V   | Aircraft shall be cleared to descend to 12,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | HAYYA2R   | Traffic must be at FL170 at VELAM, and instructed to descend to FL150 inbound VUTAN. Thereafter RDR N must accordingly descend traffic to be at 13,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E   |
+| OTHH/OTBD           | 33/34s | HAYYA2V   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 13,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | ALKAN2L   | Traffic shall be instructed by RDR N to descend to FL150 - 13,000FT upon entering the Trombone. Moreover APP W issuing 11,000FT inbound KATED, and further down to 8,000FT - 6,000FT, and handed over to FIN C/W to be issued 6,000FT - 3,500FT upon being handed over.  |
+| OTHH/OTBD           | 33/34s | ALKAN2R   | Traffic must accordingly be instructed by RDR N to descend to be at 13,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
+| OTHH/OTBD           | 33/34s | ALKAN2V   | Aircraft shall be cleared to descend to 13,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
 | OTHH/OTBD           | 33/34s | LAEEB1J   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB. Thereafter further descent to 10,000FT by GINTO, and then issued to descend further to 8,000FT - 6000FT, and handed over to FIN C/W to descend 6,000FT - 3,500FT upon being handed over |
-| OTHH/OTBD           | 33/34s | LAEEB1R   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB. Thereafter, shall be descended accordingly when clear of TOSNA and TOVOX arrivals down to 12,000FT - 6,000FT by APP E, and issued further descent to 6000FT - 3,500FT by FIN E |
+| OTHH/OTBD           | 33/34s | LAEEB1R   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB. Thereafter, shall be descended accordingly when clear of TOSNA and TOVOX arrivals down to 13,000FT - 6,000FT by APP E, and issued further descent to 6000FT - 3,500FT by FIN E |
 | OTHH/OTBD           | 33/34s | LAEEB1L   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB, and issued further descent to 6,000FT, and handed over to FIN C/W for further down to 6,000FT - 3,500FT |
 | OTHH/OTBD           | 33/34s | ORLEK1L   | Aircraft shall be instructed to descend 10,000FT to be leveled by GINTO, upon leaving GINTO they shall be issued further descent by APP W to 8,000FT - 6,000FT. Thereafter, handed over to FIN C/W to be issued 6,000FT - 3,500FT upon entering the downwind leg |
 | OTHH/OTBD           | 33/34s | ORLEK1R   | Aircraft shall be instructed to descend 10,000FT to be leveled by GINTO, upon leaving GINTO they shall be accordingly descended to 8,000FT - 6,000FT upon reaching EGNUG, and issued further descent from 6,000FT - 3,500FT by FIN E |
-| OTHH/OTBD           | 33/34s | TOSNA2J   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and descended accordingly to 12,000FT by RDR N, and handed over to APP W to issue 12,000FT - 6,000FT. Moreover, descended to 6,000FT - 3,500FT by FIN C/W |
-| OTHH/OTBD           | 33/34s | TOSNA2R   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
-| OTHH/OTBD           | 33/34s | TOSNA2V   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000FT by LUBAK from RDR N. Thereafter, handed over to APP E to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
-| OTHH/OTBD           | 33/34s | TOSNA2L   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000FT by KIVAM from RDR S. Thereafter, handed over to APP W to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 3,500FT by FIN C/W |
-| OTHH/OTBD           | 33/34s | TOVOX2R   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, and issued down to 12,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E|
-| OTHH/OTBD           | 33/34s | TOVOX2L   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, then further descended to 12,000FT by KIVAM under RDR S. Thereafter, traffic is handed over to APP W for descent from 12,000FT to 6,000FT, with FIN C/W issuing further descent to between 6,000FT and 3,500FT |
-| OTHH/OTBD           | 33/34s | VEDED2L   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 12,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 12,000FT inbound LUBAK, and handed off to APP W for further descent to 11,000FT - 6,000FT inbound KATED, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN C/W |
-| OTHH/OTBD           | 33/34s | VEDED2R   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 12,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 12,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
-| OTHH/OTBD           | 33/34s | VEDED2V   | Traffic shall be level at FL180 at VEDED and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 12,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Moreover, FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | TOSNA2J   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and descended accordingly to 13,000FT by RDR N, and handed over to APP W to issue 13,000FT - 6,000FT. Moreover, descended to 6,000FT - 3,500FT by FIN C/W |
+| OTHH/OTBD           | 33/34s | TOSNA2R   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 13,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
+| OTHH/OTBD           | 33/34s | TOSNA2V   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 13,000FT by LUBAK from RDR N. Thereafter, handed over to APP E to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
+| OTHH/OTBD           | 33/34s | TOSNA2L   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 13,000FT by KIVAM from RDR S. Thereafter, handed over to APP W to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 3,500FT by FIN C/W |
+| OTHH/OTBD           | 33/34s | TOVOX2R   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, and issued down to 13,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E|
+| OTHH/OTBD           | 33/34s | TOVOX2L   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, then further descended to 13,000FT by KIVAM under RDR S. Thereafter, traffic is handed over to APP W for descent from 13,000FT to 6,000FT, with FIN C/W issuing further descent to between 6,000FT and 3,500FT |
+| OTHH/OTBD           | 33/34s | VEDED2L   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 13,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 13,000FT inbound LUBAK, and handed off to APP W for further descent to 11,000FT - 6,000FT inbound KATED, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN C/W |
+| OTHH/OTBD           | 33/34s | VEDED2R   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 13,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 13,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
+| OTHH/OTBD           | 33/34s | VEDED2V   | Traffic shall be level at FL180 at VEDED and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 13,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Moreover, FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
 
 ---
 
@@ -198,25 +198,25 @@ During periods of high arrival traffic, direct routings may also be issued from 
 
      | Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
      |-------------------|--------------|--------|------------|----------------------|
-     |    OTHH/OTBD      |    HAYYA2L   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT | RDR N to APP W |
-     |    OTHH/OTBD      |    HAYYA2R   | EGNUG/LUBAK | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT if direct LUBAK, 8,000FT if direct EGNUG | RDR N to APP E (LUBAK)<br>pre-coordinated (EGNUG) |
+     |    OTHH/OTBD      |    HAYYA2L   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT | RDR N to APP W |
+     |    OTHH/OTBD      |    HAYYA2R   | EGNUG/LUBAK | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT if direct LUBAK, 8,000FT if direct EGNUG | RDR N to APP E (LUBAK)<br>pre-coordinated (EGNUG) |
      |    OTHH/OTBD      |    HAYYA2V   | EGNUG  | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT | pre-coordinated |
      |    OTHH/OTBD      |    HAYYA1J   | KIPIK | Shall not adversely affect ARR sequence, and must ensure that traffic is clear of restricted airspace | pre-coordinated |
-     |    OTHH/OTBD      |    ALKAN2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
-     |    OTHH/OTBD      |    ALKAN2R   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP E |
+     |    OTHH/OTBD      |    ALKAN2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    ALKAN2R   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT within LUBAK | RDR N to APP E |
      |    OTHH/OTBD      |    LAEEB1L   | MIVAL  | Shall not adversely affect ARR sequence | pre-coordinated |
      |    OTHH/OTBD      |    LAEEB1R   | AFNAN  | Shall not adversely affect ARR sequence | pre-coordinated |
-     |    OTHH/OTBD      |    TOSNA2J   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR S to 12,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    TOSNA2J   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR S to 13,000FT within LUBAK | RDR N to APP W |
      |    OTHH/OTBD      |    TOSNA2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.4, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
      |    OTHH/OTBD      |    TOSNA2R   | AFNAN/LOVET | Shall not adversely affect ARR sequence, released for descent by RDR S to 8,000FT - 6,000FT | pre-coordinated |
      |    OTHH/OTBD      |    TOVOX2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.5, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
      |    OTHH/OTBD      |    TOVOX2R   | AFNAN | Shall not adversely affect ARR sequence | pre-coordinated |
-     |    OTHH/OTBD      |    VEDED2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    VEDED2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT within LUBAK | RDR N to APP W |
      |    OTHH/OTBD      |    VEDED2R   | BAYAN/EGNUG |  Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
      |    OTHH/OTBD      |    VEDED2V   | EGNUG | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
 
     !!! warning
-        Aircrafts on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 12,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
+        Aircrafts on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 13,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
 
         Aicrafts on the LAEEB1J, or the ORLEK1L/R arrival shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
@@ -225,9 +225,9 @@ During periods of high arrival traffic, direct routings may also be issued from 
      | Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
      |-------------------|--------------|--------|------------|----------------------|
      |    OTHH/OTBD      |    HAYYA1K   | LAGNO  | Shall not adversely affect ARR sequence, must be clear of restricted areas | pre-coordinated |
-     |    OTHH/OTBD      |    HAYYA1F   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP W |
-     |    OTHH/OTBD      |    HAYYA2H   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
-     |    OTHH/OTBD      |    HAYYA1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    HAYYA1F   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 13,000FT by RDR N | RDR N to APP W |
+     |    OTHH/OTBD      |    HAYYA2H   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 13,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    HAYYA1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence, released for descent to 13,000FT by RDR N | RDR N to APP E |
      |    OTHH/OTBD      |    ALKAN1F   | LUBAK/LOVET | Traffic to remain above 11,000FT, further descend to be coordinated | pre-coordinated |
      |    OTHH/OTBD      |    ALKAN2H   | LOVET  | Shall not adversely affect ARR sequence | RDR N to APP E |
      |    OTHH/OTBD      |    ALKAN1P   | LUBAK/LOVET | Released for descent to 8,000FT - 6,000FT by RDR N | RDR N to APP E |
@@ -243,7 +243,7 @@ During periods of high arrival traffic, direct routings may also be issued from 
      |    OTHH/OTBD      |    VEDED1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence | RDR N to APP E |
 
     !!! warning
-        Aircraft on the TOSNA2F, and TOVOX2F shall not be given a direct, and instead released for descent by RDR N to 12,000FT within KIVAM, and issued further descent to 8,000FT reaching DASIK.
+        Aircraft on the TOSNA2F, and TOVOX2F shall not be given a direct, and instead released for descent by RDR N to 13,000FT within KIVAM, and issued further descent to 8,000FT reaching DASIK.
 
         Aicraft on the LAEEB2F, shall not be given a direct due to the airspace restrictions within the Doha FIR.
 

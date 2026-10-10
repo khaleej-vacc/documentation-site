@@ -41,7 +41,7 @@ The **Bahrain Terminal Maneuvering Area (TMA)** is surrounded by both Saudi Arab
 <p style="text-align: center; font-style: italic;">
 Table 2.3.1. - Surrounding Airspace
 </p>
-![Bahrain Surrounding](../../../img/OB/OBBI_SA.png#center)
+![Bahrain Surrounding](../../../img/OB/OBBI_SA.svg#center)
 
 ---
 
