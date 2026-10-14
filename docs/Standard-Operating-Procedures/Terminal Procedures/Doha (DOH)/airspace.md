@@ -68,8 +68,8 @@ Where aircraft cross between adjacent AoRs, transfer of control shall be made to
 
 |    Callsign   |       Sector       |                   Area of Responsibility                  |
 |:----------:|:------------------:|:---------------------------------------------------------:|
-| DOH_A1_APP |   Approach (East)  | Covers **Area A1** from 3,500FT to 12,000FT<br>Covers **Area F1** from 4,000FT to 12,000FT               |
-| DOH_A2_APP |   Approach (West)  | Covers **Area A2** from 2,500FT to 12,000FT<br>Covers **Area F2** from 4,000FT to 12,000FT               |
+| DOH_A1_APP |   Approach (West)  | Covers **Area A2** from 2,500FT to 12,000FT<br>Covers **Area F2** from 4,000FT to 12,000FT               |
+| DOH_A2_APP |   Approach (East)  | Covers **Area A1** from 3,500FT to 12,000FT<br>Covers **Area F1** from 4,000FT to 12,000FT               |
 | DOH_F1_APP |   Director (East)  | Covers **Area F1** from 2,500FT to 4,000FT                |
 | DOH_F2_APP |   Director (West)  | Covers **Area F2** from 2,500FT to 4,000FT                |
 
@@ -83,8 +83,8 @@ Below is a table outlining the Doha TMA sectors and their areas of responsibilit
 |:----------:|:------------------:|:---------------:|:---------------------------------------------------------:|
 | DOH_R1_APP |    Radar (North)   |   "DOHA RADAR"  | Departure Services for: ALSEM, ALVEN, LUBET, TULUB, VAXIN<br>Arrival sequencing for: TOSNA, ALKAN, HAYYA               |
 | DOH_R2_APP |    Radar (South)   |   "DOHA RADAR"  |     Departure Services for: BUNDU, DATRI, KUPRO, ULIKA<br>Arrival sequencing for: TOVOX, LAEEB, ORLEK               |
-| DOH_A1_APP |   Approach (East)  | "DOHA APPROACH" |           Departures/Arrivals for runway 16L/34R          |
-| DOH_A2_APP |   Approach (West)  | "DOHA APPROACH" |      Departures/Arrivals for runways 16R/34L & 15/33      |
+| DOH_A1_APP |   Approach (West)  | "DOHA APPROACH" |      Departures/Arrivals for runways 16R/34L & 15/33      |
+| DOH_A2_APP |   Approach (East)  | "DOHA APPROACH" |           Departures/Arrivals for runway 16L/34R          |
 | DOH_F1_APP |   Director (East)  | "DOHA DIRECTOR" |        Final approach sequencing for runway 16L/34R       |
 | DOH_F2_APP | Director (West) | "DOHA DIRECTOR" |        Final approach sequencing for runway 16R/34L       |
 | DOH_F3_APP |   Final Monitoring Control  | "DOHA FINAL MONITORING" |     Monitors for NTZ intrusions            |
