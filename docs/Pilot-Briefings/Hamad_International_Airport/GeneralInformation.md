@@ -59,4 +59,4 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 |        Doha Control (South)       |   OTDF_2_CTR   |     ACC S    |     132.975     |
 
 !!! Warning
-    It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency, and never switch frequencies without explicit instructions from the controller. Auto-handoffs are issued with the take-off clearance at Doha-Hamad International. If you're unsure, don’t hesitate to ask for the frequency again!
+    It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency, and never switch frequencies without explicit instructions from the controller. If you're unsure, don’t hesitate to ask for the frequency again!

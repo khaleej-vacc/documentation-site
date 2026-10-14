@@ -42,11 +42,10 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
 !!! note 
     TULUB and LUBET departures should expect to be assigned RWY 34L/16R as standard, however this may be changed due to operational requirements
 
-!!! warning
-    With effect 07 NOV 2025 1600z, RWY 34R/16L will operate with reduced length. The standard departure point for 34R will be A2. Aircraft not able to accept A2 must make the delivery controller aware of this immediately, as it may necessitate a change to the flight plan. Where this occurs, pilots can expect radar vectored departure procedures from RWY 34L/16R.
+Check the current ATIS and NOTAMs for runway availability, declared distances, and any temporary departure restrictions. Do not rely on outdated runway-closure information.
 
 ## Getting your clearance
-Departing aircraft shall contact Hamad Clearance Delivery **10 minutes prior to their estimated off block time (EOBT)** and pass the following information:
+Departing aircraft should request clearance from Hamad Clearance Delivery **up to 25 minutes before their estimated off-block time (EOBT)** and pass the following information:
 <ul>
     <li>Aircraft Callsign</li>
     <li>Aircraft Type</li>
@@ -74,7 +73,7 @@ At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be 
     Clearance delivery will not provide push and start clearance. However, remain on the clearance delivery frequency; do not switch to the ground frequency on your own. You must report fully ready on the delivery frequency—this includes having the jetway disconnected, tug connected, and chocks removed. Delivery will advise when to switch to the appropriate ground frequency, based on the current airport departure rate.
 
 ### Airport Collaborative Decision Making (A-CDM)
-Doha-Hamad has implemented **A**irport **C**ollaborative **D**ecision **M**aking (**A-CDM**) procedures to ensure efficient operations and reduce time spent at the holding point. Pilots are required to adhere to assigned A-CDM times. When A-CDM procedures are in effect, this will be announced in the ATIS. Pilots should set their **T**arget **O**ff **B**lock **T**ime (**TOBT**) and update it whenever their estimate changes by more than 5 minutes using the [VDGS Pilot Interface](https://vats.im/vdgs), aiding controllers in departure planning.
+Doha-Hamad has implemented **A**irport **C**ollaborative **D**ecision **M**aking (**A-CDM**) procedures to ensure efficient operations and reduce time spent at the holding point. Pilots are required to adhere to assigned A-CDM times. When A-CDM procedures are in effect, this will be announced in the ATIS. The **Target Off-Block Time (TOBT)** is when the aircraft should be fully ready for start-up/pushback. The **Target Start-Up Approval Time (TSAT)** is the time ATC expects to approve start-up/pushback, taking traffic and any ATFM slot into account. Pilots should set their **T**arget **O**ff **B**lock **T**ime (**TOBT**) and update it whenever their estimate changes by more than 5 minutes using the [VDGS Pilot Interface](https://vats.im/vdgs), aiding controllers in departure planning.
 
 If you are unfamiliar with A-CDM procedures, please refer to the [A-CDM pilot guide](https://vacdm.net/docs/pilot/use-vacdm).
 
@@ -84,7 +83,7 @@ Please follow the procedures below in accordance with the airport briefing chart
 - 🖥️ **TOBT must be submitted via [vats.im/vdgs](https://vats.im/vdgs)**
 - ⏳ **Clearance must be requested no later than 25 minutes before EOBT**
 - 🔊 **TSAT updates will be communicated by voice only via ATC frequency**
-- 🕒 **Pushback must occur within ±2 minutes of the assigned TSAT**
+- 🕒 **Call for start-up/pushback within ±2 minutes of TSAT; do not call or report ready before then**
 - ⚠️ **If unable to push back within +5 minutes after TSAT:**
   - 📞 Inform ATC
   - 🔄 Submit a new TOBT via VDGS for a new TSAT
@@ -130,6 +129,14 @@ The following taxi diagrams depict the standard taxi routings. Note that it may 
 #### Departures - Runway 34R
 ![OTHH - 34R Departure Configuration](../../img/OT/othh_dep_34R.png)
 
+## Departure Speed and Initial Contact
+
+Unless otherwise instructed, maintain **250 KIAS until passing 10,000 ft**, or the lower speed published on the SID. If unable to comply with the SID speed or 250 KIAS restriction, advise ATC before reaching the departure holding point and state the speed you can maintain.
+
+When first contacting the relevant Approach frequency, report your **callsign, passing altitude, and assigned SID**. Follow all SID restrictions unless ATC explicitly cancels or amends them. If issued **CLIMB UNRESTRICTED**, read back the clearance verbatim; SID altitude and speed restrictions are cancelled unless ATC reissues them.
+
+Traffic delays are most likely during the following UTC departure peaks: **0400–0700, 1500–1800, and 2200–0100**. Check the ATIS for any active restrictions.
+
 ## Take-off
 Aircraft will be cleared for takeoff once adequate separation is ensured. When airborne, pilots are to report passing 1000FT, at which point they will be handed off to either Doha Approach East or West, or the next available station, such as Doha Radar or Doha Control. If none of these stations are online, aircraft will be instructed to monitor ADVISORY 122.8.
 
@@ -140,9 +147,9 @@ Aircraft will be cleared for takeoff once adequate separation is ensured. When a
 
     **Pilot**: "Passing 1000ft, QTR6M"
 
-    **Controller**: "QTR6M, Frequency change approved, over to Doha Departures 124.775"
+    **Controller**: "QTR6M, contact Doha Approach 124.775"
     
-    **Pilot**: "Doha Departures on 124.775, QTR6M"
+    **Pilot**: "124.775, QTR6M"
 
 ### Minimum Runway Occupancy
 On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.

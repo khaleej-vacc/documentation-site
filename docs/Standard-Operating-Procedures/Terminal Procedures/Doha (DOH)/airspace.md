@@ -5,12 +5,12 @@
 #### 2.1.1 ATS Airspace
 |   Airspace  | Airspace Class |    Vertical Limits   | Transition Altitude | Transition Level |
 |:-----------:|:--------------:|:--------------------:|:-------------------:|:----------------:|
-|   Doha CTR  |        D       |  Surface to 2,500FT |      13,000FT      |      FL 150      |
-|  Doha TMA 1 |        C       | 2,500FT to 4,500FT |      13,000FT      |      FL 150      |
-| Doha TMA 1A |        C       | 2,500FT to 4,500FT |      13,000FT      |      FL 150      |
-|  Doha TMA 2 |        C       | 3,500FT to 4,500FT |      13,000FT      |      FL 150      |
-|  Doha TMA 3 |        C       |  4,500FT to FL 150  |      13,000FT      |      FL 150      |
-|  Doha TMA 3 |        A       |  FL 150FT to FL 245 |      13,000FT      |      FL 150      |
+|   Doha CTR  |        D       |  Surface to 2,500FT |      13,000FT      |      FL150      |
+|  Doha TMA 1 |        C       | 2,500FT to 4,500FT |      13,000FT      |      FL150      |
+| Doha TMA 1A |        C       | 2,500FT to 4,500FT |      13,000FT      |      FL150      |
+|  Doha TMA 2 |        C       | 3,500FT to 4,500FT |      13,000FT      |      FL150      |
+|  Doha TMA 3 |        C       |  4,500FT to FL150  |      13,000FT      |      FL150      |
+|  Doha TMA 3 |        A       |  FL150 to FL245 |      13,000FT      |      FL150      |
 
 ---
 
