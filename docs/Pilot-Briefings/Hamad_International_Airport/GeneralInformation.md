@@ -51,12 +51,13 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 |      Doha Director (16L/34R)      |   DOH_F1_APP   |     FIN E    |     119.400     |
 |      Doha Director (16R/34L)      |   DOH_F2_APP   |     FIN W    |     124.050     |
 |       Doha Final Monitoring Control       |   DOH_F3_APP   |      FMC     |     123.875     |
-|        Doha Approach (East)       |   DOH_A1_APP   |     APP E    |     124.775     |
-|        Doha Approach (West)       |   DOH_A2_APP   |     APP W    |     119.725     |
+|        Doha Approach (West)       |   DOH_A1_APP   |     APP W    |     119.725     |
+|        Doha Approach (East)       |   DOH_A2_APP   |     APP E    |     124.775     |
 |         Doha Radar (North)        |   DOH_R1_APP   |     RDR N    |     121.100     |
 |         Doha Radar (South)        |   DOH_R2_APP   |     RDR S    |     120.675     |
-|        Doha Control (North)       |   OTDF_1_CTR   |     ACC N    |     135.725     |
-|        Doha Control (South)       |   OTDF_2_CTR   |     ACC S    |     132.975     |
+|        Doha Control (North)       |   OTDF_N1_CTR   |     ACC N    |     135.725     |
+|        Doha Control (North High)       |   OTDF_N1_CTR   |     ACC NH    |     133.150     |
+|        Doha Control (South)       |   OTDF_S_CTR   |     ACC S    |     132.975     |
 
 !!! Warning
-    It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency, and never switch frequencies without explicit instructions from the controller. Auto-handoffs are issued with the take-off clearance at Doha-Hamad International. If you're unsure, don’t hesitate to ask for the frequency again!
+    It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency, and never switch frequencies without explicit instructions from the controller. If you're unsure, don’t hesitate to ask for the frequency again!

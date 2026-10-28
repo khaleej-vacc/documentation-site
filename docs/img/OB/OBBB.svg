@@ -1,0 +1,103 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 677 950" width="677" height="950">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #380000 } 
+		.s1 { fill: #003468 } 
+		.s2 { fill: #002549 } 
+		.s3 { fill: #00162b } 
+		.s4 { fill: #008388 } 
+		.s5 { fill: #006367 } 
+		.t6 { font-size: 24px;fill: #ffffff;font-weight: 700;font-family: Ubuntu, sans-serif } 
+		.t7 { font-size: 101px;fill: #ffffff;font-weight: 500;font-family: Ubuntu, sans-serif } 
+		.t8 { font-size: 52px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t9 { font-size: 41px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t10 { font-size: 37px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t11 { font-size: 54px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t12 { font-size: 42px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.s13 { fill: #ffffff } 
+	</style>
+	<path id="South" class="s0" d="m508 797l75-20 62-6h6v1l-116 173h-1l-23-30-3-94z"/>
+	<g id="Central">
+		<path id="Path 0" class="s1" d="m204 318l134 3 28-27h2l23 35 42 32 104 35v4l-4 24h-229l-100-105z"/>
+		<path id="Path 1" class="s2" d="m278 522l5-11 4-38 6-9 3-26 14-7-6-7h229l-11 74-47-25-34-7-23 8-12 18-14 7-1 23z"/>
+		<path id="Path 2" class="s3" d="m371 636l-18-9-23-1-4 4-25-28-9-23-11-12-6-36 3-9h113l-1 7-11 14-5 20 9 33-3 4 2 5-5 5 1 5-9 4-2 4 7 7-2 6z"/>
+	</g>
+	<g id="North">
+		<path id="Path 0" class="s4" d="m24 99l143-96h1l125 184h-215l-7-6-47-81z"/>
+		<path id="Path 1" class="s5" d="m315 321l-112-3-42-40-83-91h215l74 106v1l-29 27z"/>
+	</g>
+	<text id="North" style="opacity: .25;transform: matrix(2.623,3.283,-3.283,2.623,76.438,87.931)">
+		<tspan x="0" y="0" class="t6">N</tspan><tspan  y="0" class="t6">o</tspan><tspan  y="0" class="t6">r</tspan><tspan  y="0" class="t6">t</tspan><tspan  y="0" class="t6">h
+</tspan>
+	</text>
+	<text id="Higher" style="transform: matrix(.248,0,0,.248,112.015,98.606)">
+		<tspan x="0" y="0" class="t7">H</tspan><tspan  y="0" class="t7">i</tspan><tspan  y="0" class="t7">g</tspan><tspan  y="0" class="t7">h</tspan><tspan  y="0" class="t7">e</tspan><tspan  y="0" class="t7">r
+</tspan>
+	</text>
+	<text id="Lower" style="transform: matrix(.282,0,0,.282,197.741,233.032)">
+		<tspan x="0" y="0" class="t7">L</tspan><tspan  y="0" class="t7">o</tspan><tspan  y="0" class="t7">w</tspan><tspan  y="0" class="t7">e</tspan><tspan  y="0" class="t7">r
+</tspan>
+	</text>
+	<text id="Higher copy" style="transform: matrix(.219,0,0,.219,316.25,456.284)">
+		<tspan x="0" y="0" class="t7">H</tspan><tspan  y="0" class="t7">i</tspan><tspan  y="0" class="t7">g</tspan><tspan  y="0" class="t7">h</tspan><tspan  y="0" class="t7">e</tspan><tspan  y="0" class="t7">r
+</tspan>
+	</text>
+	<text id="Super" style="transform: matrix(.235,0,0,.235,317.014,356.658)">
+		<tspan x="0" y="0" class="t7">S</tspan><tspan  y="0" class="t7">u</tspan><tspan  y="0" class="t7">p</tspan><tspan  y="0" class="t7">e</tspan><tspan  y="0" class="t7">r
+</tspan>
+	</text>
+	<text id="Central" style="opacity: .14;transform: matrix(2.304,1.166,-1.166,2.304,288.417,365.336)">
+		<tspan x="0" y="0" class="t6">C</tspan><tspan  y="0" class="t6">e</tspan><tspan  y="0" class="t6">n</tspan><tspan  y="0" class="t6">t</tspan><tspan  y="0" class="t6">r</tspan><tspan  y="0" class="t6">a</tspan><tspan  y="0" class="t6">l
+</tspan>
+	</text>
+	<text id="UNL FL345" style="transform: matrix(.816,0,0,.747,151.103,135.103)">
+		<tspan x="-49.2" y="0" class="t8">U</tspan><tspan  y="0" class="t8">N</tspan><tspan  y="0" class="t8">L</tspan><tspan  y="0" class="t9">
+</tspan>
+		<tspan x="-50.2" y="35.2" class="t10">F</tspan><tspan  y="35.2" class="t10">L</tspan><tspan  y="35.2" class="t10">3</tspan><tspan  y="35.2" class="t10">4</tspan><tspan  y="35.2" class="t10">5</tspan><tspan  y="35.2" class="t10">
+</tspan>
+	</text>
+	<text id="UNL FL345" style="transform: matrix(.634,0,0,.58,349.996,387.098)">
+		<tspan x="-50.7" y="0" class="t11">U</tspan><tspan  y="0" class="t11">N</tspan><tspan  y="0" class="t11">L</tspan><tspan  y="0" class="t9">
+</tspan>
+		<tspan x="-50.2" y="35.2" class="t10">F</tspan><tspan  y="35.2" class="t10">L</tspan><tspan  y="35.2" class="t10">3</tspan><tspan  y="35.2" class="t10">4</tspan><tspan  y="35.2" class="t10">5</tspan><tspan  y="35.2" class="t10">
+</tspan>
+	</text>
+	<text id="FL345 GND" style="transform: matrix(.816,0,0,.747,240.103,261.103)">
+		<tspan x="-50.2" y="0" class="t10">F</tspan><tspan  y="0" class="t10">L</tspan><tspan  y="0" class="t10">3</tspan><tspan  y="0" class="t10">4</tspan><tspan  y="0" class="t10">5</tspan><tspan  y="0" class="t9">
+</tspan>
+		<tspan x="-53.8" y="49.4" class="t8">G</tspan><tspan  y="49.4" class="t8">N</tspan><tspan  y="49.4" class="t8">D
+</tspan>
+	</text>
+	<text id="FL295 GND" style="transform: matrix(.621,0,0,.569,334.058,570.307)">
+		<tspan x="-50.2" y="0" class="t10">F</tspan><tspan  y="0" class="t10">L</tspan><tspan  y="0" class="t10">2</tspan><tspan  y="0" class="t10">9</tspan><tspan  y="0" class="t10">5</tspan><tspan  y="0" class="t9">
+</tspan>
+		<tspan x="-53.8" y="49.4" class="t8">G</tspan><tspan  y="49.4" class="t8">N</tspan><tspan  y="49.4" class="t8">D
+</tspan>
+	</text>
+	<text id="Lower" style="transform: matrix(.23,0,0,.23,302.161,549.307)">
+		<tspan x="0" y="0" class="t7">L</tspan><tspan  y="0" class="t7">o</tspan><tspan  y="0" class="t7">w</tspan><tspan  y="0" class="t7">e</tspan><tspan  y="0" class="t7">r
+</tspan>
+	</text>
+	<text id="FL345 FL295" style="transform: matrix(.61,0,0,.559,348.479,481.004)">
+		<tspan x="-57.1" y="0" class="t12">F</tspan><tspan  y="0" class="t12">L</tspan><tspan  y="0" class="t12">3</tspan><tspan  y="0" class="t12">4</tspan><tspan  y="0" class="t12">5</tspan><tspan  y="0" class="t12">
+</tspan>
+		<tspan x="-57.1" y="40" class="t12">F</tspan><tspan  y="40" class="t12">L</tspan><tspan  y="40" class="t12">2</tspan><tspan  y="40" class="t12">9</tspan><tspan  y="40" class="t12">5</tspan><tspan  y="40" class="t12">
+</tspan>
+	</text>
+	<text id="FL460 FL150" style="transform: matrix(.61,0,0,.559,551.479,843.004)">
+		<tspan x="-57.1" y="0" class="t12">F</tspan><tspan  y="0" class="t12">L</tspan><tspan  y="0" class="t12">4</tspan><tspan  y="0" class="t12">6</tspan><tspan  y="0" class="t12">0</tspan><tspan  y="0" class="t12">
+</tspan>
+		<tspan x="-57.1" y="40" class="t12">F</tspan><tspan  y="40" class="t12">L</tspan><tspan  y="40" class="t12">1</tspan><tspan  y="40" class="t12">5</tspan><tspan  y="40" class="t12">0</tspan><tspan  y="40" class="t12">
+</tspan>
+	</text>
+	<text id="South" style="opacity: .19;transform: matrix(1.245,-1.833,1.833,1.245,542.902,921.227)">
+		<tspan x="0" y="0" class="t6">S</tspan><tspan  y="0" class="t6">o</tspan><tspan  y="0" class="t6">u</tspan><tspan  y="0" class="t6">t</tspan><tspan  y="0" class="t6">h
+</tspan>
+	</text>
+	<path id="Shape 1" fill-rule="evenodd" class="s13" d="m112.81 138.82v-1h76.97v1z"/>
+	<path id="Shape 1 copy" fill-rule="evenodd" class="s13" d="m201.81 266.82v-1h76.97v1z"/>
+	<path id="Shape 1 copy 2" fill-rule="evenodd" class="s13" d="m319.81 390.81v-0.8h61.19v0.8z"/>
+	<path id="Shape 1 copy 3" fill-rule="evenodd" class="s13" d="m316 483.82v-0.83h65.19v0.83z"/>
+	<path id="Shape 1 copy 4" fill-rule="evenodd" class="s13" d="m305 573.8v-0.78h59v0.78z"/>
+	<path id="Shape 1 copy 5" fill-rule="evenodd" class="s13" d="m519 845.82v-0.82h65v0.82z"/>
+</svg>

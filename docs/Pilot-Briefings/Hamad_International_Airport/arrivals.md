@@ -2,24 +2,45 @@
 ## STAR Assignment
 STAR assignments are based on the waypoint at which you enter the Doha Terminal Maneuvering Area (TMA). ATC will assign the appropriate STAR depending on traffic conditions, with a preference for the shortest available routing whenever possible.
 
+On first contact with ATC when entering the Doha FIR, report your **callsign, assigned flight level, and arrival ATIS letter**.
+
 !!! note
     It is essential to highlight that arrival procedures are applicable to both Doha (OTBD) and Hamad (OTHH) airports. These procedures are not airport-specific.  
 
-    Aircraft can be sequenced on any of the STARs that guide them either to the east or west downwinds, depending on sector capacity.
+    Aircraft can be sequenced on either the east or west downwind, depending on sector capacity. Doha TMA STARs are designed as **open STARs** and normally end on the downwind. If you reach the clearance limit without further instructions, extend the downwind as published on the STAR chart and maintain the last assigned level.
+
+The extended **trombone** segments provide linear holding and allow ATC to absorb delays and sequence traffic. During busy periods, expect to fly a substantial portion or the full STAR. When traffic permits, ATC may shorten the route by clearing you direct to a waypoint and advising the anticipated track miles to touchdown. A longer STAR may still be used off-peak for traffic, military activity, or airspace constraints.
 
 !!! warning
     All STARs into Doha-Hamad include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "**DESCEND VIA STAR**," "**DESCEND UNRESTRICTED**," or "**CANCEL STAR SPEEDS**."
 
 ## Runway Assignment
-Runway assignments are issued by Doha Radar or Doha Approach and may be given with short notice during high-traffic periods. Pilots should be prepared for all arrival runways listed in the ATIS.
+Runway assignments are issued by Doha Radar or Doha Approach and may be given with short notice during high-traffic periods. Pilots should be prepared for all arrival runways listed in the ATIS. The level at the end of the STAR normally indicates the intended runway:
+
+- **2,500 ft:** RWY 16L/34R
+- **3,500 ft:** RWY 16R/34L
+
+ATC may assign a different altitude for tactical reasons and will advise the intended runway.
 
 If the aircraft supports a secondary flight plan, pilots should preload an alternate arrival runway to facilitate a swift transition if required.
 
 ## Approach
 The standard approach at Doha-Hamad is the ILS, with independent parallel operations in effect. Pilots can expect a minimum diagonal separation of 3 NM from traffic on the opposite runway and 2 NM spacing from preceding aircraft on the opposite runway.
 
-!!! warning
-    With effect 07 NOV 2025 1600z, pilots assigned runway 34R for arrival can expect to be assigned the RNP T 34R approach due to a partial runway closure. This can be found in the latest AIRAC data. Arrivals on 16L can expect the RNP 16L approach.
+During **Independent Parallel Operations (IPO)**, only ILS approaches are available. Monitor the arrival ATIS for the expected approach and mode of operation. Aircraft unable to accept an ILS should advise Doha Approach on first contact.
+
+ATC monitors localiser tracking after glideslope intercept. If you deviate from the localiser while descending on the glideslope, follow any corrective instruction immediately; depending on the situation, you or traffic on the adjacent approach may be instructed to break off or go around.
+
+## Expected Traffic Peaks
+
+Traffic delays are most likely during the following UTC periods:
+
+**Arrival peaks**
+- 0100–0400 UTC
+- 1300–1530 UTC
+- 1800–2200 UTC
+
+Check the arrival ATIS and current NOTAMs for operational updates. Actual track miles and delays may vary with traffic demand, weather, runway availability, and airspace restrictions.
 
 ## Speeds
 The speed limits and recommended speeds within different segments of the Doha terminal area is as follows:
@@ -35,6 +56,8 @@ The speed limits and recommended speeds within different segments of the Doha te
     Aircraft subject to speed restrictions on final with DME constraints may be instructed by ATC to comply with "**STANDARD SPEEDS**" meaning pilots are expected to maintain these speeds until final approach.  
 
     For the A380, the speed sequence is as follows: 180 until 10 DME and 160 kts until 5 DME.
+
+All STAR altitude and speed restrictions must be followed unless ATC explicitly cancels or amends them. Follow the meaning of your clearance carefully (for example, **DESCEND VIA STAR**, **DESCEND UNRESTRICTED**, or **CANCEL STAR SPEEDS**).
 
 All speed restrictions must be adhered to as accurately as possible. Aircraft unable to comply with these restrictions must notify ATC in advance and specify the speeds they can maintain. Pilots should also inform ATC if circumstances require a speed adjustment for any reason.  
 

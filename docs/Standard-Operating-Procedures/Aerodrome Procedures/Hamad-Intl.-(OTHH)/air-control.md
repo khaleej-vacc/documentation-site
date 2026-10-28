@@ -324,7 +324,7 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
 ---
 
 ## 4.4 Departure procedures
-High Intensity Runway Operations for departing aircraft are in effect 24 hours a day. All checks should be completed when reaching the assigned holding point, and aircraft must line up without delay when cleared by ATC. Prompt action should be taken in response to take-off clearance. Whenever possible, intersection departures should be used.
+High Intensity Runway Operations (HIRO) are normally in effect 24 hours a day, subject to the applicable weather conditions and suspension during aerodrome safeguarding (see section 4.6). All checks should be completed when reaching the assigned holding point, and aircraft must line up without delay when cleared by ATC. Prompt action should be taken in response to take-off clearance. Whenever possible, intersection departures should be used when permitted by the applicable operating phase.
 
 ### 4.4.1 Standard departure points
 Below are the points which pilots are recommended to plan for departure.
@@ -340,7 +340,10 @@ Below are the points which pilots are recommended to plan for departure.
 |   34R  |             A2            |
 
 !!! info
-    While these are the standard departure points pilots are expected to utilise for performance, they are **not** necessarily the same as those available for RRSM departures (see section 5.6)
+    While these are the standard departure points pilots are expected to utilise for performance, they are **not** necessarily the same as those available for RRSM departures (see section 5.6).
+
+!!! warning
+    During aerodrome safeguarding, intersection departures are suspended except from **L1, L11, A1 and A11**. This restriction takes precedence over the standard departure-point recommendations above.
 
 ### 4.4.2 Line up clearances
 Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at one i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
@@ -425,6 +428,9 @@ On initial contact, aircraft shall be instructed to vacate at a designated taxiw
 |   34L  |    L6/M8    |
 |   34R  |      A5     |
 
+!!! note
+    During safeguarding or Low Visibility Procedures (LVP), use the planned LVP exits in section 4.8.8 instead of the normal preferred exits listed above.
+
 ### 4.5.2 Separation requirements
 #### 4.5.2.1 General
 While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold. 
@@ -497,14 +503,17 @@ When exiting the runway, pilots shall continue taxi as outlined in table below, 
 |   34R  |      Continue via A6, hold short of TWY C     |
 
 ### 4.6.2 Conditions for the application of HIROs
-HIRO will be in force when, runway surface condition is dry, and adverse weather conditions are not present. Controllers must ensure that pilots maintain 50kts while exiting on a Rapid Exit Taxiway (RET).
+HIRO will normally be in force when the runway surface is dry and adverse weather conditions are not present. Controllers must ensure that pilots maintain 50 kts while exiting on a Rapid Exit Taxiway (RET).
 
-HIRO is standard procedure at Hamad. When HIRO are not in use, the ATIS shall state "HIGH INTENSITY RUNWAY OPERATION SUSPENDED"
+HIRO is suspended whenever **aerodrome safeguarding** is in force. HIRO is otherwise standard procedure at Hamad when its application conditions are met. When HIRO is not in use, the ATIS shall state "HIGH INTENSITY RUNWAY OPERATION SUSPENDED".
 
 ---
 
 ## 4.7 Reduced runway separation minima (RRSM)
 ### 4.7.1 Conditions for the application of RRSM
+
+**RRSM shall be suspended from the declaration of IMC**, even if the individual runway and weather conditions below would otherwise permit its use.
+
 - The tailwind component must not exceed 5 knots, measured at the landing threshold, and there should be no pilot reports of wind shear.
 - Meteorological visibility must be at least 5 km, with a cloud ceiling no lower than 1000 feet. ATC must be confident that the pilot of the following aircraft can clearly and continuously observe the relevant traffic.
 - The pilot of the succeeding aircraft must be warned, and traffic information must be provided to them.
@@ -583,27 +592,152 @@ When the runway in use is temporarily occupied by other traffic, landing clearan
 
 ---
 
-## 4.8 Low visibility operations (LVO)
-### 4.8.1 Commencement of LVO
-Low visibility operations (LVO) are commenced at Doha-Hamad when:
+## 4.8 All-weather and low-visibility operations (AWO/LVP)
 
-- Touchdown RVR is indicated to be 600 metres or less;
-- Reported meteorological visibility is 600 metres or less;
-- The reported cloud ceiling is less than 300 feet
+The following procedures incorporate the OTHH All Weather Operations (AWO) provisions published in the AIRAC AIP Supplement valid **1 October 2026 to 30 September 2027**. These provisions are time-limited; controllers must use current ATIS, NOTAM and applicable aeronautical publications. When the applicable phase is uncertain, apply the more restrictive phase until the conditions have been verified.
 
-LVO may be pre-emptively initiated when RVR or meteorological visibility is reported at or below 1500 m and forecast to reduce below LVO minima, or the cloud ceiling is reported as 500FT, and forecast to reduce below LVO minima. 
+### 4.8.1 Operational phases and trigger values
 
-### 4.8.2 LVO departure procedures
-During LVO, aircraft must use CAT II/III holding points for all runways in order to protect ILS-critical areas. 
+The AWO concept introduces progressively restrictive procedures as visibility and/or cloud ceiling deteriorate. The **touchdown-zone IRVR** is the controlling value for declaring an LVP phase. Midpoint and stop-end IRVR values remain operationally relevant when reported and applicable.
 
-CAT II/III holding points must be used during LVO for departing aircraft, refer to the table below.
+| Phase | Trigger | Principal operational effect |
+|:--|:--|:--|
+| Normal operations | Visibility **5 km or more** and ceiling **1,500 ft or higher** | Orange Route may be suspended when the ceiling is below **2,000 ft**. |
+| IMC | Visibility **below 5,000 m** and/or ceiling **below 1,500 ft** | RRSM is suspended and VFR is suspended, subject to the exceptions in section 4.8.10. |
+| RAVC 1 | Visibility **below 3,500 m** | Orange Route and Morjan Route are suspended. |
+| RAVC 2 | Visibility **below 2,000 m** | Independent Parallel Approaches (IPA) are suspended; Qatar Emiri Air Force (QEAF) operations within the OTHH CTR are suspended; applicable vehicle and towing restrictions commence. |
+| Aerodrome safeguarding | Visibility **1,500 m or less** and/or ceiling **500 ft or less** | Aerodrome safeguarding and ILS protection are established. HIRO and most intersection departures are suspended. |
+| LVP 1 | IRVR **600 m or less** and/or ceiling **300 ft or less**, with safeguarding complete | LVP is in force; taxiway-block, ILS protection and taxi restrictions apply. |
+| LVP 2 | IRVR **400 m or less** and/or ceiling **250 ft or less** | LVP 1 remains in force; departure localiser protection and Low Visibility Take-Off (LVTO) procedures apply where relevant. |
+| LVP 3 | IRVR **300 m or less** and/or ceiling **100 ft or less** | LVP 1 and 2 remain in force; spacing and taxi restrictions increase and autoland requirements apply. |
 
-| Runway |     Holding Point    |
-|:------:|:--------------------:|
-|   16L  |         A10          |
-|   16R  | L10/M12/P11/12/13/14 |
-|   34L  |  L2/P1/P2/P3/P4/P5   |
-|   34R  |          A2          |
+The active LVP status and approach category available for each runway system shall be promulgated through ATIS and, where necessary, by ATC. Safeguarding may be initiated earlier when LVP are anticipated.
+
+### 4.8.2 Segregated all-weather operations
+
+Meteorological conditions may differ between the eastern and western runway systems. From **RAVC 2 onwards**, different AWO phases may be applied to each runway system when conditions and their expected duration justify segregated operations.
+
+- One runway system may support Category III ILS operations while the other continues under less restrictive Category I procedures. For example, RWY 16L may operate as Category III while RWY 16R operates as Category I, or vice versa.
+- The approach category and operational status of each runway system shall be promulgated separately through the applicable arrival ATIS and, where necessary, by ATC.
+- Taxi routing, runway crossings, towing and movements between the eastern and western areas may be restricted to protect ILS sensitive and critical areas.
+- If the runway systems cannot be safely segregated, apply the more restrictive phase across the aerodrome.
+
+### 4.8.3 Aerodrome safeguarding
+
+Safeguarding may commence when visibility is **1,500 m or less** and/or the ceiling is **500 ft or less**, or earlier when LVP are anticipated. During safeguarding, controllers shall ensure that:
+
+- **HIRO is suspended.**
+- Intersection departures are suspended, except from **L1, L11, A1 and A11**.
+- Holding points **M1, M2, M13 and M14** are unavailable.
+- Glide-path and localiser protection is applied using the applicable Category I or Category III holding positions and other published safeguarding measures.
+- ILS approaches are preferred. If ILS is unavailable, an RNP approach may be approved on pilot request, subject to published minima, prevailing conditions and ATC acceptance.
+- Free-ranging vehicle operations are suspended and no more than **two aircraft towing movements** may take place simultaneously.
+- Apron crossings are avoided.
+
+Category II or Category III landing operations shall not commence until safeguarding is confirmed complete. If the required ILS sensitive area cannot be protected, the affected arrival shall not be permitted to land.
+
+### 4.8.4 Low Visibility Procedures
+
+When LVP is in force, apply the requirements for the declared phase and any runway-specific restrictions published by ATIS or issued by ATC. The active LVP status and available approach category must be promulgated through ATIS and, where necessary, by ATC. Aircraft, operator and crew approvals must be compatible with the assigned approach category, autoland requirement and applicable take-off minima. Protect the applicable ILS areas and do not allow aircraft or vehicles to enter a protected area unless specifically cleared in accordance with the applicable procedure. If a pilot is uncertain of their position or ability to comply, the movement must be stopped or held and the uncertainty resolved before proceeding.
+
+### 4.8.5 LVP 1
+
+LVP 1 commences when IRVR is **600 m or less** and/or the ceiling is **300 ft or less**, provided safeguarding is complete. The ATIS shall include **“Low Visibility Procedures in force”**. The following applies:
+
+- Arrivals and departures operate in **terminal mode**.
+- Taxiing aircraft are restricted to **one aircraft per taxiway block**.
+- Category III holding positions are mandatory on the runway system operating under Category III procedures. Use the published ILS-protection holding positions appropriate to each runway system.
+- Localiser Sensitive Area (LSA) sterility is required for arrivals from **4 NM final** until completion of the landing roll. If sterility cannot be assured, instruct the aircraft to go around **no later than 2 NM final**.
+- **Conditional clearances shall not be issued.**
+- **Apron crossings are not permitted.**
+- Taxiway **A8 between C and F** and taxiway **A9 between B and F** are unavailable.
+- One-way taxi flows may be applied; issue explicit taxi routings.
+- Stop bars are used for runway entry and crossing movements. Apply alternative safeguarding measures where stop-bar protection is unavailable.
+
+### 4.8.6 LVP 2
+
+LVP 2 commences when IRVR is **400 m or less** and/or the ceiling is **250 ft or less**. All LVP 1 requirements remain applicable. In addition:
+
+- For departure localiser protection, the preceding departing aircraft must be airborne and past the **upwind localiser antenna** before the next aircraft is instructed to line up.
+- Low Visibility Take-Off procedures apply when take-off is conducted with RVR **below 400 m**, subject to the applicable aircraft, operator and crew approvals.
+
+### 4.8.7 LVP 3
+
+LVP 3 commences when IRVR is **300 m or less** and/or the ceiling is **100 ft or less**. All LVP 1 and LVP 2 requirements remain applicable. In addition:
+
+- Taxiing aircraft are restricted to **one aircraft per every second taxiway block**.
+- Autoland is required for arrivals unless an alternative is permitted by the applicable operational approval, aircraft limitations and prevailing conditions.
+- Increased runway occupancy and surface movement restrictions result in the lowest available runway capacity. Anticipate the LVP 3 arrival spacing in section 4.8.9.
+
+### 4.8.8 LVP runway exits and departure holding positions
+
+During safeguarding and LVP, plan arrivals around the following exits. Aircraft should vacate as soon as safely practicable to support ILS protection and minimise runway occupancy; pilots may vacate earlier if appropriate.
+
+| Runway | Planned exit during LVP |
+|:------:|:-----------------------:|
+| 34R | A9 |
+| 34L | L9 / M10 |
+| 16L | A3 |
+| 16R | L3 / M5 |
+
+A specific exit will not normally be issued on final approach unless required by ground traffic or exit availability. ATC may offer an earlier suitable exit after completion of the landing roll. These LVP exits are different from the normal preferred exits in section 4.5.1 and take precedence during LVP.
+
+During safeguarding and LVP, use the published ILS-protection holding positions applicable to the runway system in use. The CAT II/III holding positions listed below form the local reference for departing aircraft; CAT III holding positions are mandatory on a runway system operating under Category III procedures.
+
+| Runway | CAT II/III holding point(s) |
+|:------:|:---------------------------:|
+| 16L | A10 |
+| 16R | L10 / M12 / P11 / P12 / P13 / P14 |
+| 34L | L2 / P1 / P2 / P3 / P4 / P5 |
+| 34R | A2 |
+
+### 4.8.9 Arrival spacing during safeguarding and LVP
+
+The following final approach spacing should be anticipated. Additional spacing may be required because of traffic complexity, runway occupancy, system degradation or other tactical safety considerations.
+
+| Phase | Successive arrivals | Departure between arrivals |
+|:------------------------------|:---------------------:|:---------------------------:|
+| Safeguarding, when applied | **7 NM** | **12 NM** |
+| LVP 1 | **7 NM** | **12 NM** |
+| LVP 2 | **7 NM** | **12 NM** |
+| LVP 3 | **9 NM** | **14 NM** |
+
+These spacing values do not remove the requirement to apply all other applicable runway, wake turbulence and departure-separation minima.
+
+### 4.8.10 VFR, SVFR and helicopter operations
+
+#### VFR operations
+
+From the declaration of IMC, VFR traffic at OTHH is suspended, subject to the following exceptions stated in the AWO provisions:
+
+- Gulf Helicopters Company operations where IMC has not been declared due to cloud ceiling.
+- Qatar Emiri Air Force flights, although QEAF operations within the OTHH CTR are suspended from RAVC 2.
+
+VFR aircraft already within the CTR may continue and vacate without delay. VFR training is suspended.
+
+#### Special VFR and helicopter operations
+
+- SVFR requires an individual ATC clearance. SVFR overflight of the OTHH CTR is not permitted except for emergency or Lifeflight operations.
+- Available SVFR helicopter routes to/from OTBD are **TURTLE, BOAT and DHOW**.
+- Outbound SVFR helicopters shall route not above **1,500 ft**; inbound SVFR helicopters shall route not above **1,000 ft**.
+- Successive SVFR helicopter departures, and successive arrivals crossing the CTR entry point, are subject to a minimum interval of **3 minutes**.
+
+### 4.8.11 Stop-bar operations
+
+- An ATC clearance does **not** authorise an aircraft to cross an illuminated stop bar. Aircraft must comply with illuminated stop bars and remain stationary while requesting clarification if clearance or stop-bar status is uncertain.
+- If a stop bar fails, suspend movements affected by the unserviceable stop bar until alternative protection has been established under the applicable contingency procedure. Unaffected movements may continue.
+- Where a stop bar remains illuminated, aircraft shall not cross it unless specifically instructed by ATC under Follow Me guidance, as provided for in the AWO provisions.
+
+### 4.8.12 Degraded modes and contingency operations
+
+- **A-SMGCS degradation or failure:** Pause or reduce affected movements. Under an approved contingency procedure, use a reduced flow rate, aircraft position reports and Follow Me assistance as applicable.
+- **ILS degradation or failure:** Reassess the approach category and availability of the affected runway. Arrivals may need to be suspended; promulgate any downgrade through ATIS, NOTAM and/or ATC.
+- **Stop-bar failure:** Do not continue affected movements until alternative protection has been established.
+- **Radio failure, uncertain surface position or doubt about LSA sterility:** Stop or hold the affected movement, or instruct an arrival to go around as appropriate.
+
+### 4.8.13 Cancellation and recovery
+
+LVP may be cancelled when visibility has improved above **1,500 m**, the ceiling is above **500 ft**, and the improvement is expected to be sustained. Update ATIS and withdraw operational restrictions progressively. During recovery, maintain accurate TOBT information and comply with applicable TSAT, ASRT and CTOT requirements to support an orderly restoration of runway and surface-movement capacity.
 
 ---
 

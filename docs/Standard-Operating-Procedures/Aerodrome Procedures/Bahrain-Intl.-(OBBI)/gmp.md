@@ -27,13 +27,13 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **DLV Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, initial climb 4000FT, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 BORUK, after departure runway 30R, fly heading 345 degrees, initial climb 4000FT, squawk 4212"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"GFA178, Negative, cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, initial climb altitude 4000FT, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, Negative, cleared to Dubai via N697 SODAK P559 BORUK, after departure runway 30R, fly heading 345 degrees, initial climb altitude 4000FT, squawk 4212"**_
 
 !!!node "Be patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!

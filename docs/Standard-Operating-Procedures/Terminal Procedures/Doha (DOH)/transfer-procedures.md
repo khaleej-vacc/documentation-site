@@ -12,9 +12,9 @@ Traffic shall always be handed off to DIR with a speed restriction on **190 knot
 Hand offs to DIR must be at **5,000FT** when arriving on the eastern downwind, and **6,000FT** when on the western downwind. This applies for all runway configurations.
 
 ### 5.3 Transfers between Approach (APP) and Radar (RDR)
-Doha Approach will climb departures from OTHH and OTBD to 12000FT. Higher levels may be assigned with coordination with the appropriate Radar controller. 
+Doha Approach will climb departures from OTHH and OTBD to 12,000FT. Higher levels may be assigned with coordination with the appropriate Radar controller. 
 
-Likewise, arrivals into OTHH and OTBD will be descended to 12000FT by Doha Radar. Lower levels may be assigned with coordination with the appropiate Approach controller.
+Likewise, arrivals into OTHH and OTBD will be descended to 13,000FT by Doha Radar. Lower levels may be assigned with coordination with the appropiate Approach controller.
 
 Controllers shall release traffic no later than ±5,000 ft from the aircraft's assigned level to allow for continuous descent/climb.
 

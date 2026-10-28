@@ -73,9 +73,13 @@ By default, aircraft should be assigned the STAR that allows for the shortest tr
      |  VEDED1P  |      Trombone      |  Long  |   East   | 
 
 #### 3.1.3 Instrument Approach
-The ILS approach is typically the preferred approach type. Aircraft may be cleared for a visual approach provided the conditions outlined in Section 3.1.4 are met.  
+The ILS approach is typically the preferred approach type. Aircraft may be cleared for a visual approach provided the conditions outlined in Section 3.1.4 are met.
 
-While RNP approaches are available, they should only be assigned if specifically requested by the pilot or if other circumstances, such as ILS unserviceability, necessitate their use.
+During aerodrome safeguarding and low visibility operations, ILS approaches are preferred. Category II/III arrival operations shall not commence until safeguarding has been confirmed complete. If the required ILS sensitive area cannot be protected, the affected arrival shall not be permitted to land.
+
+RNP approaches are available, but should only be assigned if specifically requested by the pilot or if other circumstances, such as ILS unserviceability, necessitate their use. During safeguarding, an RNP approach may be approved when an ILS approach is unavailable, subject to published minima, prevailing conditions, and ATC acceptance.
+
+The approach category available for each runway shall be obtained from the applicable ATIS and/or ATC. Do not assume that both runway systems have the same approach category during segregated all-weather operations; see Section 3.6.
 
 
 #### 3.1.4 Visual approach
@@ -156,27 +160,27 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 #### 3.3.2 Descent Procedure - Doha 33 / Hamad 34s
 | Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
 |---------------------|--------|-----------|-------------------|
-| OTHH/OTBD           | 33/34s | HAYYA2L   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, RDR N shall descend aircraft to be at 12,000FT inbound LUBAK, followed by further descent as appropriate to between 8,000FT - 3,500FT |
+| OTHH/OTBD           | 33/34s | HAYYA2L   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, RDR N shall descend aircraft to be at 13,000FT inbound LUBAK, followed by further descent as appropriate to between 8,000FT - 3,500FT |
 | OTHH/OTBD           | 33/34s | HAYYA1J   | Traffic shall be restricted to FL150 until clear of OT-R062. Once clear, they may be cleared to descend to 10,000FT to be leveled by GINTO, then stepped down as appropriate by to between 8,000FT - 6,000FT, and given further descent by FIN C/W from 6,000FT - 3,500FT |
-| OTHH/OTBD           | 33/34s | HAYYA2R   | Traffic must be at FL170 at VELAM, and instructed to descend to FL150 inbound VUTAN. Thereafter RDR N must accordingly descend traffic to be at 12,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E   |
-| OTHH/OTBD           | 33/34s | HAYYA2V   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 12,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
-| OTHH/OTBD           | 33/34s | ALKAN2L   | Traffic shall be instructed by RDR N to descend to FL150 - 12,000FT upon entering the Trombone. Moreover APP W issuing 11,000FT inbound KATED, and further down to 8,000FT - 6,000FT, and handed over to FIN C/W to be issued 6,000FT - 3,500FT upon being handed over.  |
-| OTHH/OTBD           | 33/34s | ALKAN2R   | Traffic must accordingly be instructed by RDR N to descend to be at 12,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
-| OTHH/OTBD           | 33/34s | ALKAN2V   | Aircraft shall be cleared to descend to 12,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | HAYYA2R   | Traffic must be at FL170 at VELAM, and instructed to descend to FL150 inbound VUTAN. Thereafter RDR N must accordingly descend traffic to be at 13,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E   |
+| OTHH/OTBD           | 33/34s | HAYYA2V   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 13,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | ALKAN2L   | Traffic shall be instructed by RDR N to descend to FL150 - 13,000FT upon entering the Trombone. Moreover APP W issuing 11,000FT inbound KATED, and further down to 8,000FT - 6,000FT, and handed over to FIN C/W to be issued 6,000FT - 3,500FT upon being handed over.  |
+| OTHH/OTBD           | 33/34s | ALKAN2R   | Traffic must accordingly be instructed by RDR N to descend to be at 13,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
+| OTHH/OTBD           | 33/34s | ALKAN2V   | Aircraft shall be cleared to descend to 13,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Thereafter FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
 | OTHH/OTBD           | 33/34s | LAEEB1J   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB. Thereafter further descent to 10,000FT by GINTO, and then issued to descend further to 8,000FT - 6000FT, and handed over to FIN C/W to descend 6,000FT - 3,500FT upon being handed over |
-| OTHH/OTBD           | 33/34s | LAEEB1R   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB. Thereafter, shall be descended accordingly when clear of TOSNA and TOVOX arrivals down to 12,000FT - 6,000FT by APP E, and issued further descent to 6000FT - 3,500FT by FIN E |
+| OTHH/OTBD           | 33/34s | LAEEB1R   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB. Thereafter, shall be descended accordingly when clear of TOSNA and TOVOX arrivals down to 13,000FT - 6,000FT by APP E, and issued further descent to 6000FT - 3,500FT by FIN E |
 | OTHH/OTBD           | 33/34s | LAEEB1L   | Aircraft must be instructed to descend FL150 - 13,000FT to be leveled by LAEEB, and issued further descent to 6,000FT, and handed over to FIN C/W for further down to 6,000FT - 3,500FT |
 | OTHH/OTBD           | 33/34s | ORLEK1L   | Aircraft shall be instructed to descend 10,000FT to be leveled by GINTO, upon leaving GINTO they shall be issued further descent by APP W to 8,000FT - 6,000FT. Thereafter, handed over to FIN C/W to be issued 6,000FT - 3,500FT upon entering the downwind leg |
 | OTHH/OTBD           | 33/34s | ORLEK1R   | Aircraft shall be instructed to descend 10,000FT to be leveled by GINTO, upon leaving GINTO they shall be accordingly descended to 8,000FT - 6,000FT upon reaching EGNUG, and issued further descent from 6,000FT - 3,500FT by FIN E |
-| OTHH/OTBD           | 33/34s | TOSNA2J   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and descended accordingly to 12,000FT by RDR N, and handed over to APP W to issue 12,000FT - 6,000FT. Moreover, descended to 6,000FT - 3,500FT by FIN C/W |
-| OTHH/OTBD           | 33/34s | TOSNA2R   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
-| OTHH/OTBD           | 33/34s | TOSNA2V   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000FT by LUBAK from RDR N. Thereafter, handed over to APP E to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
-| OTHH/OTBD           | 33/34s | TOSNA2L   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000FT by KIVAM from RDR S. Thereafter, handed over to APP W to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 3,500FT by FIN C/W |
-| OTHH/OTBD           | 33/34s | TOVOX2R   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, and issued down to 12,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 12,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E|
-| OTHH/OTBD           | 33/34s | TOVOX2L   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, then further descended to 12,000FT by KIVAM under RDR S. Thereafter, traffic is handed over to APP W for descent from 12,000FT to 6,000FT, with FIN C/W issuing further descent to between 6,000FT and 3,500FT |
-| OTHH/OTBD           | 33/34s | VEDED2L   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 12,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 12,000FT inbound LUBAK, and handed off to APP W for further descent to 11,000FT - 6,000FT inbound KATED, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN C/W |
-| OTHH/OTBD           | 33/34s | VEDED2R   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 12,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 12,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
-| OTHH/OTBD           | 33/34s | VEDED2V   | Traffic shall be level at FL180 at VEDED and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 12,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Moreover, FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | TOSNA2J   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and descended accordingly to 13,000FT by RDR N, and handed over to APP W to issue 13,000FT - 6,000FT. Moreover, descended to 6,000FT - 3,500FT by FIN C/W |
+| OTHH/OTBD           | 33/34s | TOSNA2R   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 13,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
+| OTHH/OTBD           | 33/34s | TOSNA2V   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 13,000FT by LUBAK from RDR N. Thereafter, handed over to APP E to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E |
+| OTHH/OTBD           | 33/34s | TOSNA2L   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 13,000FT by KIVAM from RDR S. Thereafter, handed over to APP W to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 3,500FT by FIN C/W |
+| OTHH/OTBD           | 33/34s | TOVOX2R   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, and issued down to 13,000FT by KIVAM from RDR S. Thereafter, handed over to APP E to issue 13,000FT - 6,000FT, and accordingly be descended to 6,000FT - 2,500FT by FIN E|
+| OTHH/OTBD           | 33/34s | TOVOX2L   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, then further descended to 13,000FT by KIVAM under RDR S. Thereafter, traffic is handed over to APP W for descent from 13,000FT to 6,000FT, with FIN C/W issuing further descent to between 6,000FT and 3,500FT |
+| OTHH/OTBD           | 33/34s | VEDED2L   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 13,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 13,000FT inbound LUBAK, and handed off to APP W for further descent to 11,000FT - 6,000FT inbound KATED, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN C/W |
+| OTHH/OTBD           | 33/34s | VEDED2R   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then further descended to FL170 - 13,000FT upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 13,000FT inbound LUBAK, and handed off to APP E for further descent to 8,000FT inbound EGNUG, and appropriately instruct them to descend 6,000FT - 2,500FT on the downwind leg by FIN E |
+| OTHH/OTBD           | 33/34s | VEDED2V   | Traffic shall be level at FL180 at VEDED and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 13,000FT inbound LUBAK, with APP E issuing further descent to between 8,000FT and 6,000FT. Moreover, FIN E issuing down from 6,000FT - 2,500FT once established on the downwind leg |
 
 ---
 
@@ -198,25 +202,25 @@ During periods of high arrival traffic, direct routings may also be issued from 
 
      | Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
      |-------------------|--------------|--------|------------|----------------------|
-     |    OTHH/OTBD      |    HAYYA2L   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT | RDR N to APP W |
-     |    OTHH/OTBD      |    HAYYA2R   | EGNUG/LUBAK | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT if direct LUBAK, 8,000FT if direct EGNUG | RDR N to APP E (LUBAK)<br>pre-coordinated (EGNUG) |
+     |    OTHH/OTBD      |    HAYYA2L   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT | RDR N to APP W |
+     |    OTHH/OTBD      |    HAYYA2R   | EGNUG/LUBAK | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT if direct LUBAK, 8,000FT if direct EGNUG | RDR N to APP E (LUBAK)<br>pre-coordinated (EGNUG) |
      |    OTHH/OTBD      |    HAYYA2V   | EGNUG  | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT | pre-coordinated |
      |    OTHH/OTBD      |    HAYYA1J   | KIPIK | Shall not adversely affect ARR sequence, and must ensure that traffic is clear of restricted airspace | pre-coordinated |
-     |    OTHH/OTBD      |    ALKAN2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
-     |    OTHH/OTBD      |    ALKAN2R   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP E |
+     |    OTHH/OTBD      |    ALKAN2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    ALKAN2R   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT within LUBAK | RDR N to APP E |
      |    OTHH/OTBD      |    LAEEB1L   | MIVAL  | Shall not adversely affect ARR sequence | pre-coordinated |
      |    OTHH/OTBD      |    LAEEB1R   | AFNAN  | Shall not adversely affect ARR sequence | pre-coordinated |
-     |    OTHH/OTBD      |    TOSNA2J   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR S to 12,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    TOSNA2J   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR S to 13,000FT within LUBAK | RDR N to APP W |
      |    OTHH/OTBD      |    TOSNA2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.4, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
      |    OTHH/OTBD      |    TOSNA2R   | AFNAN/LOVET | Shall not adversely affect ARR sequence, released for descent by RDR S to 8,000FT - 6,000FT | pre-coordinated |
      |    OTHH/OTBD      |    TOVOX2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.5, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
      |    OTHH/OTBD      |    TOVOX2R   | AFNAN | Shall not adversely affect ARR sequence | pre-coordinated |
-     |    OTHH/OTBD      |    VEDED2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 12,000FT within LUBAK | RDR N to APP W |
+     |    OTHH/OTBD      |    VEDED2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT within LUBAK | RDR N to APP W |
      |    OTHH/OTBD      |    VEDED2R   | BAYAN/EGNUG |  Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
      |    OTHH/OTBD      |    VEDED2V   | EGNUG | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
 
     !!! warning
-        Aircrafts on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 12,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
+        Aircrafts on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 13,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
 
         Aicrafts on the LAEEB1J, or the ORLEK1L/R arrival shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
@@ -225,9 +229,9 @@ During periods of high arrival traffic, direct routings may also be issued from 
      | Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
      |-------------------|--------------|--------|------------|----------------------|
      |    OTHH/OTBD      |    HAYYA1K   | LAGNO  | Shall not adversely affect ARR sequence, must be clear of restricted areas | pre-coordinated |
-     |    OTHH/OTBD      |    HAYYA1F   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP W |
-     |    OTHH/OTBD      |    HAYYA2H   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
-     |    OTHH/OTBD      |    HAYYA1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence, released for descent to 12,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    HAYYA1F   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 13,000FT by RDR N | RDR N to APP W |
+     |    OTHH/OTBD      |    HAYYA2H   | BAYAN  | Shall not adversely affect ARR sequence, released for descent to 13,000FT by RDR N | RDR N to APP E |
+     |    OTHH/OTBD      |    HAYYA1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence, released for descent to 13,000FT by RDR N | RDR N to APP E |
      |    OTHH/OTBD      |    ALKAN1F   | LUBAK/LOVET | Traffic to remain above 11,000FT, further descend to be coordinated | pre-coordinated |
      |    OTHH/OTBD      |    ALKAN2H   | LOVET  | Shall not adversely affect ARR sequence | RDR N to APP E |
      |    OTHH/OTBD      |    ALKAN1P   | LUBAK/LOVET | Released for descent to 8,000FT - 6,000FT by RDR N | RDR N to APP E |
@@ -243,7 +247,7 @@ During periods of high arrival traffic, direct routings may also be issued from 
      |    OTHH/OTBD      |    VEDED1P   | LUBAK/BAYAN | Shall not adversely affect ARR sequence | RDR N to APP E |
 
     !!! warning
-        Aircraft on the TOSNA2F, and TOVOX2F shall not be given a direct, and instead released for descent by RDR N to 12,000FT within KIVAM, and issued further descent to 8,000FT reaching DASIK.
+        Aircraft on the TOSNA2F, and TOVOX2F shall not be given a direct, and instead released for descent by RDR N to 13,000FT within KIVAM, and issued further descent to 8,000FT reaching DASIK.
 
         Aicraft on the LAEEB2F, shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
@@ -285,7 +289,7 @@ When vectoring aircraft from the downwind leg, a standard 90-degree base leg and
 During single-runway operations at Doha-Hamad and Doha Airports, arriving aircraft shall be separated in accordance with the applicable RECAT wake turbulence separation minima. A minimum of 7 NM should be used where sequencing requirements or operational considerations require additional spacing.
 
 ##### 3.5.4.2 Low Visibility Operations
-Under Low Visibility Operations (LVO), a minimum longitudinal separation of **7 nautical miles (NM)** shall be strictly applied between all arriving aircraft.
+Arrival spacing during Safeguarding and LVP depends on the active operational phase. Apply the minima in Section 3.6.4: 7 NM during Safeguarding, LVP 1 and LVP 2, increasing to 9 NM during LVP 3. These are minimum planned spacings; additional spacing may be required due to traffic complexity, runway occupancy, system degradation, or other operational considerations.
 
 #### 3.5.5 Platform Altitudes
 ##### 3.5.5.1 Doha-Hamad (OTHH)
@@ -316,3 +320,92 @@ Aircraft establishing on final approach at Doha International Airport shall be c
 |  RNP |   15   | 3,500FT before the FAP |
 |  ILS |   33   | 4,500FT at NAJMA       |
 |  RNP |   33   | 3,000FT at NAJMA       |
+
+---
+
+### 3.6 All-Weather Operations and Low Visibility Procedures
+
+#### 3.6.1 Operational phases and triggers
+Doha-Hamad applies progressive All-Weather Operations (AWO) restrictions as visibility or ceiling deteriorates. When the applicable phase is uncertain, the more restrictive phase may be applied until conditions have been verified. Active LVP status and the approach category available for each runway shall be promulgated through ATIS and, where necessary, by ATC.
+
+| Phase | Trigger | Principal operational effect relevant to TMA/APP |
+|:--|:--|:--|
+| Normal operations | Visibility **5 km or more** and ceiling **1,500 ft or higher** | Normal operations. The Orange Route may be suspended when the ceiling is below 2,000 ft. |
+| IMC | Visibility **below 5,000 m** and/or ceiling **below 1,500 ft** | RRSM is suspended. VFR operations are suspended, subject to the exceptions in Section 3.6.7. |
+| RAVC 1 | Visibility **below 3,500 m** | Orange Route and Morjan Route are suspended. |
+| RAVC 2 | Visibility **below 2,000 m** | Independent Parallel Approaches (IPA) are suspended. Qatar Emiri Air Force operations within the OTHH CTR are suspended, and vehicle/towing restrictions commence. |
+| Safeguarding | Visibility **1,500 m or less** and/or ceiling **500 ft or less** | Aerodrome safeguarding and ILS protection are established. ILS approaches are preferred; HIRO and most intersection departures are suspended. |
+| LVP 1 | Touchdown IRVR **600 m or less** and/or ceiling **300 ft or less**, with safeguarding complete | LVP is in force. Category III holding positions, Localiser Sensitive Area (LSA) sterility and taxiway-block restrictions apply. |
+| LVP 2 | Touchdown IRVR **400 m or less** and/or ceiling **250 ft or less** | LVP 1 remains applicable. Departure localiser protection and Low Visibility Take-Off procedures apply. |
+| LVP 3 | Touchdown IRVR **300 m or less** and/or ceiling **100 ft or less** | Increased arrival spacing, enhanced taxiway-block restrictions and autoland requirements apply. |
+
+!!! note
+    The touchdown-zone Instrumented Runway Visual Range (IRVR) is the controlling value for declaring an LVP phase. Midpoint and stop-end IRVR values remain operationally relevant when reported and applicable.
+
+#### 3.6.2 Segregated All-Weather Operations
+Meteorological conditions may differ between the eastern and western runway systems. From RAVC 2 onwards, different AWO phases may be applied to each runway system when conditions and expected duration justify segregated operations.
+
+- One runway system may operate under LVP supporting Category III ILS operations while the other continues under less restrictive conditions using Category I ILS procedures, where promulgated.
+- Check the applicable arrival ATIS and/or ATC information for the approach category and operating status of the assigned runway. Do not assume the east and west runway systems share the same status.
+- Taxi routing, runway crossings and movements between eastern and western areas may be restricted to protect ILS sensitive and critical areas. Coordinate any plan that depends on such movement with the relevant Tower/Ground controller.
+- If segregation cannot be maintained safely, the more restrictive phase may be applied across the aerodrome.
+- IPA are suspended from RAVC 2; segregated runway-system status does not, by itself, authorize independent parallel approaches.
+
+#### 3.6.3 Safeguarding and approach protection
+Safeguarding may commence when visibility is 1,500 m or less and/or the ceiling is 500 ft or less, or earlier when LVP are anticipated.
+
+- Category II/III landing operations shall not commence until safeguarding has been confirmed complete.
+- ILS approaches are preferred because prevailing conditions may not support an RNP approach. Where an ILS approach is unavailable, an RNP approach may be approved on pilot request, subject to published minima, prevailing conditions and ATC acceptance.
+- If the required ILS sensitive area cannot be protected, the affected arrival shall not be permitted to land.
+- During LVP 1, LSA sterility is required for arrivals from **4 NM final until completion of the landing roll**. If sterility cannot be assured, the aircraft shall be instructed to go around **no later than 2 NM final**.
+- Aircraft and vehicles may be held or rerouted to protect the ILS signal. Flight crews shall not enter an ILS-protected area unless specifically cleared by ATC.
+
+#### 3.6.4 Arrival spacing during Safeguarding and LVP
+The following final-approach spacing should be anticipated. Apply additional spacing when required by traffic complexity, runway occupancy, system degradation or other tactical safety considerations.
+
+| Active phase | Successive arrivals | Departure between arrivals |
+|:--|:--:|:--:|
+| Safeguarding, when applied | **7 NM** | **12 NM** |
+| LVP 1 | **7 NM** | **12 NM** |
+| LVP 2 | **7 NM** | **12 NM** |
+| LVP 3 | **9 NM** | **14 NM** |
+
+These phase-specific values supplement Section 3.5.4.2 and replace the generic 7 NM low-visibility arrival spacing during LVP 3. Continue to apply the relevant RECAT minima and all other applicable separation requirements; the spacing values above do not remove wake-turbulence requirements.
+
+#### 3.6.5 Approach handling during LVP
+- Arrivals and departures operate in terminal mode during LVP 1 and above.
+- Under LVP 1, conditional clearances are not issued; taxiway-block, stop-bar and apron-crossing restrictions are implemented by Tower/Ground. Approach controllers should coordinate with the relevant surface controller when these restrictions affect arrival flow or runway availability.
+- Under LVP 2, all LVP 1 requirements remain in force. For departure localiser protection, a departing aircraft must be airborne and past the upwind localiser antenna before the next aircraft is instructed to line up. This is a Tower coordination requirement that may affect arrival/departure planning.
+- Under LVP 3, autoland is required for arrivals unless an alternative is permitted by the applicable operational approval, aircraft limitations and prevailing conditions. Expect the lowest available runway capacity due to increased runway occupancy and surface restrictions.
+- Pilots shall obtain the latest ATIS, review all reported IRVR values, and advise ATC if unable to comply with the applicable approach or operating requirements.
+
+#### 3.6.6 Runway exits and occupancy planning during LVP
+Arrival spacing and runway-occupancy planning during LVP are based on the following planned exits. Pilots may vacate earlier when safe and practicable.
+
+| Runway | Planned LVP exit |
+|:--:|:--:|
+| 34R | A9 |
+| 34L | L9 / M10 |
+| 16L | A3 |
+| 16R | L3 / M5 |
+
+A specific exit will not normally be issued on final approach unless required by ground traffic or exit availability. After completion of the landing roll, ATC may offer an earlier suitable exit. Coordinate with Tower where runway occupancy, exit availability or a change in runway status may affect the arrival sequence.
+
+#### 3.6.7 VFR, SVFR and helicopter operations during reduced visibility
+From the declaration of IMC, VFR traffic at OTHH is suspended, except for Gulf Helicopters Company operations when IMC has not been declared due to cloud ceiling, and Qatar Emiri Air Force flights. VFR aircraft already within the CTR may continue and vacate without delay. VFR training is suspended. Qatar Emiri Air Force operations within the OTHH CTR are suspended from RAVC 2.
+
+- SVFR requires an individual ATC clearance. SVFR overflight of the OTHH CTR is not permitted, except for emergency or Lifeflight operations.
+- Available SVFR helicopter routes to/from OTBD are **TURTLE, BOAT and DHOW**.
+- Outbound SVFR helicopters shall route not above **1,500 ft**; inbound SVFR helicopters shall route not above **1,000 ft**.
+- Successive SVFR helicopter departures, and successive arrivals crossing the CTR entry point, are subject to a minimum interval of **3 minutes**.
+
+#### 3.6.8 Degraded modes and recovery
+- **A-SMGCS degradation or failure:** affected movements may be paused or reduced. Under an approved contingency procedure, reduced flow, aircraft position reports and Follow Me assistance may be used. Coordinate any resulting capacity restriction with Tower.
+- **ILS degradation or failure:** reassess the available approach category and runway availability. Arrivals may be suspended; any downgrade or unavailability should be promulgated through ATIS, NOTAM and/or ATC.
+- **Stop-bar failure:** movements affected by the failed stop bar shall not continue until alternative protection has been established. Coordinate with Tower/Ground where this affects runway access or arrival flow.
+- **Radio failure, uncertain surface position or doubt about LSA sterility:** the affected movement shall be stopped, held or instructed to go around, as appropriate.
+- **Cancellation and recovery:** LVP may be cancelled when visibility has improved above 1,500 m, the ceiling is above 500 ft and the improvement is expected to be sustained. ATIS shall be updated and restrictions withdrawn progressively. Reassess spacing and capacity as the aerodrome returns to normal operations.
+
+!!! warning
+    The phase triggers and procedures in this section are based on the supplied OTHH AWO AIRAC AIP Supplement, valid **1 October 2026 to 30 September 2027**. Always check the current Qatar AIP, NOTAMs and runway-specific ATIS before controlling; apply any newer or more restrictive operational information.
+
