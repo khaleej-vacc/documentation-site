@@ -1,10 +1,3 @@
-# 1. General Procedures
-### Amendment History
-
-| **Revision** | **Effective Date** | **Notes**           |
-|--------------|--------------------|---------------------|
-| Version 1    | 15JUN26            | Initial Publication |
-
 ## 1. General Procedures
 ### 1.1 General provisions
 The Approach Control Radar ensures surveillance-based separation services for arriving aircraft, as well as between arriving and departing aircraft, within the Doha Terminal Maneuvering Area (TMA). This encompasses Doha International Airport (DIA/OTBD), Hamad International Airport (DOH/OTHH), and Al-Udaid Airbase (OTBH).

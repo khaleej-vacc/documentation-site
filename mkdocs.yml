@@ -57,7 +57,9 @@ markdown_extensions:
 plugins:
   - search
   - awesome-nav
-
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: false
 
 repo_url: https://github.com/khaleej-vacc/documentation-site
 repo_name: VATSIM-khaleej-vacc/documentation-site
