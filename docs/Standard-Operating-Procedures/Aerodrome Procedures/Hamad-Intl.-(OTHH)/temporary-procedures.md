@@ -13,8 +13,7 @@ These procedures shall remain in effect while the associated NOTAMs are valid.
 ## 5.2 Temporary Departure Instructions
 
 - Temporary departure instructions apply to all departures from OTHH as specified below. Controllers shall issue the applicable instruction according to the runway in use.
-- The initial climb automatically set on the departure list should be disregarded.
-- DCL for OTHH should not be used until the sector file is updated to include headings in the clearance. Look out for updates in the "Sectorfile-Updates" channel in our discord.
+- DCL for OTHH may still be used.
 
 === "Northerly Configuration (34s)"
 
