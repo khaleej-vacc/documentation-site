@@ -7,13 +7,13 @@
 		.s3 { fill: #00162b } 
 		.s4 { fill: #008388 } 
 		.s5 { fill: #006367 } 
-		.t6 { font-size: 24px;fill: #ffffff;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
-		.t7 { font-size: 101px;fill: #ffffff;font-weight: 500;font-family: "Ubuntu-Medium", "Ubuntu" } 
-		.t8 { font-size: 52px;fill: #ffffff;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
-		.t9 { font-size: 41px;fill: #ffffff;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
-		.t10 { font-size: 37px;fill: #ffffff;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
-		.t11 { font-size: 54px;fill: #ffffff;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
-		.t12 { font-size: 42px;fill: #ffffff;font-weight: 300;font-family: "Ubuntu-Light", "Ubuntu" } 
+		.t6 { font-size: 24px;fill: #ffffff;font-weight: 700;font-family: Ubuntu, sans-serif } 
+		.t7 { font-size: 101px;fill: #ffffff;font-weight: 500;font-family: Ubuntu, sans-serif } 
+		.t8 { font-size: 52px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t9 { font-size: 41px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t10 { font-size: 37px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t11 { font-size: 54px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
+		.t12 { font-size: 42px;fill: #ffffff;font-weight: 300;font-family: Ubuntu, sans-serif } 
 		.s13 { fill: #ffffff } 
 	</style>
 	<path id="South" class="s0" d="m508 797l75-20 62-6h6v1l-116 173h-1l-23-30-3-94z"/>
