@@ -6,6 +6,9 @@ Where the flight plan contains an invalid route, level, or departure procedure, 
 
 GMP is also responsible for minimizing taxiway delays and taxiway congestion for departing aircraft. During times of increased departure activity, aircraft are held at the gate to save fuel and lessen taxiway congestion.
 
+!!! warning
+    Temporary departure instructions are currently active at Hamad Intl. please refer to [Section 5](https://docs.khaleejvacc.net/Standard-Operating-Procedures/Aerodrome%20Procedures/Hamad-Intl.-%28OTHH%29/temporary-procedures/) for more information
+
 ---
 
 ## 2.2 Departure clearance
