@@ -773,4 +773,4 @@ Unless otherwise authorised by the Khaleej vACC staff, GMP (Hamad Clearance Deli
 | Position      |       Prerequisite Position      |               Notes                   |
 |---------------|--------------------------------|---------------------------------------|
 |   OTHH_1_TWR  |           N/A                  |       Bandbox                  |
-|   OTHH_2_TWR  |           OTHH_1_TWR,<br>OTHH_1_GND                 |                         |
+|   OTHH_2_TWR  |           OTHH_1_TWR,<br>OTHH_1_GND                 |                         |.
