@@ -1,6 +1,6 @@
 ## 1. General Procedures
 ### 1.1 General provisions
-The Approach Control Radar ensures surveillance-based separation services for arriving aircraft, as well as between arriving and departing aircraft, within the Doha Terminal Maneuvering Area (TMA). This encompasses Doha International Airport (DIA/OTBD), Hamad International Airport (DOH/OTHH), and Al-Udaid Airbase (OTBH).
+The Approach Control Radar ensures surveillance-based separation services for arriving aircraft, as well as between arriving and departing aircraft, within the Doha Terminal Maneuvering Area (TMA). This encompasses Doha International Airport (DIA/OTBD), Hamad International Airport (DOH/OTHH), and Al-Udeid Airbase (OTBH).
 
 Additionally, radar control services are extended to aircraft operating within the boundaries of the Doha TMA, including those departing to or arriving from adjacent airspaces, as necessary.
 
@@ -8,7 +8,7 @@ Additionally, radar control services are extended to aircraft operating within t
 
 ### 1.2 Separation minima
 #### 1.2.1 Surveillance-based separation
-Aircraft operating within the Doha TMA must maintain a minimum horizontal as presribed in table 1.2-1. If this cannot be achieved, a minimum vertical separation of **1,000FT** must be applied.
+Aircraft operating within the Doha TMA must maintain a minimum horizontal as prescribed in table 1.2-1. If this cannot be achieved, a minimum vertical separation of **1,000FT** must be applied.
 
 <figure markdown>
   <figcaption>Table 1.2-1: Minimum Horizontal Separation (TMA)</figcaption>
@@ -30,7 +30,7 @@ The applicable Recategorisation Wake Turbulence Separation Minima (**RECAT**) mu
 ---
 
 ### 1.3 Doha TMA runway configuration
-Due to the interactions between departure and arrival procedures, the runway direction in the Doha TMA is determined by the active runway configuration at Hamad (OTHH). Consequently, Doha (OTBD) and Al-Udaid (OTBH) must always operate in the same runway configuration as Hamad.  
+Due to the interactions between departure and arrival procedures, the runway direction in the Doha TMA is determined by the active runway configuration at Hamad (OTHH). Consequently, Doha (OTBD) and Al-Udeid (OTBH) must always operate in the same runway configuration as Hamad.  
 
 ---
 
@@ -65,8 +65,8 @@ Sectors not included in this priority order may be opened at any time.
 |   DOH_R2_APP  |       DOH_R1_APP,<br>DOH_A1_APP              |                                        |
 |   DOH_A1_APP  |       DOH_R1_APP  **OR**  OTDF_N1_CTR/OTDF_S_CTR               |                                        |
 |   DOH_A2_APP  |       DOH_R1_APP,<br>DOH_A1_APP,<br>DOH_F1_APP  **OR**  OTHH_1_TWR              |                                        |
-|   DOH_F1_APP  |       DOH_R1_APP,<br>OTHH_1_TWR              |    
-|   DOH_F2_APP  |       DOH_R1_APP,<br>DOH_F1_APP<br>OTHH_1_TWR              |    
+|   DOH_F1_APP  |       DOH_R1_APP,<br>OTHH_1_TWR              |                                        |
+|   DOH_F2_APP  |       DOH_R1_APP,<br>DOH_F1_APP,<br>OTHH_1_TWR              |                                        |
 
 #### 1.4.4 Sector top-down coverage
 When the lower sector is offline, Doha Radar shall provide top-down coverage for Doha in addition to its designated areas of responsibility. This responsibility transitions to Doha Approach when it is online. Controllers are strongly encouraged to obtain the Tier-2 Military Endorsement to ensure proficiency in delivering military air traffic services at Al-Udeid Airbase (OTBH).

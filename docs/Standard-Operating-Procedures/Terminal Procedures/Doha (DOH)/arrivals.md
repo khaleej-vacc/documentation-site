@@ -189,7 +189,7 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 The lateral design of Standard Terminal Arrival Routes (STARs) within the Doha Terminal Maneuvering Area (TMA) ensures separation between arriving traffic, departing aircraft, and arrivals to adjacent airports. However, when traffic conditions allow, controllers may authorize direct routings to aircraft in order to reduce track miles and improve efficiency.
 
 #### 3.4.2 Direct Routings
-Direct routings within the Doha Terminal Maneuvering Area (TMA) shall only be issued when traffic levels are low and operational conditions permit. Prior to issuing a direct routing, controllers must assess the potential for conflicts with other traffic. Limitations and guidance on permissible direct routings for arriving aircraft are outlined in Sections 3.4.3 and 3.4.4.
+Direct routings within the Doha Terminal Maneuvering Area (TMA) shall only be issued when traffic levels are low and operational conditions permit. Prior to issuing a direct routing, controllers must assess the potential for conflicts with other traffic. Limitations and guidance on permissible direct routings for arriving aircraft are outlined in Section 3.4.3.
 
 During periods of high arrival traffic, direct routings may also be issued from the “trombone” segment of the arrival procedure directly to a fix on the downwind leg. This technique is preferred over vectoring in high-density scenarios, as it aids in sequencing and reduces overall controller workload.
 
@@ -211,18 +211,18 @@ During periods of high arrival traffic, direct routings may also be issued from 
      |    OTHH/OTBD      |    LAEEB1L   | MIVAL  | Shall not adversely affect ARR sequence | pre-coordinated |
      |    OTHH/OTBD      |    LAEEB1R   | AFNAN  | Shall not adversely affect ARR sequence | pre-coordinated |
      |    OTHH/OTBD      |    TOSNA2J   | BAYAN  | Shall not adversely affect ARR sequence, released for descent by RDR S to 13,000FT within LUBAK | RDR N to APP W |
-     |    OTHH/OTBD      |    TOSNA2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.4, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
+     |    OTHH/OTBD      |    TOSNA2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per Section 3.5.5, and shall ensure traffic is descending at a suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
      |    OTHH/OTBD      |    TOSNA2R   | AFNAN/LOVET | Shall not adversely affect ARR sequence, released for descent by RDR S to 8,000FT - 6,000FT | pre-coordinated |
-     |    OTHH/OTBD      |    TOVOX2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per 3.5.5, and shall ensure traffic is descending at an suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
+     |    OTHH/OTBD      |    TOVOX2L   | IAP    | Shall not adversely affect ARR sequence, released for descent to the appropriate platform altitude as per Section 3.5.5, and shall ensure traffic is descending at a suitable rate to be level at the cleared altitude upon reaching the IAP | pre-coordinated |
      |    OTHH/OTBD      |    TOVOX2R   | AFNAN | Shall not adversely affect ARR sequence | pre-coordinated |
      |    OTHH/OTBD      |    VEDED2L   | LUBAK  | Shall not adversely affect ARR sequence, released for descent by RDR N to 13,000FT within LUBAK | RDR N to APP W |
      |    OTHH/OTBD      |    VEDED2R   | BAYAN/EGNUG |  Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
      |    OTHH/OTBD      |    VEDED2V   | EGNUG | Shall not adversely affect ARR sequence, released for descent by RDR N to 8,000FT within EGNUG | pre-coordinated |
 
     !!! warning
-        Aircrafts on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 13,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
+        Aircraft on the TOSNA2V, and ALKAN2V shall not be given a direct, and instead released for descent by RDR N to 13,000FT within LUBAK, and issued further descent to 8,000FT reaching EGNUG.
 
-        Aicrafts on the LAEEB1J, or the ORLEK1L/R arrival shall not be given a direct due to the airspace restrictions within the Doha FIR.
+        Aircraft on the LAEEB1J, or the ORLEK1L/R arrival shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
 === "Doha 15 / Hamad 16s"
 
@@ -249,7 +249,7 @@ During periods of high arrival traffic, direct routings may also be issued from 
     !!! warning
         Aircraft on the TOSNA2F, and TOVOX2F shall not be given a direct, and instead released for descent by RDR N to 13,000FT within KIVAM, and issued further descent to 8,000FT reaching DASIK.
 
-        Aicraft on the LAEEB2F, shall not be given a direct due to the airspace restrictions within the Doha FIR.
+        Aircraft on the LAEEB2F, shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
 ---
 
@@ -267,7 +267,7 @@ The Final Approach Monitoring Controller will override the relevant Tower freque
     **Controller**: "QTR40P, turn left heading 250 degrees and climb and maintain 4000FT"
 
 #### 3.5.2 Final Descent
-Descent for final approach shall be issued to the appropriate platform altitude for the respective runway, as specified in Section 3.5.3.
+Descent for final approach shall be issued to the appropriate platform altitude for the respective runway, as specified in Section 3.5.5.
 
 Clearances to descend below the platform altitude are generally not recommended. However, such clearances may be issued provided the descent does not go below the minimum radar vectoring altitude (MRVA) for the respective sector and horizontal separation with other traffic is assured.
 
@@ -408,4 +408,3 @@ From the declaration of IMC, VFR traffic at OTHH is suspended, except for Gulf H
 
 !!! warning
     The phase triggers and procedures in this section are based on the supplied OTHH AWO AIRAC AIP Supplement, valid **1 October 2026 to 30 September 2027**. Always check the current Qatar AIP, NOTAMs and runway-specific ATIS before controlling; apply any newer or more restrictive operational information.
-

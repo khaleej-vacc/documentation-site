@@ -2,9 +2,9 @@
 ### 5.1 General
 The transfer procedures mentioned hereunder shall be adhered to at all times. These procedures are release agreements between different Doha TMA sectors.
 
-Any deviation from these procedures shall required coordination between all concerned sectors.
+Any deviation from these procedures shall require coordination between all concerned sectors.
 
-The AoRs represented hereunder with alphanumeric identifiers, are the same as those defined in section 3.
+The AoRs represented hereunder with alphanumeric identifiers, are the same as those defined in section 2.
 
 ### 5.2 Transfer from Arrivals (ARR) to Director (DIR)
 Traffic shall always be handed off to DIR with a speed restriction on **190 knots** unless otherwise coordinated (e.g. for a straight-in approach).
@@ -14,7 +14,7 @@ Hand offs to DIR must be at **5,000FT** when arriving on the eastern downwind, a
 ### 5.3 Transfers between Approach (APP) and Radar (RDR)
 Doha Approach will climb departures from OTHH and OTBD to 12,000FT. Higher levels may be assigned with coordination with the appropriate Radar controller. 
 
-Likewise, arrivals into OTHH and OTBD will be descended to 13,000FT by Doha Radar. Lower levels may be assigned with coordination with the appropiate Approach controller.
+Likewise, arrivals into OTHH and OTBD will be descended to 13,000FT by Doha Radar. Lower levels may be assigned with coordination with the appropriate Approach controller.
 
 Controllers shall release traffic no later than ±5,000 ft from the aircraft's assigned level to allow for continuous descent/climb.
 
@@ -23,7 +23,7 @@ Controllers shall release traffic no later than ±5,000 ft from the aircraft's a
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
 |-------------------|---------------|-------------------------------------------|
 | OTHH              | HAYYA         | Released from Bahrain Central Lower to Doha Control at FL290 -> Traffic released to Doha Radar North at FL210 -> Doha Approach West -> Doha Director West |
-| OTHH              | LAEEB         | Released from Jeddah Control to Doha Approach West at FL160 by LAEEB -> Traffic released to Doha Radar South ->  Doha Approach East -> Doha Director East/West. |
+| OTHH              | LAEEB         | Released from Jeddah Control to Doha Approach West at FL250 by LAEEB -> Traffic released to Doha Radar South ->  Doha Approach East -> Doha Director East/West. |
 | OTHH              | ORLEK         | Released from Jeddah Control at FL210 to Doha Radar South -> Traffic released to Doha Director East/West. |
 | OTHH              | TOSNA         | Released from UAE Radar (ACC Central) FL220 at RORON to Doha Control -> Traffic released to Doha Radar North at FL200 -> Traffic released to APP E at FL180 -> Traffic released to Doha Director East/West. |
 | OTHH              | TOVOX         | Released from UAE Radar (ACC ALPHA/HOTEL) to APP E at FL180 -> Traffic released to Doha Director East/West. |

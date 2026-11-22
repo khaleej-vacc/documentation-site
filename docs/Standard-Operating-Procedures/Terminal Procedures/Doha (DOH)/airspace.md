@@ -31,7 +31,7 @@ The Doha TMA Areas of Responsibility (AoR) are designed to minimise the need for
 
 These AoRs must be adhered to in order to prevent possible loss of separation between traffic.
 
-For easy identification, each AoR is represented by lined and coloured areas and shades of burgandy that are different intensities. The different shades represent different vertical extents of each AoR and thus mean that each sector will have a minimum or maximum altitude that traffic may be cleared to.  However, for clarity, each AoR has also been given an alphanumeric identifier which will be used to define their vertical extents hereunder and the specific transfer procedures which are detailed in section 4. 
+For easy identification, each AoR is represented by lined and coloured areas and shades of burgundy that are different intensities. The different shades represent different vertical extents of each AoR and thus mean that each sector will have a minimum or maximum altitude that traffic may be cleared to.  However, for clarity, each AoR has also been given an alphanumeric identifier which will be used to define their vertical extents hereunder and the specific transfer procedures which are detailed in section 5. 
 
 Although this may initially seem complex, the use of visual AoRs to represent climb and descent limits is far more intuitive and versatile than other methods.
 
@@ -43,7 +43,7 @@ For example, if the AoR boundary is 7500FT, a descent clearance may only be give
 Clearances per the AoRs will facilitate compliance with published level restrictions on SIDs and STARs.
 
 #### 2.2.3 Transfer of control
-Where aircraft cross between adjacent AoRs, transfer of control shall be made to the respective controller in accordance with the transfer procedures given in section 4.
+Where aircraft cross between adjacent AoRs, transfer of control shall be made to the respective controller in accordance with the transfer procedures given in section 5.
 
 ---
 
