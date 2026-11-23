@@ -6,8 +6,6 @@ Welcome to the controller briefing for the Qatar Grand Prix Fly In.
 
 Please navigate to the relevant pages under the Table of Contents on the right hand side. <br> **Ensure that all relevant sections are read prior to logging on.**
 
-Any times referenced in this page are in UTC.
-
 ## 1. General Notices
 
 - VACS **should be in use at all times**. Where no profile is available, Discord coordination should be used as a substitute.
