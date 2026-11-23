@@ -35,7 +35,7 @@ The DLV Controller **must** obtain a full and correct read back of the departure
 
 > **DLV Controller:** _**"GFA178, Negative, cleared to Dubai via N697 SODAK P559 BORUK, after departure runway 30R, fly heading 345 degrees, initial climb altitude 4000FT, squawk 4212"**_
 
-!!!node "Be patient and Assist"
+!!! note "Be patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
@@ -65,7 +65,7 @@ To prevent the aircraft after departure immediately turning for the BHR VOR they
 |          L319 OBTAR          |                        |
 |          P700 ROTOX          |                        |
 
-!!!node "Departures via TULUB"
+!!! note "Departures via TULUB"
     Aircraft departing OBBI are **NOT** permitted to leave the OBBB FIR via N685 TULUB.
 
 #### 2.1.2 Datalink Clearances (DCL)
@@ -124,10 +124,10 @@ Aircraft will then be provided radar vectors from Bahrain Approach after departu
 |     30R    |             345°            | All Other Routes |
 |     12L    |             075°            | All Routes       |
 
-!!!node "Initial Climb"
+!!! note "Initial Climb"
     The initial climb for aircraft departing Bahrain International Airport is **3,000FT for propeller aircraft** and **4,000FT for jet aircraft.** 
 
-!!!node "Radar Vector Departures"
+!!! note "Radar Vector Departures"
     Initial headings issued by Bahrain Delivery are designed to position aircraft for radar vectors from Bahrain Approach onto their filed airway.    
 
 ---
@@ -149,7 +149,7 @@ DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 #### 2.3.3 VFR Circuits
 Once **Bahrain Delivery (DLV)** has received confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
 
-!!!node "Act Promptly"
+!!! note "Act Promptly"
     When you see a pilot file a VFR FPL ensure you act promptly and efficiently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
 
 | **Runway Configuration** | **Direction** | **Altitude** |
@@ -167,7 +167,7 @@ Once the pilot has correctly read back the clearance, if the pilot did not provi
 
 > **DLV Controller:** _**"A-ZZ, readback correct, information Alpha is current, report ready for startup."**_
 
-!!!node "Callsign Shortening" 
+!!! note "Callsign Shortening" 
     After initial contact has been made and established with the aircraft, you can shorten the callsign from A9C-ZZ to A-ZZ, read as Alpha - Zulu - Zulu. This is to reduce frequency congestion.
 
 ---

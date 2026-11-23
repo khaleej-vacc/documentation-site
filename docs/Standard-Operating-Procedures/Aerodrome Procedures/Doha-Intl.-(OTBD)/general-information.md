@@ -23,8 +23,8 @@
 |        Doha Approach (West)       |   DOH_A2_APP   |     APP W    |     119.725     |
 |         Doha Radar (North)        |   DOH_R1_APP   |     RDR N    |     121.100     |
 |         Doha Radar (South)        |   DOH_R2_APP   |     RDR S    |     120.675     |
-|        Doha Control (North)       |   OTDF_1_CTR   |     ACC N    |     135.725     |
-|        Doha Control (South)       |   OTDF_2_CTR   |     ACC S    |     132.975     |
+|        Doha Control (North)       |   OTDF_N1_CTR   |     ACC N    |     135.725     |
+|        Doha Control (South)       |   OTDF_S_CTR   |     ACC S    |     132.975     |
 
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |

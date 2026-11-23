@@ -16,7 +16,7 @@ Due to the close proximity of OTHH runways, pilots should be aware that Independ
 ### 4.3.1 Doha Recategorisation Wake Turbulence Separation Minima (RECAT)
 Airports within the Doha TMA utilise a revised system of wake turbulence categories to that defined by ICAO to allow for more efficient separation for arriving and departing traffic, increasing airport capacity.
 
-Recategorisation Wake Turbulence Separation Minima (RECAT), the re-categorisation of aircraft is based primarily on maximum take-off mass, wingspan, and approach speed. eWTS splits aircraft into seven categories (A to F), as opposed to the four categories defined in ICAO Doc 4444.
+Recategorisation Wake Turbulence Separation Minima (RECAT), the re-categorisation of aircraft is based primarily on maximum take-off mass, wingspan, and approach speed. RECAT splits aircraft into six categories (A to F), as opposed to the four categories defined in ICAO Doc 4444.
 
 The use of RECAT allows more efficient use of airspace, reducing separation depending on the leading and following aircraft, maintaining separation in some instances, and increasing separation for the smallest trailing aircraft.
 
@@ -101,7 +101,7 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
   <figcaption>Table 4-1: RECAT departure separation (full-length)</figcaption>
 </figure>
 
-#### 4.3.2.1 Departure from an intermediate point following departure from full-length
+#### 4.3.2.2 Departure from an intermediate point following departure from full-length
 <table><thead>
   <tr>
     <th>Follower</th>
@@ -179,8 +179,8 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
   <figcaption>Table 4-2: RECAT departure separation (intermediate point following full-length)</figcaption>
 </figure>
 
-### 4.3.2 Arrivals (distance-based separation)
-#### 4.3.2.1 Aircraft on the same localizer course
+### 4.3.3 Arrivals (distance-based separation)
+#### 4.3.3.1 Aircraft on the same localizer course
 <table><thead>
   <tr>
     <th>Follower</th>
@@ -258,8 +258,8 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
   <figcaption>Table 4-3: RECAT arrival separation for aircraft on the same localiser course</figcaption>
 </figure>
 
-### 4.3.3 Doha RECAT Wake Turbulence Categories
-#### 4.3.3.1 Category Definitions
+### 4.3.4 Doha RECAT Wake Turbulence Categories
+#### 4.3.4.1 Category Definitions
 | Doha RECAT Wake Turbulence Categories |     Maximum Certified Take-off Weight    | Wingspan             |
 |:-------------------------------------:|:----------------------------------------:|----------------------|
 |                   A                   |            100,000 kg or more            | Above 72 m to 80 m   |
@@ -269,10 +269,10 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
 |                   E                   | Above 15,000 kg and less than 100,000 kg | Below 32 m           |
 |                   F                   |             15,000 kg or less            | No wingspan criteria |
 <figure markdown>
-  <figcaption>Table 4-4"eWTS wake turbulence categories</figcaption>
+  <figcaption>Table 4-4: Doha RECAT wake turbulence categories</figcaption>
 </figure>
 
-#### 4.3.3.2 Common aircraft types
+#### 4.3.4.2 Common aircraft types
 !!! info
     Unless specified a general aircraft code indicates all models/variants.
 
@@ -292,7 +292,7 @@ eWTS encompasses both distance-based separation for arriving aircraft as well as
 
 ## 4.4 Departure procedures
 ### 4.4.1 Line up clearances
-Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at one i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
+Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at once, i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
 
 !!! example
     **Controller**: "TCM4TM, behind the departing Qatar Executive Gulfstream 650, via G, line up and wait runway 33 behind."
@@ -303,7 +303,7 @@ If aircraft have not yet reached the holding point where they are expected to li
     **Controller**: "QQE550, via F, line up and wait runway 33."
 
 ### 4.4.2 Take-off clearances
-Aircraft shall be cleared for take-off once adequate separation exists as provided in Section 4.3.1.
+Aircraft shall be cleared for take-off once adequate separation exists as provided in Section 4.3.2.
 
 !!! example
     **Controller**: "QQE440, wind 330 degrees 7 knots, runway 33, cleared for take-off."
@@ -321,7 +321,7 @@ During low visibility operations and during IMC, departing aircraft shall not be
 
 ### 4.4.4 IFR handoff procedure
 #### 4.4.4.1 General
-IFR departures shall be handed off to Doha Approach (West). Where Doha Approach is offline, all handoffs shall be to Doha Approach (East). If Doha Approach is offline it shall be handed off to Doha Radar South.
+IFR departures shall be handed off to Doha Approach (West). Where Doha Approach (West) is offline, all handoffs shall be to Doha Approach (East). If both Doha Approach positions are offline, aircraft shall be handed off to Doha Radar South.
 
 Where no Approach/Radar controller is present, aircraft shall be handed off directly to the appropriate Doha Control controller.
 
@@ -356,7 +356,7 @@ For aircraft that have been given a take-off clearance, but have not yet started
 While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold. 
 
 #### 4.5.1.2 Speed control
-If it is apparent that minimum separation may not exist as provided in 5.4.1.1, AIR may use a tactical reduction in aircraft speed.
+If it is apparent that minimum separation may not exist as provided in 4.5.1.1, AIR may use a tactical reduction in aircraft speed.
 
 !!! example
     **Controller**: "QQE650, reduce to final approach speed."
@@ -397,7 +397,7 @@ VFR flight activity should be planned in accordance to published VFR charts, spe
 
 All aircraft returning from general training flying areas shall request joining instructions prior to leaving these areas.
 
-### 4.6.1 Helicopter aicraft: departing to and/or arriving at OTBD crossing OTHH
+### 4.6.1 Helicopter aircraft: departing to and/or arriving at OTBD crossing OTHH
 | Runway | Name             | Description |
 |--------|------------------|-------------|
 | 15     | Orange Route 15  | **Departure:**<br>After departure RWY 15, turn left towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq 118.025 MHz once East of OTBD RWY 15. From CRA, route to BCH and Hold, remaining clear of final approach path OTBD RWY 15 and OTHH RWY 16R whilst awaiting crossing clearance from OTHH ATC. When cleared, cross North of threshold OTHH RWY 16R/RWY 16L and route towards BAY. After BAY, route OH 16 maintaining 1000 FT. After OH 16, climb to 1500 FT and route to ESE. |
@@ -410,7 +410,7 @@ All aircraft returning from general training flying areas shall request joining 
 The orange route will be suspended under the following conditions:
 
 - When the cloud ceiling is below 2000FT and/or visibility is less than 3500 m;
-- During peak arrival periods and during independent parralel operations;
+- During peak arrival periods and during independent parallel operations;
 - Doha-Hamad supervisor for any other valid reasons suspends the route with at least 15 minutes notice to Doha;
 
 ### 4.6.2 Helicopter aircraft: arriving and departing OTBD
@@ -431,7 +431,7 @@ The orange route will be suspended under the following conditions:
 | 33     | Aspire 33 Visual Departure  | Climb straight ahead to 700 FT, turn to the West and remain clear of prohibited area OTP45; route direct to ASP then direct to SOF; then direct to SML. Climb as instructed by ATC to 1500 FT. |
 | 15     | Aspire 15 Visual Departure  | Climb straight ahead to 700 FT turn to the West before the upwind end of RWY 15; route direct to THM, direct to ASP, direct to SOF then direct to SML. Climb as instructed by ATC to 1500 FT. |
 
-### 4.5.4 Fixed wing aircraft: arriving to OTBD from the North
+### 4.6.4 Fixed wing aircraft: arriving to OTBD from the North
 | Runway | Name                        | Description |
 |--------|-----------------------------|-------------|
 | 33     | Aspire 33 Visual Arrival    | From SML, route direct to SOF. Traffic must be 2000 FT at SOF. Then route direct to ASP and hold over ASP as required by ATC. From ASP, route direct to ZUL if requested. Hold at ZUL at 2000 FT. From ZUL, route direct to THM and descend as instructed by ATC. Hold overhead THM at 1500 FT. When instructed by ATC, route for final approach RWY 33. |

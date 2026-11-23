@@ -1,6 +1,6 @@
 # 4. Air Control Procedures
 ## Position Overview
-**Bahrain Tower (TWR)** controls aircraft operating on the runway and at all runway holding points. In addition to this the **TWR Controller** also is also responsible for all aircraft within the **Class D Bahrain Control Zone** and shall ensure separation between IFR traffic within the **Control Zone (CTR)** is maintained for flights arriving and departing Bahrain. Traffic information shall be provided between IFR and VFR flights where applicable as well as VFR to IFR Flights within the **Control Zone (CTR)**
+**Bahrain Tower (TWR)** controls aircraft operating on the runway and at all runway holding points. In addition to this the **TWR Controller** is also responsible for all aircraft within the **Class D Bahrain Control Zone** and shall ensure separation between IFR traffic within the **Control Zone (CTR)** is maintained for flights arriving and departing Bahrain. Traffic information shall be provided between IFR and VFR flights where applicable as well as VFR to IFR Flights within the **Control Zone (CTR)**
 
 The **Tower Controller** is responsible for selecting the active runways for arrivals and departures at Bahrain and holds overall authority over runway operations.
 
@@ -50,7 +50,7 @@ Example:
 
 > **Tower Controller:** _**"GFA087, behind arriving Qatar Airbus A320, 3 mile final, via A9, line up and wait RWY30R, behind"**_ 
 
-!!!node "Vitally Important" 
+!!! note "Vitally Important" 
     The use of the word "behind" at the start and end of the instruction is compulsory, this is to ensure the aircraft fully understands they are to give way to the landing traffic.
 
 #### 4.2.2 Conditional Line Up Clearance (Departing Traffic) 
@@ -60,7 +60,7 @@ Example:
 
 > **Tower Controller:** _**"GFA087, behind departing Company Airbus A321, via A9, line up and wait RWY30R, behind"**_
 
-!!!node "Company Traffic" 
+!!! note "Company Traffic" 
     The use of the word company traffic in clearances can be used if the traffic related to the instruction is of the same company that is receiving the clearance
 
 ---
@@ -68,7 +68,7 @@ Example:
 ### 4.3 Take Off Procedures 
 
 #### 4.3.1 Takeoff Headings 
-Due to the very tight narrow airspace and immediate FIR boundaries in proximity to **Bahrain International Airport (OBBI)** there are no published Standard Intrument Departures (SIDs). All departing aircraft are provided with an initial heading to fly after departure which directs them into the **Bahrain Terminal Maneuvering Area (TMA)** so they can be sequenced and flowed correctly into the correct enroute environment or terminal environment. 
+Due to the very tight narrow airspace and immediate FIR boundaries in proximity to **Bahrain International Airport (OBBI)** there are no published Standard Instrument Departures (SIDs). All departing aircraft are provided with an initial heading to fly after departure which directs them into the **Bahrain Terminal Maneuvering Area (TMA)** so they can be sequenced and flowed correctly into the correct enroute environment or terminal environment. 
 
 | **Runway** | **Initial Takeoff Heading** |     **Route**    |
 |:----------:|:---------------------------:|:----------------:|
@@ -76,7 +76,7 @@ Due to the very tight narrow airspace and immediate FIR boundaries in proximity 
 |     30R    |             345°            | All Other Routes |
 |     12L    |             075°            | All Routes       |
 
-!!!node "Exception"
+!!! note "Exception"
     Helicopters and turboprops are given heading 030 after departure from all runways regardless of their route.
 
 #### 4.3.2 Take Off Clearances 
@@ -97,28 +97,28 @@ Example:
 Time based separation is utilised at Bahrain to ensure separation between various wake turbulence categories is maintained. 
 The **Tower Controller** is responsible for ensuring the separation system is enforced. 
 
-##### 4.3.4.1 Wake Turbulence Catergories
+##### 4.3.4.1 Wake Turbulence Categories
 
 Aircraft are divided into 4 different **Wake Turbulence Categories (WTC)** based on the aircraft certified Maximum Take Off Weight.
 
-| **Wake Turbulence Catergory (WTC)** | **Maximum Take Off Weight (MTOW)** |
+| **Wake Turbulence Category (WTC)** | **Maximum Take Off Weight (MTOW)** |
 |:-----------------------------------:|:----------------------------------:|
 |              Light (L)              |              ≤ 7000KG              |
 |              Medium (M)             |         7000KG to 136,000KG        |
 |              Heavy (H)              |             ≥ 136,000KG            |
 |              Super (J)              |              A388 ONLY             |
 
-It is the responsibility of the controller to check the Flight Plan (FPL) if they are unsure of an aircrafts **Wake Turbulence Catergory**.
+It is the responsibility of the controller to check the Flight Plan (FPL) if they are unsure of an aircrafts **Wake Turbulence Category**.
 
 ##### 4.3.4.2 Time Based Separation Table 
 
-| **Preceeding (Before)** | **Behind** | **Suceeding (After)** | **Separation Time** | **From an intersection** |
-|:-----------------------:|:----------:|:---------------------:|:-------------------:|:------------------------:|
-|          Light          |            |         Medium        |        2 min        |           3 min          |
-|          Medium         |            |         Heavy         |        2 min        |           3 min          |
-|          Light          |            |         Heavy         |        2 min        |           3 min          |
-|          Medium         |            |         Super         |        3 min        |           4 min          |
-|          Light          |            |         Super         |        3 min        |           4 min          |
+| **Leading aircraft** | **Following aircraft** | **Separation time** | **From an intersection** |
+|:--------------------:|:----------------------:|:-------------------:|:------------------------:|
+|        Medium        |         Light          |        2 min        |           3 min          |
+|        Heavy         |         Medium         |        2 min        |           3 min          |
+|        Heavy         |         Light          |        2 min        |           3 min          |
+|        Super         |         Medium         |        3 min        |           4 min          |
+|        Super         |         Light          |        3 min        |           4 min          |
 
 #### 4.3.5 Stopping a Departure
 In the event you are required to stop a departure after take off clearance has been issued you need to act fast. This can be to prevent a potential collision as a result of a runway incursion or due to a go around which is now in the flight path of the departing aircraft. 
@@ -161,7 +161,7 @@ In order to ensure minimum runway occupancy time pilots are expected to vacate t
 |     30R    |   A4 or before  |
 |     12L    |   A7 or before  |
 
-!!!node "Note"
+!!! note "Note"
     - Aircraft landing on RWY30R shall not vacate the runway at A6 or A7.
 
     - Aircraft landing on RWY12L shall not vacate the runway at A4.
@@ -193,7 +193,7 @@ Example:
 > **Tower Controller:** _**"DHK502, reduce to minimum approach speed"**_ 
 
 ###### 4.4.4.3 Wake Turbulence Separation 
-Aircraft must also be suitable separated in accordance with their Wake Turbulence Categories, much like departing aircraft to reduce the impact of wake produced by the preceding aircraft. 
+Aircraft must also be suitably separated in accordance with their Wake Turbulence Categories, much like departing aircraft to reduce the impact of wake produced by the preceding aircraft. 
 
 | Leader / Follower | Super (J) | Heavy (H) | Medium (M) | Light (L) |
 | :--- | :---: | :---: | :---: | :---: |
@@ -213,7 +213,7 @@ Once the aircraft has acknowledged the go around, the Tower Controller shall iss
 
 > **Tower Controller:** _**"GFA526, fly the standard missed approach procedure, climb altitude 2500FT, contact Bahrain Approach on 127.850"**_
 
-!!!node "Coordination" 
+!!! note "Coordination" 
     If a go around instruction has been issued, the Approach Controller should be notified immediately once the aircraft has been given instructions. 
 
 ---
@@ -243,7 +243,7 @@ Aircraft Transiting the **Bahrain Control Zone (CTR)** have a mandatory reportin
 
 #### 4.5.2 VFR Departures
 VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Maneuvering Area (TMA)**.
-All VFR departures leaving the **Control Zone (CTR)** must exit via one of the established **Visual Reporting Points (VRPs)** described in Section 4.5.2.
+All VFR departures leaving the **Control Zone (CTR)** must exit via one of the established **Visual Reporting Points (VRPs)** described in Section 4.5.1.
 
 #### 4.5.3 VFR Departure Phraseology 
 
@@ -251,13 +251,13 @@ All VFR departures leaving the **Control Zone (CTR)** must exit via one of the e
 
 > **TWR:** _"A9C-ZZ, via A8, cleared for takeoff runway 30R, winds calm, report overhead Whiskey"_
 
-> **Pilot:** _"Bahrain Tower, via A8 cleared for takeoff runway 30R, will report ovehead Whiskey VRP"_
+> **Pilot:** _"Bahrain Tower, via A8 cleared for takeoff runway 30R, will report overhead Whiskey VRP"_
 
 > **Pilot:** _"Bahrain Tower, A9C-ZZ overhead Whiskey VRP"_ 
 
 > **TWR:** _"A-ZZ, roger, contact Bahrain Approach 127.850"_ 
 
-!!!node "Callsign Shortening"
+!!! note "Callsign Shortening"
     With VFR Traffic you are allowed to abbreviate the callsign once contact has been established. Your first transmission with the aircraft must always include their full callsign however, from then on, you may abbreviate the callsign to 3 letters, this helps reduce frequency congestion.
 
 #### 4.5.4 VFR Zone Entry Phraseology 
@@ -270,7 +270,7 @@ All VFR departures leaving the **Control Zone (CTR)** must exit via one of the e
 
 > **TWR:** _"A-ZZ, Readback Correct, report overhead the airfield"_
 
-!!!node "Controller Preference"
+!!! note "Controller Preference"
     The Controller can elect where to have the inbound VFR traffic head to after they have received their initial zone entry clearance depending on traffic levels.
 
 #### 4.5.5 VFR Circuits

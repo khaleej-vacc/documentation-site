@@ -60,7 +60,7 @@ This **Standard Terminal Arrival Route (STAR)** is designed to bring aircraft ar
 
 Once the aircraft reaches NAGAT or ALRAS they should be assigned either a heading to leave each respective fix on either for base turn or to extend the downwind leg further for separation. 
 
-!!!node "Charts"
+!!! note "Charts"
     It is the responsibility of the Approach Controller to have a complete and full understanding of all the Standard Terminal Arrival Routes (STAR) into Bahrain and know the limitations of each. 
 
 ---
@@ -80,7 +80,7 @@ Upon initial contact the **Approach Controller** should provide a pilot with the
 If the **ACC Controller** is online and they're arriving from the Bahrain En-Route Environment then Bahrain Radar will provide them with their expected **Standard Terminal Arrival Route (STAR)**. 
 However, the ACC Controller will only tell the aircraft to "expect" a particular runway. It is still the responsibility of the **Approach Controller** to clear the aircraft onto a particular approach and runway. 
 
-!!!node "Identifying Aircraft" 
+!!! note "Identifying Aircraft" 
     Remember it is the responsibility of the Approach Controller to ensure all aircraft are identified on initial contact, aircraft should be assigned an individual squawk code if not already and squawking mode 'Charlie' which provides altitude information. 
 
 ---
@@ -151,7 +151,7 @@ A non-precision approach is an approach that offers **lateral** guidance to the 
 - VHF Omnidirectional Range (VOR)
 - Required Navigation Performance (RNP) 
 
-!!!node "GPS/RNP approaches"
+!!! note "GPS/RNP approaches"
     Despite having the ability to provide aircraft with vertical guidance RNP approaches are still technically deemed non-precision this is due to their reliance on satellites to provide lateral and vertical guidance. 
 
 Both RWY12L/30R offer the same types of approaches, the standard approach type to be made in Bahrain will be the **Instrument Landing System (ILS)** however in the event the ILS is not functioning or the pilot wants to request an approach utilising one of the non-precision approaches available at Bahrain this can be approved, traffic permitting. 
@@ -177,7 +177,7 @@ Example:
 
 > **Approach Controller:** _**"DHX268, proceed direct LOVAL, descend altitude 2500FT, via LOVAL, cleared RNP Approach RWY12L, report established on the final approach track, QNH 1003."**_
 
-!!!node "Differences" 
+!!! note "Differences" 
     As the RNP is not a precision approach, aircraft should be told to report final instead of report established. 
 
 #### 3.4.6 Clearing Aircraft for the VOR Approach 
@@ -198,7 +198,7 @@ Once the aircraft reaches the specified distance on the outbound radial they wil
 
 > **Approach Controller:** _**"GFA013, turn right heading 150 degrees, descend altitude 1500FT, cleared VOR approach RWY12L, report established on the inbound radial, QNH 1003."**_
 
-!!!node "Traffic Load"
+!!! note "Traffic Load"
     The Approach Controller must not accept non-standard approach requests if the traffic situation in the TMA does not allow.
 
 #### 3.4.9 Visual Approach 

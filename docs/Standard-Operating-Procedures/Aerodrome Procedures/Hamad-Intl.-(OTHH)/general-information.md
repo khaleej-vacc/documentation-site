@@ -37,7 +37,7 @@
 | Doha CTR (Control Zone)     | D                | SFC to 2500FT     | 13 000FT             | FL 150             |
 
 ## 1.3 Radio navigation aids
-|      Type     | Identifier | Frequencu |
+|      Type     | Identifier | Frequency |
 |:-------------:|:----------:|:---------:|
 | ILS/DME (16L) |     IDE    |  108.700  |
 | ILS/DME (16R) |     QAT    |  108.100  |

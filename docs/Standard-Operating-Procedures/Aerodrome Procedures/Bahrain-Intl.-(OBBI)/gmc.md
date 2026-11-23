@@ -68,7 +68,7 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 !!! example
     **GMC Controller:** _**"GFA500, Taxi to holding point A9 Runway 30R, via Zulu, Tango and Alpha."**_
 
-!!!node "Be Helpful"
+!!! note "Be Helpful"
     Some pilots may require assistance taxiing around the airfield, you can provide them with progressive taxi instructions if needed. 
 
 ##### 3.2.1.2 Runway 12L Departure Configuration
@@ -110,7 +110,7 @@ Aircraft landing on Runway 30R will be expected to vacate the runway at A4, TWR 
 
 Once the aircraft has been transferred to the GMC Controller by TWR it is then the responsibility of the GMC Controller to safely and efficiently move the aircraft from the taxiway to his assigned stand taking into consideration the situation on the ground.
 
-!!!node "Not Approved"
+!!! note "Not Approved"
 
     Aircraft landing on Runway 30R shall not vacate via A6 and/or A7.
 
@@ -122,7 +122,7 @@ Aircraft landing on Runway 12L will be expected to vacate the runway at A6, TWR 
 
 Once the aircraft has been transferred to the GMC Controller by TWR, it then becomes the responsibility of the GMC Controller to safely and efficiently move the aircraft from the taxiway to his assigned stand taking into consideration the situation on the ground.
 
-!!!node "Not Approved"
+!!! note "Not Approved"
 
     Aircraft landing on Runway 12L shall not vacate via A4.
 
@@ -138,7 +138,7 @@ If the taxi route for a departing aircraft is not clear you can give them a cond
 !!! example
     **GMC Controller:** _**"DHX265, taxi via Kilo and Alpha, hold short of Taxiway Quebec, give way to Gulf Air 231 Airbus A321 crossing left to right at Quebec."**_
 
-Once the route has cleared then they can be given the remainder of their taxi instructions as per normal general operating procedures outlined in Chapter 2.2
+Once the route has cleared then they can be given the remainder of their taxi instructions as per normal general operating procedures outlined in Section 3.2.1
 
 ##### 3.2.5.2 Conditional Arrival Taxi Instructions
 Similarly, if an arriving aircraft does not have a clear route to their stand after vacating the runway a conditional clearance can be issued to ensure smooth flow of traffic in and out of the airfield. 
@@ -167,7 +167,7 @@ During LVPs, intersection departures are not authorised for both Runway 12L or R
 During LVPs, aircraft arriving on Runway 12L may only exit the RWY to the South of taxiway A5 or beyond or arriving aircraft may exit to the North at taxiway B1 or taxiway B2. 
 
 #### 3.3.3 Low Visibility Procedures - Ground Movements
-During Low Visibility Procedures, controllers should minimise complex taxi routings and avoid simultaneous taxi movements where practical. complex taxi routings and avoid simultaneous taxi movements where practical.
+During Low Visibility Procedures, controllers should minimise complex taxi routings and avoid simultaneous taxi movements where practical.
 
 Progressive taxi instructions should be provided whenever necessary to ensure the safe movement of aircraft on the manoeuvring area.
 

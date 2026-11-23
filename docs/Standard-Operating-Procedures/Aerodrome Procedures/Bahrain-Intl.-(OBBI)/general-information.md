@@ -1,9 +1,9 @@
 # 1. General Information
 
-**Bahrain International Airport (OBBI/BAH)** is the the main international gateway to the Kingdom of Bahrain, located in Muharraq, approximately 7 kilometers northeast of Bahrain's capital, Manama. The airport has history dating back to 1927 and is the oldest international airport in the Persian Gulf. Bahrain International Airport is home to Gulf Air, Texel Air and DHL International. The airport plays a vital role in connecting Bahrain to the world through numerous international airlines and routes. 
+**Bahrain International Airport (OBBI/BAH)** is the main international gateway to the Kingdom of Bahrain, located in Muharraq, approximately 7 kilometers northeast of Bahrain's capital, Manama. The airport has history dating back to 1927 and is the oldest international airport in the Persian Gulf. Bahrain International Airport is home to Gulf Air, Texel Air and DHL International. The airport plays a vital role in connecting Bahrain to the world through numerous international airlines and routes. 
 
 !!! note "Fact"
-    Bahrain International Airport is the only commerical airport in the Kingdom of Bahrain
+    Bahrain International Airport is the only commercial airport in the Kingdom of Bahrain
 
 ## Aerodrome Details
 | Aerodrome ICAO | Airport Name                  | Airport Coordinates    | Airport Runways | Airport Elevation |

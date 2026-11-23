@@ -108,7 +108,7 @@ Stands C1 to C9 are suitable for aircraft up to code C.
 ### 3.5.1 LVO taxi routes
 When Low Visibility Operations (LVO) are in effect, all taxiways are approved for LVO, with no restrictions.
 
-Runway 33 is the only CAT II/III approved runway and must be used during LVO conditions (3.6.2).
+Runway 33 is the only CAT II/III approved runway and must be used during LVO conditions (see Section 4.7.1 of the Air Control procedures).
 
 ---
 

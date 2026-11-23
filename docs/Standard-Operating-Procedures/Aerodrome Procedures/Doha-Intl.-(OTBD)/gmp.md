@@ -1,6 +1,6 @@
 # 2. Departure Clearance Procedures
 ## 2.1 General provisions
-Ground Movement Control (GMC) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filled on the flight plan.
+Ground Movement Control (GMC) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first fix filed on the flight plan.
 
 Where the flight plan contains an invalid route, level, or departure procedure, GMC shall ensure that the error is corrected before the aircraft is given its clearance.
 
@@ -55,7 +55,7 @@ Doha primarily uses RNAV standard instrument departures (SIDs) and is the prefer
 
 Doha RNAV Standard Instrument Departures (SIDs) operate independently from those at Hamad. Both airports conduct simultaneous departures.
 
-|   SID 15  | Inital Climb |   SID 33  | Inital Climb |
+|   SID 15  | Initial Climb |   SID 33  | Initial Climb |
 |:---------:|:------------:|:---------:|:------------:|
 |  ALSEM3S  |    6000FT    |  ALSEM3N  |    5000FT    |
 |  ALVEN3S  |    6000FT    |  ALVEN3N  |    5000FT    |

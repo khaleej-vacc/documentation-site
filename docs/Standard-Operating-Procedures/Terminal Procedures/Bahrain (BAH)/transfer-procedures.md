@@ -13,7 +13,7 @@ The **Approach Controller** should be aware of which controller an aircraft need
 |     Doha Radar     |     DOH_R1_APP     |       RDR N      |    121.100    |
 |    Bahrain Radar   |     OBBB_CL_CTR    |        ACC       |    122.300    |
 |    Bahrain Radar   |     OBBB_1_CTR     |        ACC       |    127.525    |
-|     Doha Control   |     OTDF_1_CTR     |       ACC N      |    135.725    |
+|     Doha Control   |     OTDF_N1_CTR     |       ACC N      |    135.725    |
 |   Jeddah Control   |     OEJD_1_CTR     |       ACC 1      |    126.500    |
 
 ---
