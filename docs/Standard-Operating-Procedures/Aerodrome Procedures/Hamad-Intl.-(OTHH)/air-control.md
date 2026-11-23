@@ -460,7 +460,7 @@ At any time should a runway become unsuitable for an aircraft landing, or separa
 The published missed approach instructions are **suspended** and shall **not be used**.
 
 | Runway | Missed Approach Instructions |
-|--------|--------------|-------|---------------------------------|
+|--------|------------------------------|
 | RWY 34L | Maintain runway track, climb to altitude **3000 ft**. |
 | RWY 34R | Passing 1000 ft, turn right **heading 020°**, climb to altitude **3000 ft**. |
 | RWY 16L | Passing 1000 ft, turn left **heading 120°**, climb to altitude **3000 ft**. |
