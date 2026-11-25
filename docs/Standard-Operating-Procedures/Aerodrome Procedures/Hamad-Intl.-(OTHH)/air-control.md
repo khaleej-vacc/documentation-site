@@ -506,10 +506,10 @@ When exiting the runway, pilots shall continue taxi as outlined in table below, 
 
 | Runway | Taxi Route |
 |:------:|:-----------:|
-|   16L  |      Continue via A6, hold short of TWY C     |
+|   16L  |      Continue via R, hold short of TWY C     |
 |   16R  |    Continue southbound on TWY K/M     |
-|   34L  |    Continue southbound on TWY K/M<br>**OR**<br>Continue northbound on TWY K if planned stand is north of TWY L6    |
-|   34R  |      Continue via A6, hold short of TWY C     |
+|   34L  |    Continue southbound on TWY M/K, hold FALCO<br>**OR**<br>Continue northbound on TWY K if planned stand is north of TWY L6    |
+|   34R  |      Continue via R, hold short of TWY C     |
 
 ### 4.6.2 Conditions for the application of HIROs
 HIRO will normally be in force when the runway surface is dry and adverse weather conditions are not present. Controllers must ensure that pilots maintain 50 kts while exiting on a Rapid Exit Taxiway (RET).

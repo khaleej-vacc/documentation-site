@@ -8,12 +8,12 @@ Please navigate to the relevant pages under the Table of Contents on the right h
 
 ## 1. General Notices
 
+- All controllers **must** have the latest [sector file package](https://www.khaleejvacc.net/sectorfiles).
 - VACS **should be in use at all times**. Where no profile is available, Discord coordination should be used as a substitute.
 - Event traffic should always be prioritised.
 - There are **no event slots** for this event, and VATCAN will **not** be in use.
 - A-CDM **will** be in use at OTHH. See [4.3.1 Usage of CDM](#531-usage-of-cdm).
 - OTHH will be operating **Independent Parallel Approaches** for the duration of the event. See [3.6 Doha Director](#46-doha-director-doh_fx_app).
-- Positions are referred to throughout this briefing by their coordination name, followed by the logon callsign, e.g. **APP W (DOH_A1_APP)**. A lower case `x` in a logon callsign represents the sector number, e.g. `DOH_Ax_APP` refers to DOH_A1_APP or DOH_A2_APP.
 
 ---
 
@@ -48,14 +48,11 @@ Bahrain must ensure that arrivals into OTHH and OTBD are at the following levels
 
 - Arrivals via GIRMO will be transferred to ACC N (OTDF_N1_CTR) at **FL210**.
 - Clear traffic for the arrival only. **Do not** assign a runway or expected approach type.
-- Traffic shall be released to **RDR N (DOH_R1_APP)**.
-
-!!! warning "Work in progress"
-    The roles of ACC N (OTDF_N1_CTR) and ACC NH (OTDF_N2_CTR) for this event will be added at a later date.
+- Traffic shall be released to **RDR N (DOH_R1_APP)** at or above FL210.
 
 ### 2.3 Doha Control South (OTDF_S_CTR)
 
-- Arrivals via GEXIM will be transferred to ACC S (OTDF_S_CTR) at **FL270**, or FL290 as a contingency.
+- Arrivals via GEXIM will be transferred from OBBB to ACC S (OTDF_S_CTR) at **FL270**, or FL290 as a contingency.
 - Clear traffic for the arrival only. **Do not** assign a runway or expected approach type.
 - Traffic shall be cleared to **FL250** before release to **RDR N (DOH_R1_APP)**.
 
@@ -78,9 +75,6 @@ General procedures for the Doha TMA can be found [here](https://docs.khaleejvacc
 
 ### 3.1 Runway Allocation
 
-!!! warning "To be confirmed on the day"
-    Runway allocation has not yet been decided and may vary on the day, based on the flow supervisor's decision. The allocation in use will be confirmed before the event starts.
-
 The table below is an **example only** and is **not** to be used unless confirmed:
 
 | Arrivals via                | Downwind | Runway   | APP Sector          | FIN Sector          |
@@ -95,7 +89,7 @@ The table below is an **example only** and is **not** to be used unless confirme
 | HAYYA, VEDED, ALKAN, TOSNA  | TULUB, LUBET, ALVEN, VAXIN, ALSEM   |
 
 - All arrivals shall be cleared to **13,000FT** before release to the relevant APP sector (DOH_Ax_APP).
-- Transfer traffic **no later than 5,000FT before it reaches its cleared level**, so the next sector can issue further climb or descent without the aircraft levelling off.
+- Transfer traffic **no later than 5,000FT before it reaches its cleared level**, so the next sector can issue further descent without the aircraft levelling off.
 
 ### 3.3 Doha Radar South (DOH_R2_APP)
 
@@ -104,7 +98,7 @@ The table below is an **example only** and is **not** to be used unless confirme
 | TOVOX, LAEEB, ORLEK  | KUPRO, BUNDU, ULIKA, DATRI    |
 
 - All arrivals shall be cleared to **13,000FT** before release to the relevant APP sector (DOH_Ax_APP).
-- Transfer traffic **no later than 5,000FT before it reaches its cleared level**, so the next sector can issue further climb or descent without the aircraft levelling off.
+- Transfer traffic **no later than 5,000FT before it reaches its cleared level**, so the next sector can issue further descent without the aircraft levelling off.
 
 ### 3.4 Doha Approach West (DOH_A1_APP)
 
@@ -121,7 +115,7 @@ The table below is an **example only** and is **not** to be used unless confirme
 ### 3.6 Doha Director (DOH_Fx_APP)
 
 !!! warning "Independent Parallel Approaches"
-    OTHH will be operating Independent Parallel Approaches during the event. Ideally, both FIN positions will be online.
+    OTHH will be operating Independent Parallel Approaches during the event.
 
 | Sector              | Responsibility                                  |
 | :-----------------: | :---------------------------------------------: |
@@ -136,8 +130,8 @@ The table below is an **example only** and is **not** to be used unless confirme
 Arrivals shall be spaced by **at least 5.5NM** on the localiser.
 
 - This spacing creates a gap between each arrival so that **one departure can be released** from the same runway before the next arrival.
-- 5.5NM is a **minimum**. Do not compress below it, even if traffic is building on the downwind. Extend downwinds or use speed control instead.
-- Where RECAT wake turbulence separation requires more than 5.5NM, the larger spacing shall be applied.
+- 6NM is a **minimum**. Do not compress below it, even if traffic is building on the downwind. Extend downwinds or use speed control instead.
+- Where RECAT wake turbulence separation requires more than 6NM, the larger spacing shall be applied.
 - Spacing should be set up before the localiser intercept. Use the speed control in 3.6.2 to hold it on final.
 
 !!! note
@@ -188,14 +182,20 @@ Arrivals shall be spaced by **at least 5.5NM** on the localiser.
 ### 4.1 Hamad Tower (OTHH_x_TWR)
 
 - Hamad Tower should adhere to CTOTs to the best of their ability, to limit sector overload in the Doha TMA and adjacent sectors.
+- Ensure departures abide by their assigned heading before handoff to Doha TMA
+- If the conditions allow for it, ensure RRSM is used at all times with arrivals and departures.
+- Ensure the arrival taxi routes below are used:
 
-!!! warning "Work in progress"
-    The remainder of the Hamad Tower section will be added at a later date.
+| Runway | Taxi Route |
+|:------:|:-----------:|
+|   16L  |      Continue via R, hold short of TWY C     |
+|   16R  |    Continue southbound on TWY K/M     |
+|   34L  |    Continue southbound on TWY M/K, hold FALCO<br>**OR**<br>Continue northbound on TWY K if planned stand is north of TWY L6    |
+|   34R  |      Continue via R, hold short of TWY C     |
 
 ### 4.2 Hamad Ground (OTHH_x_GND)
 
-!!! warning "Work in progress"
-    The Hamad Ground section will be added at a later date.
+- Ensure you do not taxi aircraft past your AoR. Remember to instruct aircraft to hold short of a taxiway before handoff to AIR. It is not your responsibility to taxi traffic to holding points.
 
 ### 4.3 Hamad Clearance Delivery (OTHH_DEL)
 
@@ -217,4 +217,4 @@ Arrivals shall be spaced by **at least 5.5NM** on the localiser.
 ---
 
 !!! note
-    If any pilot does not adhere to any ATC restrictions, you shall **quote Code of Conduct B12** and utilise the `.wallop` command if necessary.
+    If any pilot does not adhere to any ATC restrictions, you shall quote **Code of Conduct B12** and utilise the `.wallop` command if necessary.
