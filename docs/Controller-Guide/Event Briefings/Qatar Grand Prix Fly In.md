@@ -182,7 +182,6 @@ Arrivals shall be spaced by **at least 5.5NM** on the localiser.
 ### 4.1 Hamad Tower (OTHH_x_TWR)
 
 - Hamad Tower should adhere to CTOTs to the best of their ability, to limit sector overload in the Doha TMA and adjacent sectors.
-- Ensure departures abide by their assigned heading before handoff to Doha TMA
 - If the conditions allow for it, ensure RRSM is used at all times with arrivals and departures.
 - Ensure the arrival taxi routes below are used:
 
