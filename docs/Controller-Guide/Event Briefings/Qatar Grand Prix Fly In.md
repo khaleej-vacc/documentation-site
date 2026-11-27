@@ -162,6 +162,32 @@ Arrivals shall be spaced by **at least 5.5NM** on the localiser.
     | OTHH | 16R    | 3,500FT at GOLSI     |
     | OTBD | 15     | 4,500FT at MAXMO     |
 
+#### 3.6.4 Contengency Procedures
+
+##### 3.6.4.1 Delay Phases
+
+Incase of TMA overload, the following delay phases can be initiated by Doha Approach (APP) or Doha Radar (RDR). After initiation of a delay phase, this should be announced globally in the ATC chat on EuroScope.
+
+| Phase |  Initiated By   |                                                                                                                    Description                                                                                                                    |
+| :---: |:---------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| P1 |      RDR      |                                                             Arrivals into OTHH/OTBD will be slowed down to reduce the hourly rate of traffic into the TMA/CTA. Relevant flow measures to be put in. place.                                                              |
+| P2 | APP | APP and RDR to agree on this phase prior to coordination with relevant staff members. All handoffs into the Doha TMA will be stopped. Holdings will be initiated prior to TMA entry. Holding stacks to be managed by RDR. APP may coordinate with AIR to set a MDI or mandate a release for every departure.|
+| P3 |      RDR/APP      |                          All arrivals into OTHH/OTBD will be required to hold outside the Doha FIR by the neighbouring ACCs. The neighbouring ACCs are responsible for choosing an appropriate holding pattern within 100nm of the Doha FIR. This phase will also trigger a ground stop for all departures and can not be initiated without the approval of the relevant staff members.                                   |
+
+##### 3.6.4.2 Holding Pattern
+
+Holds to be used in Phase 2 (P2). These will be managed by RDR.
+
+| Hold Identifier | Vertical Limits    | Inbound Holding Course | Speed / Leg Time | Turn Direction |
+|:-------------------:|:----------------------:|:--------------------------:|----------------------|--------------------|
+|        VELAM        |   FL150 - FL240  |            117°            |  1.5|      230           |        Right       |
+|        BAYAN        |   FL150 - FL240         |            229°            |        1.5           |        Left        |
+|        AFNAN        |   FL150 - FL240   |            268°            |        1.5           |        Right       |
+|        KIVAM        |   FL150 - FL240  |            263°            |        1.5           |        Right       |
+|        EMEXA        |   FL150 - FL240        |            040°            |        1.5           |        Left        |
+|        GINTO        |   FL150 - FL240       |            087°            |        1.5           |        Right       |
+
+
 ---
 
 ## 4. Aerodrome (TWR/GND/DEL)
